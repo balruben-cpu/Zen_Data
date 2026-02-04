@@ -1,10 +1,21 @@
 {
-    "ad_frequency": 1,
-    "start_ads_at_level": 1,
+    "ad_frequency": 3,
+    "start_ads_at_level": 10,
     "ads_enabled": true,
     "ad_provider": "AdMob",
-    "interstitial_id": "ca-app-pub-3940258099942544/1033173712",
-    "rewarded_id": "ca-app-pub-3940258099942544/5224354917",
+    "interstitial_id": "ca-app-pub-1298264253613364/3503185481",
+    "rewarded_id": "ca-app-pub-1298264253613364/9541980227",
     "banner_id": "unused",
-    "overrides": []
+    "overrides": [
+        {
+            "country_code": "US",
+            "ad_frequency": 5,
+            "ad_provider": "AppLovin"
+        },
+        {
+            "country_code": "AM",
+            "ad_frequency": 2,
+            "ad_provider": "AdMob"
+        }
+    ]
 }
