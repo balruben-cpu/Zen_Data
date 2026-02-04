@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Hướng dẫn",
+            "subcategory": "Giới thiệu",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CÂU ĐỐ",
+                    "riddle": "Một câu hỏi mang lớp cải trang.",
+                    "riddle_hard": "Một bí mật được gói trong sự tò mò."
+                },
+                {
+                    "word": "CON ĐƯỜNG",
+                    "riddle": "Một dải đất trên thảm cỏ.",
+                    "riddle_hard": "Một người dẫn đường không bao giờ nói một lời."
+                },
+                {
+                    "word": "BẬC THẦY",
+                    "riddle": "Ông chủ của bàn cờ.",
+                    "riddle_hard": "Người nắm giữ tất cả các chìa khóa.",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Thiên nhiên",
+            "subcategory": "Bầu trời",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "BẦU TRỜI",
+                    "riddle": "Trần nhà không bao giờ cần sơn.",
+                    "riddle_hard": "Một đại dương xanh nơi những chú chim bơi lội."
+                },
+                {
+                    "word": "MẶT TRỜI",
+                    "riddle": "Chiếc bóng đèn khổng lồ trên bầu trời.",
+                    "riddle_hard": "Con mắt vàng không bao giờ chớp."
+                },
+                {
+                    "word": "KHÔNG KHÍ",
+                    "riddle": "Thức ăn vô hình cho phổi của bạn.",
+                    "riddle_hard": "Cơn gió trong suốt trong một chiếc hộp."
+                }
+            ]
+        }
+    ]
+}

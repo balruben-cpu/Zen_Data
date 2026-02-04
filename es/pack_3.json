@@ -1,0 +1,2306 @@
+[
+    {
+        "level_id": 201,
+        "grid_size": 4,
+        "complexity": 1.0,
+        "category": "El Cosmos",
+        "subcategory": "Estrellas",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "El mensaje que viaja mil años para tocarnos."
+            },
+            {
+                "word": "ORO",
+                "riddle": "Polvo de sol que brilla en la frente del cielo."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "El destino de una chispa en el gran vacio."
+            }
+        ]
+    },
+    {
+        "level_id": 202,
+        "grid_size": 4,
+        "complexity": 1.1,
+        "category": "El Cosmos",
+        "subcategory": "Planetas",
+        "puzzles": [
+            {
+                "word": "BOLA",
+                "riddle": "Mundo redondo que baila alrededor del fuego."
+            },
+            {
+                "word": "ROCA",
+                "riddle": "Hueso mineral flotando en el oceano de aire."
+            },
+            {
+                "word": "GIRA",
+                "riddle": "El eterno vals de la materia en el vacio."
+            }
+        ]
+    },
+    {
+        "level_id": 203,
+        "grid_size": 4,
+        "complexity": 1.2,
+        "category": "El Cosmos",
+        "subcategory": "Galaxias",
+        "puzzles": [
+            {
+                "word": "REMA",
+                "riddle": "Navegar por el rio de leche que cruza la noche."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La suma de mil millones de soles en un remolino."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser una gota de luz en el mar de lo infinito."
+            }
+        ]
+    },
+    {
+        "level_id": 204,
+        "grid_size": 4,
+        "complexity": 1.3,
+        "category": "El Cosmos",
+        "subcategory": "El Vacío",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "El lienzo oscuro donde Dios pinto el universo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio absoluto detras de la ultima puerta."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Lo que falta cuando el alma sale a pasear."
+            }
+        ]
+    },
+    {
+        "level_id": 205,
+        "grid_size": 4,
+        "complexity": 1.4,
+        "category": "El Cosmos",
+        "subcategory": "Cometas",
+        "puzzles": [
+            {
+                "word": "COLA",
+                "riddle": "Pelo de fuego que dibuja un adios en la sombra."
+            },
+            {
+                "word": "HIELO",
+                "riddle": "Piedra fria que viene de donde nace el tiempo."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El camino ciego a traves de los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 206,
+        "grid_size": 5,
+        "complexity": 1.5,
+        "category": "El Cosmos",
+        "subcategory": "Nebulosas",
+        "puzzles": [
+            {
+                "word": "NUBE",
+                "riddle": "Cuna de gas donde se cocinan los mundos."
+            },
+            {
+                "word": "POLVO",
+                "riddle": "Lo que somos y lo que seremos entre las estrellas."
+            },
+            {
+                "word": "COLOR",
+                "riddle": "El arcoiris secreto que solo el alma puede ver."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La promesa que duerme en el vientre del espacio."
+            }
+        ]
+    },
+    {
+        "level_id": 207,
+        "grid_size": 5,
+        "complexity": 1.6,
+        "category": "El Cosmos",
+        "subcategory": "Gravedad",
+        "puzzles": [
+            {
+                "word": "LAZO",
+                "riddle": "Cuerda invisible que mantiene unido al sistema."
+            },
+            {
+                "word": "CAER",
+                "riddle": "La razon por la cual la luna no se escapa."
+            },
+            {
+                "word": "PESO",
+                "riddle": "La caricia de la tierra que nos llama a tierra."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La misma fuerza que atrae a los cuerpos y almas."
+            }
+        ]
+    },
+    {
+        "level_id": 208,
+        "grid_size": 5,
+        "complexity": 1.7,
+        "category": "El Cosmos",
+        "subcategory": "Agujeros Negros",
+        "puzzles": [
+            {
+                "word": "OJO",
+                "riddle": "Pozo sin fondo que se traga hasta la mirada."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La linea donde el tiempo deja de ser tiempo."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Lo unico que no puede escapar del gran abrazo."
+            },
+            {
+                "word": "SER",
+                "riddle": "Desaparecer para volver a nacer en otro lugar."
+            }
+        ]
+    },
+    {
+        "level_id": 209,
+        "grid_size": 5,
+        "complexity": 1.8,
+        "category": "El Cosmos",
+        "subcategory": "Constelaciones",
+        "puzzles": [
+            {
+                "word": "MAPA",
+                "riddle": "Dibujo de puntos que guia al marinero perdido."
+            },
+            {
+                "word": "OSO",
+                "riddle": "Animal de fuego que vigila el polo del norte."
+            },
+            {
+                "word": "CIRA",
+                "riddle": "El circulo de signos que marca nuestro destino."
+            },
+            {
+                "word": "VER",
+                "riddle": "Unir los puntos para encontrar el sentido oculto."
+            }
+        ]
+    },
+    {
+        "level_id": 210,
+        "grid_size": 5,
+        "complexity": 1.9,
+        "category": "El Cosmos",
+        "subcategory": "Zen Cósmico",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Estar lleno de todo sin poseer ninguna cosa."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la misma sustancia que el sol y la luna."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El latido del gran silencio detras del ruido."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una expresion del universo despertando."
+            }
+        ]
+    },
+    {
+        "level_id": 211,
+        "grid_size": 4,
+        "complexity": 2.0,
+        "category": "El Cosmos",
+        "subcategory": "Telescopios",
+        "puzzles": [
+            {
+                "word": "OJO",
+                "riddle": "Tubo de metal que acorta la distancia al infinito."
+            },
+            {
+                "word": "LENTE",
+                "riddle": "Circulo de vidrio que atrapa chispas de soles lejanos."
+            },
+            {
+                "word": "MIRA",
+                "riddle": "El acto de buscar la verdad entre las sombras."
+            }
+        ]
+    },
+    {
+        "level_id": 212,
+        "grid_size": 4,
+        "complexity": 2.1,
+        "category": "El Cosmos",
+        "subcategory": "Astronautas",
+        "puzzles": [
+            {
+                "word": "TRAJE",
+                "riddle": "Cápsula de tela para no morir de frio en el vacio."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El tesoro mas caro cuando no hay cielo encima."
+            },
+            {
+                "word": "PASO",
+                "riddle": "El baile lento sobre la cara de otro mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 213,
+        "grid_size": 4,
+        "complexity": 2.2,
+        "category": "El Cosmos",
+        "subcategory": "Vesta",
+        "puzzles": [
+            {
+                "word": "ROCA",
+                "riddle": "Vagabunda del espacio que nunca para de viajar."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "El color de la soledad entre Marte y Jupiter."
+            },
+            {
+                "word": "HOLA",
+                "riddle": "El saludo que la luz le da al crater dormido."
+            }
+        ]
+    },
+    {
+        "level_id": 214,
+        "grid_size": 4,
+        "complexity": 2.3,
+        "category": "El Cosmos",
+        "subcategory": "Satélites",
+        "puzzles": [
+            {
+                "word": "ALA",
+                "riddle": "Brazo de plata que bebe la energia del sol."
+            },
+            {
+                "word": "VOZ",
+                "riddle": "El susurro que viaja de un polo a otro polo."
+            },
+            {
+                "word": "GIRA",
+                "riddle": "Mantenerse cerca de casa sin llegar a tocarla."
+            }
+        ]
+    },
+    {
+        "level_id": 215,
+        "grid_size": 5,
+        "complexity": 2.4,
+        "category": "El Cosmos",
+        "subcategory": "Gigantes Gaseosos",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "Un oceano de gas donde no hay tierra que pisar."
+            },
+            {
+                "word": "NUDO",
+                "riddle": "La gran mancha que es una tormenta eterna."
+            },
+            {
+                "word": "ARCO",
+                "riddle": "Anillos de hielo que adornan la cintura del gigante."
+            },
+            {
+                "word": "LEJOS",
+                "riddle": "Donde el sol es solo una estrella mas en el cielo."
+            }
+        ]
+    },
+    {
+        "level_id": 216,
+        "grid_size": 5,
+        "complexity": 2.5,
+        "category": "El Cosmos",
+        "subcategory": "Supernovas",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "El ultimo suspiro de una estrella que se apaga."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Un estallido que ilumina la noche de mil mundos."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sembrar semillas de hierro en el jardin oscuro."
+            },
+            {
+                "word": "FINA",
+                "riddle": "Cuando la forma se rompe para dar paso a la nada."
+            }
+        ]
+    },
+    {
+        "level_id": 217,
+        "grid_size": 5,
+        "complexity": 2.6,
+        "category": "El Cosmos",
+        "subcategory": "Eclipse",
+        "puzzles": [
+            {
+                "word": "SOMBRA",
+                "riddle": "El beso oscuro de la luna sobre la cara del sol."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El anillo de fuego que queda en el centro del dia."
+            },
+            {
+                "word": "FRÍO",
+                "riddle": "El miedo de la tierra cuando la luz se retira."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Dos mundos alineados en un solo corazon de sombra."
+            }
+        ]
+    },
+    {
+        "level_id": 218,
+        "grid_size": 5,
+        "complexity": 2.7,
+        "category": "El Cosmos",
+        "subcategory": "Meteoritos",
+        "puzzles": [
+            {
+                "word": "FUEGO",
+                "riddle": "La lagrima de roca que se quema al entrar en casa."
+            },
+            {
+                "word": "DURO",
+                "riddle": "Corazon de metal que ha cruzado el abismo frio."
+            },
+            {
+                "word": "CAER",
+                "riddle": "El final del viaje de quien viene de tan lejos."
+            },
+            {
+                "word": "Tierra",
+                "riddle": "El abrazo final entre el espacio and el suelo."
+            }
+        ]
+    },
+    {
+        "level_id": 219,
+        "grid_size": 6,
+        "complexity": 2.8,
+        "category": "El Cosmos",
+        "subcategory": "Infinity",
+        "puzzles": [
+            {
+                "word": "SIEMPRE",
+                "riddle": "Aquello que no tiene principio ni tampoco final."
+            },
+            {
+                "word": "VACIO",
+                "riddle": "El silencio que es madre de todos los sonidos."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La unidad secreta detras de la multiplicidad."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Existir en el centro de todas las cosas a la vez."
+            }
+        ]
+    },
+    {
+        "level_id": 220,
+        "grid_size": 6,
+        "complexity": 3.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen Universal",
+        "puzzles": [
+            {
+                "word": "DESPIERTA",
+                "riddle": "Darse cuenta de que uno es el universe mirandose."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud de la galaxia que gira sin ningun esfuerzo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser una sola presencia en la inmensidad del espacio."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente existir, aqui y ahora, entre las estrellas."
+            }
+        ]
+    },
+    {
+        "level_id": 221,
+        "grid_size": 4,
+        "complexity": 3.1,
+        "category": "El Cosmos",
+        "subcategory": "Supernovas II",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "El susurro de una estrella que ya no esta."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El rastro brillante de un adios monumental."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Lo que nace de las cenizas del fuego antiguo."
+            }
+        ]
+    },
+    {
+        "level_id": 222,
+        "grid_size": 4,
+        "complexity": 3.2,
+        "category": "El Cosmos",
+        "subcategory": "El Vacío III",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Un mar sin agua donde la mente se expande."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El tesoro que se oculta tras el ruido del mundo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse unido al todo en la ausencia de forma."
+            }
+        ]
+    },
+    {
+        "level_id": 223,
+        "grid_size": 4,
+        "complexity": 3.3,
+        "category": "El Cosmos",
+        "subcategory": "Tiempo III",
+        "puzzles": [
+            {
+                "word": "AÑO",
+                "riddle": "Un latido muy largo en el pecho del universo."
+            },
+            {
+                "word": "HOY",
+                "riddle": "El unico instante que brilla en la eternidad."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en el centro de un reloj sin agujas."
+            }
+        ]
+    },
+    {
+        "level_id": 224,
+        "grid_size": 4,
+        "complexity": 3.4,
+        "category": "El Cosmos",
+        "subcategory": "Música del Cielo II",
+        "puzzles": [
+            {
+                "word": "SON",
+                "riddle": "La vibracion secreta que sostiene a los planetas."
+            },
+            {
+                "word": "LIRA",
+                "riddle": "El instrumento de oro que toca el viento cosmico."
+            },
+            {
+                "word": "OIDO",
+                "riddle": "Lo que hay que abrir para escuchar el silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 225,
+        "grid_size": 4,
+        "complexity": 3.5,
+        "category": "El Cosmos",
+        "subcategory": "Infinito III",
+        "puzzles": [
+            {
+                "word": "MAS",
+                "riddle": "Lo que siempre hay detras del ultimo horizonte."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Un circulo cuyo centro esta en todas partes."
+            },
+            {
+                "word": "UNO",
+                "riddle": "La semilla que contiene el bosque de galaxias."
+            }
+        ]
+    },
+    {
+        "level_id": 226,
+        "grid_size": 5,
+        "complexity": 3.6,
+        "category": "El Cosmos",
+        "subcategory": "Ceniza Estelar II",
+        "puzzles": [
+            {
+                "word": "CAL",
+                "riddle": "Polvo blanco que alguna vez fue corazon de fuego."
+            },
+            {
+                "word": "MAR",
+                "riddle": "Abismo de sal alimentado por las nubes profundas."
+            },
+            {
+                "word": "PIEL",
+                "riddle": "El traje mineral que viste nuestra esencia."
+            },
+            {
+                "word": "SER",
+                "riddle": "Reconocer el sol en el brillo de nuestra mirada."
+            }
+        ]
+    },
+    {
+        "level_id": 227,
+        "grid_size": 5,
+        "complexity": 3.7,
+        "category": "El Cosmos",
+        "subcategory": "Cuerdas II",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "La nota mas pura en la sinfonia de la materia."
+            },
+            {
+                "word": "LAZO",
+                "riddle": "Velo invisible que une el átomo con la estrella."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Lo que vibra cuando el pensamiento se aquieta."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La red infinita donde cada punto es sagrado."
+            }
+        ]
+    },
+    {
+        "level_id": 228,
+        "grid_size": 5,
+        "complexity": 3.8,
+        "category": "El Cosmos",
+        "subcategory": "Materia Oscura II",
+        "puzzles": [
+            {
+                "word": "PESO",
+                "riddle": "La fuerza muda que abraza a las galaxias."
+            },
+            {
+                "word": "OJO",
+                "riddle": "Lo que no ve lo que sostiene toda la forma."
+            },
+            {
+                "word": "ROCA",
+                "riddle": "Ancla de misterio en el oceano de lo invisible."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Descansar en la certidumbre de lo que no se ve."
+            }
+        ]
+    },
+    {
+        "level_id": 229,
+        "grid_size": 5,
+        "complexity": 3.9,
+        "category": "El Cosmos",
+        "subcategory": "Horizonte II",
+        "puzzles": [
+            {
+                "word": "GUIA",
+                "riddle": "La linea de luz que marca el final de la busca."
+            },
+            {
+                "word": "VER",
+                "riddle": "Distinguir la silueta de lo que aun no ha nacido."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El punto donde el cielo se funde con el sueño."
+            },
+            {
+                "word": "SER",
+                "riddle": "Sentirse orilla de un mar que no tiene orillas."
+            }
+        ]
+    },
+    {
+        "level_id": 230,
+        "grid_size": 5,
+        "complexity": 4.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Vacío II",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "La copa vacía que puede contener al universo."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que nace cuando se apaga el ego."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Estar en casa en medio de la gran inmensidad."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el unico latido que resuena en el silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 231,
+        "grid_size": 4,
+        "complexity": 4.1,
+        "category": "El Cosmos",
+        "subcategory": "Luz Solar",
+        "puzzles": [
+            {
+                "word": "ORO",
+                "riddle": "Líquido de luz que baña la cara del dia."
+            },
+            {
+                "word": "SOL",
+                "riddle": "Padre de fuego que nos mira desde el cenit."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La esencia del calor que no conoce mancha."
+            }
+        ]
+    },
+    {
+        "level_id": 232,
+        "grid_size": 4,
+        "complexity": 4.2,
+        "category": "El Cosmos",
+        "subcategory": "Manchas",
+        "puzzles": [
+            {
+                "word": "OJO",
+                "riddle": "Peca de sombra en la piel de la gran estrella."
+            },
+            {
+                "word": "ISLA",
+                "riddle": "Frio relativo en un oceano de llamas."
+            },
+            {
+                "word": "VER",
+                "riddle": "El secreto que el sol guarda tras su brillo."
+            }
+        ]
+    },
+    {
+        "level_id": 233,
+        "grid_size": 4,
+        "complexity": 4.3,
+        "category": "El Cosmos",
+        "subcategory": "Viento Solar",
+        "puzzles": [
+            {
+                "word": "PELO",
+                "riddle": "Invisible cabellera que el sol peina al vacio."
+            },
+            {
+                "word": "VELA",
+                "riddle": "Lo que empuja a las naves de polvo de plata."
+            },
+            {
+                "word": "IRSE",
+                "riddle": "Fluir sin descanso desde el centro hacia afuera."
+            }
+        ]
+    },
+    {
+        "level_id": 234,
+        "grid_size": 4,
+        "complexity": 4.4,
+        "category": "El Cosmos",
+        "subcategory": "Corona",
+        "puzzles": [
+            {
+                "word": "AURA",
+                "riddle": "El halo de luz que solo se ve en la oscuridad."
+            },
+            {
+                "word": "REY",
+                "riddle": "El titulo que la estrella lleva sobre su frente."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "Donde el fuego se funde con el misterio negro."
+            }
+        ]
+    },
+    {
+        "level_id": 235,
+        "grid_size": 4,
+        "complexity": 4.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Sol",
+        "puzzles": [
+            {
+                "word": "ARDE",
+                "riddle": "Entregarse por entero para iluminar a otros."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse centro de la rueda que mueve la vida."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Ser claridad constante sin pedir nada a cambio."
+            }
+        ]
+    },
+    {
+        "level_id": 236,
+        "grid_size": 5,
+        "complexity": 4.6,
+        "category": "El Cosmos",
+        "subcategory": "Mercurio",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "Piedra que vuela pegada al aliento del padre."
+            },
+            {
+                "word": "CAL",
+                "riddle": "Tierra quemada por la cercania del abrazo."
+            },
+            {
+                "word": "DURO",
+                "riddle": "Pies de metal para caminar sobre el infierno."
+            },
+            {
+                "word": "PESO",
+                "riddle": "La densa verdad de quien vive en el extremo."
+            }
+        ]
+    },
+    {
+        "level_id": 237,
+        "grid_size": 5,
+        "complexity": 4.7,
+        "category": "El Cosmos",
+        "subcategory": "Venus",
+        "puzzles": [
+            {
+                "word": "VELO",
+                "riddle": "Nube de azufre que oculta el rostro ardiente."
+            },
+            {
+                "word": "ROSA",
+                "riddle": "El color del amanecer en un mundo sin aire."
+            },
+            {
+                "word": "SOLA",
+                "riddle": "La estrella del alba que brilla antes que el sol."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio que habita bajo el peso del cielo."
+            }
+        ]
+    },
+    {
+        "level_id": 238,
+        "grid_size": 5,
+        "complexity": 4.8,
+        "category": "El Cosmos",
+        "subcategory": "La Tierra",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "Gema de agua colgada en la nada infinita."
+            },
+            {
+                "word": "NIDO",
+                "riddle": "Cuna de barro donde la vida aprendio a cantar."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "El sueño de la planta que quiere ser estrella."
+            },
+            {
+                "word": "CASA",
+                "riddle": "El unico lugar donde el alma puede respirar."
+            }
+        ]
+    },
+    {
+        "level_id": 239,
+        "grid_size": 5,
+        "complexity": 4.9,
+        "category": "El Cosmos",
+        "subcategory": "Marte",
+        "puzzles": [
+            {
+                "word": "ROJO",
+                "riddle": "Polvo de hierro que recuerda a la sangre antigua."
+            },
+            {
+                "word": "MONTE",
+                "riddle": "Gigante de piedra que mira hacia el cielo negro."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "Camino de arena en busca de un oasis perdido."
+            },
+            {
+                "word": "SED",
+                "riddle": "El anhelo de agua en el desierto de los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 240,
+        "grid_size": 5,
+        "complexity": 5.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen Planetario",
+        "puzzles": [
+            {
+                "word": "GIRO",
+                "riddle": "Danzar sin moverse del centro de uno mismo."
+            },
+            {
+                "word": "EJE",
+                "riddle": "El punto inmovil que sostiene toda la danza."
+            },
+            {
+                "word": "LEJE",
+                "riddle": "Distancia sagrada entre dos almas que se atraen."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser parte de la gran familia de luz."
+            }
+        ]
+    },
+    {
+        "level_id": 241,
+        "grid_size": 4,
+        "complexity": 5.1,
+        "category": "El Cosmos",
+        "subcategory": "Cinturón",
+        "puzzles": [
+            {
+                "word": "PEDRA",
+                "riddle": "Guijarro perdido en el camino de los planetas."
+            },
+            {
+                "word": "ROCA",
+                "riddle": "Hueso de un mundo que nunca llego a nacer."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Vagar sin rumbo en la frontera del silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 242,
+        "grid_size": 4,
+        "complexity": 5.2,
+        "category": "El Cosmos",
+        "subcategory": "Ceres",
+        "puzzles": [
+            {
+                "word": "BOLA",
+                "riddle": "Pequeña esfera de hielo en el jardin de piedra."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "El color de la paciencia en el cinturon oscuro."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El agua oculta que sueña bajo la superficie."
+            }
+        ]
+    },
+    {
+        "level_id": 243,
+        "grid_size": 4,
+        "complexity": 5.3,
+        "category": "El Cosmos",
+        "subcategory": "Júpiter",
+        "puzzles": [
+            {
+                "word": "RAYO",
+                "riddle": "La voz electrica del gigante que ruge al vacio."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "El abrazo gravitatorio que protege a la Tierra."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Contener mil mundos en un solo cuerpo de gas."
+            }
+        ]
+    },
+    {
+        "level_id": 244,
+        "grid_size": 4,
+        "complexity": 5.4,
+        "category": "El Cosmos",
+        "subcategory": "Saturno",
+        "puzzles": [
+            {
+                "word": "ARCO",
+                "riddle": "El puente de polvo que corona la majestad."
+            },
+            {
+                "word": "HALO",
+                "riddle": "Círculo de gloria hecho de billones de lunas."
+            },
+            {
+                "word": "NUDO",
+                "riddle": "El centro de un baile que dura miles de años."
+            }
+        ]
+    },
+    {
+        "level_id": 245,
+        "grid_size": 4,
+        "complexity": 5.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen de los Gigantes",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "La calma que otorga la magnitud infinita."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la tormenta y el silencio al mismo tiempo."
+            },
+            {
+                "word": "VACO",
+                "riddle": "El espacio necesario para que la grandeza quepa."
+            }
+        ]
+    },
+    {
+        "level_id": 246,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "El Cosmos",
+        "subcategory": "Urano",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "Viento gelido que huele a misterio antiguo."
+            },
+            {
+                "word": "TADE",
+                "riddle": "El gesto de quien se tumba para ver pasar el tiempo."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "La mirada palida de un mundo que duerme de lado."
+            },
+            {
+                "word": "FRÍO",
+                "riddle": "El abrazo del invierno que nunca conoce el fin."
+            }
+        ]
+    },
+    {
+        "level_id": 247,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "El Cosmos",
+        "subcategory": "Neptuno",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "Oceano de nubes donde el sol es solo un recuerdo."
+            },
+            {
+                "word": "NUDO",
+                "riddle": "Ciclón de cobalto que danza en la noche eterna."
+            },
+            {
+                "word": "MARA",
+                "riddle": "La red de vientos que tejen el destino del frio."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el unico testigo de la marea oscura."
+            }
+        ]
+    },
+    {
+        "level_id": 248,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "El Cosmos",
+        "subcategory": "Plutón",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "Lecho de nitrogeno donde el tiempo se detiene."
+            },
+            {
+                "word": "CORA",
+                "riddle": "El glaciár de luz que late en el pecho helado."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Caminar por la orilla de lo que ya no es mundo."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "Recordar a la estrella a pesar de la distancia."
+            }
+        ]
+    },
+    {
+        "level_id": 249,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "El Cosmos",
+        "subcategory": "Oort",
+        "puzzles": [
+            {
+                "word": "NUBE",
+                "riddle": "Enjambre de cometas que esperan su turno de luz."
+            },
+            {
+                "word": "HIELO",
+                "riddle": "Materia primaria que guarda el genesis del sol."
+            },
+            {
+                "word": "MURO",
+                "riddle": "La ultima valla antes de la noche sin nombre."
+            },
+            {
+                "word": "PASO",
+                "riddle": "El gesto valiente de salir al oceano estelar."
+            }
+        ]
+    },
+    {
+        "level_id": 250,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Sistema",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "La linea invisible que nos ata al mismo destino."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Comprender que todo esta en su lugar perfecto."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El hilo de luz que cose los planetas entre si."
+            },
+            {
+                "word": "SER",
+                "riddle": "Florecer en un pequeño jardin llamado universo."
+            }
+        ]
+    },
+    {
+        "level_id": 251,
+        "grid_size": 4,
+        "complexity": 6.1,
+        "category": "El Cosmos",
+        "subcategory": "Próxima",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "El primer saludo que llega de fuera de casa."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar cerca en el espacio, pero lejos en el alma."
+            },
+            {
+                "word": "VACO",
+                "riddle": "El puente de nada que separa a los hermanos."
+            }
+        ]
+    },
+    {
+        "level_id": 252,
+        "grid_size": 4,
+        "complexity": 6.2,
+        "category": "El Cosmos",
+        "subcategory": "Sirio",
+        "puzzles": [
+            {
+                "word": "OJO",
+                "riddle": "El faro azul que vigila el sueño de la noche."
+            },
+            {
+                "word": "PERO",
+                "riddle": "El fiel compañero que sigue el rastro del sol."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color de la maxima pureza en el cielo negro."
+            }
+        ]
+    },
+    {
+        "level_id": 253,
+        "grid_size": 4,
+        "complexity": 6.3,
+        "category": "El Cosmos",
+        "subcategory": "Betelgeuse",
+        "puzzles": [
+            {
+                "word": "ROJO",
+                "riddle": "El suspiro final de un gigante que se apaga."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Un corazon hinchado de luz que pronto sera eco."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La delgada linea entre ser estrella y ser polvo."
+            }
+        ]
+    },
+    {
+        "level_id": 254,
+        "grid_size": 4,
+        "complexity": 6.4,
+        "category": "El Cosmos",
+        "subcategory": "Polaris",
+        "puzzles": [
+            {
+                "word": "GUIA",
+                "riddle": "El punto inmovil que enseña el camino al norte."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Quedarse quieto mientras el mundo entero gira."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "La brújula de fuego para el caminante perdido."
+            }
+        ]
+    },
+    {
+        "level_id": 255,
+        "grid_size": 4,
+        "complexity": 6.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen Estelar",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Ser una chispa divina en el centro de la noche."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Brillar con toda la fuerza sin esperar un aplauso."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Convertirse en guia para quienes miran arriba."
+            }
+        ]
+    },
+    {
+        "level_id": 256,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "El Cosmos",
+        "subcategory": "Nébulas",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "Lecho de gas donde nacen los soles del mañana."
+            },
+            {
+                "word": "VELO",
+                "riddle": "Nube de colores que envuelve el misterio de la vida."
+            },
+            {
+                "word": "AYER",
+                "riddle": "El rastro de lo que fue y la promesa de lo que sera."
+            },
+            {
+                "word": "SER",
+                "riddle": "Sentirse gas y luz antes de convertirse en piedra."
+            }
+        ]
+    },
+    {
+        "level_id": 257,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "El Cosmos",
+        "subcategory": "Pleyades",
+        "puzzles": [
+            {
+                "word": "NOS",
+                "riddle": "La hermandad de luces que caminan de la mano."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El manto de zafiro que viste a las siete hermanas."
+            },
+            {
+                "word": "NIDO",
+                "riddle": "Un racimo de diamantes en el jardin de la noche."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que la belleza es siempre compartida."
+            }
+        ]
+    },
+    {
+        "level_id": 258,
+        "grid_size": 5,
+        "complexity": 6.8,
+        "category": "El Cosmos",
+        "subcategory": "Andrómeda",
+        "puzzles": [
+            {
+                "word": "GIRA",
+                "riddle": "Espiral de estrellas que baila hacia nuestro encuentro."
+            },
+            {
+                "word": "LEJE",
+                "riddle": "Una isla de luz en el oceano de lo infinito."
+            },
+            {
+                "word": "MAPA",
+                "riddle": "El destino final de nuestro viaje estelar."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma de saber que no somos la unica isla."
+            }
+        ]
+    },
+    {
+        "level_id": 259,
+        "grid_size": 5,
+        "complexity": 6.9,
+        "category": "El Cosmos",
+        "subcategory": "Cúmulo",
+        "puzzles": [
+            {
+                "word": "MAS",
+                "riddle": "Mil soles que laten al mismo ritmo de gravedad."
+            },
+            {
+                "word": "ROCA",
+                "riddle": "El nucleo de cristal que sostiene a la multitud."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser un solo fuego alimentado por mil llamas."
+            },
+            {
+                "word": "SER",
+                "riddle": "La unidad en la diversidad del firmamento."
+            }
+        ]
+    },
+    {
+        "level_id": 260,
+        "grid_size": 5,
+        "complexity": 7.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen Galáctico",
+        "puzzles": [
+            {
+                "word": "EJE",
+                "riddle": "El silencio central donde la galaxia descansa."
+            },
+            {
+                "word": "LUNA",
+                "riddle": "El reflejo de la gran luz en el pequeño espejo."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir que el remolino de estrellas late en ti."
+            },
+            {
+                "word": "SER",
+                "riddle": "Fluir con la espiral, sin prisa y sin pausa."
+            }
+        ]
+    },
+    {
+        "level_id": 261,
+        "grid_size": 4,
+        "complexity": 7.1,
+        "category": "El Cosmos",
+        "subcategory": "Pulsares",
+        "puzzles": [
+            {
+                "word": "LATÉ",
+                "riddle": "El corazon de un sol muerto que aun nos habla."
+            },
+            {
+                "word": "FARO",
+                "riddle": "Relampago de ritmo en el oceano de la noche."
+            },
+            {
+                "word": "GIRA",
+                "riddle": "La danza frenetica de la materia mas densa."
+            }
+        ]
+    },
+    {
+        "level_id": 262,
+        "grid_size": 4,
+        "complexity": 7.2,
+        "category": "El Cosmos",
+        "subcategory": "Quasares",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "El grito de luz de un agujero que devora galaxias."
+            },
+            {
+                "word": "PURO",
+                "riddle": "Energia sin limite en la frontera del tiempo."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Lo que no existe en el rugido del dragon espacial."
+            }
+        ]
+    },
+    {
+        "level_id": 263,
+        "grid_size": 4,
+        "complexity": 7.3,
+        "category": "El Cosmos",
+        "subcategory": "Cuerdas III",
+        "puzzles": [
+            {
+                "word": "SON",
+                "riddle": "La sinfonia que suena cuando el universo sueña."
+            },
+            {
+                "word": "HILO",
+                "riddle": "La fibra invisible que cose el atomo al cielo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentir que somos la misma nota en la cancion."
+            }
+        ]
+    },
+    {
+        "level_id": 264,
+        "grid_size": 4,
+        "complexity": 7.4,
+        "category": "El Cosmos",
+        "subcategory": "Singularidad",
+        "puzzles": [
+            {
+                "word": "PUNTO",
+                "riddle": "El lugar donde todas las leyes se rinden."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Contener el infinito en el espacio de un atomo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio absoluto antes del primer estallido."
+            }
+        ]
+    },
+    {
+        "level_id": 265,
+        "grid_size": 4,
+        "complexity": 7.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Abismo",
+        "puzzles": [
+            {
+                "word": "CAER",
+                "riddle": "Dejarse llevar hacia el centro del misterio."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que brilla cuando ya no queda nada."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Ser el unico testigo de lo que no tiene nombre."
+            }
+        ]
+    },
+    {
+        "level_id": 266,
+        "grid_size": 5,
+        "complexity": 7.6,
+        "category": "El Cosmos",
+        "subcategory": "Gran Atractor",
+        "puzzles": [
+            {
+                "word": "IMÁN",
+                "riddle": "La mano invisible que nos llama hacia casa."
+            },
+            {
+                "word": "META",
+                "riddle": "El destino final de todo camino de estrellas."
+            },
+            {
+                "word": "AYER",
+                "riddle": "El pasado que nos empuja hacia el mañana puro."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Rendirse a la fuerza que nos mantiene unidos."
+            }
+        ]
+    },
+    {
+        "level_id": 267,
+        "grid_size": 5,
+        "complexity": 7.7,
+        "category": "El Cosmos",
+        "subcategory": "Materia IV",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "La chispa consciente en el corazon del barro."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La ilusion de la forma que el tiempo desgasta."
+            },
+            {
+                "word": "VIVA",
+                "riddle": "La energia que fluye entre el asfalto y el sol."
+            },
+            {
+                "word": "SER",
+                "riddle": "Despertar del letargo de ser solo materia."
+            }
+        ]
+    },
+    {
+        "level_id": 268,
+        "grid_size": 5,
+        "complexity": 7.8,
+        "category": "El Cosmos",
+        "subcategory": "Vacío Zen",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "El espacio sagrado donde todo puede ocurrir."
+            },
+            {
+                "word": "AGUA",
+                "riddle": "El flujo constante que no se puede atrapar."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El baile de lo que no es en lo que parece ser."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Hallar la plenitud en la ausencia de deseos."
+            }
+        ]
+    },
+    {
+        "level_id": 269,
+        "grid_size": 5,
+        "complexity": 7.9,
+        "category": "El Cosmos",
+        "subcategory": "Unidad",
+        "puzzles": [
+            {
+                "word": "TODO",
+                "riddle": "La suma de las partes que jamas estara dividida."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley suprema que rige el giro de los soles."
+            },
+            {
+                "word": "NOS",
+                "riddle": "La certeza de no haber estado nunca separados."
+            },
+            {
+                "word": "SER",
+                "riddle": "Ser el observador y lo observado al mismo tiempo."
+            }
+        ]
+    },
+    {
+        "level_id": 270,
+        "grid_size": 5,
+        "complexity": 8.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Cosmos",
+        "puzzles": [
+            {
+                "word": "ORO",
+                "riddle": "La luz final que ilumina el jardin del vacio."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio que queda cuando el ego se apaga."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Ser lo unico que existe en la noche infinita."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser, sin ayer y sin mañana."
+            }
+        ]
+    },
+    {
+        "level_id": 271,
+        "grid_size": 4,
+        "complexity": 8.1,
+        "category": "El Cosmos",
+        "subcategory": "Materia Oscura II",
+        "puzzles": [
+            {
+                "word": "PESO",
+                "riddle": "La mano invisible que mece la cuna de las galaxias."
+            },
+            {
+                "word": "OJO",
+                "riddle": "Lo que no se ve es lo que sostiene toda la danza."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino oscuro que abraza a la luz que corre."
+            }
+        ]
+    },
+    {
+        "level_id": 272,
+        "grid_size": 4,
+        "complexity": 8.2,
+        "category": "El Cosmos",
+        "subcategory": "Bosón",
+        "puzzles": [
+            {
+                "word": "DAR",
+                "riddle": "El acto divino de otorgar masa al deseo."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La partícula que es campo y alma a la vez."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La semilla invisible que hace que el mundo pese."
+            }
+        ]
+    },
+    {
+        "level_id": 273,
+        "grid_size": 4,
+        "complexity": 8.3,
+        "category": "El Cosmos",
+        "subcategory": "Teoría M",
+        "puzzles": [
+            {
+                "word": "HILO",
+                "riddle": "La cuerda que vibra en once mundos distintos."
+            },
+            {
+                "word": "SON",
+                "riddle": "La nota que suena cuando el vacio se estira."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la misma musica bajo infinitas formas."
+            }
+        ]
+    },
+    {
+        "level_id": 274,
+        "grid_size": 4,
+        "complexity": 8.4,
+        "category": "El Cosmos",
+        "subcategory": "Entrelazado",
+        "puzzles": [
+            {
+                "word": "NOS",
+                "riddle": "Dos almas que sienten el mismo beso a distancia."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El puente que no conoce el paso del tiempo."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley que une lo que parece estar separado."
+            }
+        ]
+    },
+    {
+        "level_id": 275,
+        "grid_size": 4,
+        "complexity": 8.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen Quántico",
+        "puzzles": [
+            {
+                "word": "SER",
+                "riddle": "Estar en todos los lugares antes de ser mirado."
+            },
+            {
+                "word": "VACO",
+                "riddle": "La plenitud que brota de la nada absoluta."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Aceptar que la realidad es un sueño que late."
+            }
+        ]
+    },
+    {
+        "level_id": 276,
+        "grid_size": 5,
+        "complexity": 8.6,
+        "category": "El Cosmos",
+        "subcategory": "Expansión",
+        "puzzles": [
+            {
+                "word": "ALEJA",
+                "riddle": "El gesto de las galaxias que huyen de si mismas."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El espacio que crece como un globo de sombras."
+            },
+            {
+                "word": "RED",
+                "riddle": "El tejido del universo que se estira al infinito."
+            },
+            {
+                "word": "MAS",
+                "riddle": "Lo que siempre hay cuando el limite se rompe."
+            }
+        ]
+    },
+    {
+        "level_id": 277,
+        "grid_size": 5,
+        "complexity": 8.7,
+        "category": "El Cosmos",
+        "subcategory": "Multiverso",
+        "puzzles": [
+            {
+                "word": "OTRO",
+                "riddle": "El yo que vive en la burbuja de la siguiente puerta."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un rio que se bifurca en mil mañanas posibles."
+            },
+            {
+                "word": "ZONA",
+                "riddle": "El lugar donde todos los sueños son reales."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La suma total de todas las vidas no vividas."
+            }
+        ]
+    },
+    {
+        "level_id": 278,
+        "grid_size": 5,
+        "complexity": 8.8,
+        "category": "El Cosmos",
+        "subcategory": "Agujero Blanco",
+        "puzzles": [
+            {
+                "word": "MANA",
+                "riddle": "La fuente que arroja luz donde antes no habia nada."
+            },
+            {
+                "word": "NACE",
+                "riddle": "El grito de la materia al salir del otro lado."
+            },
+            {
+                "word": "PURO",
+                "riddle": "Lo que no puede ser tocado por la sombra."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La cascada de oro que alimenta al vacio."
+            }
+        ]
+    },
+    {
+        "level_id": 279,
+        "grid_size": 5,
+        "complexity": 8.9,
+        "category": "El Cosmos",
+        "subcategory": "Entropía",
+        "puzzles": [
+            {
+                "word": "CAOS",
+                "riddle": "El desorden sagrado que precede al descanso final."
+            },
+            {
+                "word": "FRIO",
+                "riddle": "El silencio que queda cuando el fuego se agota."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La llama que baila su ultimo vals antes del hielo."
+            },
+            {
+                "word": "TODO",
+                "riddle": "El camino inevitable hacia la paz absoluta."
+            }
+        ]
+    },
+    {
+        "level_id": 280,
+        "grid_size": 5,
+        "complexity": 9.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Final",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Ser el unico punto de conciencia en el frio total."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud suprema de un universo que ya no busca."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Sentirse lleno cuando ya no queda nada por ver."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el latido que persiste en el vacio."
+            }
+        ]
+    },
+    {
+        "level_id": 281,
+        "grid_size": 4,
+        "complexity": 9.1,
+        "category": "El Cosmos",
+        "subcategory": "Agujero de Gusano",
+        "puzzles": [
+            {
+                "word": "NUDO",
+                "riddle": "El pliegue en la sabana del tiempo que une dos mundos."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Atravesar la montaña sin caminar por la ladera."
+            },
+            {
+                "word": "OTRO",
+                "riddle": "Llegar a la otra orilla antes de haber salido."
+            }
+        ]
+    },
+    {
+        "level_id": 282,
+        "grid_size": 4,
+        "complexity": 9.2,
+        "category": "El Cosmos",
+        "subcategory": "Big Crunch",
+        "puzzles": [
+            {
+                "word": "CAER",
+                "riddle": "El regreso de todas las cosas al centro del abrazo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Convertir el todo en la semilla inmensa que fue."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino de quien se apaga para volver a nacer."
+            }
+        ]
+    },
+    {
+        "level_id": 283,
+        "grid_size": 4,
+        "complexity": 9.3,
+        "category": "El Cosmos",
+        "subcategory": "Muerte Térmica",
+        "puzzles": [
+            {
+                "word": "FRIO",
+                "riddle": "La quietud perfecta cuando el ultimo sol se rinde."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Un mar de sombras donde ya no existe la marea."
+            },
+            {
+                "word": "CUNA",
+                "riddle": "El lecho de silencio donde el universo duerme."
+            }
+        ]
+    },
+    {
+        "level_id": 284,
+        "grid_size": 4,
+        "complexity": 9.4,
+        "category": "El Cosmos",
+        "subcategory": "Eternidad",
+        "puzzles": [
+            {
+                "word": "TODO",
+                "riddle": "Lo que no tiene principio y jamas tendra final."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Esa parte de nosotros que no teme al abismo."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en el instante que contiene a todos los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 285,
+        "grid_size": 4,
+        "complexity": 9.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Origen",
+        "puzzles": [
+            {
+                "word": "LUMEN",
+                "riddle": "La chispa consciente que precede a la materia."
+            },
+            {
+                "word": "BOLA",
+                "riddle": "La esfera de potencial que guarda el proximo sueño."
+            },
+            {
+                "word": "SER",
+                "riddle": "Ser la causa y el efecto en el jardin de la nada."
+            }
+        ]
+    },
+    {
+        "level_id": 286,
+        "grid_size": 5,
+        "complexity": 9.6,
+        "category": "El Cosmos",
+        "subcategory": "Cúmulo Estelar II",
+        "puzzles": [
+            {
+                "word": "HIELO",
+                "riddle": "Cristales de tiempo que flotan en la noche pura."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Enjambre de espiritus que bailan al mismo son."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El tesoro que no se compra, pero se mira al cielo."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Saber que estamos hechos de la misma sustancia."
+            }
+        ]
+    },
+    {
+        "level_id": 287,
+        "grid_size": 5,
+        "complexity": 9.7,
+        "category": "El Cosmos",
+        "subcategory": "Supercúmulo",
+        "puzzles": [
+            {
+                "word": "ROCA",
+                "riddle": "Anclas de materia en la red de lo invisible."
+            },
+            {
+                "word": "MAPA",
+                "riddle": "El dibujo que traza la mano de la gravedad."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentirse gota y oceano en el rio de galaxias."
+            },
+            {
+                "word": "VACO",
+                "riddle": "El espacio necesario para que la luz sea libre."
+            }
+        ]
+    },
+    {
+        "level_id": 288,
+        "grid_size": 5,
+        "complexity": 9.8,
+        "category": "El Cosmos",
+        "subcategory": "Frontera",
+        "puzzles": [
+            {
+                "word": "FINA",
+                "riddle": "La pared de cristal entre lo que se ve y lo que es."
+            },
+            {
+                "word": "MARA",
+                "riddle": "La red de sombras que espera al final del camino."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El ultimo sendero antes de entrar en lo sagrado."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Lo que se apaga para que el alma empiece a ver."
+            }
+        ]
+    },
+    {
+        "level_id": 289,
+        "grid_size": 5,
+        "complexity": 9.9,
+        "category": "El Cosmos",
+        "subcategory": "Absoluto",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Estar vacio de ego es estar lleno de universo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "La soledad que se convierte en union con el todo."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir mas alla de la forma y de la palabra."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El sonido del silencio detras de la mascara del dia."
+            }
+        ]
+    },
+    {
+        "level_id": 290,
+        "grid_size": 5,
+        "complexity": 10.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Olvido",
+        "puzzles": [
+            {
+                "word": "BORRA",
+                "riddle": "Dejar ir la imagen para que la verdad emerja."
+            },
+            {
+                "word": "AYER",
+                "riddle": "Un fantasma que se disuelve en el aire puro."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Lo que queda cuando ya no queda nada que decir."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente estar, en el centro de la nada clara."
+            }
+        ]
+    },
+    {
+        "level_id": 291,
+        "grid_size": 4,
+        "complexity": 10.1,
+        "category": "El Cosmos",
+        "subcategory": "Energía Oscura",
+        "puzzles": [
+            {
+                "word": "EMPU",
+                "riddle": "El viento invisible que separa a las estrellas."
+            },
+            {
+                "word": "MASA",
+                "riddle": "La ilusion que cede ante la fuerza del vacio."
+            },
+            {
+                "word": "LEJE",
+                "riddle": "La marea que nos lleva mas alla de lo conocido."
+            }
+        ]
+    },
+    {
+        "level_id": 292,
+        "grid_size": 4,
+        "complexity": 10.2,
+        "category": "El Cosmos",
+        "subcategory": "Campo Higgs",
+        "puzzles": [
+            {
+                "word": "MIEL",
+                "riddle": "El oceano invisible que da espesor a la vida."
+            },
+            {
+                "word": "DAR",
+                "riddle": "La razon por la cual la piedra siente el suelo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Bañarse en el mismo fluido que mueve al atomo."
+            }
+        ]
+    },
+    {
+        "level_id": 293,
+        "grid_size": 4,
+        "complexity": 10.3,
+        "category": "El Cosmos",
+        "subcategory": "Horizonte II",
+        "puzzles": [
+            {
+                "word": "VEO",
+                "riddle": "Mirar la orilla donde la luz se rinde al abismo."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La cinta de luz que marca el final de la mirada."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Saber que lo que esta detras no tiene nombre."
+            }
+        ]
+    },
+    {
+        "level_id": 294,
+        "grid_size": 4,
+        "complexity": 10.4,
+        "category": "El Cosmos",
+        "subcategory": "Música Zen II",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "La vibracion del infinito en el oido del alma."
+            },
+            {
+                "word": "SON",
+                "riddle": "El ritmo que las esferas tocan en la sombra."
+            },
+            {
+                "word": "PURA",
+                "riddle": "Escuchar la armonia detras de tanto ruido."
+            }
+        ]
+    },
+    {
+        "level_id": 295,
+        "grid_size": 4,
+        "complexity": 10.5,
+        "category": "El Cosmos",
+        "subcategory": "Zen del Espacio",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Recordar que el universo entero es tu hogar."
+            },
+            {
+                "word": "SI",
+                "riddle": "La respuesta total a la pregunta del vacio."
+            },
+            {
+                "word": "SER",
+                "riddle": "Sentirse cometa y roca al mismo tiempo."
+            }
+        ]
+    },
+    {
+        "level_id": 296,
+        "grid_size": 5,
+        "complexity": 10.6,
+        "category": "El Cosmos",
+        "subcategory": "Gran Atractor II",
+        "puzzles": [
+            {
+                "word": "IMÁN",
+                "riddle": "La ley del corazon que atrae a los mundos."
+            },
+            {
+                "word": "ROCA",
+                "riddle": "El ancla de fe en el mar de lo desconocido."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un viaje sin maletas hacia la luz central."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que el final es solo el principio."
+            }
+        ]
+    },
+    {
+        "level_id": 297,
+        "grid_size": 5,
+        "complexity": 10.7,
+        "category": "El Cosmos",
+        "subcategory": "Entropía II",
+        "puzzles": [
+            {
+                "word": "CAL",
+                "riddle": "Los restos blancos de un fuego que ya es ceniza."
+            },
+            {
+                "word": "MAR",
+                "riddle": "Abismo de calma donde la energia descansa."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El orden perfecto que nace del caos final."
+            },
+            {
+                "word": "SER",
+                "riddle": "Ser el observador que no teme al desorden."
+            }
+        ]
+    },
+    {
+        "level_id": 298,
+        "grid_size": 5,
+        "complexity": 10.8,
+        "category": "El Cosmos",
+        "subcategory": "Vacío Sagrado",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "La copa que debe estar vacia para ser llenada."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El brillo de la verdad en la noche desnuda."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Lo que queda cuando el tiempo deja de correr."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que no necesita de ningun sol."
+            }
+        ]
+    },
+    {
+        "level_id": 299,
+        "grid_size": 5,
+        "complexity": 10.9,
+        "category": "El Cosmos",
+        "subcategory": "Unidad Zen",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Saber que eres la gota y eres el oceano."
+            },
+            {
+                "word": "EJE",
+                "riddle": "El punto inmovil donde la galaxia descansa."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir el latido cosmico en tu propia sangre."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en armonia con el polvo y la estrella."
+            }
+        ]
+    },
+    {
+        "level_id": 300,
+        "grid_size": 6,
+        "complexity": 11.0,
+        "category": "El Cosmos",
+        "subcategory": "Zen de la Esfera",
+        "puzzles": [
+            {
+                "word": "DESPIERTA",
+                "riddle": "El instante en que el universo se reconoce en ti."
+            },
+            {
+                "word": "SILENCIO",
+                "riddle": "La musica mas alta que el espiritu puede oir."
+            },
+            {
+                "word": "INFINITO",
+                "riddle": "Un camino circular que siempre te trae a casa."
+            },
+            {
+                "word": "PRESENCIA",
+                "riddle": "Simplemente ser aqui y ahora, mas alla del cosmos."
+            }
+        ]
+    }
+]

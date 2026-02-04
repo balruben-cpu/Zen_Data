@@ -1,0 +1,2807 @@
+[
+    {
+        "level_id": 1,
+        "grid_size": 4,
+        "complexity": 1.0,
+        "category": "Tutorial",
+        "subcategory": "Início",
+        "puzzles": [
+            {
+                "word": "ENIGMA",
+                "riddle": "Um mistério a ser desvendado.",
+                "riddle_hard": "Um segredo que dança na mente silenciosa."
+            },
+            {
+                "word": "CAMINHO",
+                "riddle": "O trajeto da serenidade.",
+                "riddle_hard": "A trilha invisível sob seus pés."
+            }
+        ]
+    },
+    {
+        "level_id": 2,
+        "grid_size": 4,
+        "complexity": 1.1,
+        "category": "Natureza",
+        "subcategory": "Céu",
+        "puzzles": [
+            {
+                "word": "CÉU",
+                "riddle": "Azul sobre nós.",
+                "riddle_hard": "Oceano infinito que nunca toca o chão."
+            },
+            {
+                "word": "SOL",
+                "riddle": "Olho dourado quente.",
+                "riddle_hard": "A estrela que acorda o mundo todo."
+            },
+            {
+                "word": "AR",
+                "riddle": "Respirar sem ver.",
+                "riddle_hard": "O presente invisível que nos mantém vivos."
+            },
+            {
+                "word": "ESTRELA",
+                "riddle": "Luz na noite.",
+                "riddle_hard": "Pequeno diamante no vasto oceano noturno."
+            }
+        ]
+    },
+    {
+        "level_id": 3,
+        "grid_size": 4,
+        "complexity": 1.2,
+        "category": "Abstrato",
+        "subcategory": "Filosofia",
+        "puzzles": [
+            {
+                "word": "VAZIO",
+                "riddle": "Lugar sem nada.",
+                "riddle_hard": "Onde o silêncio mora sem ser incomodado."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Mão aberta vazia.",
+                "riddle_hard": "O que sobra quando os pensamentos param."
+            },
+            {
+                "word": "MENOS",
+                "riddle": "Pouco é melhor.",
+                "riddle_hard": "O segredo para encontrar a verdadeira paz."
+            }
+        ]
+    },
+    {
+        "level_id": 4,
+        "grid_size": 4,
+        "complexity": 1.3,
+        "category": "Natureza",
+        "subcategory": "Floresta",
+        "puzzles": [
+            {
+                "word": "MAR",
+                "riddle": "Espelho azul vasto.",
+                "riddle_hard": "Água salgada que respira com as marés."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Claridade que guia.",
+                "riddle_hard": "O oposto da sombra que tudo revela."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Serenidade e silêncio.",
+                "riddle_hard": "Quando o coração descansa em seu lar."
+            }
+        ]
+    },
+    {
+        "level_id": 5,
+        "grid_size": 4,
+        "complexity": 1.4,
+        "category": "Natureza",
+        "subcategory": "Oceano",
+        "puzzles": [
+            {
+                "word": "FLUXO",
+                "riddle": "Movimento sem esforço.",
+                "riddle_hard": "Caminho natural da água entre as pedras."
+            },
+            {
+                "word": "MARÉ",
+                "riddle": "Ritmo do mar.",
+                "riddle_hard": "O mar sendo puxado pela lua mística."
+            },
+            {
+                "word": "ONDA",
+                "riddle": "Viajante azul crista.",
+                "riddle_hard": "Mão de espuma que escreve na areia."
+            }
+        ]
+    },
+    {
+        "level_id": 6,
+        "grid_size": 4,
+        "complexity": 1.5,
+        "category": "Natureza",
+        "subcategory": "Elementos",
+        "puzzles": [
+            {
+                "word": "FOGO",
+                "riddle": "Chama que aquece.",
+                "riddle_hard": "Dança de calor que devora o tempo."
+            },
+            {
+                "word": "BRILHO",
+                "riddle": "Luz suave final.",
+                "riddle_hard": "O que resta depois que a chama apaga."
+            },
+            {
+                "word": "CALOR",
+                "riddle": "Toque invisível quente.",
+                "riddle_hard": "O abraço do sol que faz vibrar."
+            }
+        ]
+    },
+    {
+        "level_id": 7,
+        "grid_size": 4,
+        "complexity": 1.6,
+        "category": "Natureza",
+        "subcategory": "Terra",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Terra onde começa.",
+                "riddle_hard": "Chão escuro que nutre a vida secreta."
+            },
+            {
+                "word": "PÓ",
+                "riddle": "Partículas na luz.",
+                "riddle_hard": "Minúsculos grãos dançando no raio de sol."
+            },
+            {
+                "word": "BARRO",
+                "riddle": "Terra macia moldável.",
+                "riddle_hard": "Lama que sonha ser um pote belo."
+            }
+        ]
+    },
+    {
+        "level_id": 8,
+        "grid_size": 4,
+        "complexity": 1.7,
+        "category": "Natureza",
+        "subcategory": "Chuva",
+        "puzzles": [
+            {
+                "word": "CHUVA",
+                "riddle": "Néctar de nuvens.",
+                "riddle_hard": "Lágrimas do céu que regam a floresta."
+            },
+            {
+                "word": "GOTA",
+                "riddle": "Pérola de água.",
+                "riddle_hard": "Pequena esfera que brota na pétala rosa."
+            },
+            {
+                "word": "ÚMIDO",
+                "riddle": "Grama após tempestade.",
+                "riddle_hard": "A sensação fresca que a água deixa."
+            }
+        ]
+    },
+    {
+        "level_id": 9,
+        "grid_size": 4,
+        "complexity": 1.8,
+        "category": "Natureza",
+        "subcategory": "Inverno",
+        "puzzles": [
+            {
+                "word": "NEVE",
+                "riddle": "Silêncio branco caindo.",
+                "riddle_hard": "Pétalas de gelo que cobrem as montanhas."
+            },
+            {
+                "word": "FRIO",
+                "riddle": "Beijo do norte.",
+                "riddle_hard": "O aperto gelado que faz a alma tremer."
+            },
+            {
+                "word": "GELO",
+                "riddle": "Água que travou.",
+                "riddle_hard": "Quando o rio se esquece de correr."
+            }
+        ]
+    },
+    {
+        "level_id": 10,
+        "grid_size": 4,
+        "complexity": 1.9,
+        "category": "Mente",
+        "subcategory": "Silêncio",
+        "puzzles": [
+            {
+                "word": "CALMA",
+                "riddle": "Lago sem ondas.",
+                "riddle_hard": "Estado em que a mente para de lutar."
+            },
+            {
+                "word": "QUIETO",
+                "riddle": "Entre respirar fundo.",
+                "riddle_hard": "O momento exato entre inspirar e expirar."
+            },
+            {
+                "word": "LENTO",
+                "riddle": "Ritmo de folha.",
+                "riddle_hard": "A velocidade da paz que cai no chão."
+            }
+        ]
+    },
+    {
+        "level_id": 11,
+        "grid_size": 4,
+        "complexity": 2.0,
+        "category": "Percepção",
+        "subcategory": "Cor",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "A cor do mar.",
+                "riddle_hard": "Como o céu sem nuvens hoje."
+            },
+            {
+                "word": "VERMELHO",
+                "riddle": "A cor do fogo.",
+                "riddle_hard": "A paixão ardente nas veias."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "A cor da grama.",
+                "riddle_hard": "Esperança entre as matas altas."
+            }
+        ]
+    },
+    {
+        "level_id": 12,
+        "grid_size": 4,
+        "complexity": 2.1,
+        "category": "Percepção",
+        "subcategory": "Som",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "Voz que volta.",
+                "riddle_hard": "Buscando o dono do grito original."
+            },
+            {
+                "word": "VOZ",
+                "riddle": "Som de falar.",
+                "riddle_hard": "Nascendo das profundezas do peito."
+            },
+            {
+                "word": "RUÍDO",
+                "riddle": "Barulho muito alto.",
+                "riddle_hard": "Caos que quebra a paz santa."
+            }
+        ]
+    },
+    {
+        "level_id": 13,
+        "grid_size": 4,
+        "complexity": 2.2,
+        "category": "Universo",
+        "subcategory": "Espaço",
+        "puzzles": [
+            {
+                "word": "ASTRO",
+                "riddle": "Luz no vácuo.",
+                "riddle_hard": "Um diamante no veludo negro."
+            },
+            {
+                "word": "COMETA",
+                "riddle": "Gelo que viaja.",
+                "riddle_hard": "Estrela com cauda de poeira fina."
+            },
+            {
+                "word": "PLANETA",
+                "riddle": "Mundo que gira.",
+                "riddle_hard": "Dançando ao redor de um sol."
+            }
+        ]
+    },
+    {
+        "level_id": 14,
+        "grid_size": 4,
+        "complexity": 2.3,
+        "category": "Ciclos",
+        "subcategory": "Estações",
+        "puzzles": [
+            {
+                "word": "VERÃO",
+                "riddle": "Muito sol e calor.",
+                "riddle_hard": "Quando a sombra decide se esconder."
+            },
+            {
+                "word": "OUTONO",
+                "riddle": "As folhas caem.",
+                "riddle_hard": "A floresta se veste de ouro."
+            },
+            {
+                "word": "NEVE",
+                "riddle": "Água branca fria.",
+                "riddle_hard": "Silêncio caindo suave das nuvens."
+            }
+        ]
+    },
+    {
+        "level_id": 15,
+        "grid_size": 4,
+        "complexity": 2.4,
+        "category": "Vida",
+        "subcategory": "Animais",
+        "puzzles": [
+            {
+                "word": "GATO",
+                "riddle": "Mascote que mia.",
+                "riddle_hard": "O pequeno tigre do seu sofá."
+            },
+            {
+                "word": "CÃO",
+                "riddle": "Mascote muito leal.",
+                "riddle_hard": "Latido de pura e eterna amizade."
+            },
+            {
+                "word": "AVE",
+                "riddle": "Animal com asas.",
+                "riddle_hard": "Pintando canções no vento hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 16,
+        "grid_size": 4,
+        "complexity": 2.5,
+        "category": "Ser Humano",
+        "subcategory": "Corpo",
+        "puzzles": [
+            {
+                "word": "MÃO",
+                "riddle": "Parte para tocar.",
+                "riddle_hard": "Cinco ramos para criar a vida."
+            },
+            {
+                "word": "PIE",
+                "riddle": "Parte para andar.",
+                "riddle_hard": "Raízes que viajam pela terra firme."
+            },
+            {
+                "word": "OLHOS",
+                "riddle": "Parte para ver.",
+                "riddle_hard": "Dois espelhos que miram o fora."
+            }
+        ]
+    },
+    {
+        "level_id": 17,
+        "grid_size": 4,
+        "complexity": 2.6,
+        "category": "Mente",
+        "subcategory": "Pensamento",
+        "puzzles": [
+            {
+                "word": "IDEIA",
+                "riddle": "Luz da mente.",
+                "riddle_hard": "A centelha de um novo mundo."
+            },
+            {
+                "word": "SONHO",
+                "riddle": "Viagem ao dormir.",
+                "riddle_hard": "Onde o impossível acontece sempre."
+            },
+            {
+                "word": "DESEJO",
+                "riddle": "Vontade de algo.",
+                "riddle_hard": "O fole que aviva a alma."
+            }
+        ]
+    },
+    {
+        "level_id": 18,
+        "grid_size": 4,
+        "complexity": 2.7,
+        "category": "Vida",
+        "subcategory": "Ação",
+        "puzzles": [
+            {
+                "word": "CORRER",
+                "riddle": "Ir muito rápido.",
+                "riddle_hard": "Vencendo a corrida contra o vento."
+            },
+            {
+                "word": "SALTAR",
+                "riddle": "Ir para cima.",
+                "riddle_hard": "Voar por apenas um segundo curto."
+            },
+            {
+                "word": "VOAR",
+                "riddle": "Ir pelo ar.",
+                "riddle_hard": "Sem tocar o chão firme agora."
+            }
+        ]
+    },
+    {
+        "level_id": 19,
+        "grid_size": 4,
+        "complexity": 2.8,
+        "category": "Coração",
+        "subcategory": "Sentir",
+        "puzzles": [
+            {
+                "word": "RISO",
+                "riddle": "Som de alegria.",
+                "riddle_hard": "O sol que nace dentro agora."
+            },
+            {
+                "word": "CHORO",
+                "riddle": "Gotas de pena.",
+                "riddle_hard": "Chuva que limpa o coração humano."
+            },
+            {
+                "word": "BEIJO",
+                "riddle": "Gesto de amor.",
+                "riddle_hard": "Onde a alma toca a pele."
+            }
+        ]
+    },
+    {
+        "level_id": 20,
+        "grid_size": 4,
+        "complexity": 3.0,
+        "category": "Zen",
+        "subcategory": "Agora",
+        "puzzles": [
+            {
+                "word": "AGORA",
+                "riddle": "Neste tempo.",
+                "riddle_hard": "O único momento que realmente existe."
+            },
+            {
+                "word": "AQUI",
+                "riddle": "Neste lugar.",
+                "riddle_hard": "Onde seus pés tocam a terra."
+            },
+            {
+                "word": "ETERNO",
+                "riddle": "Sem um final.",
+                "riddle_hard": "O que nunca deixará de ser."
+            }
+        ]
+    },
+    {
+        "level_id": 21,
+        "grid_size": 4,
+        "complexity": 3.1,
+        "category": "Naturaleza",
+        "subcategory": "Floresta",
+        "puzzles": [
+            {
+                "word": "MUSGO",
+                "riddle": "Tapete verde suave.",
+                "riddle_hard": "Abraçando a pedra úmida hoje."
+            },
+            {
+                "word": "COGUMELO",
+                "riddle": "Sombrinha da floresta.",
+                "riddle_hard": "Nascendo em silêncio após chuva."
+            },
+            {
+                "word": "SOMBRA",
+                "riddle": "Onde não há sol.",
+                "riddle_hard": "Refúgio fresco sob as folhas."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "A cor da vida.",
+                "riddle_hard": "O fôlego da selva profunda."
+            }
+        ]
+    },
+    {
+        "level_id": 22,
+        "grid_size": 4,
+        "complexity": 3.2,
+        "category": "Naturaleza",
+        "subcategory": "Oceano",
+        "puzzles": [
+            {
+                "word": "CORAL",
+                "riddle": "Floresta do mar.",
+                "riddle_hard": "Pedra que vive sob sal."
+            },
+            {
+                "word": "PÉROLA",
+                "riddle": "Joia de nácar.",
+                "riddle_hard": "Gerada no silêncio profundo hoje."
+            },
+            {
+                "word": "ABISMO",
+                "riddle": "Poço muito fundo.",
+                "riddle_hard": "Reina o mistério azul absoluto."
+            },
+            {
+                "word": "ONDA",
+                "riddle": "Agua que viaja.",
+                "riddle_hard": "Mão de espuma contra areia."
+            }
+        ]
+    },
+    {
+        "level_id": 23,
+        "grid_size": 4,
+        "complexity": 3.3,
+        "category": "Naturaleza",
+        "subcategory": "Deserto",
+        "puzzles": [
+            {
+                "word": "AREIA",
+                "riddle": "Terra de praia.",
+                "riddle_hard": "Fluindo como o próprio tempo."
+            },
+            {
+                "word": "OÁSIS",
+                "riddle": "Água no deserto.",
+                "riddle_hard": "Milagre no coração da sede."
+            },
+            {
+                "word": "DUNA",
+                "riddle": "Montanha de areia.",
+                "riddle_hard": "Viajando com o sopro do vento."
+            },
+            {
+                "word": "CALOR",
+                "riddle": "Sol muito forte.",
+                "riddle_hard": "Vibração que quema o horizonte."
+            }
+        ]
+    },
+    {
+        "level_id": 24,
+        "grid_size": 4,
+        "complexity": 3.4,
+        "category": "Naturaleza",
+        "subcategory": "Inverno",
+        "puzzles": [
+            {
+                "word": "GELO",
+                "riddle": "Água muito dura.",
+                "riddle_hard": "Cristal nascido do frio puro."
+            },
+            {
+                "word": "FLOCO",
+                "riddle": "Gota de neve.",
+                "riddle_hard": "Estrela dançando rumo ao chão."
+            },
+            {
+                "word": "FRIO",
+                "riddle": "Vontade de casaco.",
+                "riddle_hard": "Mordida que convida ao fogo."
+            },
+            {
+                "word": "MANTO",
+                "riddle": "Capa branca neve.",
+                "riddle_hard": "Lençol que adormece a montanha."
+            }
+        ]
+    },
+    {
+        "level_id": 25,
+        "grid_size": 4,
+        "complexity": 3.5,
+        "category": "Naturaleza",
+        "subcategory": "Primavera",
+        "puzzles": [
+            {
+                "word": "BROTO",
+                "riddle": "Nova vida verde.",
+                "riddle_hard": "Primeiro grito após o sono."
+            },
+            {
+                "word": "PÓLEN",
+                "riddle": "Pó de flores.",
+                "riddle_hard": "Ouro que carrega vida dentro."
+            },
+            {
+                "word": "NINHO",
+                "riddle": "Berço de palha.",
+                "riddle_hard": "Entre os ramos mais altos agora."
+            },
+            {
+                "word": "VOO",
+                "riddle": "Ir com asas.",
+                "riddle_hard": "Sustentar-se no nada com fe."
+            }
+        ]
+    },
+    {
+        "level_id": 26,
+        "grid_size": 4,
+        "complexity": 3.6,
+        "category": "Naturaleza",
+        "subcategory": "Montanha",
+        "puzzles": [
+            {
+                "word": "PICO",
+                "riddle": "Ponta da montanha.",
+                "riddle_hard": "Tocando a face do céu azul."
+            },
+            {
+                "word": "NEVE",
+                "riddle": "Pó branco frio.",
+                "riddle_hard": "Algodão que coroa os gigantes."
+            },
+            {
+                "word": "ROCHA",
+                "riddle": "Pedra muito dura.",
+                "riddle_hard": "Osso firme da terra antiga."
+            },
+            {
+                "word": "ECO",
+                "riddle": "Voz que rebate.",
+                "riddle_hard": "Nas paredes do silêncio absoluto."
+            }
+        ]
+    },
+    {
+        "level_id": 27,
+        "grid_size": 4,
+        "complexity": 3.7,
+        "category": "Naturaleza",
+        "subcategory": "Selva",
+        "puzzles": [
+            {
+                "word": "LIANA",
+                "riddle": "Corda da selva.",
+                "riddle_hard": "Tecendo pontes entre as árvores."
+            },
+            {
+                "word": "JAGUAR",
+                "riddle": "Gato muito grande.",
+                "riddle_hard": "Sombra espreitando na mata fechada."
+            },
+            {
+                "word": "DENSO",
+                "riddle": "Muita vegetação.",
+                "riddle_hard": "Muro impenetrável de cor verde."
+            },
+            {
+                "word": "CHUVA",
+                "riddle": "Água do céu.",
+                "riddle_hard": "Tambor sobre o teto vegetal."
+            }
+        ]
+    },
+    {
+        "level_id": 28,
+        "grid_size": 4,
+        "complexity": 3.8,
+        "category": "Naturaleza",
+        "subcategory": "Rio",
+        "puzzles": [
+            {
+                "word": "LEITO",
+                "riddle": "Caminho do rio.",
+                "riddle_hard": "Escavado pela persistência da água."
+            },
+            {
+                "word": "PEDRA",
+                "riddle": "Perto da água.",
+                "riddle_hard": "Seixo rolado polido por séculos."
+            },
+            {
+                "word": "DELTA",
+                "riddle": "Rio com mar.",
+                "riddle_hard": "Beso final antes del azul."
+            },
+            {
+                "word": "FRESCO",
+                "riddle": "Ar que alivia.",
+                "riddle_hard": "Brisa que nasce da água pura."
+            }
+        ]
+    },
+    {
+        "level_id": 29,
+        "grid_size": 4,
+        "complexity": 3.9,
+        "category": "Elementos",
+        "subcategory": "Fogo",
+        "puzzles": [
+            {
+                "word": "BRASA",
+                "riddle": "Coração de lenha.",
+                "riddle_hard": "Pulsando entre cinzas de ontem."
+            },
+            {
+                "word": "FUMAÇA",
+                "riddle": "Sobe para o céu.",
+                "riddle_hard": "Fantasma contando histórias às nuvens."
+            },
+            {
+                "word": "CARVÃO",
+                "riddle": "Preto de fogo.",
+                "riddle_hard": "Tesouro nascido de um abraço."
+            },
+            {
+                "word": "FAÍSCA",
+                "riddle": "Semente de luz.",
+                "riddle_hard": "Pequeno incêndio que salta alto."
+            }
+        ]
+    },
+    {
+        "level_id": 30,
+        "grid_size": 4,
+        "complexity": 4.0,
+        "category": "Elementos",
+        "subcategory": "Ar",
+        "puzzles": [
+            {
+                "word": "BRISA",
+                "riddle": "Vento muito suave.",
+                "riddle_hard": "Carícia leve em tarde longa."
+            },
+            {
+                "word": "NUVEM",
+                "riddle": "Velo de céu.",
+                "riddle_hard": "Flutuando no oceano azul eterno."
+            },
+            {
+                "word": "SOPRO",
+                "riddle": "Ar de vida.",
+                "riddle_hard": "Ritmo vital que nos move."
+            },
+            {
+                "word": "PURO",
+                "riddle": "Limpo sem mistura.",
+                "riddle_hard": "Brilhando sempre por si mesmo."
+            }
+        ]
+    },
+    {
+        "level_id": 31,
+        "grid_size": 5,
+        "complexity": 4.1,
+        "category": "Humanidade",
+        "subcategory": "Sentidos",
+        "puzzles": [
+            {
+                "word": "VISTA",
+                "riddle": "Vemos a luz.",
+                "riddle_hard": "A ponte que une dois mundos."
+            },
+            {
+                "word": "GOSTO",
+                "riddle": "Sentir o sabor.",
+                "riddle_hard": "Onde a memória se torna doce."
+            },
+            {
+                "word": "TATO",
+                "riddle": "Sentir a pele.",
+                "riddle_hard": "A primeira linguagem da mão hoje."
+            },
+            {
+                "word": "CHEIRO",
+                "riddle": "Vem pelo ar.",
+                "riddle_hard": "Viajante que desperta o ontem."
+            },
+            {
+                "word": "OUVIDO",
+                "riddle": "Para ouvir sons.",
+                "riddle_hard": "Taça que recolhe o silêncio."
+            }
+        ]
+    },
+    {
+        "level_id": 32,
+        "grid_size": 5,
+        "complexity": 4.2,
+        "category": "Humanidade",
+        "subcategory": "Emoções",
+        "puzzles": [
+            {
+                "word": "MEDO",
+                "riddle": "Uma sombra fria.",
+                "riddle_hard": "Sinal de alerta ao que não conhecemos."
+            },
+            {
+                "word": "RAIVA",
+                "riddle": "Fogo no peito.",
+                "riddle_hard": "Tempestade que nubla o coração humano."
+            },
+            {
+                "word": "CALMA",
+                "riddle": "Mar muito plano.",
+                "riddle_hard": "Quando todos os ventos se calam."
+            },
+            {
+                "word": "DÚVIDA",
+                "riddle": "Porta aberta hoje.",
+                "riddle_hard": "Esperando sempre por uma decisão final."
+            }
+        ]
+    },
+    {
+        "level_id": 33,
+        "grid_size": 5,
+        "complexity": 4.3,
+        "category": "Humanidade",
+        "subcategory": "Lar",
+        "puzzles": [
+            {
+                "word": "CHAVE",
+                "riddle": "Abre a porta.",
+                "riddle_hard": "Pequeno guardião de metal puro hoje."
+            },
+            {
+                "word": "MOLDURA",
+                "riddle": "Borda de foto.",
+                "riddle_hard": "Abraçando um momento parado no tempo."
+            },
+            {
+                "word": "TETO",
+                "riddle": "Céu da casa.",
+                "riddle_hard": "Proteção contra a fúria das nuvens."
+            },
+            {
+                "word": "CHÃO",
+                "riddle": "Terra da casa.",
+                "riddle_hard": "A base de cada passo nosso."
+            }
+        ]
+    },
+    {
+        "level_id": 34,
+        "grid_size": 5,
+        "complexity": 4.4,
+        "category": "Humanidade",
+        "subcategory": "Cidade",
+        "puzzles": [
+            {
+                "word": "RUA",
+                "riddle": "Caminho da cidade.",
+                "riddle_hard": "Veia de pedra pulsando com vida."
+            },
+            {
+                "word": "TORRE",
+                "riddle": "Casa muito alta.",
+                "riddle_hard": "Gesto orgulhoso rumo às nuvens hoje."
+            },
+            {
+                "word": "FAROL",
+                "riddle": "Olho do mar.",
+                "riddle_hard": "Guia para navegantes em noite solitária."
+            },
+            {
+                "word": "CALÇADA",
+                "riddle": "Perto da rua.",
+                "riddle_hard": "Ritmo urbano sob os pés cansados."
+            }
+        ]
+    },
+    {
+        "level_id": 35,
+        "grid_size": 5,
+        "complexity": 4.5,
+        "category": "Humanidade",
+        "subcategory": "Música",
+        "puzzles": [
+            {
+                "word": "NOTA",
+                "riddle": "Ponto de som.",
+                "riddle_hard": "Átomo que vibra no ar hoje."
+            },
+            {
+                "word": "RITMO",
+                "riddle": "Pulso da música.",
+                "riddle_hard": "Ordenando o caos do som puro."
+            },
+            {
+                "word": "HARPA",
+                "riddle": "Chuva de cordas.",
+                "riddle_hard": "Cantando com o toque mais suave."
+            },
+            {
+                "word": "FLAUTA",
+                "riddle": "Sopro com música.",
+                "riddle_hard": "Caniço oco cheio de belas melodias."
+            }
+        ]
+    },
+    {
+        "level_id": 36,
+        "grid_size": 5,
+        "complexity": 4.6,
+        "category": "Humanidade",
+        "subcategory": "Pintura",
+        "puzzles": [
+            {
+                "word": "TRAÇO",
+                "riddle": "Cicatriz de cor.",
+                "riddle_hard": "O passo firme do pincel livre."
+            },
+            {
+                "word": "TELA",
+                "riddle": "Pano para pintar.",
+                "riddle_hard": "Campo branco para uma nova realidade."
+            },
+            {
+                "word": "PIGMENTO",
+                "riddle": "Terra com cor.",
+                "riddle_hard": "Dando uma voz clara à luz."
+            },
+            {
+                "word": "COLOR",
+                "riddle": "Pinta o mundo.",
+                "riddle_hard": "Idioma secreto para o olho ver."
+            }
+        ]
+    },
+    {
+        "level_id": 37,
+        "grid_size": 5,
+        "complexity": 4.7,
+        "category": "Humanidade",
+        "subcategory": "Escritura",
+        "puzzles": [
+            {
+                "word": "LETRA",
+                "riddle": "Símbolo de voz.",
+                "riddle_hard": "Guardando o som e seu sentido."
+            },
+            {
+                "word": "PENA",
+                "riddle": "Escreve com tinta.",
+                "riddle_hard": "Arquiteta que voa no papel limpo."
+            },
+            {
+                "word": "TINTA",
+                "riddle": "Sangre da mente.",
+                "riddle_hard": "Derramada para contar a nossa história."
+            },
+            {
+                "word": "PAPEL",
+                "riddle": "Pele de árvore.",
+                "riddle_hard": "Suportando o peso de todo o tempo."
+            }
+        ]
+    },
+    {
+        "level_id": 38,
+        "grid_size": 5,
+        "complexity": 4.8,
+        "category": "Humanidade",
+        "subcategory": "Ciência",
+        "puzzles": [
+            {
+                "word": "ÁTOMO",
+                "riddle": "Ponto muito pequeno.",
+                "riddle_hard": "Tijolo invisível de cada ser único."
+            },
+            {
+                "word": "CÉLULA",
+                "riddle": "Unidade de vida.",
+                "riddle_hard": "Pulsando e dividindo-se em eterna paz."
+            },
+            {
+                "word": "MASA",
+                "riddle": "Sustância pesada.",
+                "riddle_hard": "Dando presença física à forma pura."
+            },
+            {
+                "word": "ONDA",
+                "riddle": "Viajante sem peso.",
+                "riddle_hard": "Moviéndose sem deslocar a matéria agora."
+            }
+        ]
+    },
+    {
+        "level_id": 39,
+        "grid_size": 5,
+        "complexity": 4.9,
+        "category": "Humanidade",
+        "subcategory": "História",
+        "puzzles": [
+            {
+                "word": "MITO",
+                "riddle": "Verdade muito antiga.",
+                "riddle_hard": "Lenda vestida com o véu do símbolo."
+            },
+            {
+                "word": "RUÍNA",
+                "riddle": "Esqueleto de rocha.",
+                "riddle_hard": "Falando sobre o que já foi um dia."
+            },
+            {
+                "word": "SAGA",
+                "riddle": "Relato muito longo.",
+                "riddle_hard": "Heróis que vivem nas palavras escritas."
+            },
+            {
+                "word": "IDADE",
+                "riddle": "Capítulo do tempo.",
+                "riddle_hard": "Marcando o passo firme dos povos."
+            }
+        ]
+    },
+    {
+        "level_id": 40,
+        "grid_size": 5,
+        "complexity": 5.0,
+        "category": "Humanidade",
+        "subcategory": "Trabalho",
+        "puzzles": [
+            {
+                "word": "OFÍCIO",
+                "riddle": "Tarefa com alma.",
+                "riddle_hard": "Arte de fazer algo bem feito hoje."
+            },
+            {
+                "word": "META",
+                "riddle": "Ponto de chegada.",
+                "riddle_hard": "Farol final após todo o esforço."
+            },
+            {
+                "word": "ÊXITO",
+                "riddle": "Fruto do tempo.",
+                "riddle_hard": "Dedicação que se torna real agora."
+            },
+            {
+                "word": "AFÃ",
+                "riddle": "Ardor por fazer.",
+                "riddle_hard": "Desejo ardente que nos move sempre."
+            }
+        ]
+    },
+    {
+        "level_id": 41,
+        "grid_size": 5,
+        "complexity": 5.1,
+        "category": "Zen",
+        "subcategory": "Essência",
+        "puzzles": [
+            {
+                "word": "VAZIO",
+                "riddle": "Espaço para nascer.",
+                "riddle_hard": "Onde nada é e tudo nasce hoje."
+            },
+            {
+                "word": "PLENO",
+                "riddle": "Não falta nada.",
+                "riddle_hard": "Completitude em cada respiração profunda sempre."
+            },
+            {
+                "word": "KARMA",
+                "riddle": "Semente de ação.",
+                "riddle_hard": "O eco que sempre volta para nós."
+            },
+            {
+                "word": "DHARMA",
+                "riddle": "Propósito de vida.",
+                "riddle_hard": "O caminho reto da alma humana."
+            }
+        ]
+    },
+    {
+        "level_id": 42,
+        "grid_size": 5,
+        "complexity": 5.2,
+        "category": "Meditação",
+        "subcategory": "Prática",
+        "puzzles": [
+            {
+                "word": "SESSÃO",
+                "riddle": "Tempo de retiro.",
+                "riddle_hard": "Viagem sagrada rumo ao centro puro."
+            },
+            {
+                "word": "MUDRA",
+                "riddle": "Gesto de mãos.",
+                "riddle_hard": "Selo de calma e energia pura agora."
+            },
+            {
+                "word": "MANTRA",
+                "riddle": "Som da mente.",
+                "riddle_hard": "Palavra que limpa o pensamento vago."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Ser com calma.",
+                "riddle_hard": "Simplicidade de existir sem pensar agora."
+            }
+        ]
+    },
+    {
+        "level_id": 43,
+        "grid_size": 5,
+        "complexity": 5.3,
+        "category": "Sabedoria",
+        "subcategory": "Verdade",
+        "puzzles": [
+            {
+                "word": "SÁBIO",
+                "riddle": "Hombre que sabe.",
+                "riddle_hard": "Aquele que escuta o silêncio absoluto."
+            },
+            {
+                "word": "VERDADE",
+                "riddle": "La luz que brilla.",
+                "riddle_hard": "Lo que queda tras la duda."
+            },
+            {
+                "word": "RAZÃO",
+                "riddle": "Luz da lógica.",
+                "riddle_hard": "Buscando o equilíbrio no caos total."
+            },
+            {
+                "word": "JUÍZO",
+                "riddle": "Opinião de algo.",
+                "riddle_hard": "Balança da mente para discernir bem."
+            }
+        ]
+    },
+    {
+        "level_id": 44,
+        "grid_size": 5,
+        "complexity": 5.4,
+        "category": "Concepto",
+        "subcategory": "Tempo",
+        "puzzles": [
+            {
+                "word": "SÉCULO",
+                "riddle": "Cem anos juntos.",
+                "riddle_hard": "Um suspiro longo na história humana."
+            },
+            {
+                "word": "ÉPOCA",
+                "riddle": "Tempo de geração.",
+                "riddle_hard": "O clima que define uma era inteira."
+            },
+            {
+                "word": "ETAPA",
+                "riddle": "Parte do caminho.",
+                "riddle_hard": "Um trecho com seu próprio aprendizado."
+            },
+            {
+                "word": "MARCO",
+                "riddle": "Marca inesquecível.",
+                "riddle_hard": "Pedra branca no longo percurso hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 45,
+        "grid_size": 5,
+        "complexity": 5.5,
+        "category": "Universo",
+        "subcategory": "Vastidão",
+        "puzzles": [
+            {
+                "word": "ORBE",
+                "riddle": "Mundo que gira.",
+                "riddle_hard": "Esfera perfeita em noite eterna hoje."
+            },
+            {
+                "word": "AURA",
+                "riddle": "A luz da vida.",
+                "riddle_hard": "Véu de cor que nos rodeia suave."
+            },
+            {
+                "word": "ÉTER",
+                "riddle": "Sustância de céu.",
+                "riddle_hard": "Vácuo cheio entre as estrelas distantes."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Onde não há nada.",
+                "riddle_hard": "Silêncio antes do primeiro som."
+            }
+        ]
+    },
+    {
+        "level_id": 46,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "Elementos",
+        "subcategory": "Luz",
+        "puzzles": [
+            {
+                "word": "RAIO",
+                "riddle": "Luz na tormenta.",
+                "riddle_hard": "Flecha dourada que rompe as nuvens."
+            },
+            {
+                "word": "REFLEXO",
+                "riddle": "Imagem na água.",
+                "riddle_hard": "Cópia perfeita quando tudo se cala."
+            },
+            {
+                "word": "PRISMA",
+                "riddle": "Cristal de cores.",
+                "riddle_hard": "Decomponindo a luz em mil cores."
+            },
+            {
+                "word": "BRILHO",
+                "riddle": "Luz nos objetos.",
+                "riddle_hard": "Reflexo da vida em cada superfície."
+            }
+        ]
+    },
+    {
+        "level_id": 47,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "Elementos",
+        "subcategory": "Sombra",
+        "puzzles": [
+            {
+                "word": "PENUMBRA",
+                "riddle": "Luz muito suave.",
+                "riddle_hard": "Escuridão misturada com o dia hoje."
+            },
+            {
+                "word": "SILHUETA",
+                "riddle": "Contorno da forma.",
+                "riddle_hard": "Desenho feito pela ausência de luz."
+            },
+            {
+                "word": "VÉU",
+                "riddle": "Pano muito fino.",
+                "riddle_hard": "Ocultando e revelando ao mesmo tempo."
+            },
+            {
+                "word": "OCULTO",
+                "riddle": "O que não vemos.",
+                "riddle_hard": "Esperando ser descoberto por trás de tudo."
+            }
+        ]
+    },
+    {
+        "level_id": 48,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "Elementos",
+        "subcategory": "Som",
+        "puzzles": [
+            {
+                "word": "TIMBRE",
+                "riddle": "Marca da voz.",
+                "riddle_hard": "Impressão única que nos diferencia sempre."
+            },
+            {
+                "word": "TOM",
+                "riddle": "Altura do som.",
+                "riddle_hard": "Definindo o caráter de cada cantar."
+            },
+            {
+                "word": "GRAVE",
+                "riddle": "Vibración muito baixa.",
+                "riddle_hard": "Som profundo que ressoa no peito."
+            },
+            {
+                "word": "AGUDO",
+                "riddle": "Som muito alto.",
+                "riddle_hard": "Canto fino que atravessa o ar hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 49,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "Vida",
+        "subcategory": "Dinâmica",
+        "puzzles": [
+            {
+                "word": "GIRO",
+                "riddle": "Mudança de rumo.",
+                "riddle_hard": "Mostrando uma nova perspectiva a nós."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Unidade de viagem.",
+                "riddle_hard": "Avançando lentamente rumo ao destino final."
+            },
+            {
+                "word": "SALTO",
+                "riddle": "Volar sem asas.",
+                "riddle_hard": "Abandono momentâneo de toda a segurança."
+            },
+            {
+                "word": "DANÇA",
+                "riddle": "Música no corpo.",
+                "riddle_hard": "O movimento que se torna canção sagrada."
+            }
+        ]
+    },
+    {
+        "level_id": 50,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "Paz",
+        "subcategory": "Repouso",
+        "puzzles": [
+            {
+                "word": "SONO",
+                "riddle": "Tempo de dormir.",
+                "riddle_hard": "Ponte rumo ao descanso da alma."
+            },
+            {
+                "word": "CAMA",
+                "riddle": "Lugar de repouso.",
+                "riddle_hard": "Porto de paz para a nossa fadiga."
+            },
+            {
+                "word": "NOITE",
+                "riddle": "Tempo da lua.",
+                "riddle_hard": "Manto de estrelas para o recolhimento."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Sem nenhum ruído.",
+                "riddle_hard": "Estado final de harmonia interna hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 51,
+        "grid_size": 5,
+        "complexity": 6.1,
+        "category": "Conceito",
+        "subcategory": "Liberdade",
+        "puzzles": [
+            {
+                "word": "LIVRE",
+                "riddle": "Ser como o vento.",
+                "riddle_hard": "Sem dono nem amarras mundanas agora."
+            },
+            {
+                "word": "ASAS",
+                "riddle": "Para voar alto.",
+                "riddle_hard": "Para elevar-se sobre o cotidiano puro."
+            },
+            {
+                "word": "CÉU",
+                "riddle": "Espaço sem fim.",
+                "riddle_hard": "Onde habita a liberdade pura hoje."
+            },
+            {
+                "word": "VOO",
+                "riddle": "Ato de confiar.",
+                "riddle_hard": "Sustentar-se no nada com força interna."
+            }
+        ]
+    },
+    {
+        "level_id": 52,
+        "grid_size": 5,
+        "complexity": 6.2,
+        "category": "Conceito",
+        "subcategory": "Justiça",
+        "puzzles": [
+            {
+                "word": "LEI",
+                "riddle": "Regra entre homens.",
+                "riddle_hard": "Buscando o equilíbrio no caos total."
+            },
+            {
+                "word": "BALANÇA",
+                "riddle": "Símbolo de equidade.",
+                "riddle_hard": "Pesando razões e fatos mudos agora."
+            },
+            {
+                "word": "RETO",
+                "riddle": "Caminho sem desvios.",
+                "riddle_hard": "O que é sempre justo e perfeito."
+            },
+            {
+                "word": "JUIZ",
+                "riddle": "Decide com justiça.",
+                "riddle_hard": "A carga de decidir a verdade pura."
+            }
+        ]
+    },
+    {
+        "level_id": 53,
+        "grid_size": 5,
+        "complexity": 6.3,
+        "category": "Conceito",
+        "subcategory": "Verdade",
+        "puzzles": [
+            {
+                "word": "HONRA",
+                "riddle": "Viver com inteireza.",
+                "riddle_hard": "Valor supremo que nasce da alma."
+            },
+            {
+                "word": "PURO",
+                "riddle": "Luz sin mancha.",
+                "riddle_hard": "Brilhando sem o engano do mundo."
+            },
+            {
+                "word": "SINCERO",
+                "riddle": "Fala com o coração.",
+                "riddle_hard": "Onde a voz e o sentir coincidem."
+            },
+            {
+                "word": "FATO",
+                "riddle": "Realidade sólida.",
+                "riddle_hard": "Evidência clara que não admite discussão hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 54,
+        "grid_size": 5,
+        "complexity": 6.4,
+        "category": "Humanidade",
+        "subcategory": "Amizade",
+        "puzzles": [
+            {
+                "word": "SÓCIO",
+                "riddle": "Parceiro de tarefas.",
+                "riddle_hard": "Construindo juntos um grande sonho comum."
+            },
+            {
+                "word": "ALIADO",
+                "riddle": "Unidos contra tudo.",
+                "riddle_hard": "Força somada perante toda adversidade pura."
+            },
+            {
+                "word": "UNIÃO",
+                "riddle": "Nó de força.",
+                "riddle_hard": "Tornando forte o que antes era frágil."
+            },
+            {
+                "word": "LAÇO",
+                "riddle": "Vínculo de afeto.",
+                "riddle_hard": "Cultivado com o passar do tempo hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 55,
+        "grid_size": 5,
+        "complexity": 6.5,
+        "category": "Humanidade",
+        "subcategory": "Família",
+        "puzzles": [
+            {
+                "word": "MÃE",
+                "riddle": "Raíz que nutre.",
+                "riddle_hard": "A primeira grande proteção da vida."
+            },
+            {
+                "word": "PAI",
+                "riddle": "Tronco firme guia.",
+                "riddle_hard": "Sustento do crescimento rumo à luz eterna."
+            },
+            {
+                "word": "FILHO",
+                "riddle": "Ramo do futuro.",
+                "riddle_hard": "Estendendo a nossa história para além hoje."
+            },
+            {
+                "word": "NETO",
+                "riddle": "Broto de esperança.",
+                "riddle_hard": "Renovando a estirpe com pura alegria."
+            }
+        ]
+    },
+    {
+        "level_id": 56,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "Viagem",
+        "subcategory": "Aventura",
+        "puzzles": [
+            {
+                "word": "ROTA",
+                "riddle": "Traço de mapa.",
+                "riddle_hard": "Destino desenhado sobre o vasto mundo."
+            },
+            {
+                "word": "MAPA",
+                "riddle": "Papel de viagem.",
+                "riddle_hard": "Encerrando a imensidade do sendero hoje."
+            },
+            {
+                "word": "GUIA",
+                "riddle": "Conhece o caminho.",
+                "riddle_hard": "Faro humano em sendero incerto agora."
+            },
+            {
+                "word": "DESTINO",
+                "riddle": "Porto de chegada.",
+                "riddle_hard": "Aguardando ao final de todas as naus."
+            }
+        ]
+    },
+    {
+        "level_id": 57,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "Mistério",
+        "subcategory": "Enigma",
+        "puzzles": [
+            {
+                "word": "CHAVE",
+                "riddle": "Abre o fechado.",
+                "riddle_hard": "Pequena peça de um grande segredo."
+            },
+            {
+                "word": "ARCANO",
+                "riddle": "Segredo muito velho.",
+                "riddle_hard": "Revelado apenas pelo tempo sagrado hoje."
+            },
+            {
+                "word": "SIGILO",
+                "riddle": "Selo de silêncio.",
+                "riddle_hard": "Guardando o que é realmente sagrado agora."
+            },
+            {
+                "word": "ENIGMA",
+                "riddle": "Pergunta sem resposta.",
+                "riddle_hard": "Desafio cego para a razão humana."
+            }
+        ]
+    },
+    {
+        "level_id": 58,
+        "grid_size": 6,
+        "complexity": 6.8,
+        "category": "Conceito",
+        "subcategory": "Sorte",
+        "puzzles": [
+            {
+                "word": "AZAR",
+                "riddle": "Sorte sem controle.",
+                "riddle_hard": "Capricho dos dados lançados ao ar."
+            },
+            {
+                "word": "DADO",
+                "riddle": "Cubo de sorte.",
+                "riddle_hard": "Decidindo com uma face muda agora."
+            },
+            {
+                "word": "SORTE",
+                "riddle": "Flor de fortuna.",
+                "riddle_hard": "Perfume nos caminhos do sucesso hoje."
+            },
+            {
+                "word": "FORTUNA",
+                "riddle": "Roda que gira.",
+                "riddle_hard": "Sobe e desce sem nunca avisar."
+            }
+        ]
+    },
+    {
+        "level_id": 59,
+        "grid_size": 6,
+        "complexity": 6.9,
+        "category": "Conceito",
+        "subcategory": "Destino",
+        "puzzles": [
+            {
+                "word": "SINA",
+                "riddle": "Marca do nascer.",
+                "riddle_hard": "Linha invisível do próprio ser hoje."
+            },
+            {
+                "word": "HADO",
+                "riddle": "Poder que tece.",
+                "riddle_hard": "Fios que movem a nossa existência."
+            },
+            {
+                "word": "FADO",
+                "riddle": "Canto do destino.",
+                "riddle_hard": "Melancolia pelo que terá de ser."
+            },
+            {
+                "word": "META",
+                "riddle": "Ponto de final.",
+                "riddle_hard": "Chegada de toda a nossa jornada vital."
+            }
+        ]
+    },
+    {
+        "level_id": 60,
+        "grid_size": 6,
+        "complexity": 7.0,
+        "category": "Humanidade",
+        "subcategory": "Vontade",
+        "puzzles": [
+            {
+                "word": "GOSTO",
+                "riddle": "O que se gosta.",
+                "riddle_hard": "Inclinação natural para o ser amado."
+            },
+            {
+                "word": "GANA",
+                "riddle": "Impulso por fazer.",
+                "riddle_hard": "Força interna que vence a preguiça."
+            },
+            {
+                "word": "ROGO",
+                "riddle": "Pedido muito humilde.",
+                "riddle_hard": "Súplica de quem tem uma grande necessidade."
+            },
+            {
+                "word": "AFÃ",
+                "riddle": "Desejo do melhor.",
+                "riddle_hard": "Movendo-se sempre rumo à excelência pura."
+            }
+        ]
+    },
+    {
+        "level_id": 61,
+        "grid_size": 5,
+        "complexity": 7.1,
+        "category": "Zen",
+        "subcategory": "Dualidade",
+        "puzzles": [
+            {
+                "word": "YIN",
+                "riddle": "Sombra receptiva.",
+                "riddle_hard": "O feminino que complementa a luz."
+            },
+            {
+                "word": "YANG",
+                "riddle": "Força activa.",
+                "riddle_hard": "O fogo que busca expansão pura."
+            },
+            {
+                "word": "PAR",
+                "riddle": "Dois em equilíbrio.",
+                "riddle_hard": "Par necessário para a paz sagrada."
+            },
+            {
+                "word": "OPOSTO",
+                "riddle": "Espelho que falta.",
+                "riddle_hard": "Mostrando aquilo que não somos hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 62,
+        "grid_size": 5,
+        "complexity": 7.2,
+        "category": "Zen",
+        "subcategory": "Unidade",
+        "puzzles": [
+            {
+                "word": "UM",
+                "riddle": "Número inicial.",
+                "riddle_hard": "Onde toda conta começa sempre hoje."
+            },
+            {
+                "word": "TUDO",
+                "riddle": "Soma de partes.",
+                "riddle_hard": "Contendo cada fragmento do ser puro."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "Ponte que une.",
+                "riddle_hard": "União do que parece estar longe."
+            },
+            {
+                "word": "ÚNICO",
+                "riddle": "Sem igual e um.",
+                "riddle_hard": "Sola joia em todo o universo agora."
+            }
+        ]
+    },
+    {
+        "level_id": 63,
+        "grid_size": 5,
+        "complexity": 7.3,
+        "category": "Zen",
+        "subcategory": "Mudança",
+        "puzzles": [
+            {
+                "word": "MUDANÇA",
+                "riddle": "Soltar o velho.",
+                "riddle_hard": "Deixando entrar o ar novo sempre."
+            },
+            {
+                "word": "GIRO",
+                "riddle": "Giro circular.",
+                "riddle_hard": "Renovando cada ponto de vista puro."
+            },
+            {
+                "word": "TROCA",
+                "riddle": "Mudar as coisas.",
+                "riddle_hard": "Intercâmbio puro para crescerem juntos agora."
+            },
+            {
+                "word": "FASE",
+                "riddle": "Parte do ciclo.",
+                "riddle_hard": "Momento com o seu próprio brilho."
+            }
+        ]
+    },
+    {
+        "level_id": 64,
+        "grid_size": 5,
+        "complexity": 7.4,
+        "category": "Zen",
+        "subcategory": "Equilíbrio",
+        "puzzles": [
+            {
+                "word": "CENTRO",
+                "riddle": "Ponto de calma.",
+                "riddle_hard": "Eixo quieto no meio da tormenta."
+            },
+            {
+                "word": "EIXO",
+                "riddle": "Linha que gira.",
+                "riddle_hard": "Sobre a qual dança o mundo hoje."
+            },
+            {
+                "word": "BALANÇO",
+                "riddle": "Jogo de pesos.",
+                "riddle_hard": "Sem cair em nenhum extremo jamais."
+            },
+            {
+                "word": "PESO",
+                "riddle": "Valor de algo.",
+                "riddle_hard": "A importância que a nossa alma outorga."
+            }
+        ]
+    },
+    {
+        "level_id": 65,
+        "grid_size": 5,
+        "complexity": 7.5,
+        "category": "Zen",
+        "subcategory": "Silêncio",
+        "puzzles": [
+            {
+                "word": "MUDO",
+                "riddle": "Sem falar nada.",
+                "riddle_hard": "Escutando a própria alma em paz."
+            },
+            {
+                "word": "CALMA",
+                "riddle": "Ruído que pára.",
+                "riddle_hard": "Estado de graça muito profunda hoje."
+            },
+            {
+                "word": "SOSSEGO",
+                "riddle": "Paz profunda.",
+                "riddle_hard": "Ao deixar de buscar no exterior."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Coração quieto.",
+                "riddle_hard": "Quietude que finalmente encontrou um lar."
+            }
+        ]
+    },
+    {
+        "level_id": 66,
+        "grid_size": 5,
+        "complexity": 7.6,
+        "category": "Zen",
+        "subcategory": "Gratidão",
+        "puzzles": [
+            {
+                "word": "GRAÇA",
+                "riddle": "Dom da vida.",
+                "riddle_hard": "Presente gratuito do céu puro hoje."
+            },
+            {
+                "word": "DOM",
+                "riddle": "Talento nato.",
+                "riddle_hard": "Fluindo através de cada um nós."
+            },
+            {
+                "word": "FAVOR",
+                "riddle": "Ajuda no mal.",
+                "riddle_hard": "Mão estendida para aquele que sofre."
+            },
+            {
+                "word": "GRAÇAS",
+                "riddle": "Palavra do bem.",
+                "riddle_hard": "Abrindo as portas do céu sagrado."
+            }
+        ]
+    },
+    {
+        "level_id": 67,
+        "grid_size": 5,
+        "complexity": 7.7,
+        "category": "Zen",
+        "subcategory": "Compaixão",
+        "puzzles": [
+            {
+                "word": "PIEDADE",
+                "riddle": "Ver a dor do outro.",
+                "riddle_hard": "Sinto como se fosse a própria."
+            },
+            {
+                "word": "PENA",
+                "riddle": "Peso do outro.",
+                "riddle_hard": "Aliviando a carga ao nosso irmão."
+            },
+            {
+                "word": "DOR",
+                "riddle": "Mestre duro.",
+                "riddle_hard": "Ensinando a nossa alma a amar bem."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "Remédio da alma.",
+                "riddle_hard": "Curando todas as feridas abertas hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 68,
+        "grid_size": 5,
+        "complexity": 7.8,
+        "category": "Zen",
+        "subcategory": "Desapego",
+        "puzzles": [
+            {
+                "word": "SOLTO",
+                "riddle": "Sem amarras.",
+                "riddle_hard": "Sem que o mundo nos possua agora."
+            },
+            {
+                "word": "LONGE",
+                "riddle": "Longe de tudo.",
+                "riddle_hard": "Olhando sem paixão o longo caminho."
+            },
+            {
+                "word": "LIVRE",
+                "riddle": "Vento sem dono.",
+                "riddle_hard": "Espírito que não conhece as grades."
+            },
+            {
+                "word": "DESUSO",
+                "riddle": "Já não serve.",
+                "riddle_hard": "Deixando ir com pura gratidão hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 69,
+        "grid_size": 5,
+        "complexity": 7.9,
+        "category": "Zen",
+        "subcategory": "Humildade",
+        "puzzles": [
+            {
+                "word": "BAIXO",
+                "riddle": "Perto da terra.",
+                "riddle_hard": "Onde flui a água que fecunda hoje."
+            },
+            {
+                "word": "SIMPLES",
+                "riddle": "Sem nenhum luxo.",
+                "riddle_hard": "Beleza que não precisa de se mostrar."
+            },
+            {
+                "word": "PLANO",
+                "riddle": "Sem subidas.",
+                "riddle_hard": "Desimpedido para quem nada busca hoje."
+            },
+            {
+                "word": "HUMILDE",
+                "riddle": "Ser pequeno.",
+                "riddle_hard": "Perante a imensidade do ser puro."
+            }
+        ]
+    },
+    {
+        "level_id": 70,
+        "grid_size": 5,
+        "complexity": 8.0,
+        "category": "Zen",
+        "subcategory": "Iluminação",
+        "puzzles": [
+            {
+                "word": "BUDA",
+                "riddle": "O que acordou.",
+                "riddle_hard": "Visto a natureza da realidade pura."
+            },
+            {
+                "word": "NIRVANA",
+                "riddle": "Fim do desejo.",
+                "riddle_hard": "Extinção do fogo e de todo o sofrer."
+            },
+            {
+                "word": "ACORDAR",
+                "riddle": "Abrir os olhos.",
+                "riddle_hard": "Olhando a luz do agora sagrado."
+            },
+            {
+                "word": "SER",
+                "riddle": "Presença pura.",
+                "riddle_hard": "Transcending todo o nome e a forma hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 71,
+        "grid_size": 5,
+        "complexity": 8.1,
+        "category": "Arte",
+        "subcategory": "Escultura",
+        "puzzles": [
+            {
+                "word": "MOLDE",
+                "riddle": "Vazio com forma.",
+                "riddle_hard": "Onde a matéria se torna dócil hoje."
+            },
+            {
+                "word": "BARRO",
+                "riddle": "Terra com água.",
+                "riddle_hard": "Terra humilde sonhando ser estátua."
+            },
+            {
+                "word": "MÁRMORE",
+                "riddle": "Pedra muito branca.",
+                "riddle_hard": "Guardando uma figura no seu interior."
+            },
+            {
+                "word": "CINZEL",
+                "riddle": "Dente de aço.",
+                "riddle_hard": "Libera a beleza que está oculta pura."
+            }
+        ]
+    },
+    {
+        "level_id": 72,
+        "grid_size": 5,
+        "complexity": 8.2,
+        "category": "Arte",
+        "subcategory": "Dança",
+        "puzzles": [
+            {
+                "word": "PASSO",
+                "riddle": "Letra de dança.",
+                "riddle_hard": "Poema escrito com os pés hoje aqui."
+            },
+            {
+                "word": "RITMO",
+                "riddle": "Fio que guia.",
+                "riddle_hard": "O movimento que o corpo segue sempre."
+            },
+            {
+                "word": "SALTO",
+                "riddle": "Esquecer a terra.",
+                "riddle_hard": "Buscando o ar por um breve momento."
+            },
+            {
+                "word": "GIRO",
+                "riddle": "Girar no ponto.",
+                "riddle_hard": "O mundo dança sobre um único eixo."
+            }
+        ]
+    },
+    {
+        "level_id": 73,
+        "grid_size": 5,
+        "complexity": 8.3,
+        "category": "Arte",
+        "subcategory": "Poesia",
+        "puzzles": [
+            {
+                "word": "RIMA",
+                "riddle": "Beijo de palavras.",
+                "riddle_hard": "Dois sons que se amam para sempre."
+            },
+            {
+                "word": "VERSO",
+                "riddle": "Linha de luz.",
+                "riddle_hard": "Medindo o pulso do sentimento puro."
+            },
+            {
+                "word": "ESTRO",
+                "riddle": "Fogo sagrado.",
+                "riddle_hard": "Ditando o cantar de cada poeta hoje."
+            },
+            {
+                "word": "MUSA",
+                "riddle": "Sussurra segredos.",
+                "riddle_hard": "Sombra divina de inspiração pura agora."
+            }
+        ]
+    },
+    {
+        "level_id": 74,
+        "grid_size": 5,
+        "complexity": 8.4,
+        "category": "Cultura",
+        "subcategory": "Mito",
+        "puzzles": [
+            {
+                "word": "HERÓI",
+                "riddle": "Caminha no fogo.",
+                "riddle_hard": "Aquele que se sacrifica pelos outros."
+            },
+            {
+                "word": "SAGA",
+                "riddle": "Relato eterno.",
+                "riddle_hard": "Viagens de lutas e de regressos mudos."
+            },
+            {
+                "word": "MITO",
+                "riddle": "Verdade antiga.",
+                "riddle_hard": "Conto antigo com uma alma de verdade."
+            },
+            {
+                "word": "HADO",
+                "riddle": "Destino que canta.",
+                "riddle_hard": "Sedução do canto das sereias hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 75,
+        "grid_size": 5,
+        "complexity": 8.5,
+        "category": "Cultura",
+        "subcategory": "Sabedoria",
+        "puzzles": [
+            {
+                "word": "SÁBIO",
+                "riddle": "Sabe olhar dentro.",
+                "riddle_hard": "Conhecendo que a fonte é interna vã."
+            },
+            {
+                "word": "LENDA",
+                "riddle": "História polida.",
+                "riddle_hard": "Tempo que brilha como diamante agora."
+            },
+            {
+                "word": "LEMA",
+                "riddle": "Sentença breve.",
+                "riddle_hard": "Guia de agir para a alma humana."
+            },
+            {
+                "word": "NORMA",
+                "riddle": "Regra de harmonia.",
+                "riddle_hard": "Buscando equilíbrio na convivência pura hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 76,
+        "grid_size": 5,
+        "complexity": 8.6,
+        "category": "Mente",
+        "subcategory": "Memória",
+        "puzzles": [
+            {
+                "word": "OLVIDO",
+                "riddle": "Mar de sombras.",
+                "riddle_hard": "Onde naufragam os restos do ontem."
+            },
+            {
+                "word": "RECORDO",
+                "riddle": "Chispa de passado.",
+                "riddle_hard": "Acendendo o ontem no agora sagrado."
+            },
+            {
+                "word": "ONTEM",
+                "riddle": "O eco do sol.",
+                "riddle_hard": "Luz longínqua de um sol oculto."
+            },
+            {
+                "word": "PEGADA",
+                "riddle": "Cicatriz de tempo.",
+                "riddle_hard": "Passo marcado no caminho cego hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 77,
+        "grid_size": 5,
+        "complexity": 8.7,
+        "category": "Mente",
+        "subcategory": "Atenção",
+        "puzzles": [
+            {
+                "word": "MIRA",
+                "riddle": "Raio da alma.",
+                "riddle_hard": "Pousando suave sobre todas as formas."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Ponto de luz.",
+                "riddle_hard": "Concentração total no saber solto agora."
+            },
+            {
+                "word": "ZELO",
+                "riddle": "Cuidado extremo.",
+                "riddle_hard": "Beleza amada no que é mais pequeno."
+            },
+            {
+                "word": "ATENTO",
+                "riddle": "Estar presente.",
+                "riddle_hard": "Água que reflete a lua quieta hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 78,
+        "grid_size": 5,
+        "complexity": 8.8,
+        "category": "Mente",
+        "subcategory": "Calma",
+        "puzzles": [
+            {
+                "word": "AZAR",
+                "riddle": "Dados do destino.",
+                "riddle_hard": "Jogo que a mente deve aceitar agora."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Silêncio branco.",
+                "riddle_hard": "Habitando após o ruído do pensar puro."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Caminho direto.",
+                "riddle_hard": "Rumo à própria natureza do ser sagrado."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Origem sem nome.",
+                "riddle_hard": "Onde tudo surge e tudo volta sempre."
+            }
+        ]
+    },
+    {
+        "level_id": 79,
+        "grid_size": 5,
+        "complexity": 8.9,
+        "category": "Mundo",
+        "subcategory": "Essência",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "Sopro de vida.",
+                "riddle_hard": "Divindade que anima o barro humano hoje."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Danza silente.",
+                "riddle_hard": "Breve milagre entre dois nadas agora."
+            },
+            {
+                "word": "SER",
+                "riddle": "Consciência pura.",
+                "riddle_hard": "Observador do fluxo eterno do mundo vã."
+            },
+            {
+                "word": "UM",
+                "riddle": "Cifra de união.",
+                "riddle_hard": "Unindo o átomo à galáxia infinita hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 80,
+        "grid_size": 5,
+        "complexity": 9.0,
+        "category": "Mundo",
+        "subcategory": "Voz",
+        "puzzles": [
+            {
+                "word": "VOZ",
+                "riddle": "Ponte de som.",
+                "riddle_hard": "Cruzando o abismo do silêncio mudo hoje."
+            },
+            {
+                "word": "ECO",
+                "riddle": "Voz que volta.",
+                "riddle_hard": "Buscando alguém no vazio absoluto agora."
+            },
+            {
+                "word": "SOM",
+                "riddle": "Matiz de música.",
+                "riddle_hard": "Alegrando o coração do dia cinzento vã."
+            },
+            {
+                "word": "RIMA",
+                "riddle": "Pensamento canta.",
+                "riddle_hard": "Harmonia final de uma ideia bela sagrada."
+            }
+        ]
+    },
+    {
+        "level_id": 81,
+        "grid_size": 5,
+        "complexity": 9.1,
+        "category": "Espírito",
+        "subcategory": "Luz",
+        "puzzles": [
+            {
+                "word": "LUMEN",
+                "riddle": "Unidade de luz vã.",
+                "riddle_hard": "Luz mínima vinda da própria divindade."
+            },
+            {
+                "word": "FOGO",
+                "riddle": "Dança de calor.",
+                "riddle_hard": "Purificando tudo o que toca hoje aqui."
+            },
+            {
+                "word": "SOL",
+                "riddle": "Olho de ouro.",
+                "riddle_hard": "Velando pelo acordar do mundo sagrado."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Apaga as sombras.",
+                "riddle_hard": "Primeiro grito após o silêncio eterno vã."
+            }
+        ]
+    },
+    {
+        "level_id": 82,
+        "grid_size": 5,
+        "complexity": 9.2,
+        "category": "Espírito",
+        "subcategory": "Alento",
+        "puzzles": [
+            {
+                "word": "SOPRO",
+                "riddle": "Beijo invisível.",
+                "riddle_hard": "Acendendo a chispa vital do ser puro."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Oceano invisível.",
+                "riddle_hard": "Vento no qual todos nadamos agora hoje."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Milagre latente.",
+                "riddle_hard": "O que pulsa em cada instante sagrado."
+            },
+            {
+                "word": "PULSO",
+                "riddle": "Tambor rítmico.",
+                "riddle_hard": "Contando a nossa história no peito vã."
+            }
+        ]
+    },
+    {
+        "level_id": 83,
+        "grid_size": 5,
+        "complexity": 9.3,
+        "category": "Sabedoria",
+        "subcategory": "Silêncio",
+        "puzzles": [
+            {
+                "word": "MUDO",
+                "riddle": "Sem falar nada.",
+                "riddle_hard": "Escutando a música das esferas celestes aqui."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Sossego profundo.",
+                "riddle_hard": "Quietude da alma que já nada busca."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Flecha sem arco.",
+                "riddle_hard": "Acertando no alvo sem nunca apontar vã."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Tela em branco.",
+                "riddle_hard": "Onde o destino escreve a sua história."
+            }
+        ]
+    },
+    {
+        "level_id": 84,
+        "grid_size": 5,
+        "complexity": 9.4,
+        "category": "Sabedoria",
+        "subcategory": "Verdade",
+        "puzzles": [
+            {
+                "word": "MARGEM",
+                "riddle": "Beira do ser vã.",
+                "riddle_hard": "Onde a verdade encontra o homem hoje."
+            },
+            {
+                "word": "LEI",
+                "riddle": "Ordem sagrada.",
+                "riddle_hard": "Rege o baile de todos os átomos."
+            },
+            {
+                "word": "SER",
+                "riddle": "Essência pura vã.",
+                "riddle_hard": "Transcending toda a máscara do mundo aqui."
+            },
+            {
+                "word": "UM",
+                "riddle": "Raiz de tudo vã.",
+                "riddle_hard": "Origem de toda a multiplicidade infinita hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 85,
+        "grid_size": 5,
+        "complexity": 9.5,
+        "category": "Natureza",
+        "subcategory": "Água",
+        "puzzles": [
+            {
+                "word": "MAR",
+                "riddle": "Vastidão de azul.",
+                "riddle_hard": "Azul que sonha com a lua cheia."
+            },
+            {
+                "word": "ONDA",
+                "riddle": "Mão de espuma vã.",
+                "riddle_hard": "Escrevendo na areia do tempo eterno hoje."
+            },
+            {
+                "word": "RIO",
+                "riddle": "Caminho prata.",
+                "riddle_hard": "Água que flui rumo ao esquecimento puro."
+            },
+            {
+                "word": "NUVEM",
+                "riddle": "Velo de cristal.",
+                "riddle_hard": "Viajando com o alento do vento vã."
+            }
+        ]
+    },
+    {
+        "level_id": 86,
+        "grid_size": 5,
+        "complexity": 9.6,
+        "category": "Natureza",
+        "subcategory": "Terra",
+        "puzzles": [
+            {
+                "word": "ROCHA",
+                "riddle": "Osso da terra vã.",
+                "riddle_hard": "Resistindo ao beijo de todos os séculos."
+            },
+            {
+                "word": "VALE",
+                "riddle": "Berço de verde.",
+                "riddle_hard": "Onde o sol descansa ao entardecer hoje."
+            },
+            {
+                "word": "MONTE",
+                "riddle": "Gigante pedra.",
+                "riddle_hard": "Sussurrando segredos às nuvens brancas vã agora."
+            },
+            {
+                "word": "CHÃO",
+                "riddle": "Pele do mundo vã.",
+                "riddle_hard": "Sustentando todos os nossos passos hoje aqui."
+            }
+        ]
+    },
+    {
+        "level_id": 87,
+        "grid_size": 5,
+        "complexity": 9.7,
+        "category": "Humano",
+        "subcategory": "Corpo",
+        "puzzles": [
+            {
+                "word": "MÃO",
+                "riddle": "Asa para tocar.",
+                "riddle_hard": "Asa terrestre capaz de criar sozinha hoje."
+            },
+            {
+                "word": "OLHO",
+                "riddle": "Janela da alma.",
+                "riddle_hard": "Cristal pelo qual a alma espia agora."
+            },
+            {
+                "word": "PÉ",
+                "riddle": "Leva por caminhos.",
+                "riddle_hard": "Base firme para todos os novos trilhos."
+            },
+            {
+                "word": "CARA",
+                "riddle": "Mapa de viver.",
+                "riddle_hard": "Alegrias e penas escritas na pele vã."
+            }
+        ]
+    },
+    {
+        "level_id": 88,
+        "grid_size": 5,
+        "complexity": 9.8,
+        "category": "Humano",
+        "subcategory": "Lar",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Refúgio pedra.",
+                "riddle_hard": "Para o coração que chega cansado hoje."
+            },
+            {
+                "word": "PÃO",
+                "riddle": "Fruto do trigo.",
+                "riddle_hard": "Unindo todos nós à volta da mesa."
+            },
+            {
+                "word": "FOGO",
+                "riddle": "Afasta sombras.",
+                "riddle_hard": "Lar acendido contra o frio inverno vã."
+            },
+            {
+                "word": "MESA",
+                "riddle": "Lugar de encontro.",
+                "riddle_hard": "Compartilhando o pão e a voz sagrada."
+            }
+        ]
+    },
+    {
+        "level_id": 89,
+        "grid_size": 5,
+        "complexity": 9.9,
+        "category": "Tempo",
+        "subcategory": "Ciclo",
+        "puzzles": [
+            {
+                "word": "DIA",
+                "riddle": "Oceano de luz.",
+                "riddle_hard": "Esgotando-se na margem da noite vã agora."
+            },
+            {
+                "word": "MÊS",
+                "riddle": "Capítulo lua.",
+                "riddle_hard": "Ditado pelo baile do céu sagrado hoje."
+            },
+            {
+                "word": "ANO",
+                "riddle": "Volta a estrela.",
+                "riddle_hard": "Recurso completo da terra mãe sagrada vã."
+            },
+            {
+                "word": "HORA",
+                "riddle": "Fatia de tempo.",
+                "riddle_hard": "Pequena medida da nossa eternidade hoje aqui."
+            }
+        ]
+    },
+    {
+        "level_id": 90,
+        "grid_size": 6,
+        "complexity": 10.0,
+        "category": "Zen",
+        "subcategory": "Agora",
+        "puzzles": [
+            {
+                "word": "AGORA",
+                "riddle": "Tempo que resta.",
+                "riddle_hard": "A única coisa que realmente nos pertence."
+            },
+            {
+                "word": "AQUI",
+                "riddle": "Lugar verdade.",
+                "riddle_hard": "Onde a vida acontece realmente hoje aqui."
+            },
+            {
+                "word": "SER",
+                "riddle": "Presença pura vã.",
+                "riddle_hard": "Transcending todo o nome e a forma hoje."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Final de trilho.",
+                "riddle_hard": "Princípio do descanso eterno da alma vã."
+            }
+        ]
+    },
+    {
+        "level_id": 91,
+        "grid_size": 5,
+        "complexity": 5.1,
+        "category": "Mundo",
+        "subcategory": "Natureza",
+        "puzzles": [
+            {
+                "word": "FLOR",
+                "riddle": "Suspiro de cor vã.",
+                "riddle_hard": "Luz que emerge livremente da terra pura."
+            },
+            {
+                "word": "FOLHA",
+                "riddle": "Pequeno vidro verde.",
+                "riddle_hard": "Vidro vivo que atrapa o sol hoje."
+            },
+            {
+                "word": "RAMO",
+                "riddle": "Braço de madeira.",
+                "riddle_hard": "Buscando o abraço do céu azul sagrado."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Âncora de solo.",
+                "riddle_hard": "Beber do coração da própria terra pura."
+            }
+        ]
+    },
+    {
+        "level_id": 92,
+        "grid_size": 5,
+        "complexity": 5.2,
+        "category": "Mundo",
+        "subcategory": "Céu",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "Cor do infinito.",
+                "riddle_hard": "Sobre as nossas cabeças em tarde vã."
+            },
+            {
+                "word": "RAIO",
+                "riddle": "Gesto de luz vã.",
+                "riddle_hard": "Rompendo o silêncio de cada nuvem hoje."
+            },
+            {
+                "word": "CÉU",
+                "riddle": "Tela de cristal.",
+                "riddle_hard": "Onde o dia se desenha toda manhã."
+            },
+            {
+                "word": "ARES",
+                "riddle": "Ventos da manhã.",
+                "riddle_hard": "Levando as sementes de um novo dia."
+            }
+        ]
+    },
+    {
+        "level_id": 93,
+        "grid_size": 5,
+        "complexity": 5.3,
+        "category": "Essência",
+        "subcategory": "Ser",
+        "puzzles": [
+            {
+                "word": "ÉTER",
+                "riddle": "Tecido invisível.",
+                "riddle_hard": "Sustentando todos os mundos em pura paz."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Silêncio fértil.",
+                "riddle_hard": "Onde surge todo o som de alma."
+            },
+            {
+                "word": "SÓ",
+                "riddle": "Estar com um vã.",
+                "riddle_hard": "Encontro profundo consigo mesmo hoje aqui agora."
+            },
+            {
+                "word": "PURO",
+                "riddle": "Brilha sem mistura.",
+                "riddle_hard": "Luz que brilha por si mesma sempre."
+            }
+        ]
+    },
+    {
+        "level_id": 94,
+        "grid_size": 5,
+        "complexity": 5.4,
+        "category": "Essência",
+        "subcategory": "Fluir",
+        "puzzles": [
+            {
+                "word": "ÁGUA",
+                "riddle": "Sabe adaptar-se.",
+                "riddle_hard": "Fonte de vida que flui para sempre."
+            },
+            {
+                "word": "MANÁ",
+                "riddle": "Presente de céu.",
+                "riddle_hard": "Quando a alma tem sede de puro bem."
+            },
+            {
+                "word": "VEIA",
+                "riddle": "Caminho interno.",
+                "riddle_hard": "Por onde corre todo o rio vital."
+            },
+            {
+                "word": "VIVE",
+                "riddle": "Estar presente vã.",
+                "riddle_hard": "Ato sagrado em cada pulso de agora."
+            }
+        ]
+    },
+    {
+        "level_id": 95,
+        "grid_size": 5,
+        "complexity": 5.5,
+        "category": "Cuerpo",
+        "subcategory": "Ação",
+        "puzzles": [
+            {
+                "word": "MIRA",
+                "riddle": "Ponte de luz vã.",
+                "riddle_hard": "Lançado desde o olho para o objeto."
+            },
+            {
+                "word": "OUVE",
+                "riddle": "Abre o ouvido vã.",
+                "riddle_hard": "Portal ao mistério de todos sons puros."
+            },
+            {
+                "word": "TOCA",
+                "riddle": "Sente a pele vã.",
+                "riddle_hard": "Descobrir o mundo com o dedo agora."
+            },
+            {
+                "word": "SABE",
+                "riddle": "Sabor de verdade.",
+                "riddle_hard": "Sentindo a própria pureza na língua hoje."
+            }
+        ]
+    },
+    {
+        "level_id": 96,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "Mente",
+        "subcategory": "Visão",
+        "puzzles": [
+            {
+                "word": "IDEIA",
+                "riddle": "Chispa cristalina.",
+                "riddle_hard": "Nascendo no pensar mais profundo vã agora."
+            },
+            {
+                "word": "SONHO",
+                "riddle": "Viagem da noite.",
+                "riddle_hard": "Jardins onde tudo é possível hoje aqui."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Claridade mental.",
+                "riddle_hard": "Dissolvendo as sombras de toda a dúvida."
+            },
+            {
+                "word": "VER",
+                "riddle": "Olhar o mundo vã.",
+                "riddle_hard": "O universo entrando pela pupila pura agora."
+            }
+        ]
+    },
+    {
+        "level_id": 97,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "Mente",
+        "subcategory": "Paz",
+        "puzzles": [
+            {
+                "word": "CALMA",
+                "riddle": "Sossego do lago.",
+                "riddle_hard": "Quando o vento finalmente se marchou vã."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Paz de montanha.",
+                "riddle_hard": "Quietude que não busca nada nunca aqui."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Refúgio de alma.",
+                "riddle_hard": "Âncora firme ante todo o ruído mundano."
+            },
+            {
+                "word": "UM",
+                "riddle": "União com tudo vã.",
+                "riddle_hard": "Dançando com todas as galáxias hoje agora."
+            }
+        ]
+    },
+    {
+        "level_id": 98,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "Sociedade",
+        "subcategory": "União",
+        "puzzles": [
+            {
+                "word": "COMO",
+                "riddle": "Une ao sujeito vã.",
+                "riddle_hard": "Ponte que une duas realidades mudas vã."
+            },
+            {
+                "word": "HÁ",
+                "riddle": "Muitas agora vã.",
+                "riddle_hard": "O que existe no presente mais puro."
+            },
+            {
+                "word": "MAIS",
+                "riddle": "Desejo amplo vã.",
+                "riddle_hard": "Crescimento natural de todo o ser santo."
+            },
+            {
+                "word": "BEM",
+                "riddle": "Bússola do justo.",
+                "riddle_hard": "Orientando o passo de quem já sabe."
+            }
+        ]
+    },
+    {
+        "level_id": 99,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "Sociedade",
+        "subcategory": "Trato",
+        "puzzles": [
+            {
+                "word": "AMOR",
+                "riddle": "Força superior.",
+                "riddle_hard": "O que une e sana toda a dor."
+            },
+            {
+                "word": "LEAL",
+                "riddle": "Amigo fiel vã.",
+                "riddle_hard": "Cão branco que não abandona nunca hoje."
+            },
+            {
+                "word": "FIEL",
+                "riddle": "Resiste o tempo vã.",
+                "riddle_hard": "Sem se quebrar ante os anos mudos."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Por sob a pele.",
+                "riddle_hard": "Aquilo que somos sem nome nem forma."
+            }
+        ]
+    },
+    {
+        "level_id": 100,
+        "grid_size": 6,
+        "complexity": 6.0,
+        "category": "Zen",
+        "subcategory": "Cierre",
+        "puzzles": [
+            {
+                "word": "FIM",
+                "riddle": "Final de jardim.",
+                "riddle_hard": "Primeiro caminho que termina em plena calma."
+            },
+            {
+                "word": "META",
+                "riddle": "Chegada ao porto.",
+                "riddle_hard": "Farol que avisa do fim da viagem."
+            },
+            {
+                "word": "LOGRO",
+                "riddle": "Fruto maduro vã.",
+                "riddle_hard": "Nascido de se esforçar e contemplar hoje."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Sorriso de espírito.",
+                "riddle_hard": "Descansando em si mesmo para sempre agora."
+            }
+        ]
+    }
+]

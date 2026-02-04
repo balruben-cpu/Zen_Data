@@ -1,0 +1,4778 @@
+{
+    "Levels": [
+        {
+            "level_id": 301,
+            "grid_size": 6,
+            "category": "Science",
+            "subcategory": "Science",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LENS",
+                    "riddle": "Seeing glass.",
+                    "riddle_hard": "A crystal eye that finds focus.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAKER",
+                    "riddle": "Glass cup.",
+                    "riddle_hard": "A transparent cradle for secrets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PULSE",
+                    "riddle": "Beat walk.",
+                    "riddle_hard": "The rhythmic echo of life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DATA",
+                    "riddle": "Fact bits.",
+                    "riddle_hard": "The digital dust of truth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ACID",
+                    "riddle": "Sour bite.",
+                    "riddle_hard": "A liquid with a sharp teeth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PYRAMID",
+                    "riddle": "Pointy king home.",
+                    "riddle_hard": "Stone geometry for the afterlife.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 302,
+            "grid_size": 5,
+            "category": "ObscureNature",
+            "subcategory": "ObscureNature",
+            "complexity": 18.170000076293947,
+            "puzzles": [
+                {
+                    "word": "SCREE",
+                    "riddle": "Loose rocks.",
+                    "riddle_hard": "The sliding bone of the slope.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COOMB",
+                    "riddle": "Deep valley.",
+                    "riddle_hard": "A short valley on the cliff side.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TARN",
+                    "riddle": "Mt lake.",
+                    "riddle_hard": "A dark eye of water in the peaks.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOWER",
+                    "riddle": "Shady area.",
+                    "riddle_hard": "A private room of woven leaves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRENCH",
+                    "riddle": "Deep seafloor canyon.",
+                    "riddle_hard": "A tectonic scar in the blue.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 303,
+            "grid_size": 6,
+            "category": "SeaNiche2",
+            "subcategory": "SeaNiche2",
+            "complexity": 18.239999771118165,
+            "puzzles": [
+                {
+                    "word": "WRASSE",
+                    "riddle": "Colorful fish.",
+                    "riddle_hard": "The bright cleaner of the reef.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAYA",
+                    "riddle": "Sting ray.",
+                    "riddle_hard": "The whip-tailed ghost of the blue.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHELK",
+                    "riddle": "Spiral shell.",
+                    "riddle_hard": "A carnivorous snail of the tide.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOBY",
+                    "riddle": "Bottom fish.",
+                    "riddle_hard": "The small sentinel of the sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIMPET",
+                    "riddle": "Rock shell.",
+                    "riddle_hard": "A living cone stuck to the stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CORAL",
+                    "riddle": "Living wave rock.",
+                    "riddle_hard": "A calcium skeleton of the sea.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 304,
+            "grid_size": 6,
+            "category": "ObscureColors",
+            "subcategory": "ObscureColors",
+            "complexity": 18.309999465942384,
+            "puzzles": [
+                {
+                    "word": "SIENNA",
+                    "riddle": "Red brown.",
+                    "riddle_hard": "The burnt heart of the clay.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OCHRE",
+                    "riddle": "Earth yellow.",
+                    "riddle_hard": "The oldest paint in the cave.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIRID",
+                    "riddle": "Green tint.",
+                    "riddle_hard": "A sharp poison-green of the sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "UMBER",
+                    "riddle": "Dark brown.",
+                    "riddle_hard": "The heavy earth of the shadows.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEPIA",
+                    "riddle": "Ink brown.",
+                    "riddle_hard": "The warm shadow of the past.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REEF",
+                    "riddle": "Underwater wall.",
+                    "riddle_hard": "A vibrant city of the currents.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 305,
+            "grid_size": 5,
+            "category": "Microscopic",
+            "subcategory": "Microscopic",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SPORE",
+                    "riddle": "Seed dust.",
+                    "riddle_hard": "A sleeping speck of green life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GERM",
+                    "riddle": "Small bug.",
+                    "riddle_hard": "An unseen dancer of disease.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PRISM",
+                    "riddle": "Light bender.",
+                    "riddle_hard": "A crystal that bleeds rainbows.",
+                    "is_hard": false
+                },
+                {
+                    "word": "IONS",
+                    "riddle": "Charged atom.",
+                    "riddle_hard": "A spark within the molecule.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHARAOH",
+                    "riddle": "Masked ruler.",
+                    "riddle_hard": "God-king of the Nile shores.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 306,
+            "grid_size": 5,
+            "category": "Ocean",
+            "subcategory": "Ocean",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALGA",
+                    "riddle": "Green growth in.",
+                    "riddle_hard": "Simple life found in the salt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEARL",
+                    "riddle": "Oyster jewel.",
+                    "riddle_hard": "A nacreous sphere born of grit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "The deep dark.",
+                    "riddle_hard": "Where light never reaches Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CANYON",
+                    "riddle": "A deep underwater valley.",
+                    "riddle_hard": "A massive gorge beneath waves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEPTH",
+                    "riddle": "Surface distance.",
+                    "riddle_hard": "The vertical measure of descent.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 307,
+            "grid_size": 5,
+            "category": "Common",
+            "subcategory": "Common",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FACT",
+                    "riddle": "True thing.",
+                    "riddle_hard": "A solid brick of reality.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAO",
+                    "riddle": "The way.",
+                    "riddle_hard": "The path that cannot be named.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLOW",
+                    "riddle": "Leisurely.",
+                    "riddle_hard": "The steady crawl of time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FACTOR",
+                    "riddle": "Part maker.",
+                    "riddle_hard": "The builder of a final result.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAKEMAKE",
+                    "riddle": "Red world.",
+                    "riddle_hard": "A distant spark in the Kuiper belt.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 308,
+            "grid_size": 6,
+            "category": "ObscureInstruments",
+            "subcategory": "ObscureInstruments",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "TABLA",
+                    "riddle": "Finger drums.",
+                    "riddle_hard": "The rhythmic heart of the Indus.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GUDOK",
+                    "riddle": "Three strings.",
+                    "riddle_hard": "The old drone of the folk tune.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BALAFON",
+                    "riddle": "Wooden mallet.",
+                    "riddle_hard": "The ancestor of the marimba.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CITHER",
+                    "riddle": "Flat strings.",
+                    "riddle_hard": "A wooden box of silver melodies.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUDUK",
+                    "riddle": "Apricot wood.",
+                    "riddle_hard": "The velvet voice of the mountains.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETHEREAL",
+                    "riddle": "Ghostly light.",
+                    "riddle_hard": "Made of the high thin air.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 309,
+            "grid_size": 6,
+            "category": "Veggies",
+            "subcategory": "Veggies",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GARLIC",
+                    "riddle": "Stinky white bulb.",
+                    "riddle_hard": "The pungent heart of the dish.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARROT",
+                    "riddle": "Orange root.",
+                    "riddle_hard": "The crunchy gold of the soil.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOMATO",
+                    "riddle": "Red juicy veggie.",
+                    "riddle_hard": "A fruit that thinks it's a vegetable.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POTATO",
+                    "riddle": "Brown root vegetable.",
+                    "riddle_hard": "The humble tuber of the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONION",
+                    "riddle": "Stinky layer veggie.",
+                    "riddle_hard": "A bulb with a thousand veils.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EROSION",
+                    "riddle": "Wearing down.",
+                    "riddle_hard": "The slow sculpting hand of water.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 310,
+            "grid_size": 5,
+            "category": "DeepSpace",
+            "subcategory": "DeepSpace",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALBEDO",
+                    "riddle": "Reflect score.",
+                    "riddle_hard": "The mirror-like shine of a moon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest point.",
+                    "riddle_hard": "The dark point under the feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "Star cloud.",
+                    "riddle_hard": "A cradle of gas and dust.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALPHA",
+                    "riddle": "First star.",
+                    "riddle_hard": "The leading light of the group.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAB",
+                    "riddle": "Experiment.",
+                    "riddle_hard": "Where curiosity becomes a fact.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 311,
+            "grid_size": 5,
+            "category": "ObscureMinerals",
+            "subcategory": "ObscureMinerals",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RUTILE",
+                    "riddle": "Red mineral.",
+                    "riddle_hard": "The golden needles inside the quartz.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TALC",
+                    "riddle": "Softest rock.",
+                    "riddle_hard": "The white dust of the slippery stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PYRITE",
+                    "riddle": "Fool's gold.",
+                    "riddle_hard": "The brassy cube that mimics the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZIRCON",
+                    "riddle": "Durable gem.",
+                    "riddle_hard": "A crystal older than the mountains.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOW",
+                    "riddle": "Arrow shooter.",
+                    "riddle_hard": "A curved branch of tension.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 312,
+            "grid_size": 5,
+            "category": "NichePlants",
+            "subcategory": "NichePlants",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ERICA",
+                    "riddle": "Purple flower.",
+                    "riddle_hard": "The hardy pink of the high moor.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MYRTLE",
+                    "riddle": "Scented bush.",
+                    "riddle_hard": "A classic leaf of the Mediterranean.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRUPE",
+                    "riddle": "Stone fruit.",
+                    "riddle_hard": "A fleshy home for a hard heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FROND",
+                    "riddle": "Lacy leaf.",
+                    "riddle_hard": "A long feathered wing of green.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KELP",
+                    "riddle": "Sea forest.",
+                    "riddle_hard": "The swaying green of the tides.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 313,
+            "grid_size": 5,
+            "category": "Ancient Skills",
+            "subcategory": "Ancient Skills",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SMELT",
+                    "riddle": "Melt metal.",
+                    "riddle_hard": "Extracting the essence of ore.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOW",
+                    "riddle": "Arrow shooter.",
+                    "riddle_hard": "A curved branch of tension.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOVEN",
+                    "riddle": "Tied threads.",
+                    "riddle_hard": "United in a complex dance.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRAFT",
+                    "riddle": "Making stuff.",
+                    "riddle_hard": "The marriage of hand and mind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIVALVE",
+                    "riddle": "Two shells.",
+                    "riddle_hard": "A double-doored home in the sand.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 314,
+            "grid_size": 6,
+            "category": "Instruments",
+            "subcategory": "Instruments",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "DRUMS",
+                    "riddle": "Sticks and skin.",
+                    "riddle_hard": "The heartbeat of the village.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORGAN",
+                    "riddle": "Huge pipes.",
+                    "riddle_hard": "The mechanical lungs of a church.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HARP",
+                    "riddle": "Tall strings.",
+                    "riddle_hard": "A golden frame for angel song.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLUTE",
+                    "riddle": "Tube for music.",
+                    "riddle_hard": "A silver pipe that sings wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GONG",
+                    "riddle": "Metal disc.",
+                    "riddle_hard": "A sudden explosion of brass sound.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "No sound.",
+                    "riddle_hard": "The quiet field where truth grows.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 315,
+            "grid_size": 6,
+            "category": "Mythology",
+            "subcategory": "Mythology",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "QUEST",
+                    "riddle": "Long journey.",
+                    "riddle_hard": "A trial beyond the horizon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOUNT",
+                    "riddle": "Gods' home.",
+                    "riddle_hard": "The throne of the immortals.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LYRE",
+                    "riddle": "Small harp.",
+                    "riddle_hard": "The instrument of a poet's soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEUS",
+                    "riddle": "Lightning king.",
+                    "riddle_hard": "The father on the highest peak.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HADES",
+                    "riddle": "Dead ruler.",
+                    "riddle_hard": "Lord of the sunless kingdom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MITOSIS",
+                    "riddle": "Cell split.",
+                    "riddle_hard": "The dance of the double threads.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 316,
+            "grid_size": 6,
+            "category": "MicroNiche",
+            "subcategory": "MicroNiche",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CILIA",
+                    "riddle": "Cell hair.",
+                    "riddle_hard": "A thousand tiny oars for a cell.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUBULIN",
+                    "riddle": "Cell tube.",
+                    "riddle_hard": "The structural bone of the tiny world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLAGELL",
+                    "riddle": "Cell tail.",
+                    "riddle_hard": "A single whip that drives the life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KINETIC",
+                    "riddle": "Moving energy.",
+                    "riddle_hard": "The spark of a world in motion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOMB",
+                    "riddle": "Mummy rest place.",
+                    "riddle_hard": "A silent chamber in the rock.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 317,
+            "grid_size": 6,
+            "category": "Tech",
+            "subcategory": "Tech",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SCREEN",
+                    "riddle": "Flat glass.",
+                    "riddle_hard": "The window to the digital world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOUSE",
+                    "riddle": "Clicker.",
+                    "riddle_hard": "The plastic hand of the user.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DISK",
+                    "riddle": "Storage circle.",
+                    "riddle_hard": "A spinning record of memory.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CABLE",
+                    "riddle": "Thick wire.",
+                    "riddle_hard": "The heavy link for the signal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHORD",
+                    "riddle": "Sound group.",
+                    "riddle_hard": "Three notes dancing in harmony.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRUSH",
+                    "riddle": "Ocean weight.",
+                    "riddle_hard": "High pressure's final embrace Whispering in the void.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 318,
+            "grid_size": 32,
+            "category": "Trees",
+            "subcategory": "Arboreal Forms",
+            "complexity": 4.5,
+            "puzzles": [
+                {
+                    "word": "CEDAR",
+                    "riddle": "A fragrant, durable wood.",
+                    "riddle_hard": "Its cones yield seeds for sustenance.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAPLE",
+                    "riddle": "Source of syrup and a national symbol.",
+                    "riddle_hard": "Its sap is boiled down for morning delight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIRCH",
+                    "riddle": "Bark used for canoes long ago.",
+                    "riddle_hard": "Paper-like skin peels easily away.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASPEN",
+                    "riddle": "Quaking leaves in the breeze.",
+                    "riddle_hard": "Clonal colonies share one vast system.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WILLOW",
+                    "riddle": "Often found near moving water.",
+                    "riddle_hard": "Weeping branches brush the ground.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ELM",
+                    "riddle": "A short, sturdy three-letter classic.",
+                    "riddle_hard": "Dutch disease struck this shade provider.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEQUOIA",
+                    "riddle": "Giant of the western woods.",
+                    "riddle_hard": "The world's largest by volume.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 319,
+            "grid_size": 6,
+            "category": "Materials",
+            "subcategory": "Materials",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GYPSUM",
+                    "riddle": "Soft white.",
+                    "riddle_hard": "The white flake of the dry lake.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUARTZ",
+                    "riddle": "Hard crystal.",
+                    "riddle_hard": "The clear bone of the mountain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLASS",
+                    "riddle": "Clear hard.",
+                    "riddle_hard": "A frozen liquid made of sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILICA",
+                    "riddle": "Glass dust.",
+                    "riddle_hard": "The clear soul of the beach sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FELT",
+                    "riddle": "Soft cloth.",
+                    "riddle_hard": "The pressed hair of the wool.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUG",
+                    "riddle": "Floor cloth.",
+                    "riddle_hard": "A woven field for the feet.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 320,
+            "grid_size": 6,
+            "category": "SpaceNiche2",
+            "subcategory": "SpaceNiche2",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SYZYGY",
+                    "riddle": "Sun line.",
+                    "riddle_hard": "Three worlds dancing in a row.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APOGEE",
+                    "riddle": "Far point.",
+                    "riddle_hard": "The moon's lonely distant turn.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRACO",
+                    "riddle": "Dragon star.",
+                    "riddle_hard": "The serpent coiling around the pole.",
+                    "is_hard": false
+                },
+                {
+                    "word": "METON",
+                    "riddle": "Moon cycle.",
+                    "riddle_hard": "The nineteen-year pulse of the moon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAROS",
+                    "riddle": "Eclipse cycle.",
+                    "riddle_hard": "The long rhythm of the sky shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HAT",
+                    "riddle": "Head cover.",
+                    "riddle_hard": "The crown of a humble man.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 321,
+            "grid_size": 6,
+            "category": "Countries",
+            "subcategory": "Countries",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GREECE",
+                    "riddle": "Myth country.",
+                    "riddle_hard": "The islands of white stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JAPAN",
+                    "riddle": "Sun country.",
+                    "riddle_hard": "The islands of the rising sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INDIA",
+                    "riddle": "Spice country.",
+                    "riddle_hard": "The colorful home of the tiger.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRAZIL",
+                    "riddle": "Large jungle.",
+                    "riddle_hard": "The emerald heart of the south.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ITALY",
+                    "riddle": "Boot country.",
+                    "riddle_hard": "The stone cradle of art.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAT",
+                    "riddle": "Purring pet.",
+                    "riddle_hard": "The small lion of the home.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 322,
+            "grid_size": 5,
+            "category": "Geological",
+            "subcategory": "Geological",
+            "complexity": 19.559999465942384,
+            "puzzles": [
+                {
+                    "word": "BASALT",
+                    "riddle": "Dark rock.",
+                    "riddle_hard": "The black stone of the volcano.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAGMA",
+                    "riddle": "Liquid rock.",
+                    "riddle_hard": "The melted heart of the mountain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUAKE",
+                    "riddle": "Earth shake.",
+                    "riddle_hard": "The tectonic shift of solid ground.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STRATA",
+                    "riddle": "Rock layers.",
+                    "riddle_hard": "The stacked pages of deep time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ELM",
+                    "riddle": "Tall leafy tree.",
+                    "riddle_hard": "A leafy giant in the meadow.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 323,
+            "grid_size": 6,
+            "category": "Artistic",
+            "subcategory": "Artistic",
+            "complexity": 19.6299991607666,
+            "puzzles": [
+                {
+                    "word": "SKETCH",
+                    "riddle": "Quick drawing.",
+                    "riddle_hard": "The ghost of a masterpiece.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MURAL",
+                    "riddle": "Giant art.",
+                    "riddle_hard": "A story written on a wall.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SONNET",
+                    "riddle": "Short poem.",
+                    "riddle_hard": "Fourteen lines of rhyming soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRESCO",
+                    "riddle": "Wall paint.",
+                    "riddle_hard": "The wet plaster's colorful memory.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPERA",
+                    "riddle": "Singing story.",
+                    "riddle_hard": "The high drama of the voice.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAMBUTAN",
+                    "riddle": "Hairy fruit.",
+                    "riddle_hard": "A red spider from the tropical tree.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 324,
+            "grid_size": 6,
+            "category": "Emotions",
+            "subcategory": "Emotions",
+            "complexity": 19.700000762939454,
+            "puzzles": [
+                {
+                    "word": "FAITH",
+                    "riddle": "Deep belief.",
+                    "riddle_hard": "Walking when the path is dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GUILT",
+                    "riddle": "Feeling bad.",
+                    "riddle_hard": "A heavy stone in the heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PRIDE",
+                    "riddle": "Feeling good.",
+                    "riddle_hard": "The tall shadow of achievement.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOPE",
+                    "riddle": "Good wish.",
+                    "riddle_hard": "A light that refuses to dim.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DREAD",
+                    "riddle": "Fear feeling.",
+                    "riddle_hard": "The cold touch of what's coming.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPHINX",
+                    "riddle": "Lion king statue.",
+                    "riddle_hard": "The stone guardian of the dunes.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 325,
+            "grid_size": 6,
+            "category": "InsectsNiche",
+            "subcategory": "InsectsNiche",
+            "complexity": 19.770000457763673,
+            "puzzles": [
+                {
+                    "word": "MANTIS",
+                    "riddle": "Praying bug.",
+                    "riddle_hard": "The green monk of the garden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOMBYX",
+                    "riddle": "Silk moth.",
+                    "riddle_hard": "The white weaver of the thread.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LYCAEN",
+                    "riddle": "Butterfly.",
+                    "riddle_hard": "The blue wing of the meadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CICADA",
+                    "riddle": "Summer hum.",
+                    "riddle_hard": "The rhythmic singer of the heat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APHID",
+                    "riddle": "Garden bug.",
+                    "riddle_hard": "The green parasite of the rose.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KINESIN",
+                    "riddle": "Cell walk.",
+                    "riddle_hard": "A robot carrying a heavy load.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 326,
+            "grid_size": 5,
+            "category": "Office",
+            "subcategory": "Office",
+            "complexity": 19.84000015258789,
+            "puzzles": [
+                {
+                    "word": "STAMP",
+                    "riddle": "Mail sticker.",
+                    "riddle_hard": "The seal that lets paper fly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FILE",
+                    "riddle": "Folder tool.",
+                    "riddle_hard": "A paper home for a memory.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLIP",
+                    "riddle": "Holding wire.",
+                    "riddle_hard": "A small spring for the sheets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAPER",
+                    "riddle": "Thing to write on.",
+                    "riddle_hard": "The white field of thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EQUANCY",
+                    "riddle": "Even mind.",
+                    "riddle_hard": "Total balance in the storm.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 327,
+            "grid_size": 6,
+            "category": "Concepts",
+            "subcategory": "Concepts",
+            "complexity": 19.90999984741211,
+            "puzzles": [
+                {
+                    "word": "SILENCE",
+                    "riddle": "No sound.",
+                    "riddle_hard": "The quiet field where truth grows.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PATHOS",
+                    "riddle": "Sad feeling.",
+                    "riddle_hard": "The deep echo of a soul's pain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word logic.",
+                    "riddle_hard": "The rational order of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURITY",
+                    "riddle": "Being clean.",
+                    "riddle_hard": "The clear light with no shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMMIT",
+                    "riddle": "Peak top.",
+                    "riddle_hard": "Where rock meets the high air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCARAB",
+                    "riddle": "Ancient beetle.",
+                    "riddle_hard": "The armored roller of the sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 328,
+            "grid_size": 5,
+            "category": "Languages",
+            "subcategory": "Languages",
+            "complexity": 19.979999542236329,
+            "puzzles": [
+                {
+                    "word": "FRENCH",
+                    "riddle": "Paris tongue.",
+                    "riddle_hard": "The liquid voice of the heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WORDS",
+                    "riddle": "Spoken bits.",
+                    "riddle_hard": "The small bricks of history.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HINDI",
+                    "riddle": "India tongue.",
+                    "riddle_hard": "A colorful script of the east.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LATIN",
+                    "riddle": "Roman tongue.",
+                    "riddle_hard": "The dead voice of the law.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANKH",
+                    "riddle": "Life symbol.",
+                    "riddle_hard": "The key to the eternal breath.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 329,
+            "grid_size": 6,
+            "category": "MiscNiche",
+            "subcategory": "MiscNiche",
+            "complexity": 20.049999237060548,
+            "puzzles": [
+                {
+                    "word": "HELM",
+                    "riddle": "Ship wheel.",
+                    "riddle_hard": "The wooden hand of the captain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROMET",
+                    "riddle": "Rope ring.",
+                    "riddle_hard": "A circular eye of the sail.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LANYARD",
+                    "riddle": "Holding cord.",
+                    "riddle_hard": "A short rope for the gear.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUERN",
+                    "riddle": "Stone mill.",
+                    "riddle_hard": "The hand-turned grinder of grain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUERL",
+                    "riddle": "Twist.",
+                    "riddle_hard": "A sudden spiral in the line.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EAR",
+                    "riddle": "Hearing flap.",
+                    "riddle_hard": "The shell that catches the wind.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 330,
+            "grid_size": 5,
+            "category": "Rome",
+            "subcategory": "Rome",
+            "complexity": 20.1200008392334,
+            "puzzles": [
+                {
+                    "word": "ARENA",
+                    "riddle": "Game circle.",
+                    "riddle_hard": "A circle of blood and sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROADS",
+                    "riddle": "Stone paths.",
+                    "riddle_hard": "The veins that fed the city.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MARCH",
+                    "riddle": "Step walk.",
+                    "riddle_hard": "The rhythmic heartbeat of empire.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FORUM",
+                    "riddle": "Town center.",
+                    "riddle_hard": "Where speech and law collided.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHORE",
+                    "riddle": "Sand's edge.",
+                    "riddle_hard": "The meeting of earth and salt.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 331,
+            "grid_size": 5,
+            "category": "FinalPush",
+            "subcategory": "FinalPush",
+            "complexity": 20.190000534057618,
+            "puzzles": [
+                {
+                    "word": "PACAS",
+                    "riddle": "Spotted roden.",
+                    "riddle_hard": "A shy sitter by the river.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AYEAYE",
+                    "riddle": "Night lemur.",
+                    "riddle_hard": "A bony-fingered guest of the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARIA",
+                    "riddle": "Solo song.",
+                    "riddle_hard": "The high voice of the opera heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOTET",
+                    "riddle": "Choral song.",
+                    "riddle_hard": "A sacred polyphonic tapestry Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Snail's home.",
+                    "riddle_hard": "A hardened spiraled house Whispering in the void.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 332,
+            "grid_size": 5,
+            "category": "Transport",
+            "subcategory": "Transport",
+            "complexity": 20.260000228881837,
+            "puzzles": [
+                {
+                    "word": "BUS",
+                    "riddle": "Large car.",
+                    "riddle_hard": "A yellow ship for the street.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLANE",
+                    "riddle": "Sky craft.",
+                    "riddle_hard": "The metal bird of the clouds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRAIN",
+                    "riddle": "Iron horse.",
+                    "riddle_hard": "The iron snake on the rail.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIKE",
+                    "riddle": "Two wheels.",
+                    "riddle_hard": "The balanced ride of the man.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INFINITE",
+                    "riddle": "INFINITE.",
+                    "riddle_hard": "The hidden infinite of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 333,
+            "grid_size": 5,
+            "category": "Home",
+            "subcategory": "Home",
+            "complexity": 20.329999923706056,
+            "puzzles": [
+                {
+                    "word": "SINK",
+                    "riddle": "Water bowl.",
+                    "riddle_hard": "The basin that catches the stream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BATH",
+                    "riddle": "Clean pool.",
+                    "riddle_hard": "A ceramic cradle for the body.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APPLE",
+                    "riddle": "Red crunchy fruit.",
+                    "riddle_hard": "The tempted bite of the garden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DORYS",
+                    "riddle": "Flat fish.",
+                    "riddle_hard": "A golden disc in the blue.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PERIGEE",
+                    "riddle": "Near point.",
+                    "riddle_hard": "The closest kiss of the moon.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 334,
+            "grid_size": 6,
+            "category": "Gems2",
+            "subcategory": "Gems2",
+            "complexity": 20.399999618530275,
+            "puzzles": [
+                {
+                    "word": "TOPAZ",
+                    "riddle": "Yellow gem.",
+                    "riddle_hard": "A drop of hardened sun light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AMBER",
+                    "riddle": "Orange resin.",
+                    "riddle_hard": "The golden tears of a tree.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLINT",
+                    "riddle": "Grey stone.",
+                    "riddle_hard": "The stone that births the spark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SKATE",
+                    "riddle": "Ice glide.",
+                    "riddle_hard": "The silver flight on the edge.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EAR",
+                    "riddle": "Hearing flap.",
+                    "riddle_hard": "The shell that catches the wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLOSSOM",
+                    "riddle": "BLOSSOM.",
+                    "riddle_hard": "The hidden blossom of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 335,
+            "grid_size": 6,
+            "category": "Advanced",
+            "subcategory": "Advanced",
+            "complexity": 20.469999313354493,
+            "puzzles": [
+                {
+                    "word": "VORTEX",
+                    "riddle": "Swirling hole.",
+                    "riddle_hard": "A rotating center of pure force.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCALAR",
+                    "riddle": "Number size.",
+                    "riddle_hard": "A measure of weight without path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Force line.",
+                    "riddle_hard": "A push with a clear direction.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIELD",
+                    "riddle": "Open area.",
+                    "riddle_hard": "The invisible grip of the magnet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GALAXY",
+                    "riddle": "Star group.",
+                    "riddle_hard": "A Great River of a billion suns.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRYSTAL",
+                    "riddle": "CRYSTAL.",
+                    "riddle_hard": "The hidden crystal of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 336,
+            "grid_size": 6,
+            "category": "DwarfPlanets",
+            "subcategory": "DwarfPlanets",
+            "complexity": 20.540000915527345,
+            "puzzles": [
+                {
+                    "word": "SEDNA",
+                    "riddle": "Cold planet.",
+                    "riddle_hard": "The lonely red world of the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ERIS",
+                    "riddle": "Far planet.",
+                    "riddle_hard": "The goddess of strife in the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAKEMAKE",
+                    "riddle": "Red world.",
+                    "riddle_hard": "A distant spark in the Kuiper belt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "IXION",
+                    "riddle": "Space rock.",
+                    "riddle_hard": "A wheel spinning in the deep dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HAUMEA",
+                    "riddle": "Egg planet.",
+                    "riddle_hard": "The fast-spinning egg of the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOUNTAIN",
+                    "riddle": "MOUNTAIN.",
+                    "riddle_hard": "The hidden mountain of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 337,
+            "grid_size": 5,
+            "category": "Maya",
+            "subcategory": "Maya",
+            "complexity": 20.610000610351564,
+            "puzzles": [
+                {
+                    "word": "MAYAN",
+                    "riddle": "City builders.",
+                    "riddle_hard": "The keepers of the stone calendar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAIZE",
+                    "riddle": "Corn food.",
+                    "riddle_hard": "The golden kernels of creation.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLAZA",
+                    "riddle": "Open square.",
+                    "riddle_hard": "The flat heart of the city.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STONE",
+                    "riddle": "Hard rock.",
+                    "riddle_hard": "The cold bone of the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SANDS",
+                    "riddle": "Desert dust.",
+                    "riddle_hard": "The shifting dust of dynasties.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 338,
+            "grid_size": 5,
+            "category": "Human",
+            "subcategory": "Human",
+            "complexity": 20.68000030517578,
+            "puzzles": [
+                {
+                    "word": "BONE",
+                    "riddle": "Hard frame.",
+                    "riddle_hard": "The ivory cage of the soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUNG",
+                    "riddle": "Air bag.",
+                    "riddle_hard": "The bellows of the breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HAND",
+                    "riddle": "Finger tool.",
+                    "riddle_hard": "The five-fingered maker of worlds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRAIN",
+                    "riddle": "Thought maker.",
+                    "riddle_hard": "The pink engine of the self.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOUL",
+                    "riddle": "Inner spirit.",
+                    "riddle_hard": "The spark within the machine.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JADE",
+                    "riddle": "Green stone.",
+                    "riddle_hard": "The royal soul of the earth.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 339,
+            "grid_size": 5,
+            "category": "NicheAnimals",
+            "subcategory": "NicheAnimals",
+            "complexity": 20.75,
+            "puzzles": [
+                {
+                    "word": "GUPPY",
+                    "riddle": "Small fish.",
+                    "riddle_hard": "A tiny rainbow of the stream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIVALVE",
+                    "riddle": "Two shells.",
+                    "riddle_hard": "A double-doored home in the sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VOLE",
+                    "riddle": "Small rat.",
+                    "riddle_hard": "A tiny tunneler of the field.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ISOPOD",
+                    "riddle": "Sea bug.",
+                    "riddle_hard": "The flattened crawler of the abyss.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POT",
+                    "riddle": "Cylindrical tool.",
+                    "riddle_hard": "The deep belly of the stew.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 340,
+            "grid_size": 5,
+            "category": "Shapes",
+            "subcategory": "Shapes",
+            "complexity": 20.81999969482422,
+            "puzzles": [
+                {
+                    "word": "SQUARE",
+                    "riddle": "Four sides.",
+                    "riddle_hard": "The rigid box of geometry.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CONE",
+                    "riddle": "Pointy shape.",
+                    "riddle_hard": "A triangle spun in a circle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CIRCLE",
+                    "riddle": "Round shape.",
+                    "riddle_hard": "A line with no beginning or end.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POINT",
+                    "riddle": "Tiny dot.",
+                    "riddle_hard": "The zero dimension of start.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERO",
+                    "riddle": "Brave winner.",
+                    "riddle_hard": "A mortal marked by destiny.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 341,
+            "grid_size": 6,
+            "category": "Botanical",
+            "subcategory": "Botanical",
+            "complexity": 20.889999389648439,
+            "puzzles": [
+                {
+                    "word": "CANOPY",
+                    "riddle": "Leafy roof.",
+                    "riddle_hard": "The green ceiling of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PALM",
+                    "riddle": "Fan leaf tree.",
+                    "riddle_hard": "A beach parasol of green.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORCHID",
+                    "riddle": "Exotic flower.",
+                    "riddle_hard": "A delicate queen of the shade.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PETAL",
+                    "riddle": "Flower part.",
+                    "riddle_hard": "A soft wing of the blossom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROVE",
+                    "riddle": "Tree group.",
+                    "riddle_hard": "A silent gathering of elders.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KEEP",
+                    "riddle": "Inner tower.",
+                    "riddle_hard": "The final stand of the fortress.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 342,
+            "grid_size": 5,
+            "category": "CellBio",
+            "subcategory": "CellBio",
+            "complexity": 20.959999084472658,
+            "puzzles": [
+                {
+                    "word": "GOLGI",
+                    "riddle": "Cell pack.",
+                    "riddle_hard": "The shipping center of the life unit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LYSOME",
+                    "riddle": "Cell clean.",
+                    "riddle_hard": "The stomach of the life unit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MYOSIN",
+                    "riddle": "Cell motor.",
+                    "riddle_hard": "The heavy walker of the fiber.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ACTIN",
+                    "riddle": "Cell fiber.",
+                    "riddle_hard": "The thin cable of the muscle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAR",
+                    "riddle": "Road wheel.",
+                    "riddle_hard": "A metal horse with oil blood.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 343,
+            "grid_size": 6,
+            "category": "Medieval",
+            "subcategory": "Medieval",
+            "complexity": 21.030000686645509,
+            "puzzles": [
+                {
+                    "word": "SHIELD",
+                    "riddle": "Block tool.",
+                    "riddle_hard": "The barrier between soul and steel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KEEP",
+                    "riddle": "Inner tower.",
+                    "riddle_hard": "The final stand of the fortress.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BARON",
+                    "riddle": "Land lord.",
+                    "riddle_hard": "A pillar of the king's court.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HONOR",
+                    "riddle": "Courage duty.",
+                    "riddle_hard": "The invisible shield of the soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNIGHT",
+                    "riddle": "Armor soldier.",
+                    "riddle_hard": "A bonded blade of the realm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOAT",
+                    "riddle": "Water ring.",
+                    "riddle_hard": "The wet circle around the castle.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 344,
+            "grid_size": 6,
+            "category": "ZenWords",
+            "subcategory": "ZenWords",
+            "complexity": 21.100000381469728,
+            "puzzles": [
+                {
+                    "word": "PLACID",
+                    "riddle": "Calm water.",
+                    "riddle_hard": "The resting face of the lake.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EQUANCY",
+                    "riddle": "Even mind.",
+                    "riddle_hard": "Total balance in the storm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUCID",
+                    "riddle": "Clear dream.",
+                    "riddle_hard": "The light of awareness in the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETHEREAL",
+                    "riddle": "Ghostly light.",
+                    "riddle_hard": "Made of the high thin air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOGA",
+                    "riddle": "Wrap cloth.",
+                    "riddle_hard": "The folded robe of the citizen.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 345,
+            "grid_size": 6,
+            "category": "ObscureScience",
+            "subcategory": "ObscureScience",
+            "complexity": 21.170000076293947,
+            "puzzles": [
+                {
+                    "word": "HIGGS",
+                    "riddle": "Mass field.",
+                    "riddle_hard": "The field that gives weight to air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FERMI",
+                    "riddle": "Tiny distance.",
+                    "riddle_hard": "Measuring the width of the nucleus.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLUON",
+                    "riddle": "Sticky point.",
+                    "riddle_hard": "The glue that holds the atom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ERGON",
+                    "riddle": "Unit of work.",
+                    "riddle_hard": "The ghost of a moving force.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHIRAL",
+                    "riddle": "Handedness.",
+                    "riddle_hard": "A mirror that doesn't match.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIAL",
+                    "riddle": "Glass tube.",
+                    "riddle_hard": "A tiny vessel for science.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 346,
+            "grid_size": 5,
+            "category": "Kitchen",
+            "subcategory": "Kitchen",
+            "complexity": 21.239999771118165,
+            "puzzles": [
+                {
+                    "word": "POT",
+                    "riddle": "Cylindrical tool.",
+                    "riddle_hard": "The deep belly of the stew.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNIFE",
+                    "riddle": "Sharp tool.",
+                    "riddle_hard": "The silver sliver of the cut.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPOON",
+                    "riddle": "Cupped tool.",
+                    "riddle_hard": "A silver shovel for the liquid.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRAME",
+                    "riddle": "Photo holder.",
+                    "riddle_hard": "A window around a frozen moment.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HARE",
+                    "riddle": "Quick rabbit.",
+                    "riddle_hard": "The long-eared bolt of speed.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AMP",
+                    "riddle": "Power flow.",
+                    "riddle_hard": "The measure of the current.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 347,
+            "grid_size": 6,
+            "category": "ObscureFurniture",
+            "subcategory": "ObscureFurniture",
+            "complexity": 21.309999465942384,
+            "puzzles": [
+                {
+                    "word": "STOOL",
+                    "riddle": "Small seat.",
+                    "riddle_hard": "A simple pedestal for the weary.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DIVAN",
+                    "riddle": "Low bed.",
+                    "riddle_hard": "A backless island in the corner.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DAVEN",
+                    "riddle": "Old sofa.",
+                    "riddle_hard": "A heavy bench of velvet and dust.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SETTEE",
+                    "riddle": "Small sofa.",
+                    "riddle_hard": "A wooden frame for two quiet souls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHEST",
+                    "riddle": "Storage box.",
+                    "riddle_hard": "A wooden mouth full of old secrets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "Inspiring one.",
+                    "riddle_hard": "The whisper that sparks a star.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 348,
+            "grid_size": 6,
+            "category": "NicheObjects",
+            "subcategory": "NicheObjects",
+            "complexity": 21.3799991607666,
+            "puzzles": [
+                {
+                    "word": "SCRIP",
+                    "riddle": "Paper money.",
+                    "riddle_hard": "The company's promise in hand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VASE",
+                    "riddle": "Flower pot.",
+                    "riddle_hard": "A ceramic lung for the blossom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUILL",
+                    "riddle": "Feather pen.",
+                    "riddle_hard": "The hollow soul of the bird's wing.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAVE",
+                    "riddle": "Music line.",
+                    "riddle_hard": "A wooden slat of the barrel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ULNA",
+                    "riddle": "Arm bone.",
+                    "riddle_hard": "The inner bone of the lower limb.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HARMONY",
+                    "riddle": "HARMONY.",
+                    "riddle_hard": "The hidden harmony of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 349,
+            "grid_size": 5,
+            "category": "Mega",
+            "subcategory": "Mega",
+            "complexity": 21.450000762939454,
+            "puzzles": [
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate of a moving field.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OHM",
+                    "riddle": "Resist push.",
+                    "riddle_hard": "The friction of the signal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JOULE",
+                    "riddle": "Energy unit.",
+                    "riddle_hard": "The work of a single breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERTZ",
+                    "riddle": "Cycle beat.",
+                    "riddle_hard": "A pulse in a single second.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STRENGTH",
+                    "riddle": "STRENGTH.",
+                    "riddle_hard": "The hidden strength of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 350,
+            "grid_size": 5,
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "complexity": 21.520000457763673,
+            "puzzles": [
+                {
+                    "word": "TRUTH",
+                    "riddle": "Not a lie.",
+                    "riddle_hard": "The anchor in the sea of noise.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLISS",
+                    "riddle": "Pure joy.",
+                    "riddle_hard": "A moment with no weight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WILL",
+                    "riddle": "Power to choose.",
+                    "riddle_hard": "The engine of human intent.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETHOS",
+                    "riddle": "Group spirit.",
+                    "riddle_hard": "The moral character of a soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEMPLE",
+                    "riddle": "House of gods.",
+                    "riddle_hard": "A high altar above the canopy.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 351,
+            "grid_size": 6,
+            "category": "Egypt",
+            "subcategory": "Egypt",
+            "complexity": 21.579999923706056,
+            "puzzles": [
+                {
+                    "word": "TOMB",
+                    "riddle": "Mummy rest place.",
+                    "riddle_hard": "A silent chamber in the rock.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SANDS",
+                    "riddle": "Desert dust.",
+                    "riddle_hard": "The shifting dust of dynasties.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RELIC",
+                    "riddle": "Found history.",
+                    "riddle_hard": "A sacred bone of the past.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHARAOH",
+                    "riddle": "Masked ruler.",
+                    "riddle_hard": "God-king of the Nile shores.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPHINX",
+                    "riddle": "Lion king statue.",
+                    "riddle_hard": "The stone guardian of the dunes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAD",
+                    "riddle": "Power ray.",
+                    "riddle_hard": "The invisible heat of the atom.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 352,
+            "grid_size": 6,
+            "category": "Space",
+            "subcategory": "Space",
+            "complexity": 21.649999618530275,
+            "puzzles": [
+                {
+                    "word": "SOLA",
+                    "riddle": "The sun.",
+                    "riddle_hard": "The golden heart of our system.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MARS",
+                    "riddle": "Red planet.",
+                    "riddle_hard": "The rusty neighbor of earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUNA",
+                    "riddle": "Our moon.",
+                    "riddle_hard": "The tide-puller of our world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DURIAN",
+                    "riddle": "Stinky fruit.",
+                    "riddle_hard": "The thorny king of the ivory scent.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TENCH",
+                    "riddle": "River fish.",
+                    "riddle_hard": "The olive doctor of the stream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MYSTERY",
+                    "riddle": "MYSTERY.",
+                    "riddle_hard": "The hidden mystery of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 353,
+            "grid_size": 6,
+            "category": "Maya",
+            "subcategory": "Maya",
+            "complexity": 21.719999313354493,
+            "puzzles": [
+                {
+                    "word": "CENOTE",
+                    "riddle": "Deep pool.",
+                    "riddle_hard": "The water gateway to the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUINS",
+                    "riddle": "Broken old walls.",
+                    "riddle_hard": "Echoes of a fallen city.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEMPLE",
+                    "riddle": "House of gods.",
+                    "riddle_hard": "A high altar above the canopy.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JUNGLE",
+                    "riddle": "Green forest.",
+                    "riddle_hard": "The emerald veil that hides secrets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANCIENT",
+                    "riddle": "ANCIENT.",
+                    "riddle_hard": "The hidden ancient of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 354,
+            "grid_size": 5,
+            "category": "FishNiche",
+            "subcategory": "FishNiche",
+            "complexity": 21.790000915527345,
+            "puzzles": [
+                {
+                    "word": "CHIMA",
+                    "riddle": "Ghost shark.",
+                    "riddle_hard": "A silver phantom of the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BERYX",
+                    "riddle": "Deep fish.",
+                    "riddle_hard": "The bright red eye of the abyss.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOR",
+                    "riddle": "Rocky peak.",
+                    "riddle_hard": "A stony crown on the hill.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOUP",
+                    "riddle": "Liquid food.",
+                    "riddle_hard": "The warm ocean in a bowl.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CREATION",
+                    "riddle": "CREATION.",
+                    "riddle_hard": "The hidden creation of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 355,
+            "grid_size": 5,
+            "category": "Fruits",
+            "subcategory": "Fruits",
+            "complexity": 21.860000610351564,
+            "puzzles": [
+                {
+                    "word": "FIGS",
+                    "riddle": "Ancient fruit.",
+                    "riddle_hard": "The sticky sugar of history.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BERRY",
+                    "riddle": "Tiny sweet fruit.",
+                    "riddle_hard": "A forest's small juicy jewel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MANGO",
+                    "riddle": "Tropical fruit.",
+                    "riddle_hard": "The golden king of the jungle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEMON",
+                    "riddle": "Sour yellow fruit.",
+                    "riddle_hard": "A drop of bright liquid sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRAGON",
+                    "riddle": "Fire lizard.",
+                    "riddle_hard": "The flying terror of the hoard.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 356,
+            "grid_size": 5,
+            "category": "Food",
+            "subcategory": "Food",
+            "complexity": 21.93000030517578,
+            "puzzles": [
+                {
+                    "word": "RICE",
+                    "riddle": "Small grain.",
+                    "riddle_hard": "A thousand white dots on a plate.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREAD",
+                    "riddle": "Loaf food.",
+                    "riddle_hard": "The yeast-born soul of the meal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MEAT",
+                    "riddle": "Flesh food.",
+                    "riddle_hard": "The heavy energy of the hunt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUGAR",
+                    "riddle": "Sweet grain.",
+                    "riddle_hard": "The white dust of the cane.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RADIANT",
+                    "riddle": "RADIANT.",
+                    "riddle_hard": "The hidden radiant of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 357,
+            "grid_size": 5,
+            "category": "Rome",
+            "subcategory": "Rome",
+            "complexity": 22.0,
+            "puzzles": [
+                {
+                    "word": "TOGA",
+                    "riddle": "Wrap cloth.",
+                    "riddle_hard": "The folded robe of the citizen.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAESAR",
+                    "riddle": "Laurel leader.",
+                    "riddle_hard": "The laurel-crowned master of legions.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EAGLE",
+                    "riddle": "Gold bird.",
+                    "riddle_hard": "The soaring signal of the army.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLORY",
+                    "riddle": "High fame.",
+                    "riddle_hard": "The bright shadow of victory.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUMMY",
+                    "riddle": "Wrapped person.",
+                    "riddle_hard": "The linen-bound guest of time.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 358,
+            "grid_size": 5,
+            "category": "ObscureGems",
+            "subcategory": "ObscureGems",
+            "complexity": 22.06999969482422,
+            "puzzles": [
+                {
+                    "word": "BERYL",
+                    "riddle": "Green crystal.",
+                    "riddle_hard": "The pale cousin of the emerald.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONYX",
+                    "riddle": "Black bands.",
+                    "riddle_hard": "The silent layers of the night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGATE",
+                    "riddle": "Striped rock.",
+                    "riddle_hard": "The layered eye of the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPAL",
+                    "riddle": "Flashy gem.",
+                    "riddle_hard": "A rain-born fire in the stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JOURNEY",
+                    "riddle": "JOURNEY.",
+                    "riddle_hard": "The hidden journey of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 359,
+            "grid_size": 5,
+            "category": "Furniture",
+            "subcategory": "Furniture",
+            "complexity": 22.139999389648439,
+            "puzzles": [
+                {
+                    "word": "DESK",
+                    "riddle": "Work table.",
+                    "riddle_hard": "Where thoughts become ink words.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUG",
+                    "riddle": "Floor cloth.",
+                    "riddle_hard": "A woven field for the feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TABLE",
+                    "riddle": "Thing to eat on.",
+                    "riddle_hard": "A flat stage for the family meal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COUCH",
+                    "riddle": "Soft seat.",
+                    "riddle_hard": "A padded island of comfort.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PARADISE",
+                    "riddle": "PARADISE.",
+                    "riddle_hard": "The hidden paradise of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 360,
+            "grid_size": 6,
+            "category": "Countries",
+            "subcategory": "Countries",
+            "complexity": 22.209999084472658,
+            "puzzles": [
+                {
+                    "word": "CHINA",
+                    "riddle": "Large country.",
+                    "riddle_hard": "The ancient realm of the wall.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPAIN",
+                    "riddle": "Sunny country.",
+                    "riddle_hard": "A land of fans and bulls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EGYPT",
+                    "riddle": "Nile country.",
+                    "riddle_hard": "The land of the sun-kings.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KEEL",
+                    "riddle": "Backbone.",
+                    "riddle_hard": "The heavy spine under the water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOLF",
+                    "riddle": "Ball and club.",
+                    "riddle_hard": "The long walk of the green.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FREEDOM",
+                    "riddle": "FREEDOM.",
+                    "riddle_hard": "The hidden freedom of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 361,
+            "grid_size": 5,
+            "category": "MiscNiche",
+            "subcategory": "MiscNiche",
+            "complexity": 22.280000686645509,
+            "puzzles": [
+                {
+                    "word": "RIG",
+                    "riddle": "Ship lines.",
+                    "riddle_hard": "The complex web of the sails.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNARL",
+                    "riddle": "Tree knot.",
+                    "riddle_hard": "A twisted bulge in the wood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SKELP",
+                    "riddle": "Slap.",
+                    "riddle_hard": "A sharp strike on the surface.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LITCH",
+                    "riddle": "Church gate.",
+                    "riddle_hard": "The roofed gate of the yard.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETERNAL",
+                    "riddle": "ETERNAL.",
+                    "riddle_hard": "The hidden eternal of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 362,
+            "grid_size": 6,
+            "category": "ObscureBirds",
+            "subcategory": "ObscureBirds",
+            "complexity": 22.350000381469728,
+            "puzzles": [
+                {
+                    "word": "GODWIT",
+                    "riddle": "Long beak.",
+                    "riddle_hard": "The long-distance flyer of the tides.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIPIT",
+                    "riddle": "Ground bird.",
+                    "riddle_hard": "A small brown walker of the grass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHALAROPE",
+                    "riddle": "Spinning bird.",
+                    "riddle_hard": "The bird that dances on the water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUNLIN",
+                    "riddle": "Wading bird.",
+                    "riddle_hard": "A small probe of the muddy shore.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIFT",
+                    "riddle": "Ground split.",
+                    "riddle_hard": "A tearing of the earth's skin.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 363,
+            "grid_size": 5,
+            "category": "FinalPush",
+            "subcategory": "FinalPush",
+            "complexity": 22.420000076293947,
+            "puzzles": [
+                {
+                    "word": "LEMUR",
+                    "riddle": "Striped tail.",
+                    "riddle_hard": "The big-eyed ghost of the island.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEIJO",
+                    "riddle": "Green fruit.",
+                    "riddle_hard": "A tart sweet heart of the south.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COATI",
+                    "riddle": "Long nose.",
+                    "riddle_hard": "A masked climber of the south.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GENET",
+                    "riddle": "Slender cat.",
+                    "riddle_hard": "The ring-tailed hunter of the trees.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLYPH",
+                    "riddle": "Picture writing.",
+                    "riddle_hard": "A story written in icons.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 364,
+            "grid_size": 6,
+            "category": "Ancient Skills",
+            "subcategory": "Ancient Skills",
+            "complexity": 22.489999771118165,
+            "puzzles": [
+                {
+                    "word": "ANVIL",
+                    "riddle": "Metal block.",
+                    "riddle_hard": "The iron heart that takes a blow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLADE",
+                    "riddle": "Sharp edge.",
+                    "riddle_hard": "A silver sliver of intention.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HILT",
+                    "riddle": "Sword handle.",
+                    "riddle_hard": "Where the hand meets the steel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUIVER",
+                    "riddle": "Arrow bag.",
+                    "riddle_hard": "A bundle of archer's stings.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOOM",
+                    "riddle": "Fabric tool.",
+                    "riddle_hard": "The frame where patterns are born.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORACLE",
+                    "riddle": "Truth teller.",
+                    "riddle_hard": "The voice that sees the future.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 365,
+            "grid_size": 5,
+            "category": "ObscureFruits",
+            "subcategory": "ObscureFruits",
+            "complexity": 22.559999465942384,
+            "puzzles": [
+                {
+                    "word": "NONI",
+                    "riddle": "Medicinal.",
+                    "riddle_hard": "A lumpy fruit of the healing shore.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALAK",
+                    "riddle": "Snake fruit.",
+                    "riddle_hard": "A scaly skin on a sweet white heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AKEE",
+                    "riddle": "Red fruit.",
+                    "riddle_hard": "The colorful pod of the island sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PITAYA",
+                    "riddle": "Dragon fruit.",
+                    "riddle_hard": "The pink-scaled heart of the cactus.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CASTLE",
+                    "riddle": "Stone fort.",
+                    "riddle_hard": "A crown of stone on the hill.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 366,
+            "grid_size": 5,
+            "category": "DeepSpace",
+            "subcategory": "DeepSpace",
+            "complexity": 22.6299991607666,
+            "puzzles": [
+                {
+                    "word": "GRAVY",
+                    "riddle": "Weight force.",
+                    "riddle_hard": "The invisible pull of mass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUASAR",
+                    "riddle": "Bright core.",
+                    "riddle_hard": "The blinding light of a galaxy.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOLAR",
+                    "riddle": "Sun power.",
+                    "riddle_hard": "Energy born from the star.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "Circle path.",
+                    "riddle_hard": "The endless fall around a sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAVE",
+                    "riddle": "Deep hole.",
+                    "riddle_hard": "The hollow mouth of the hill.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 367,
+            "grid_size": 6,
+            "category": "ObscureAnatomy",
+            "subcategory": "ObscureAnatomy",
+            "complexity": 22.700000762939454,
+            "puzzles": [
+                {
+                    "word": "ILIUM",
+                    "riddle": "Hip bone.",
+                    "riddle_hard": "The broad wing of the pelvis.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RADIUS",
+                    "riddle": "Arm bone.",
+                    "riddle_hard": "The rotating bone of the forearm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEMUR",
+                    "riddle": "Thigh bone.",
+                    "riddle_hard": "The longest bridge of the skeleton.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIBIA",
+                    "riddle": "Shin bone.",
+                    "riddle_hard": "The heavy pillar of the lower leg.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIBULA",
+                    "riddle": "Leg bone.",
+                    "riddle_hard": "The thin needle of the outer calf.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEN",
+                    "riddle": "Wet marsh.",
+                    "riddle_hard": "The peat-filled breath of the lowlands.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 368,
+            "grid_size": 5,
+            "category": "Geological",
+            "subcategory": "Geological",
+            "complexity": 22.770000457763673,
+            "puzzles": [
+                {
+                    "word": "FJORD",
+                    "riddle": "Ice valley.",
+                    "riddle_hard": "A mountain's giant blue scar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EROSION",
+                    "riddle": "Wearing down.",
+                    "riddle_hard": "The slow sculpting hand of water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAVE",
+                    "riddle": "Deep hole.",
+                    "riddle_hard": "The hollow mouth of the hill.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLATE",
+                    "riddle": "Flat rock.",
+                    "riddle_hard": "Tablets written by pressure Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEST",
+                    "riddle": "Try out.",
+                    "riddle_hard": "Asking the universe a question.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 369,
+            "grid_size": 5,
+            "category": "ObscureNature",
+            "subcategory": "ObscureNature",
+            "complexity": 22.84000015258789,
+            "puzzles": [
+                {
+                    "word": "DELL",
+                    "riddle": "Small valley.",
+                    "riddle_hard": "A quiet hollow in the woods.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESKER",
+                    "riddle": "Sand ridge.",
+                    "riddle_hard": "The gravel path of a dead glacier.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLEN",
+                    "riddle": "Long valley.",
+                    "riddle_hard": "The green throat of the mountains.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEATH",
+                    "riddle": "Open field.",
+                    "riddle_hard": "The purple domain of the shrubs.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUCCESS",
+                    "riddle": "SUCCESS.",
+                    "riddle_hard": "The hidden success of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 370,
+            "grid_size": 6,
+            "category": "ObscureInstruments",
+            "subcategory": "ObscureInstruments",
+            "complexity": 22.90999984741211,
+            "puzzles": [
+                {
+                    "word": "LUTE",
+                    "riddle": "Pear shape.",
+                    "riddle_hard": "The curved wood of the troubadour.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CORNET",
+                    "riddle": "Small brass.",
+                    "riddle_hard": "The bright bugle of the band.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ERHU",
+                    "riddle": "Two strings.",
+                    "riddle_hard": "The singing snake-skin of the east.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CANVAS",
+                    "riddle": "Paint cloth.",
+                    "riddle_hard": "The empty field of imagination.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRIAR",
+                    "riddle": "Thorn bush.",
+                    "riddle_hard": "A tangled wall of wooden stings.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIKAL",
+                    "riddle": "Ancient city.",
+                    "riddle_hard": "Where towers reach for the sun.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 371,
+            "grid_size": 5,
+            "category": "ObscureMinerals",
+            "subcategory": "ObscureMinerals",
+            "complexity": 22.979999542236329,
+            "puzzles": [
+                {
+                    "word": "SPHAL",
+                    "riddle": "Zinc ore.",
+                    "riddle_hard": "The resinous shine of the deep earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GALENA",
+                    "riddle": "Lead ore.",
+                    "riddle_hard": "The heavy grey cube of the mine.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOGIC",
+                    "riddle": "Making sense.",
+                    "riddle_hard": "The cold geometry of thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWORD",
+                    "riddle": "Metal sting.",
+                    "riddle_hard": "The long sting of steel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOOL",
+                    "riddle": "Help device.",
+                    "riddle_hard": "The extension of human will.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 372,
+            "grid_size": 6,
+            "category": "Transport",
+            "subcategory": "Transport",
+            "complexity": 23.049999237060548,
+            "puzzles": [
+                {
+                    "word": "CAR",
+                    "riddle": "Road wheel.",
+                    "riddle_hard": "A metal horse with oil blood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHIP",
+                    "riddle": "Big boat.",
+                    "riddle_hard": "The heavy giant of the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPURGE",
+                    "riddle": "Milky plant.",
+                    "riddle_hard": "A green stem full of white sap.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPHERE",
+                    "riddle": "Ball shape.",
+                    "riddle_hard": "A circle born in the air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEPTH",
+                    "riddle": "Surface distance.",
+                    "riddle_hard": "The vertical measure of descent.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GEYSER",
+                    "riddle": "Water spout.",
+                    "riddle_hard": "The earth's sudden steam breath.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 373,
+            "grid_size": 6,
+            "category": "OrganicChem",
+            "subcategory": "OrganicChem",
+            "complexity": 23.1200008392334,
+            "puzzles": [
+                {
+                    "word": "ALKENE",
+                    "riddle": "Double bond.",
+                    "riddle_hard": "A reactive link in the chain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALKANE",
+                    "riddle": "Simple fuel.",
+                    "riddle_hard": "The saturated chain of the carbon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETHER",
+                    "riddle": "Sleep gas.",
+                    "riddle_hard": "A bridge of oxygen between worlds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EPOXY",
+                    "riddle": "Strong glue.",
+                    "riddle_hard": "A cyclic ring of oxygen and fire.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AMIDE",
+                    "riddle": "Nitrogen link.",
+                    "riddle_hard": "The backbone of the soul's proteins.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JET",
+                    "riddle": "Black coal.",
+                    "riddle_hard": "The hardened soul of ancient wood.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 374,
+            "grid_size": 5,
+            "category": "Trees",
+            "subcategory": "Trees",
+            "complexity": 23.190000534057618,
+            "puzzles": [
+                {
+                    "word": "ELM",
+                    "riddle": "Tall leafy tree.",
+                    "riddle_hard": "A leafy giant in the meadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHESS",
+                    "riddle": "Think game.",
+                    "riddle_hard": "The black and white battle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BASE",
+                    "riddle": "Bitter liquid.",
+                    "riddle_hard": "The soapy floor of chemistry.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CORAL",
+                    "riddle": "Living wave rock.",
+                    "riddle_hard": "A calcium skeleton of the sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROVER",
+                    "riddle": "Mars car.",
+                    "riddle_hard": "A robotic hand on a red world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JIB",
+                    "riddle": "Front sail.",
+                    "riddle_hard": "A triangular wing of the ship.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 375,
+            "grid_size": 5,
+            "category": "Egypt",
+            "subcategory": "Egypt",
+            "complexity": 23.260000228881837,
+            "puzzles": [
+                {
+                    "word": "NILE",
+                    "riddle": "Great river.",
+                    "riddle_hard": "The liquid life of the desert.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCARAB",
+                    "riddle": "Ancient beetle.",
+                    "riddle_hard": "The armored roller of the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUMMY",
+                    "riddle": "Wrapped person.",
+                    "riddle_hard": "The linen-bound guest of time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANKH",
+                    "riddle": "Life symbol.",
+                    "riddle_hard": "The key to the eternal breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EQUITY",
+                    "riddle": "Fairness.",
+                    "riddle_hard": "The balance in a world of tilt.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 376,
+            "grid_size": 5,
+            "category": "MicroNiche",
+            "subcategory": "MicroNiche",
+            "complexity": 23.329999923706056,
+            "puzzles": [
+                {
+                    "word": "CENTRI",
+                    "riddle": "Cell part.",
+                    "riddle_hard": "The anchor of the dividing threads.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BASAL",
+                    "riddle": "Bottom part.",
+                    "riddle_hard": "The steady foundation of the structure.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAST",
+                    "riddle": "Tall pole.",
+                    "riddle_hard": "The vertical spine of the ship.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRUSH",
+                    "riddle": "Ocean weight.",
+                    "riddle_hard": "High pressure's final embrace Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TITAN",
+                    "riddle": "Old giant.",
+                    "riddle_hard": "One who fought against the gods.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 377,
+            "grid_size": 5,
+            "category": "Medieval",
+            "subcategory": "Medieval",
+            "complexity": 23.399999618530275,
+            "puzzles": [
+                {
+                    "word": "CASTLE",
+                    "riddle": "Stone fort.",
+                    "riddle_hard": "A crown of stone on the hill.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JOUST",
+                    "riddle": "Horse fight.",
+                    "riddle_hard": "The rhythmic dance of long lances.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOAT",
+                    "riddle": "Water ring.",
+                    "riddle_hard": "The wet circle around the castle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CROWN",
+                    "riddle": "King's hat.",
+                    "riddle_hard": "The golden weight of rule.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HYDRA",
+                    "riddle": "Many heads.",
+                    "riddle_hard": "The beast that grows by losing.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 378,
+            "grid_size": 6,
+            "category": "ObscureScience",
+            "subcategory": "ObscureScience",
+            "complexity": 23.469999313354493,
+            "puzzles": [
+                {
+                    "word": "THETA",
+                    "riddle": "Angle symbol.",
+                    "riddle_hard": "The curved secret of the degree.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DECAY",
+                    "riddle": "Breaking down.",
+                    "riddle_hard": "The slow fade of the atom's heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Tiny point.",
+                    "riddle_hard": "The smallest brick of the proton.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOSON",
+                    "riddle": "Force particle.",
+                    "riddle_hard": "The invisible glue of the fields.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KELP",
+                    "riddle": "Sea forest.",
+                    "riddle_hard": "The swaying green of the tides.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIRTUE",
+                    "riddle": "Being good.",
+                    "riddle_hard": "The noble weight of the heart.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MATRIX",
+                    "riddle": "Grid web.",
+                    "riddle_hard": "The mathematical cage of reality.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 379,
+            "grid_size": 5,
+            "category": "ObscureGems",
+            "subcategory": "ObscureGems",
+            "complexity": 23.540000915527345,
+            "puzzles": [
+                {
+                    "word": "JET",
+                    "riddle": "Black coal.",
+                    "riddle_hard": "The hardened soul of ancient wood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GREEK",
+                    "riddle": "Ancient tongue.",
+                    "riddle_hard": "The alphabet of the stars.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIAL",
+                    "riddle": "Glass tube.",
+                    "riddle_hard": "A tiny vessel for science.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HELIX",
+                    "riddle": "Spiral shape.",
+                    "riddle_hard": "The twisted ladder of life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RESIN",
+                    "riddle": "Syrup tree.",
+                    "riddle_hard": "The golden blood of a pine.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEN",
+                    "riddle": "Large mt.",
+                    "riddle_hard": "The high monarch of the glen.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 380,
+            "grid_size": 6,
+            "category": "FinalPush",
+            "subcategory": "FinalPush",
+            "complexity": 23.610000610351564,
+            "puzzles": [
+                {
+                    "word": "FOSSA",
+                    "riddle": "Cat-like.",
+                    "riddle_hard": "The swift hunter of the lemurs.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INDRI",
+                    "riddle": "Large lemur.",
+                    "riddle_hard": "The singing shadow of the forest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGOUP",
+                    "riddle": "Large rodent.",
+                    "riddle_hard": "The fast runner of the floor.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OKAPI",
+                    "riddle": "Forest zebra.",
+                    "riddle_hard": "The striped relative of the giraffe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CIVET",
+                    "riddle": "Scent cat.",
+                    "riddle_hard": "A spotted climber of the night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COINS",
+                    "riddle": "Metal money.",
+                    "riddle_hard": "The stamped faces of power.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 381,
+            "grid_size": 6,
+            "category": "Space Tech",
+            "subcategory": "Space Tech",
+            "complexity": 23.68000030517578,
+            "puzzles": [
+                {
+                    "word": "PROBE",
+                    "riddle": "Robot scout.",
+                    "riddle_hard": "A digital eye in the deep dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MODULE",
+                    "riddle": "Ship part.",
+                    "riddle_hard": "An isolated room for explorers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SATEL",
+                    "riddle": "Orbital eye.",
+                    "riddle_hard": "The metal stars we made.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCKET",
+                    "riddle": "Space flyer.",
+                    "riddle_hard": "A fire-tailed spear for the sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PANEL",
+                    "riddle": "Sun catcher.",
+                    "riddle_hard": "Catching the light for power.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GAS",
+                    "riddle": "GAS.",
+                    "riddle_hard": "The hidden gas of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 382,
+            "grid_size": 6,
+            "category": "Ancient Skills",
+            "subcategory": "Ancient Skills",
+            "complexity": 23.75,
+            "puzzles": [
+                {
+                    "word": "FORGE",
+                    "riddle": "Fire maker.",
+                    "riddle_hard": "Heating the soul of the steel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOOL",
+                    "riddle": "Help device.",
+                    "riddle_hard": "The extension of human will.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEST",
+                    "riddle": "Try out.",
+                    "riddle_hard": "Asking the universe a question.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIVID",
+                    "riddle": "Bright colors.",
+                    "riddle_hard": "As real as a waking dream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUGBY",
+                    "riddle": "Oval ball.",
+                    "riddle_hard": "The mud-born battle of men.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VICTORY",
+                    "riddle": "VICTORY.",
+                    "riddle_hard": "The hidden victory of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 383,
+            "grid_size": 5,
+            "category": "Mythology",
+            "subcategory": "Mythology",
+            "complexity": 23.81999969482422,
+            "puzzles": [
+                {
+                    "word": "ORACLE",
+                    "riddle": "Truth teller.",
+                    "riddle_hard": "The voice that sees the future.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERO",
+                    "riddle": "Brave winner.",
+                    "riddle_hard": "A mortal marked by destiny.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TITAN",
+                    "riddle": "Old giant.",
+                    "riddle_hard": "One who fought against the gods.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HYDRA",
+                    "riddle": "Many heads.",
+                    "riddle_hard": "The beast that grows by losing.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VESTA",
+                    "riddle": "Fire goddess.",
+                    "riddle_hard": "The keeper of the city's flame.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 384,
+            "grid_size": 5,
+            "category": "NichePlants",
+            "subcategory": "NichePlants",
+            "complexity": 23.8799991607666,
+            "puzzles": [
+                {
+                    "word": "SEDGE",
+                    "riddle": "Grass-like.",
+                    "riddle_hard": "A triangular blade of the marsh.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CYCAD",
+                    "riddle": "Ancient palm.",
+                    "riddle_hard": "A living fossil from the age of giants.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CURLEW",
+                    "riddle": "Curved beak.",
+                    "riddle_hard": "The haunting cry of the marsh.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VACUUM",
+                    "riddle": "Empty space.",
+                    "riddle_hard": "A room with no one inside.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FOG",
+                    "riddle": "FOG.",
+                    "riddle_hard": "The hidden fog of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 385,
+            "grid_size": 5,
+            "category": "Instruments",
+            "subcategory": "Instruments",
+            "complexity": 23.950000762939454,
+            "puzzles": [
+                {
+                    "word": "CELLO",
+                    "riddle": "Big violin.",
+                    "riddle_hard": "A wooden voice that cries deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIANO",
+                    "riddle": "Black/white keys.",
+                    "riddle_hard": "Eighty-eight keys of emotion Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEN",
+                    "riddle": "Wet marsh.",
+                    "riddle_hard": "The peat-filled breath of the lowlands.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SURF",
+                    "riddle": "Wave ride.",
+                    "riddle_hard": "The balanced dance on salt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MEMORIES",
+                    "riddle": "MEMORIES.",
+                    "riddle_hard": "The hidden memories of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 386,
+            "grid_size": 6,
+            "category": "Sports",
+            "subcategory": "Sports",
+            "complexity": 24.020000457763673,
+            "puzzles": [
+                {
+                    "word": "SOCCE",
+                    "riddle": "Football gam.",
+                    "riddle_hard": "The global game of the feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TENNIS",
+                    "riddle": "Racket game.",
+                    "riddle_hard": "A yellow ball over the net.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESTER",
+                    "riddle": "Sweet smell.",
+                    "riddle_hard": "The fruit-scented soul of chemistry.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEANS",
+                    "riddle": "Small pods.",
+                    "riddle_hard": "The magic seeds in the pod.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "Inspiring one.",
+                    "riddle_hard": "The whisper that sparks a star.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEEDS",
+                    "riddle": "Plant baby.",
+                    "riddle_hard": "The tiny promise of a forest.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 387,
+            "grid_size": 5,
+            "category": "Science",
+            "subcategory": "Science",
+            "complexity": 24.09000015258789,
+            "puzzles": [
+                {
+                    "word": "LAB",
+                    "riddle": "Experiment.",
+                    "riddle_hard": "Where curiosity becomes a fact.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SYSTEM",
+                    "riddle": "Working group.",
+                    "riddle_hard": "A complex dance of many parts.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIREO",
+                    "riddle": "Green bird.",
+                    "riddle_hard": "A small singer hidden in the leaves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VESTA",
+                    "riddle": "Fire goddess.",
+                    "riddle_hard": "The keeper of the city's flame.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Radio message.",
+                    "riddle_hard": "A whisper across the void.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 388,
+            "grid_size": 5,
+            "category": "Clothing",
+            "subcategory": "Clothing",
+            "complexity": 24.15999984741211,
+            "puzzles": [
+                {
+                    "word": "LACE",
+                    "riddle": "Fancy net.",
+                    "riddle_hard": "A web of delicate white thread.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOOT",
+                    "riddle": "Foot cover.",
+                    "riddle_hard": "The leather path for a walker.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VEST",
+                    "riddle": "Torso cover.",
+                    "riddle_hard": "The sleeveless heart of the suit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILK",
+                    "riddle": "Fine cloth.",
+                    "riddle_hard": "The soft whisper of the loom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HAT",
+                    "riddle": "Head cover.",
+                    "riddle_hard": "The crown of a humble man.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PULSAR",
+                    "riddle": "Spinning star.",
+                    "riddle_hard": "The cosmic lighthouse of radio.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 389,
+            "grid_size": 6,
+            "category": "Egypt",
+            "subcategory": "Egypt",
+            "complexity": 24.229999542236329,
+            "puzzles": [
+                {
+                    "word": "PYRAMID",
+                    "riddle": "Pointy king home.",
+                    "riddle_hard": "Stone geometry for the afterlife.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MITOSIS",
+                    "riddle": "Cell split.",
+                    "riddle_hard": "The dance of the double threads.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PULSAR",
+                    "riddle": "Spinning star.",
+                    "riddle_hard": "The cosmic lighthouse of radio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHREW",
+                    "riddle": "Tiny mouse.",
+                    "riddle_hard": "The hungry shadow of the grass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MELON",
+                    "riddle": "Big juicy fruit.",
+                    "riddle_hard": "A green moon full of water.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 390,
+            "grid_size": 5,
+            "category": "Maya",
+            "subcategory": "Maya",
+            "complexity": 24.299999237060548,
+            "puzzles": [
+                {
+                    "word": "TIKAL",
+                    "riddle": "Ancient city.",
+                    "riddle_hard": "Where towers reach for the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JADE",
+                    "riddle": "Green stone.",
+                    "riddle_hard": "The royal soul of the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLYPH",
+                    "riddle": "Picture writing.",
+                    "riddle_hard": "A story written in icons.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Snail's home.",
+                    "riddle_hard": "A hardened spiraled house Whispering in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZENITH",
+                    "riddle": "Highest point.",
+                    "riddle_hard": "The point directly above the head.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 391,
+            "grid_size": 5,
+            "category": "MiscNiche",
+            "subcategory": "MiscNiche",
+            "complexity": 24.3700008392334,
+            "puzzles": [
+                {
+                    "word": "CRAG",
+                    "riddle": "Rough rock.",
+                    "riddle_hard": "A jagged finger of the mountain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUIRT",
+                    "riddle": "Small whip.",
+                    "riddle_hard": "A short handle with a lash.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEN",
+                    "riddle": "Large mt.",
+                    "riddle_hard": "The high monarch of the glen.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SNATHE",
+                    "riddle": "Scythe handle.",
+                    "riddle_hard": "The curved wood of the blade.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARRIOR",
+                    "riddle": "WARRIOR.",
+                    "riddle_hard": "The hidden warrior of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 392,
+            "grid_size": 6,
+            "category": "ObscureFruits",
+            "subcategory": "ObscureFruits",
+            "complexity": 24.440000534057618,
+            "puzzles": [
+                {
+                    "word": "RAMBUTAN",
+                    "riddle": "Hairy fruit.",
+                    "riddle_hard": "A red spider from the tropical tree.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEXUS",
+                    "riddle": "Meet point.",
+                    "riddle_hard": "The hub where paths all cross.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHAIR",
+                    "riddle": "Thing to sit on.",
+                    "riddle_hard": "A wooden lap for a tired soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Radio message.",
+                    "riddle_hard": "A whisper across the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAT",
+                    "riddle": "Purring pet.",
+                    "riddle_hard": "The small lion of the home.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARC",
+                    "riddle": "ARC.",
+                    "riddle_hard": "The hidden arc of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 393,
+            "grid_size": 6,
+            "category": "SeaNiche2",
+            "subcategory": "SeaNiche2",
+            "complexity": 24.510000228881837,
+            "puzzles": [
+                {
+                    "word": "BLENNY",
+                    "riddle": "Small fish.",
+                    "riddle_hard": "A curious face in the rock pool.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PROTON",
+                    "riddle": "Plus charge.",
+                    "riddle_hard": "The positive heart of the matter.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAD",
+                    "riddle": "Power ray.",
+                    "riddle_hard": "The invisible heat of the atom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NODE",
+                    "riddle": "Link point.",
+                    "riddle_hard": "Where the lines all meet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PERIGEE",
+                    "riddle": "Near point.",
+                    "riddle_hard": "The closest kiss of the moon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUBE",
+                    "riddle": "Block shape.",
+                    "riddle_hard": "A solid square of the mind.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 394,
+            "grid_size": 6,
+            "category": "DeepSpace",
+            "subcategory": "DeepSpace",
+            "complexity": 24.579999923706056,
+            "puzzles": [
+                {
+                    "word": "ZENITH",
+                    "riddle": "Highest point.",
+                    "riddle_hard": "The point directly above the head.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COMET",
+                    "riddle": "Ice rock.",
+                    "riddle_hard": "The dirty snowball of space.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EQUITY",
+                    "riddle": "Fairness.",
+                    "riddle_hard": "The balance in a world of tilt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VARUNA",
+                    "riddle": "Large rock.",
+                    "riddle_hard": "The dark guardian of the outer sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANGLE",
+                    "riddle": "Fish hook.",
+                    "riddle_hard": "The hidden trap of the angler.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PATIENCE",
+                    "riddle": "PATIENCE.",
+                    "riddle_hard": "The hidden patience of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 395,
+            "grid_size": 6,
+            "category": "Geological",
+            "subcategory": "Geological",
+            "complexity": 24.649999618530275,
+            "puzzles": [
+                {
+                    "word": "GEYSER",
+                    "riddle": "Water spout.",
+                    "riddle_hard": "The earth's sudden steam breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIFT",
+                    "riddle": "Ground split.",
+                    "riddle_hard": "A tearing of the earth's skin.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RADAR",
+                    "riddle": "Wave spotter.",
+                    "riddle_hard": "A silent echo searching for truth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BONOBO",
+                    "riddle": "Peace ape.",
+                    "riddle_hard": "The gentle cousin of the chimp.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIKE",
+                    "riddle": "Pointy hill.",
+                    "riddle_hard": "A sharp tooth of the range.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHELF",
+                    "riddle": "Thing for books.",
+                    "riddle_hard": "A steady arm holding memories.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 396,
+            "grid_size": 5,
+            "category": "InsectsNiche",
+            "subcategory": "InsectsNiche",
+            "complexity": 24.719999313354493,
+            "puzzles": [
+                {
+                    "word": "GRYLL",
+                    "riddle": "Cricket.",
+                    "riddle_hard": "The dark jumper of the hearth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WRITE",
+                    "riddle": "Making marks.",
+                    "riddle_hard": "The dance of the ink on paper.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AMP",
+                    "riddle": "Power flow.",
+                    "riddle_hard": "The measure of the current.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEAS",
+                    "riddle": "Green dots.",
+                    "riddle_hard": "The emerald pearls of the garden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAITHFUL",
+                    "riddle": "FAITHFUL.",
+                    "riddle_hard": "The hidden faithful of this level.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 397,
+            "grid_size": 5,
+            "category": "Furniture",
+            "subcategory": "Furniture",
+            "complexity": 24.790000915527345,
+            "puzzles": [
+                {
+                    "word": "SHELF",
+                    "riddle": "Thing for books.",
+                    "riddle_hard": "A steady arm holding memories.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUBE",
+                    "riddle": "Block shape.",
+                    "riddle_hard": "A solid square of the mind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEEDS",
+                    "riddle": "Plant baby.",
+                    "riddle_hard": "The tiny promise of a forest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OCELO",
+                    "riddle": "Small cat.",
+                    "riddle_hard": "The spotted ghost of the brush.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MATRIX",
+                    "riddle": "Grid system.",
+                    "riddle_hard": "The invisible web of the code.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 398,
+            "grid_size": 6,
+            "category": "Mythology",
+            "subcategory": "Mythology",
+            "complexity": 24.860000610351564,
+            "puzzles": [
+                {
+                    "word": "DRAGON",
+                    "riddle": "Fire lizard.",
+                    "riddle_hard": "The flying terror of the hoard.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIRTUE",
+                    "riddle": "Being good.",
+                    "riddle_hard": "The noble weight of the heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MATRIX",
+                    "riddle": "Grid system.",
+                    "riddle_hard": "The invisible web of the code.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHORE",
+                    "riddle": "Sand's edge.",
+                    "riddle_hard": "The meeting of earth and salt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KINGDOM",
+                    "riddle": "KINGDOM.",
+                    "riddle_hard": "The hidden kingdom of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 399,
+            "grid_size": 6,
+            "category": "Rome",
+            "subcategory": "Rome",
+            "complexity": 24.93000030517578,
+            "puzzles": [
+                {
+                    "word": "COINS",
+                    "riddle": "Metal money.",
+                    "riddle_hard": "The stamped faces of power.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KINESIN",
+                    "riddle": "Cell walk.",
+                    "riddle_hard": "A robot carrying a heavy load.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MELON",
+                    "riddle": "Big juicy fruit.",
+                    "riddle_hard": "A green moon full of water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COAT",
+                    "riddle": "Warm layer.",
+                    "riddle_hard": "The barrier against the bite.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GEMS",
+                    "riddle": "Shiny stone.",
+                    "riddle_hard": "The rainbow bones of earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INPUT",
+                    "riddle": "INPUT.",
+                    "riddle_hard": "The hidden input of this level.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Sub-particle.",
+                    "riddle_hard": "A tiny dancer inside the proton.",
+                    "is_hard": true
+                },
+                {
+                    "word": "OM",
+                    "riddle": "The first sound.",
+                    "riddle_hard": "The primordial vibration of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 400,
+            "grid_size": 5,
+            "category": "Mega",
+            "subcategory": "Mega",
+            "complexity": 25.0,
+            "puzzles": [
+                {
+                    "word": "SILT",
+                    "riddle": "River mud.",
+                    "riddle_hard": "The fine dust of the water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAM",
+                    "riddle": "Light line.",
+                    "riddle_hard": "A straight arrow of brightness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VALE",
+                    "riddle": "Low valley.",
+                    "riddle_hard": "The green cup between the hills.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAN",
+                    "riddle": "Cairn mark.",
+                    "riddle_hard": "A stone guide on the peak.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FELL",
+                    "riddle": "Hill area.",
+                    "riddle_hard": "The open high ground of the north.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "Grand plan.",
+                    "riddle_hard": "The orderly arrangement of all things.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

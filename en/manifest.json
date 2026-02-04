@@ -1,0 +1,12 @@
+{
+    "Language": "en",
+    "Packs": [
+        "pack_1.json",
+        "pack_2.json",
+        "pack_3.json",
+        "pack_4.json",
+        "pack_5.json",
+        "pack_6.json",
+        "pack_7.json"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Language": "ru",
+    "Packs": [
+        "pack_1.json",
+        "pack_2.json"
+    ]
+}

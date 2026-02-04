@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "教程",
+            "subcategory": "入門",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "謎題",
+                    "riddle": "披著偽裝的問題。",
+                    "riddle_hard": "被好奇心包裹的秘密。"
+                },
+                {
+                    "word": "路徑",
+                    "riddle": "草地上的土色絲帶。",
+                    "riddle_hard": "從不說話的向導。"
+                },
+                {
+                    "word": "大師",
+                    "riddle": "棋盤的首領。",
+                    "riddle_hard": "掌握所有鑰匙的人。",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "自然",
+            "subcategory": "天空",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "天空",
+                    "riddle": "永不需要粉刷的天花板。",
+                    "riddle_hard": "鳥兒游動的藍色海洋。"
+                },
+                {
+                    "word": "太陽",
+                    "riddle": "天空中的巨大燈泡。",
+                    "riddle_hard": "永不眨眼的金色眼睛。"
+                },
+                {
+                    "word": "空氣",
+                    "riddle": "肺部的無形食物。",
+                    "riddle_hard": "盒子裡的透明風。"
+                }
+            ]
+        }
+    ]
+}

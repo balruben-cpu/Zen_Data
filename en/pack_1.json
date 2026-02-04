@@ -1,0 +1,3998 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Tutorial",
+            "subcategory": "Intro",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RIDDLE",
+                    "riddle": "Question in disguise.",
+                    "riddle_hard": "A secret wrapped in curiosity.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PATH",
+                    "riddle": "Dirt ribbon on grass.",
+                    "riddle_hard": "A guide that never says a word.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MASTER",
+                    "riddle": "Boss of the board.",
+                    "riddle_hard": "The one who holds all the keys.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Sky High",
+            "complexity": 1.100000023841858,
+            "puzzles": [
+                {
+                    "word": "SKY",
+                    "riddle": "Unpainted blue ceiling.",
+                    "riddle_hard": "A blue ocean where birds swim.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUN",
+                    "riddle": "Sky's giant lightbulb.",
+                    "riddle_hard": "The golden eye that never blinks.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AIR",
+                    "riddle": "Invisible lung food.",
+                    "riddle_hard": "Transparent wind in a box.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The sky's outfit.",
+                    "riddle_hard": "A drop of light in a clear cup.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAY",
+                    "riddle": "A laser beam from the sun.",
+                    "riddle_hard": "A golden finger touching Earth.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 3,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Night Watch",
+            "complexity": 1.2000000476837158,
+            "puzzles": [
+                {
+                    "word": "MOON",
+                    "riddle": "A nightlight that follows you.",
+                    "riddle_hard": "A silver coin in a dark pocket.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAR",
+                    "riddle": "A hole in the blanket of night.",
+                    "riddle_hard": "A cosmic spark in the deep dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DARK",
+                    "riddle": "What happens when light hides.",
+                    "riddle_hard": "A heavy blanket with no weight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NIGHT",
+                    "riddle": "The shadow of the whole world.",
+                    "riddle_hard": "The time when stars wake up.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEW",
+                    "riddle": "The lawn's morning sweat.",
+                    "riddle_hard": "Grass diamonds found at dawn.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 4,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Stormy",
+            "complexity": 1.2999999523162842,
+            "puzzles": [
+                {
+                    "word": "RAIN",
+                    "riddle": "The sky's way of washing yard.",
+                    "riddle_hard": "Clouds leaking onto your head.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIND",
+                    "riddle": "The air in a big hurry.",
+                    "riddle_hard": "An invisible ghost pushing trees.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRAY",
+                    "riddle": "The color of a rainy mood.",
+                    "riddle_hard": "A mix of shadow and cloud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WET",
+                    "riddle": "After cloud hugs.",
+                    "riddle_hard": "Drowning, but just a little bit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STORM",
+                    "riddle": "The sky having a loud tantrum.",
+                    "riddle_hard": "Angry clouds throwing a fit.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 5,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Warmth",
+            "complexity": 1.399999976158142,
+            "puzzles": [
+                {
+                    "word": "HEAT",
+                    "riddle": "The sun's warm hug.",
+                    "riddle_hard": "The power to melt an ice cube.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "A sweater for your soul.",
+                    "riddle_hard": "Neither a shiver nor a sweat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIRE",
+                    "riddle": "A hungry light that eats wood.",
+                    "riddle_hard": "A dancing orange ghost.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRY",
+                    "riddle": "What a sponge wants to be.",
+                    "riddle_hard": "The opposite of a splash.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STEAM",
+                    "riddle": "The ghost of a kettle.",
+                    "riddle_hard": "Hot air with a white coat.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 6,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Winter",
+            "complexity": 1.5,
+            "puzzles": [
+                {
+                    "word": "SNOW",
+                    "riddle": "Cold white sky blanket.",
+                    "riddle_hard": "Tiny frozen stars that melt fast.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "When the air wants to bite.",
+                    "riddle_hard": "A shiver looking for a sweater.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ICE",
+                    "riddle": "Slidable hard water.",
+                    "riddle_hard": "A slippery stone that melts.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHITE",
+                    "riddle": "The color of a clean slate.",
+                    "riddle_hard": "A cloud caught in a bucket.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "The playground of your ideas.",
+                    "riddle_hard": "The invisible room where you live.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 7,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Forest",
+            "complexity": 1.600000023841858,
+            "puzzles": [
+                {
+                    "word": "TREE",
+                    "riddle": "Giant with thousand leaves.",
+                    "riddle_hard": "A wooden skyscraper for birds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEAF",
+                    "riddle": "A green fan for the wind.",
+                    "riddle_hard": "A tiny piece of a tree's hair.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOD",
+                    "riddle": "The hard bones of the forest.",
+                    "riddle_hard": "Solid sunshine in a log.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GREEN",
+                    "riddle": "Nature's favorite outfit.",
+                    "riddle_hard": "The color of a happy lawn.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KEY",
+                    "riddle": "A metal tooth for a lock.",
+                    "riddle_hard": "Small, silver, and full of secrets.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 8,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Trees",
+            "complexity": 1.7000000476837158,
+            "puzzles": [
+                {
+                    "word": "ROOT",
+                    "riddle": "A thirsty straw in the dirt.",
+                    "riddle_hard": "The tree's secret anchors.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BARK",
+                    "riddle": "Armor for a wooden giant.",
+                    "riddle_hard": "A rough coat that never comes off.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOG",
+                    "riddle": "A tree taking a long nap.",
+                    "riddle_hard": "A heavy cylinder of wood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TALL",
+                    "riddle": "Reaching for the clouds.",
+                    "riddle_hard": "Living life in the high seats.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRUIT",
+                    "riddle": "Sweet tree gift.",
+                    "riddle_hard": "The colorful prize of the branch.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 9,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "River",
+            "complexity": 1.7999999523162842,
+            "puzzles": [
+                {
+                    "word": "RIVER",
+                    "riddle": "A liquid road that never stops.",
+                    "riddle_hard": "Water on its way to the sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWIM",
+                    "riddle": "Flying, but much wetter.",
+                    "riddle_hard": "The human way to be a fish.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FISH",
+                    "riddle": "An animal that never blinks.",
+                    "riddle_hard": "The silver kings of the stream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WET",
+                    "riddle": "What happens after a splash.",
+                    "riddle_hard": "The feeling of a rainy hug.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLOW",
+                    "riddle": "The river's lazy dance.",
+                    "riddle_hard": "Going with the current.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 10,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Ocean",
+            "complexity": 1.899999976158142,
+            "puzzles": [
+                {
+                    "word": "WAVE",
+                    "riddle": "The ocean saying hello.",
+                    "riddle_hard": "A liquid hill that falls down.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAND",
+                    "riddle": "Mountains ground into gold dust.",
+                    "riddle_hard": "A million tiny rocks in your shoe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALT",
+                    "riddle": "Snow that makes food tasty.",
+                    "riddle_hard": "White crystals from the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TACO",
+                    "riddle": "A crunchy pocket of joy.",
+                    "riddle_hard": "A folded treasure from the street grill.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIDE",
+                    "riddle": "The sea's slow heartbeat.",
+                    "riddle_hard": "Water that leaves and returns.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 11,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Mountains",
+            "complexity": 2.0,
+            "puzzles": [
+                {
+                    "word": "HIGH",
+                    "riddle": "Up where the birds live.",
+                    "riddle_hard": "A long way from the ground.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEAK",
+                    "riddle": "The mountain's pointed hat.",
+                    "riddle_hard": "The very tip of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCK",
+                    "riddle": "A mountain's heavy pebble.",
+                    "riddle_hard": "Stronger than a paper bag.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLIMB",
+                    "riddle": "Walking towards the sky.",
+                    "riddle_hard": "Using your hands as feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLY",
+                    "riddle": "Giving up on gravity.",
+                    "riddle_hard": "Rowing through the blue.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 12,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Desert",
+            "complexity": 2.0999999046325684,
+            "puzzles": [
+                {
+                    "word": "DUNES",
+                    "riddle": "Sand mountains built by wind.",
+                    "riddle_hard": "Waves made of golden dust.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOT",
+                    "riddle": "When the sun hugs too hard.",
+                    "riddle_hard": "Sizzling like a summer road.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRY",
+                    "riddle": "A sponge without a drop.",
+                    "riddle_hard": "Thirsty ground and no clouds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUN",
+                    "riddle": "The giant heater in the sky.",
+                    "riddle_hard": "A yellow coin that burns.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUENCH",
+                    "riddle": "Giving a dry throat a drink.",
+                    "riddle_hard": "Making the thirst go away.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 13,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Field",
+            "complexity": 2.200000047683716,
+            "puzzles": [
+                {
+                    "word": "GRASS",
+                    "riddle": "The soft green hair of earth.",
+                    "riddle_hard": "A million tiny green blades.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPEN",
+                    "riddle": "A room without a ceiling.",
+                    "riddle_hard": "Plenty of space for the wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIDE",
+                    "riddle": "Stretching to the horizon.",
+                    "riddle_hard": "More room than you can use.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUN",
+                    "riddle": "Chasing the wind with feet.",
+                    "riddle_hard": "Moving faster than a walk.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "Quiet as a sleeping kitten.",
+                    "riddle_hard": "A lake with no ripples.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 14,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Flower",
+            "complexity": 2.299999952316284,
+            "puzzles": [
+                {
+                    "word": "ROSE",
+                    "riddle": "A beauty with sharp teeth.",
+                    "riddle_hard": "A red crown in the garden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUD",
+                    "riddle": "A flower's secret package.",
+                    "riddle_hard": "A tiny bundle of petals.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STEM",
+                    "riddle": "The ladder for the flower.",
+                    "riddle_hard": "A green straw for the bloom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROW",
+                    "riddle": "Reaching for the sun.",
+                    "riddle_hard": "Turning light into life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLOOM",
+                    "riddle": "The flower's main event.",
+                    "riddle_hard": "Opening up to the morning sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 15,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Bugs",
+            "complexity": 2.4000000953674316,
+            "puzzles": [
+                {
+                    "word": "ANT",
+                    "riddle": "The strongest tiny guy.",
+                    "riddle_hard": "A six-legged weightlifter.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLIES",
+                    "riddle": "Tiny pilots with no manners.",
+                    "riddle_hard": "Buzzing acrobats of the air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIVE",
+                    "riddle": "A honeycomb city of gold.",
+                    "riddle_hard": "Where the buzz begins.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WING",
+                    "riddle": "A sail for the sky.",
+                    "riddle_hard": "Thin arms that catch the air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Dancing in circles for silk.",
+                    "riddle_hard": "Making a trap from a tummy.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 16,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Birds",
+            "complexity": 2.5,
+            "puzzles": [
+                {
+                    "word": "NEST",
+                    "riddle": "A cozy cup made of twigs.",
+                    "riddle_hard": "A nursery in the branches.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EGG",
+                    "riddle": "A life in a fragile white box.",
+                    "riddle_hard": "A porcelain house for a bird.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SING",
+                    "riddle": "Filling morning with music.",
+                    "riddle_hard": "A tiny concert on a branch.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLY",
+                    "riddle": "Rowing through the blue sky.",
+                    "riddle_hard": "Giving up gravity for freedom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLIGHT",
+                    "riddle": "A journey with no roads.",
+                    "riddle_hard": "The dream of having wings.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 17,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Cave",
+            "complexity": 2.5999999046325684,
+            "puzzles": [
+                {
+                    "word": "DARK",
+                    "riddle": "The king of the deep cave.",
+                    "riddle_hard": "A shadow that fills the room.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BAT",
+                    "riddle": "A furry pilot of the night.",
+                    "riddle_hard": "Upside down and fast as sound.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ECHO",
+                    "riddle": "The wall's way of talking back.",
+                    "riddle_hard": "Your own voice returning home.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Far beneath the sunny world.",
+                    "riddle_hard": "A long drop into the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STONY",
+                    "riddle": "Built of solid mountain bone.",
+                    "riddle_hard": "Cold, hard, and gray all over.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 18,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Swamp",
+            "complexity": 2.700000047683716,
+            "puzzles": [
+                {
+                    "word": "MUD",
+                    "riddle": "Earth that wants your shoes.",
+                    "riddle_hard": "Sticky chocolate for trees.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WET",
+                    "riddle": "Dripping with murky juice.",
+                    "riddle_hard": "Drenched in the swamp's hug.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FROG",
+                    "riddle": "A green singer on a lily pad.",
+                    "riddle_hard": "Boing-boing in a green suit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOSS",
+                    "riddle": "A velvet rug for the stones.",
+                    "riddle_hard": "Green fuzz on an old log.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLUDGE",
+                    "riddle": "Heavy, slow, and sticky dirt.",
+                    "riddle_hard": "Murky thickness in the deep.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 19,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Volcano",
+            "complexity": 2.799999952316284,
+            "puzzles": [
+                {
+                    "word": "LAVA",
+                    "riddle": "A spicy river of melted stone.",
+                    "riddle_hard": "Heat from the Earth's heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASH",
+                    "riddle": "The gray snow of a fire.",
+                    "riddle_hard": "A soft gray ghost of wood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOT",
+                    "riddle": "When air feels like an oven.",
+                    "riddle_hard": "Sizzling, burning, and bright.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIRE",
+                    "riddle": "A hungry light that never sleeps.",
+                    "riddle_hard": "A dancing spirit of heat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRATER",
+                    "riddle": "The volcano's empty soup bowl.",
+                    "riddle_hard": "A giant hole in the mountain.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 20,
+            "grid_size": 5,
+            "category": "Nature",
+            "subcategory": "Rainbow",
+            "complexity": 2.9000000953674316,
+            "puzzles": [
+                {
+                    "word": "ARCH",
+                    "riddle": "A bridge made of light.",
+                    "riddle_hard": "The sky's colorful smile.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLOR",
+                    "riddle": "Light broken into pieces.",
+                    "riddle_hard": "Paint from the sun's brush.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SKY",
+                    "riddle": "The world's biggest blue room.",
+                    "riddle_hard": "A ceiling with no corners.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOLD",
+                    "riddle": "A yellow coin found in a pot.",
+                    "riddle_hard": "Sunlight caught in a nugget.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAVE",
+                    "riddle": "The sea's attempt at a jump.",
+                    "riddle_hard": "A wall of water that falls.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 21,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Kitchen",
+            "complexity": 3.0,
+            "puzzles": [
+                {
+                    "word": "COOK",
+                    "riddle": "Turning raw into ready.",
+                    "riddle_hard": "Magic in the kitchen pot.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EAT",
+                    "riddle": "Making the hunger go away.",
+                    "riddle_hard": "The best part of the day.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FORK",
+                    "riddle": "I have teeth but cannot bite.",
+                    "riddle_hard": "A silver hand with four fingers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOWL",
+                    "riddle": "A tiny pond for your soup.",
+                    "riddle_hard": "A rounded home for breakfast.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLATE",
+                    "riddle": "A flat stage for your meal.",
+                    "riddle_hard": "A ceramic disk for dinner.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 22,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Morning",
+            "complexity": 3.0999999046325684,
+            "puzzles": [
+                {
+                    "word": "WAKE",
+                    "riddle": "Opening the curtains of sight.",
+                    "riddle_hard": "Coming back from dreamland.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEA",
+                    "riddle": "A herbal hug in a cup.",
+                    "riddle_hard": "Steeping leaves for peace.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUP",
+                    "riddle": "A ceramic home for coffee.",
+                    "riddle_hard": "A warm handle in your hand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUN",
+                    "riddle": "The alarm clock in the sky.",
+                    "riddle_hard": "Light that wakes the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAY",
+                    "riddle": "Beam of light.",
+                    "riddle_hard": "A single line of sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 23,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Garden",
+            "complexity": 3.200000047683716,
+            "puzzles": [
+                {
+                    "word": "DIRT",
+                    "riddle": "The brown bed where life grows.",
+                    "riddle_hard": "A snack for a hungry worm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEED",
+                    "riddle": "A tiny secret in a shell.",
+                    "riddle_hard": "A tree in a very small box.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROW",
+                    "riddle": "Reaching higher every day.",
+                    "riddle_hard": "Moving slowly towards the sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOSE",
+                    "riddle": "A rubber snake that spits.",
+                    "riddle_hard": "Raining through a nozzle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRIM",
+                    "riddle": "Giving the hedge a haircut.",
+                    "riddle_hard": "Cutting the wild edges off.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 24,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Living Room",
+            "complexity": 3.299999952316284,
+            "puzzles": [
+                {
+                    "word": "SOFA",
+                    "riddle": "A soft island in the room.",
+                    "riddle_hard": "A cloud for three people.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOOK",
+                    "riddle": "A world between two covers.",
+                    "riddle_hard": "A voice made of paper.",
+                    "is_hard": false
+                },
+                {
+                    "word": "READ",
+                    "riddle": "Hearing with your eyes.",
+                    "riddle_hard": "Taking a trip inside a page.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAMP",
+                    "riddle": "A sun on a stick.",
+                    "riddle_hard": "Pushing the shadows away.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REST",
+                    "riddle": "Weight dropping off mind.",
+                    "riddle_hard": "The silence of a still mind.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 25,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Bedroom",
+            "complexity": 3.4000000953674316,
+            "puzzles": [
+                {
+                    "word": "SLEEP",
+                    "riddle": "The body's way of recharging.",
+                    "riddle_hard": "A long blink until morning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BED",
+                    "riddle": "The soft shore of dreamland.",
+                    "riddle_hard": "A rectangular park for rest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COZY",
+                    "riddle": "Warm and comfortable.",
+                    "riddle_hard": "A cloud for your dreams.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DREAM",
+                    "riddle": "A movie behind your eyes.",
+                    "riddle_hard": "A secret trip to nowhere.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUP",
+                    "riddle": "Warmth in your hands.",
+                    "riddle_hard": "A ceramic hug for your tea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 26,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Cleaning",
+            "complexity": 3.5,
+            "puzzles": [
+                {
+                    "word": "DUST",
+                    "riddle": "Gray ghosts of time.",
+                    "riddle_hard": "Tiny pieces of the past.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIDY",
+                    "riddle": "Everything in its own home.",
+                    "riddle_hard": "A room without a mess.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BROOM",
+                    "riddle": "A wooden tail for the house.",
+                    "riddle_hard": "Dancing with the dust.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLEAN",
+                    "riddle": "Like a brand new penny.",
+                    "riddle_hard": "Fresh, clear, and bright.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENERGY",
+                    "riddle": "Force of movement.",
+                    "riddle_hard": "The fire that keeps you going.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 27,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Writing",
+            "complexity": 3.5999999046325684,
+            "puzzles": [
+                {
+                    "word": "PEN",
+                    "riddle": "Mightier than the sword.",
+                    "riddle_hard": "A stick that leaks stories.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INK",
+                    "riddle": "The blood of a story.",
+                    "riddle_hard": "Black water that remembers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOTE",
+                    "riddle": "A memory on paper.",
+                    "riddle_hard": "A tiny letter to yourself.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAGE",
+                    "riddle": "One slice of a book.",
+                    "riddle_hard": "A thin white field of words.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCRAWL",
+                    "riddle": "Handwriting in a hurry.",
+                    "riddle_hard": "Ink that forgot the lines.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 28,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Tools",
+            "complexity": 3.700000047683716,
+            "puzzles": [
+                {
+                    "word": "HAMMER",
+                    "riddle": "I have a claw but no fur.",
+                    "riddle_hard": "A heavy head on a stick.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NAIL",
+                    "riddle": "I have a head but no brain.",
+                    "riddle_hard": "A silver pin for a board.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIX",
+                    "riddle": "Making things whole again.",
+                    "riddle_hard": "Curing a tool's sickness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOD",
+                    "riddle": "Harvested from forest giant.",
+                    "riddle_hard": "Hard bread of the trees.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KIT",
+                    "riddle": "A box full of useful keys.",
+                    "riddle_hard": "A suitcase for hard work.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 29,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Pets",
+            "complexity": 3.799999952316284,
+            "puzzles": [
+                {
+                    "word": "DOG",
+                    "riddle": "I talk with a wagging tail.",
+                    "riddle_hard": "A friend who barks at ghosts.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALK",
+                    "riddle": "The best moment of the day.",
+                    "riddle_hard": "Exploring world on four feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERD",
+                    "riddle": "A group of animals together.",
+                    "riddle_hard": "Moving as one heartbeat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PET",
+                    "riddle": "A friend on the floor.",
+                    "riddle_hard": "Furry joy with a wag.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OWNERS",
+                    "riddle": "The giant friends of furry.",
+                    "riddle_hard": "Those who open the cans.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 30,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Music",
+            "complexity": 3.9000000953674316,
+            "puzzles": [
+                {
+                    "word": "SONG",
+                    "riddle": "Stories you hear but not see.",
+                    "riddle_hard": "A poem that learned to dance.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLAY",
+                    "riddle": "Unlocking the silence.",
+                    "riddle_hard": "Letting the notes fly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOUD",
+                    "riddle": "Filling room with energy.",
+                    "riddle_hard": "A voice that shakes walls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUNE",
+                    "riddle": "The path the notes follow.",
+                    "riddle_hard": "A line you can whistle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAT",
+                    "riddle": "The pulse of the melody.",
+                    "riddle_hard": "The drum's steady heart.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 31,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Hobbies",
+            "complexity": 4.0,
+            "puzzles": [
+                {
+                    "word": "GAME",
+                    "riddle": "Rules that were made for fun.",
+                    "riddle_hard": "Rules made for fun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DICE",
+                    "riddle": "I have dots but cannot see.",
+                    "riddle_hard": "I have dots but cannot see.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIN",
+                    "riddle": "The trophy at the end of path.",
+                    "riddle_hard": "The prize for the player.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLAY",
+                    "riddle": "Doing what kids do best.",
+                    "riddle_hard": "What children do best.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARDS",
+                    "riddle": "A deck with fifty-two faces.",
+                    "riddle_hard": "A deck of fifty-two faces.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 32,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Attic",
+            "complexity": 4.099999904632568,
+            "puzzles": [
+                {
+                    "word": "OLD",
+                    "riddle": "A box full of many winters.",
+                    "riddle_hard": "Full of many winters.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOX",
+                    "riddle": "I have sides but no legs.",
+                    "riddle_hard": "I have sides but no legs.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIDDEN",
+                    "riddle": "Waiting under a coat of dust.",
+                    "riddle_hard": "Waiting under the dust.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUST",
+                    "riddle": "The gray snow of the attic.",
+                    "riddle_hard": "The gray snow of indoors.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAFE",
+                    "riddle": "A warm hug in a stormy world.",
+                    "riddle_hard": "A warm corner in a stormy world.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 33,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Family",
+            "complexity": 4.199999809265137,
+            "puzzles": [
+                {
+                    "word": "LOVE",
+                    "riddle": "An invisible thread of heart.",
+                    "riddle_hard": "Invisible thread between people.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KIND",
+                    "riddle": "A smile you give to a friend.",
+                    "riddle_hard": "A smile you give away.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GIVE",
+                    "riddle": "Emptying hands to fill hearts.",
+                    "riddle_hard": "Emptying your hands to help.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HELP",
+                    "riddle": "A bridge for someone else.",
+                    "riddle_hard": "A bridge for someone else.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARE",
+                    "riddle": "The heartbeat of a family.",
+                    "riddle_hard": "The heart of a family bond.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 34,
+            "grid_size": 4,
+            "category": "Home & Life",
+            "subcategory": "Baking",
+            "complexity": 4.300000190734863,
+            "puzzles": [
+                {
+                    "word": "CAKE",
+                    "riddle": "The flour's final sweet dream.",
+                    "riddle_hard": "The flour's final dream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BAKE",
+                    "riddle": "Turning soft dough into solid.",
+                    "riddle_hard": "Turning soft into solid.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLOUR",
+                    "riddle": "The snowy base of every loaf.",
+                    "riddle_hard": "The snowy base of bread.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWEET",
+                    "riddle": "The flavor of a happy moment.",
+                    "riddle_hard": "The flavor of joy.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREATH",
+                    "riddle": "The silent rhythm of life.",
+                    "riddle_hard": "The pace of life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 35,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Painting",
+            "complexity": 4.400000095367432,
+            "puzzles": [
+                {
+                    "word": "PAINT",
+                    "riddle": "Rainbows in a metal bucket.",
+                    "riddle_hard": "Rainbows in a bucket.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRUSH",
+                    "riddle": "I have hair but no head.",
+                    "riddle_hard": "I have hair but no head.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ART",
+                    "riddle": "A window to the artist's soul.",
+                    "riddle_hard": "A window to the soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HUE",
+                    "riddle": "A single note in light's song.",
+                    "riddle_hard": "A slice of the rainbow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TINT",
+                    "riddle": "A drop of light in the paint.",
+                    "riddle_hard": "A single note in rainbow's song.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 36,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Craft",
+            "complexity": 4.5,
+            "puzzles": [
+                {
+                    "word": "KNIT",
+                    "riddle": "Turning a string into clothes.",
+                    "riddle_hard": "Turning string into clothes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "YARN",
+                    "riddle": "A long thread with no end.",
+                    "riddle_hard": "Long string without end.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "Safe from the winter's bite.",
+                    "riddle_hard": "Safe from the winter wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAKE",
+                    "riddle": "Using hands to build a dream.",
+                    "riddle_hard": "The hands' finest work.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "Where the first idea wakes up.",
+                    "riddle_hard": "Where ideas are born.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 37,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Study",
+            "complexity": 4.599999904632568,
+            "puzzles": [
+                {
+                    "word": "LEARN",
+                    "riddle": "Growing the world inside you.",
+                    "riddle_hard": "Expanding the inside world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOOK",
+                    "riddle": "A thousand stories in a hand.",
+                    "riddle_hard": "A thousand words in one hand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "THINK",
+                    "riddle": "A quiet talk with yourself.",
+                    "riddle_hard": "A silent conversation with yourself.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOW",
+                    "riddle": "The power stored in the mind.",
+                    "riddle_hard": "The power of the mind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILENT",
+                    "riddle": "The golden peace of quiet.",
+                    "riddle_hard": "Golden quietness.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 38,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Bath",
+            "complexity": 4.699999809265137,
+            "puzzles": [
+                {
+                    "word": "SOAP",
+                    "riddle": "I grow small when I work.",
+                    "riddle_hard": "I grow small when I'm used.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WASH",
+                    "riddle": "Removing the day from skin.",
+                    "riddle_hard": "Removing the day from your skin.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WET",
+                    "riddle": "What happens if you fall in.",
+                    "riddle_hard": "What happens when you fall in.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOWEL",
+                    "riddle": "I get wet as you get dry.",
+                    "riddle_hard": "I get wetter as you get drier.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOME",
+                    "riddle": "Where you live.",
+                    "riddle_hard": "Safe and warm place.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 39,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Rest",
+            "complexity": 4.800000190734863,
+            "puzzles": [
+                {
+                    "word": "NAP",
+                    "riddle": "A quick visit to dreamland.",
+                    "riddle_hard": "A quick trip to dreamland.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "Motionless as a deep lake.",
+                    "riddle_hard": "The air before a storm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUIET",
+                    "riddle": "No sound.",
+                    "riddle_hard": "A heart without any waves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REST",
+                    "riddle": "Recharging for the next step.",
+                    "riddle_hard": "The silence between two movements.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOFT",
+                    "riddle": "Gentle as a falling feather.",
+                    "riddle_hard": "The air right before a dream.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 40,
+            "grid_size": 5,
+            "category": "Home & Life",
+            "subcategory": "Zen Living",
+            "complexity": 4.900000095367432,
+            "puzzles": [
+                {
+                    "word": "LESS",
+                    "riddle": "The secret to having plenty.",
+                    "riddle_hard": "The secret to having more.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURE",
+                    "riddle": "Untouched by a loud world.",
+                    "riddle_hard": "Untouched by the loud world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRUE",
+                    "riddle": "Looking in the mirror fairly.",
+                    "riddle_hard": "Looking at the mirror honestly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FULL",
+                    "riddle": "A cup that can't hold more.",
+                    "riddle_hard": "A cup that cannot hold more.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLOW",
+                    "riddle": "Going where the wind goes.",
+                    "riddle_hard": "Going wherever the wind takes you.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 41,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Vegetables",
+            "complexity": 5.0,
+            "puzzles": [
+                {
+                    "word": "CORN",
+                    "riddle": "Sunlight caught in gold beads.",
+                    "riddle_hard": "Sunlight captured in golden beads.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEA",
+                    "riddle": "A tiny green world in a pod.",
+                    "riddle_hard": "A tiny green world in a canoe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROOT",
+                    "riddle": "Eating the dark soil below.",
+                    "riddle_hard": "Feeding on the darkness below.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROW",
+                    "riddle": "The silent work of the dirt.",
+                    "riddle_hard": "Silent work within the soil.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRESH",
+                    "riddle": "Still wearing morning dew.",
+                    "riddle_hard": "Still has the morning dew.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 42,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Fruit",
+            "complexity": 5.099999904632568,
+            "puzzles": [
+                {
+                    "word": "PEAR",
+                    "riddle": "A teardrop on a branch.",
+                    "riddle_hard": "A teardrop from a wooden giant.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLUM",
+                    "riddle": "A violet heart on a tree.",
+                    "riddle_hard": "A violet heart for the branch.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIPE",
+                    "riddle": "Sweetened by the summer sun.",
+                    "riddle_hard": "The sun says it is time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TREE",
+                    "riddle": "The mother of the orchard.",
+                    "riddle_hard": "The mother of many fruits.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TART",
+                    "riddle": "A tangy wink from a lemon.",
+                    "riddle_hard": "Like a lemon's tangy wink.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 43,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Herbs",
+            "complexity": 5.199999809265137,
+            "puzzles": [
+                {
+                    "word": "MINT",
+                    "riddle": "Winter's breath plant.",
+                    "riddle_hard": "A cooling ghost for the tongue.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DILL",
+                    "riddle": "Fragile green garden hair.",
+                    "riddle_hard": "Fragile feathers of the garden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERB",
+                    "riddle": "Small leaves with big aroma.",
+                    "riddle_hard": "Small leaves with big secrets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEAF",
+                    "riddle": "The tree's green solar panel.",
+                    "riddle_hard": "Tracing sunlight with green veins.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEST",
+                    "riddle": "A bright burst of citrus.",
+                    "riddle_hard": "A burst of citrus energy.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 44,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Harvest",
+            "complexity": 5.300000190734863,
+            "puzzles": [
+                {
+                    "word": "REAP",
+                    "riddle": "When the summer's work ends.",
+                    "riddle_hard": "When the summer's work ends.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOAD",
+                    "riddle": "Heavy riches from the dirt.",
+                    "riddle_hard": "Heavy riches from the field.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FULL",
+                    "riddle": "No more room in the basket.",
+                    "riddle_hard": "Cannot hold another grain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FALL",
+                    "riddle": "When the green turns gold.",
+                    "riddle_hard": "When the world turns gold.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOLD",
+                    "riddle": "The sun's treasure on land.",
+                    "riddle_hard": "The sun's treasure on Earth.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 45,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Market",
+            "complexity": 5.400000095367432,
+            "puzzles": [
+                {
+                    "word": "SALE",
+                    "riddle": "Fewer coins for more loot.",
+                    "riddle_hard": "Less money for more food.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COIN",
+                    "riddle": "A small flat silver sun.",
+                    "riddle_hard": "A small flat silver sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUY",
+                    "riddle": "Trading silver for green.",
+                    "riddle_hard": "Giving silver to get green.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRESH",
+                    "riddle": "Just arrived from the farm.",
+                    "riddle_hard": "Still has the morning dew.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CASH",
+                    "riddle": "Paper power in your pocket.",
+                    "riddle_hard": "Paper fuel for the economy.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 46,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Snack",
+            "complexity": 5.5,
+            "puzzles": [
+                {
+                    "word": "NUTS",
+                    "riddle": "Wooden heart shell.",
+                    "riddle_hard": "Armored seeds that crack.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHIP",
+                    "riddle": "Thin, salty, and very loud.",
+                    "riddle_hard": "Thin, salty, and very loud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRUNCH",
+                    "riddle": "Breaking silence with teeth.",
+                    "riddle_hard": "The noisy death of a snack.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALT",
+                    "riddle": "The white soul of the ocean.",
+                    "riddle_hard": "Snow that makes everything taste.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KISMET",
+                    "riddle": "A path drawn by the stars.",
+                    "riddle_hard": "The invisible thread of destiny.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 47,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Juice",
+            "complexity": 5.599999904632568,
+            "puzzles": [
+                {
+                    "word": "PULP",
+                    "riddle": "The fiber heart of the citrus.",
+                    "riddle_hard": "The heart of the citrus.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POUR",
+                    "riddle": "A tiny waterfall for thirst.",
+                    "riddle_hard": "Making a waterfall for thirst.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GULP",
+                    "riddle": "Solving dry throat.",
+                    "riddle_hard": "Swallowed noise of satisfaction.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "Ice's best friend in summer.",
+                    "riddle_hard": "Ice's best friend in summer.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOCK",
+                    "riddle": "A secret only a key can tell.",
+                    "riddle_hard": "A secret only a key can tell.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 48,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Bakery",
+            "complexity": 5.699999809265137,
+            "puzzles": [
+                {
+                    "word": "LOAF",
+                    "riddle": "A warm pillow made of wheat.",
+                    "riddle_hard": "A pillow made of wheat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRUST",
+                    "riddle": "Crunch before soft.",
+                    "riddle_hard": "The burnt armor of bread.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DOUGH",
+                    "riddle": "Soft oven clay.",
+                    "riddle_hard": "Pliable life waiting for heat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "Still holding the oven's hug.",
+                    "riddle_hard": "Still holding the oven's hug.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRIGHT",
+                    "riddle": "A spark that pushes the dark.",
+                    "riddle_hard": "Shining like a star.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 49,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Picnic",
+            "complexity": 5.800000190734863,
+            "puzzles": [
+                {
+                    "word": "PARK",
+                    "riddle": "The city's biggest dining room.",
+                    "riddle_hard": "The city's biggest dining room.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAT",
+                    "riddle": "A humble floor for the grass.",
+                    "riddle_hard": "A floor for the grass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FUN",
+                    "riddle": "Laughter under the sun's eye.",
+                    "riddle_hard": "Laughter under the sun's eye.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DISH",
+                    "riddle": "A flat stage for your snacks.",
+                    "riddle_hard": "A flat stage for snacks.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BASKET",
+                    "riddle": "A woven home for your lunch.",
+                    "riddle_hard": "A woven home for your lunch.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 50,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Zen Soup",
+            "complexity": 5.900000095367432,
+            "puzzles": [
+                {
+                    "word": "BROTH",
+                    "riddle": "A savory tea for vegetables.",
+                    "riddle_hard": "A savory tea for vegetables.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIP",
+                    "riddle": "A tiny taste of heat.",
+                    "riddle_hard": "A tiny taste of heat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "Too warm to swallow fast.",
+                    "riddle_hard": "Too warm to swallow fast.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "Goal of a quiet meal.",
+                    "riddle_hard": "The feeling of a full belly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOIL",
+                    "riddle": "Bubbles begin dancing.",
+                    "riddle_hard": "When the water screams with heat.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 51,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Honey",
+            "complexity": 6.0,
+            "puzzles": [
+                {
+                    "word": "BEE",
+                    "riddle": "A summer pilot chasing gold.",
+                    "riddle_hard": "A summer pilot collecting gold.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOLD",
+                    "riddle": "Sunlight caught in a jar.",
+                    "riddle_hard": "The sun's favorite shiny metal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWEET",
+                    "riddle": "The flavor of a flowery kiss.",
+                    "riddle_hard": "Sugar's best friend in nature.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "The sun's lingering touch.",
+                    "riddle_hard": "The cozy feeling of sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "A soft light from the heart.",
+                    "riddle_hard": "The cozy touch of the sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 52,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Tea Time",
+            "complexity": 6.099999904632568,
+            "puzzles": [
+                {
+                    "word": "LEAF",
+                    "riddle": "The green soul of the cup.",
+                    "riddle_hard": "The green source of calm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREW",
+                    "riddle": "Waking up the water's flavor.",
+                    "riddle_hard": "Waking up the water's flavor.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIME",
+                    "riddle": "Watching the world slow down.",
+                    "riddle_hard": "Watching the clock slow down.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUPS",
+                    "riddle": "Round homes for hot liquid.",
+                    "riddle_hard": "Round homes for hot liquid.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COOL",
+                    "riddle": "When the steam begins to hide.",
+                    "riddle_hard": "When the steam begins to hide.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 53,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Spices",
+            "complexity": 6.199999809265137,
+            "puzzles": [
+                {
+                    "word": "SALT",
+                    "riddle": "A white gift from the sea.",
+                    "riddle_hard": "The flavor of the ocean.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEED",
+                    "riddle": "A tiny spice that can grow.",
+                    "riddle_hard": "A spice that can grow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "A fire you can taste.",
+                    "riddle_hard": "A fire you can taste.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TANG",
+                    "riddle": "A sharp wink from the tongue.",
+                    "riddle_hard": "A tiny fire in a pod.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERB",
+                    "riddle": "Small leaves with big secrets.",
+                    "riddle_hard": "Small grains of intense magic.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 54,
+            "grid_size": 4,
+            "category": "Garden & Food",
+            "subcategory": "Breakfast",
+            "complexity": 6.300000190734863,
+            "puzzles": [
+                {
+                    "word": "EGGS",
+                    "riddle": "The sun in a fragile shell.",
+                    "riddle_hard": "Sunsets served on a plate.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OATS",
+                    "riddle": "Warm grain for a new day.",
+                    "riddle_hard": "A warm grain to start.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MILK",
+                    "riddle": "A liquid cloud in a glass.",
+                    "riddle_hard": "Clouds in a glass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Over before it even began.",
+                    "riddle_hard": "Moving with great speed.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOWL",
+                    "riddle": "A round home for the milk.",
+                    "riddle_hard": "Drowning in a bowl of milk.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 55,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Fruit Bowl",
+            "complexity": 6.400000095367432,
+            "puzzles": [
+                {
+                    "word": "GRAPE",
+                    "riddle": "A tiny purple burst of joy.",
+                    "riddle_hard": "A bunch of wine's first life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KIWI",
+                    "riddle": "Green stars in a fuzzy box.",
+                    "riddle_hard": "Green on the inside, hairy on the out.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACH",
+                    "riddle": "A sunset with a sweet heart.",
+                    "riddle_hard": "A velvet skin with a sweet heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIX",
+                    "riddle": "Where many become one.",
+                    "riddle_hard": "Making many into one.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUP",
+                    "riddle": "Warmth in your hands.",
+                    "riddle_hard": "A ceramic hug for your tea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 56,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Orchard",
+            "complexity": 6.5,
+            "puzzles": [
+                {
+                    "word": "TREE",
+                    "riddle": "Natural fruit support.",
+                    "riddle_hard": "A giant with edible treasures.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FALL",
+                    "riddle": "When the branch lets go.",
+                    "riddle_hard": "When the branch lets go.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PICK",
+                    "riddle": "Rescuing the sweetness.",
+                    "riddle_hard": "Rescuing the sweetness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PACK",
+                    "riddle": "A wooden house for harvest.",
+                    "riddle_hard": "A wooden house for harvest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CASE",
+                    "riddle": "Armor for the fragile fruit.",
+                    "riddle_hard": "Armor for the harvest.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 57,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Cooking",
+            "complexity": 6.599999904632568,
+            "puzzles": [
+                {
+                    "word": "STIR",
+                    "riddle": "Drawing circles in the soup.",
+                    "riddle_hard": "Drawing circles in the soup.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAN",
+                    "riddle": "A metal stage for the heat.",
+                    "riddle_hard": "A metal stage for the heat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OIL",
+                    "riddle": "Rain that makes fire jump.",
+                    "riddle_hard": "Rain that makes the fire jump.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALT",
+                    "riddle": "White grains of the deep.",
+                    "riddle_hard": "White grains of the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RECIPE",
+                    "riddle": "The map to a perfect meal.",
+                    "riddle_hard": "The map to a perfect meal.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 58,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Desert",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CAKE",
+                    "riddle": "Layers of sweetness topped with a candle.",
+                    "riddle_hard": "Sliced into triangles, born from a circle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLAN",
+                    "riddle": "A jiggly custard topped with golden caramel.",
+                    "riddle_hard": "The custard moon that bleeds liquid amber.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIE",
+                    "riddle": "The dessert you'd find in a math textbook.",
+                    "riddle_hard": "A circular argument solved with a fork.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWEET",
+                    "riddle": "The flavor profile of a hard-earned victory.",
+                    "riddle_hard": "A playground for the tongue.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROCERIES",
+                    "riddle": "Weekly bounty trekking from market to kitchen.",
+                    "riddle_hard": "The edible haul you carry in plastic or paper.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 59,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Farm",
+            "complexity": 6.800000190734863,
+            "puzzles": [
+                {
+                    "word": "BARN",
+                    "riddle": "A giant house for animals.",
+                    "riddle_hard": "A giant house for animals.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHEEP",
+                    "riddle": "Woolly farm animal.",
+                    "riddle_hard": "A cloud walking on green hills.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIG",
+                    "riddle": "A curly tail in the mud.",
+                    "riddle_hard": "A curly tail in the mud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUCK",
+                    "riddle": "A bird with orange shoes.",
+                    "riddle_hard": "A bird with orange shoes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOL",
+                    "riddle": "A cloud you can wear.",
+                    "riddle_hard": "A cloud you can wear.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 60,
+            "grid_size": 5,
+            "category": "Garden & Food",
+            "subcategory": "Zen Harvest",
+            "complexity": 6.900000095367432,
+            "puzzles": [
+                {
+                    "word": "GIVE",
+                    "riddle": "The hands' way of speaking.",
+                    "riddle_hard": "The hands' way of speaking.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEAST",
+                    "riddle": "When the table groans with joy.",
+                    "riddle_hard": "When the table groans with joy.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DONE",
+                    "riddle": "The end of the long road.",
+                    "riddle_hard": "The end of the long road.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "Silence after a full heart.",
+                    "riddle_hard": "Silence after a full heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SERENE",
+                    "riddle": "Quiet as a sleeping forest.",
+                    "riddle_hard": "Quiet as a sleeping woods.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 61,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Predators",
+            "complexity": 7.0,
+            "puzzles": [
+                {
+                    "word": "LION",
+                    "riddle": "A roar that shakes the air.",
+                    "riddle_hard": "A roar that shakes the air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOLF",
+                    "riddle": "A grey shadow in the pines.",
+                    "riddle_hard": "A grey shadow in the pines.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HUNT",
+                    "riddle": "The game of hide and seek.",
+                    "riddle_hard": "The game of hide and seek.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Gone in a golden blink.",
+                    "riddle_hard": "Gone in a golden blink.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PREY",
+                    "riddle": "The silent walk before leap.",
+                    "riddle_hard": "The silent walk before the leap.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 62,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Birds",
+            "complexity": 7.099999904632568,
+            "puzzles": [
+                {
+                    "word": "HAWK",
+                    "riddle": "An arrow made of feathers.",
+                    "riddle_hard": "An arrow made of feathers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OWL",
+                    "riddle": "Eyes that watch the dark.",
+                    "riddle_hard": "Eyes that watch the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WING",
+                    "riddle": "Catching the invisible wind.",
+                    "riddle_hard": "Catching the invisible wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOAR",
+                    "riddle": "Gliding where clouds live.",
+                    "riddle_hard": "Gliding where clouds live.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAY",
+                    "riddle": "Beam of light.",
+                    "riddle_hard": "A single line of sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 63,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Reptiles",
+            "complexity": 7.199999809265137,
+            "puzzles": [
+                {
+                    "word": "FANG",
+                    "riddle": "A needle that bites.",
+                    "riddle_hard": "A needle that bites.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COIL",
+                    "riddle": "A rope that lives and moves.",
+                    "riddle_hard": "A rope that lives and moves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HISS",
+                    "riddle": "The sound of escaping air.",
+                    "riddle_hard": "The sound of escaping air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "As chill as a winter stone.",
+                    "riddle_hard": "As chill as a winter stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SKIN",
+                    "riddle": "A shield on a dragon's back.",
+                    "riddle_hard": "A shield on a dragon's back.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 64,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Insects",
+            "complexity": 7.300000190734863,
+            "puzzles": [
+                {
+                    "word": "ANT",
+                    "riddle": "I lift ten times my weight.",
+                    "riddle_hard": "I lift ten times my weight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEE",
+                    "riddle": "A dancing striped flyer.",
+                    "riddle_hard": "A dancing striped flyer.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLY",
+                    "riddle": "I have a thousand eyes.",
+                    "riddle_hard": "I have a thousand eyes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INSECT",
+                    "riddle": "Armored ghost in the grass.",
+                    "riddle_hard": "Armored ghost in the grass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WINGS",
+                    "riddle": "Transparent sails for air.",
+                    "riddle_hard": "Transparent sails for the air.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 65,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Pets",
+            "complexity": 7.400000095367432,
+            "puzzles": [
+                {
+                    "word": "KITTEN",
+                    "riddle": "Velvet shoes and tiny claws.",
+                    "riddle_hard": "Velvet shoes and tiny claws.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DOG",
+                    "riddle": "I hear the key before turn.",
+                    "riddle_hard": "I hear the key before turn.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURR",
+                    "riddle": "A motor in a satisfied heart.",
+                    "riddle_hard": "A motor in a satisfied heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAME",
+                    "riddle": "A friend of the fireplace.",
+                    "riddle_hard": "A friend of the fireplace.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FUR",
+                    "riddle": "A warm blanket that grows.",
+                    "riddle_hard": "A warm blanket that grows.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 66,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Arctic",
+            "complexity": 7.5,
+            "puzzles": [
+                {
+                    "word": "BEAR",
+                    "riddle": "The king of the white desert.",
+                    "riddle_hard": "The king of the white desert.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ICE",
+                    "riddle": "Glass that you can walk on.",
+                    "riddle_hard": "Glass that you can walk on.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEAL",
+                    "riddle": "A dog that lives in the sea.",
+                    "riddle_hard": "A dog that lives in the sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "When the air bites your face.",
+                    "riddle_hard": "When the air bites your face.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHALE",
+                    "riddle": "A mountain in the deep blue.",
+                    "riddle_hard": "A mountain in deep blue.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 67,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Savannah",
+            "complexity": 7.599999904632568,
+            "puzzles": [
+                {
+                    "word": "ZEBRA",
+                    "riddle": "A painting on four legs.",
+                    "riddle_hard": "A painting on four legs.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TALL",
+                    "riddle": "Looking down at the birds.",
+                    "riddle_hard": "Looking down at the birds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRASS",
+                    "riddle": "A sea that is always dry.",
+                    "riddle_hard": "A sea that is always dry.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERD",
+                    "riddle": "Strength in many brothers.",
+                    "riddle_hard": "Strength in many brothers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILENT",
+                    "riddle": "The golden peace of quiet.",
+                    "riddle_hard": "Golden quietness.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 68,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Jungle",
+            "complexity": 7.699999809265137,
+            "puzzles": [
+                {
+                    "word": "APE",
+                    "riddle": "A man without a shirt.",
+                    "riddle_hard": "A man without a shirt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VINE",
+                    "riddle": "A ladder made by trees.",
+                    "riddle_hard": "A ladder made by trees.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOUD",
+                    "riddle": "Echoing through the green roof.",
+                    "riddle_hard": "Echoing through the green roof.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Where the sun never touches.",
+                    "riddle_hard": "Where sun never touches.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIGER",
+                    "riddle": "Orange fire in the black night.",
+                    "riddle_hard": "Orange fire in black night.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 69,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Deep Sea",
+            "complexity": 7.800000190734863,
+            "puzzles": [
+                {
+                    "word": "SHARK",
+                    "riddle": "A gray shadow with an edge.",
+                    "riddle_hard": "A gray shadow with an edge.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHALE",
+                    "riddle": "A mountain in deep blue.",
+                    "riddle_hard": "A mountain that breathes water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The world below the surface.",
+                    "riddle_hard": "The world below the surface.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWIM",
+                    "riddle": "Living life without the shore.",
+                    "riddle_hard": "Living life without the shore.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOURCE",
+                    "riddle": "Where it all begins.",
+                    "riddle_hard": "Where the water begins.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 70,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Zen Wild",
+            "complexity": 7.900000095367432,
+            "puzzles": [
+                {
+                    "word": "ONE",
+                    "riddle": "The first step of the many.",
+                    "riddle_hard": "The first step of the many.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "The fire that never goes out.",
+                    "riddle_hard": "The fire that never goes out.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FREE",
+                    "riddle": "Living without any fences.",
+                    "riddle_hard": "Living without any fences.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WILD",
+                    "riddle": "The call of the ancient world.",
+                    "riddle_hard": "The call of the ancient world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "Finding balance within.",
+                    "riddle_hard": "Finding balance within.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 71,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Small Ones",
+            "complexity": 8.0,
+            "puzzles": [
+                {
+                    "word": "MICE",
+                    "riddle": "The gray ghosts of the kitchen.",
+                    "riddle_hard": "The gray ghosts of the kitchen.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAT",
+                    "riddle": "A wild cousin under city.",
+                    "riddle_hard": "A wild cousin under the city.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOLE",
+                    "riddle": "A door without a handle.",
+                    "riddle_hard": "A door without a handle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SMALL",
+                    "riddle": "Tiny and not big.",
+                    "riddle_hard": "Tiny and not big.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TINY",
+                    "riddle": "Almost invisible in grass.",
+                    "riddle_hard": "Almost invisible in the grass.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 72,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Climbers",
+            "complexity": 8.100000381469727,
+            "puzzles": [
+                {
+                    "word": "GOAT",
+                    "riddle": "I have horns but cannot honk.",
+                    "riddle_hard": "I have horns but cannot honk.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCK",
+                    "riddle": "The mountain's steady bones.",
+                    "riddle_hard": "The mountain's steady bones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIGH",
+                    "riddle": "Where the eagles talk.",
+                    "riddle_hard": "Where the eagles talk.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SURE",
+                    "riddle": "Never afraid of the fall.",
+                    "riddle_hard": "Never afraid of the fall.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEAK",
+                    "riddle": "Where Earth touches the blue.",
+                    "riddle_hard": "Where Earth touches the blue dome.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 73,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "River Life",
+            "complexity": 8.199999809265137,
+            "puzzles": [
+                {
+                    "word": "REED",
+                    "riddle": "The river's thin green fingers.",
+                    "riddle_hard": "The river's thin green fingers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FISH",
+                    "riddle": "The silver coins of current.",
+                    "riddle_hard": "The silver coins of the current.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLOW",
+                    "riddle": "The path that never stays.",
+                    "riddle_hard": "The path that never stays.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLAY",
+                    "riddle": "Splashing the sun with water.",
+                    "riddle_hard": "Splashing the sun with droplets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "Reflecting the sky on water.",
+                    "riddle_hard": "Reflecting the sky on water.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 74,
+            "grid_size": 4,
+            "category": "Animals & Wild",
+            "subcategory": "Nocturnal",
+            "complexity": 8.300000190734863,
+            "puzzles": [
+                {
+                    "word": "BAT",
+                    "riddle": "A mouse with leather umbrellas.",
+                    "riddle_hard": "A mouse with leather umbrellas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OWL",
+                    "riddle": "The silent ghost of the oaks.",
+                    "riddle_hard": "The silent ghost of the oaks.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DARK",
+                    "riddle": "When the sun goes to hide.",
+                    "riddle_hard": "When the sun goes to hide.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEE",
+                    "riddle": "Finding shapes in the ink.",
+                    "riddle_hard": "Finding shapes in the ink.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OIL",
+                    "riddle": "Liquid gold from earth.",
+                    "riddle_hard": "Liquid gold from earth.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 75,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Hunters",
+            "complexity": 8.399999618530273,
+            "puzzles": [
+                {
+                    "word": "TIGER",
+                    "riddle": "A jungle's orange fire.",
+                    "riddle_hard": "A jungle's orange fire walking.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLAW",
+                    "riddle": "Ten curved knives.",
+                    "riddle_hard": "Ten curved knives for climbing.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FANG",
+                    "riddle": "White ivory that bites back.",
+                    "riddle_hard": "White ivory that bites back.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAW",
+                    "riddle": "Walking on silent clouds.",
+                    "riddle_hard": "Walking on four silent clouds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WILD",
+                    "riddle": "The orange king of the grass.",
+                    "riddle_hard": "The orange king of the tall grass.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 76,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Herd",
+            "complexity": 8.5,
+            "puzzles": [
+                {
+                    "word": "DEER",
+                    "riddle": "Timid king of the thicket.",
+                    "riddle_hard": "The timid king of the thicket.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RACE",
+                    "riddle": "Leaving the wind behind.",
+                    "riddle_hard": "Leaving the wind behind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOD",
+                    "riddle": "The house with green walls.",
+                    "riddle_hard": "The house with green walls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Gone before the branch snaps.",
+                    "riddle_hard": "Gone before the branch snaps.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIDE",
+                    "riddle": "Becoming one with shadows.",
+                    "riddle_hard": "Becoming one with the shadows.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 77,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Desert Life",
+            "complexity": 8.600000381469727,
+            "puzzles": [
+                {
+                    "word": "CAMEL",
+                    "riddle": "The ship that sails the sand.",
+                    "riddle_hard": "The ship that sails the sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOT",
+                    "riddle": "When the air feels heavy.",
+                    "riddle_hard": "When the air feels heavy.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALK",
+                    "riddle": "Putting a shadow before you.",
+                    "riddle_hard": "Putting one shadow before another.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRY",
+                    "riddle": "Where water is a dream.",
+                    "riddle_hard": "Where water is a dream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHADE",
+                    "riddle": "Where heat cannot find you.",
+                    "riddle_hard": "Where the heat cannot find you.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 78,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Mount",
+            "complexity": 8.699999809265137,
+            "puzzles": [
+                {
+                    "word": "HORSE",
+                    "riddle": "The thunder on four hooves.",
+                    "riddle_hard": "The thunder on four hooves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIDE",
+                    "riddle": "Becoming one with the gallop.",
+                    "riddle_hard": "Becoming one with the gallop.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Racing against the setting sun.",
+                    "riddle_hard": "Racing against the setting sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAME",
+                    "riddle": "Wild once, but brother now.",
+                    "riddle_hard": "Wild once, but brother now.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STALLION",
+                    "riddle": "The fast king of the herd.",
+                    "riddle_hard": "The fast king of the herd.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 79,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Wisdom",
+            "complexity": 8.800000190734863,
+            "puzzles": [
+                {
+                    "word": "OWL",
+                    "riddle": "The one who sees everything.",
+                    "riddle_hard": "The one who sees everything.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGE",
+                    "riddle": "The rings within the trunk.",
+                    "riddle_hard": "The rings within the trunk.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOW",
+                    "riddle": "Keeping the truth within.",
+                    "riddle_hard": "Keeping the truth within.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EYE",
+                    "riddle": "The glass window of the soul.",
+                    "riddle_hard": "The glass window of the soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ART",
+                    "riddle": "The soul made visible.",
+                    "riddle_hard": "Beauty made by hand.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 80,
+            "grid_size": 5,
+            "category": "Animals & Wild",
+            "subcategory": "Zen Animal",
+            "complexity": 8.899999618530273,
+            "puzzles": [
+                {
+                    "word": "REST",
+                    "riddle": "Closing the world for later.",
+                    "riddle_hard": "Closing the world for later.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "The silent heart of the wild.",
+                    "riddle_hard": "The silent heart of the wild.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURE",
+                    "riddle": "Untouched by the city smoke.",
+                    "riddle_hard": "Untouched by the city's smoke.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BORN",
+                    "riddle": "Waking up for the first time.",
+                    "riddle_hard": "Waking up for the first time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WILD",
+                    "riddle": "Balance found in nature.",
+                    "riddle_hard": "Finding balance within.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 81,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "Breath",
+            "complexity": 9.0,
+            "puzzles": [
+                {
+                    "word": "AIR",
+                    "riddle": "Breathe in and out.",
+                    "riddle_hard": "The invisible thread of life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "A quiet peaceful mind.",
+                    "riddle_hard": "The lake with no ripples.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "State of existence.",
+                    "riddle_hard": "A candle in the wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERE",
+                    "riddle": "Right in this place.",
+                    "riddle_hard": "The only spot that matters.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREATH",
+                    "riddle": "In and out air.",
+                    "riddle_hard": "The silent rhythm of being.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 82,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "The Bowl",
+            "complexity": 9.100000381469727,
+            "puzzles": [
+                {
+                    "word": "BOWL",
+                    "riddle": "The value of nothingness.",
+                    "riddle_hard": "Useful because of nothingness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FULL",
+                    "riddle": "Overflowing with present.",
+                    "riddle_hard": "Overflowing with the present.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEA",
+                    "riddle": "Classic Zen drink.",
+                    "riddle_hard": "Warm leaves in a cup.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOLD",
+                    "riddle": "Grasping the truth gently.",
+                    "riddle_hard": "Keeping the truth in hand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAY",
+                    "riddle": "Beam of light.",
+                    "riddle_hard": "A single line of sun.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 83,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "The Bell",
+            "complexity": 9.199999809265137,
+            "puzzles": [
+                {
+                    "word": "BELL",
+                    "riddle": "Metal ringing sound.",
+                    "riddle_hard": "A voice that calls silence.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIME",
+                    "riddle": "Right here and now.",
+                    "riddle_hard": "A river that only flows.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALL",
+                    "riddle": "Wake up signal.",
+                    "riddle_hard": "Reaching out with a sound.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "A low resonant tone.",
+                    "riddle_hard": "Beyond the surface of things.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ECHO",
+                    "riddle": "Sound that bounces back.",
+                    "riddle_hard": "A voice that follows its master.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 84,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "The Path",
+            "complexity": 9.300000190734863,
+            "puzzles": [
+                {
+                    "word": "LORE",
+                    "riddle": "The old secrets of the forest.",
+                    "riddle_hard": "Wisdom passed through the silent ages.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALK",
+                    "riddle": "Measuring earth with feet.",
+                    "riddle_hard": "Measuring the earth with feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STEP",
+                    "riddle": "One move forward.",
+                    "riddle_hard": "The beginning of every journey.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LONG",
+                    "riddle": "When the end is far away.",
+                    "riddle_hard": "When the end is far.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOAL",
+                    "riddle": "Where the journey ends.",
+                    "riddle_hard": "Where the journey finds its home.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 85,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The Stone",
+            "complexity": 9.399999618530273,
+            "puzzles": [
+                {
+                    "word": "ROCK",
+                    "riddle": "Hard and very still.",
+                    "riddle_hard": "A silent teacher of patience.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRAY",
+                    "riddle": "The shade of old mountains.",
+                    "riddle_hard": "The shade of old mountains.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HARD",
+                    "riddle": "Sturdy as a mountain bone.",
+                    "riddle_hard": "Cannot be bent by hands.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REST",
+                    "riddle": "Becoming one with earth.",
+                    "riddle_hard": "Becoming part of the ground.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIRM",
+                    "riddle": "The weight of the mountain.",
+                    "riddle_hard": "The nature of mountain's bones.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 86,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The Light",
+            "complexity": 9.5,
+            "puzzles": [
+                {
+                    "word": "LAMP",
+                    "riddle": "A glow in dark.",
+                    "riddle_hard": "A small sun for the night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "To behold clearly.",
+                    "riddle_hard": "Turning light into a world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "Inner brain light.",
+                    "riddle_hard": "Where all lights are born.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRUE",
+                    "riddle": "The real light.",
+                    "riddle_hard": "What remains when eyes close.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPEN",
+                    "riddle": "Allowing the light to enter.",
+                    "riddle_hard": "Allowing the light to enter.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 87,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The River",
+            "complexity": 9.600000381469727,
+            "puzzles": [
+                {
+                    "word": "FLOW",
+                    "riddle": "Water's secret for travel.",
+                    "riddle_hard": "Water's secret for travel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WET",
+                    "riddle": "The touch of a passing cloud.",
+                    "riddle_hard": "The touch of a passing cloud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "A mirror for the morning sky.",
+                    "riddle_hard": "A mirror for the morning sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GONE",
+                    "riddle": "Where the river finds sea.",
+                    "riddle_hard": "Where the water goes forever.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CREEK",
+                    "riddle": "A silver ribbon in the wood.",
+                    "riddle_hard": "A silver ribbon in the wood.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 88,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The Cloud",
+            "complexity": 9.699999809265137,
+            "puzzles": [
+                {
+                    "word": "MIST",
+                    "riddle": "A mountain made of thin air.",
+                    "riddle_hard": "A mountain made of thin air.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RAIN",
+                    "riddle": "The sky sharing its tears.",
+                    "riddle_hard": "The sky sharing its tears.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOFT",
+                    "riddle": "A pillow for a tired bird.",
+                    "riddle_hard": "A pillow for a tired bird.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIGH",
+                    "riddle": "Close enough to kiss moon.",
+                    "riddle_hard": "Close enough to kiss moon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOME",
+                    "riddle": "Where you live.",
+                    "riddle_hard": "Safe and warm place.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 89,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The Seed",
+            "complexity": 9.800000190734863,
+            "puzzles": [
+                {
+                    "word": "SEED",
+                    "riddle": "A forest in a tiny box.",
+                    "riddle_hard": "A forest in a tiny box.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DIRT",
+                    "riddle": "The womb where life begins.",
+                    "riddle_hard": "The womb where life begins.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GROW",
+                    "riddle": "Reaching for light slowly.",
+                    "riddle_hard": "Reaching for the light slowly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "A golden spark in the clay.",
+                    "riddle_hard": "A golden spark in the clay.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROOT",
+                    "riddle": "Anchor of a hidden world.",
+                    "riddle_hard": "The anchor of a hidden life.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 90,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The Gate",
+            "complexity": 9.899999618530273,
+            "puzzles": [
+                {
+                    "word": "GATE",
+                    "riddle": "A door without any walls.",
+                    "riddle_hard": "A door without any walls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPEN",
+                    "riddle": "The way is clear for you.",
+                    "riddle_hard": "Allowing the light to enter.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FREE",
+                    "riddle": "Flying without heavy wings.",
+                    "riddle_hard": "Flying without any heavy wings.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PASS",
+                    "riddle": "Leaving a world for another.",
+                    "riddle_hard": "Leaving one world for another.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EXIT",
+                    "riddle": "Where garden meets sky.",
+                    "riddle_hard": "The threshold of a new world.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 91,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "Simplicity",
+            "complexity": 10.0,
+            "puzzles": [
+                {
+                    "word": "LESS",
+                    "riddle": "Abundance in the small.",
+                    "riddle_hard": "The art of keeping simple.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MORE",
+                    "riddle": "Weight of too many things.",
+                    "riddle_hard": "Finding abundance in the small.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "The number of the whole.",
+                    "riddle_hard": "The number of everything together.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURE",
+                    "riddle": "Like snow before the foot.",
+                    "riddle_hard": "Like snow before the step.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLEAR",
+                    "riddle": "A window with no dust.",
+                    "riddle_hard": "Like looking through a clean window.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 92,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "Focus",
+            "complexity": 10.100000381469727,
+            "puzzles": [
+                {
+                    "word": "DOT",
+                    "riddle": "The seed of every circle.",
+                    "riddle_hard": "The center of the circle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EYE",
+                    "riddle": "Window to the silent world.",
+                    "riddle_hard": "Watching the silent world turn.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "A sky full of passing birds.",
+                    "riddle_hard": "A sky full of birds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERE",
+                    "riddle": "The only spot that exists.",
+                    "riddle_hard": "Where the feet are standing.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CENTER",
+                    "riddle": "The bullseye of present.",
+                    "riddle_hard": "The heart of the target.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 93,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "Silence",
+            "complexity": 10.199999809265137,
+            "puzzles": [
+                {
+                    "word": "HUSH",
+                    "riddle": "A finger pressed to lips.",
+                    "riddle_hard": "A finger to the lips.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUTE",
+                    "riddle": "A song with no need for voice.",
+                    "riddle_hard": "A song without a voice.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAY",
+                    "riddle": "Waiting for the snow to rest.",
+                    "riddle_hard": "Waiting for the snow to melt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "The quiet after the bell.",
+                    "riddle_hard": "The air after the bell.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LULL",
+                    "riddle": "A gap between the notes.",
+                    "riddle_hard": "A temporary gap in the music.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 94,
+            "grid_size": 4,
+            "category": "Zen Basics",
+            "subcategory": "Unity",
+            "complexity": 10.300000190734863,
+            "puzzles": [
+                {
+                    "word": "ALL",
+                    "riddle": "The sum of every tiny part.",
+                    "riddle_hard": "The sum of every part.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "The start and the finish.",
+                    "riddle_hard": "The beginning and the end.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOND",
+                    "riddle": "The glue of the spirit.",
+                    "riddle_hard": "The glue of the spirit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOT",
+                    "riddle": "Two threads becoming one.",
+                    "riddle_hard": "Two strings that became one.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIRIT",
+                    "riddle": "The light within the clay.",
+                    "riddle_hard": "The ghost within the machine.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 95,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "Nature",
+            "complexity": 10.399999618530273,
+            "puzzles": [
+                {
+                    "word": "LIFE",
+                    "riddle": "A dance that never tires.",
+                    "riddle_hard": "A dance that never stops.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Roots that reach the dark.",
+                    "riddle_hard": "The roots of the mountain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOD",
+                    "riddle": "A shelter made of sunlight.",
+                    "riddle_hard": "A shelter made of leaves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREATHE",
+                    "riddle": "Trees share breath.",
+                    "riddle_hard": "A soft breath from the trees.",
+                    "is_hard": true
+                },
+                {
+                    "word": "BRANCH",
+                    "riddle": "Wooden leaf arm.",
+                    "riddle_hard": "A green giant reaching for the sky.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 96,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "Wisdom",
+            "complexity": 10.5,
+            "puzzles": [
+                {
+                    "word": "OLD",
+                    "riddle": "A face with thousand tales.",
+                    "riddle_hard": "A face with many stories.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOW",
+                    "riddle": "The world in one thought.",
+                    "riddle_hard": "Holding the world inside you.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRUE",
+                    "riddle": "As straight as birds flight.",
+                    "riddle_hard": "Straight as an arrow's flight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGE",
+                    "riddle": "The weight of many winters.",
+                    "riddle_hard": "The weight of the winter.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VISION",
+                    "riddle": "Seeing with the heart.",
+                    "riddle_hard": "Seeing with the mind's eye.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 97,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "Vibration",
+            "complexity": 10.600000381469727,
+            "puzzles": [
+                {
+                    "word": "SONG",
+                    "riddle": "A dream heard by the ears.",
+                    "riddle_hard": "A dream heard by the ears.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUNE",
+                    "riddle": "Path that a singer walks.",
+                    "riddle_hard": "The path a singer walks.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOWL",
+                    "riddle": "A circle that rings inside.",
+                    "riddle_hard": "A circle that rings inside.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOUD",
+                    "riddle": "A voice reaching the stars.",
+                    "riddle_hard": "A voice that reached the stars.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "A single spark of breath.",
+                    "riddle_hard": "The spark of breath.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 98,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "Space",
+            "complexity": 10.699999809265137,
+            "puzzles": [
+                {
+                    "word": "VOID",
+                    "riddle": "Space where stars begin.",
+                    "riddle_hard": "The space where stars are born.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAST",
+                    "riddle": "The wide and silent deep.",
+                    "riddle_hard": "Bigger than any thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NONE",
+                    "riddle": "Left when all is gone.",
+                    "riddle_hard": "What is left after all.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZERO",
+                    "riddle": "A circle around the truth.",
+                    "riddle_hard": "A circle around the truth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAR",
+                    "riddle": "A diamond in the deep night.",
+                    "riddle_hard": "Falling forever but never landing.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 99,
+            "grid_size": 5,
+            "category": "Zen Basics",
+            "subcategory": "The End",
+            "complexity": 10.800000190734863,
+            "puzzles": [
+                {
+                    "word": "DONE",
+                    "riddle": "Put down the heavy brush.",
+                    "riddle_hard": "Putting down the heavy brush.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FULL",
+                    "riddle": "A heart with no more room.",
+                    "riddle_hard": "A heart with no more room.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OVER",
+                    "riddle": "The sky above the mountain.",
+                    "riddle_hard": "The sky above the mountain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REST",
+                    "riddle": "The silence after the song.",
+                    "riddle_hard": "Silence after a long song.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAST",
+                    "riddle": "The end of the long road.",
+                    "riddle_hard": "The end of the line.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 100,
+            "grid_size": 6,
+            "category": "The Great Zen",
+            "subcategory": "Total Unity",
+            "complexity": 10.899999618530273,
+            "puzzles": [
+                {
+                    "word": "UNIFIED",
+                    "riddle": "One hand clapping with many.",
+                    "riddle_hard": "One hand clapping with many.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SERENE",
+                    "riddle": "Morning lake quiet.",
+                    "riddle_hard": "Quiet like a lake.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIRIT",
+                    "riddle": "Inside the lamp.",
+                    "riddle_hard": "The ghost within the machine.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EXIST",
+                    "riddle": "Part of whole.",
+                    "riddle_hard": "Finding your seat in the universe.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HEART",
+                    "riddle": "Two soul bridge.",
+                    "riddle_hard": "The bridge between two souls.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZENFLOW",
+                    "riddle": "Final peace.",
+                    "riddle_hard": "The ultimate river beyond the self.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

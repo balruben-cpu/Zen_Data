@@ -1,0 +1,4436 @@
+{
+    "Levels": [
+        {
+            "level_id": 601,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "DeepSpace",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BARYON",
+                    "riddle": "Heavy matter.",
+                    "riddle_hard": "The solid stuff that makes the bones of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEUTRINO",
+                    "riddle": "Ghost particle.",
+                    "riddle_hard": "A tiny traveler that passes through sun and soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHOTON",
+                    "riddle": "Light bit.",
+                    "riddle_hard": "A massless spark racing since the first morning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 602,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "Linguistics",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SYNTAX",
+                    "riddle": "Word order.",
+                    "riddle_hard": "The invisible law that binds the chaos of naming.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MORPHEME",
+                    "riddle": "Smallest part.",
+                    "riddle_hard": "The core atom of a word that carries sense.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHILOLOGY",
+                    "riddle": "Study of words.",
+                    "riddle_hard": "The love of the ancient breath trapped in a scroll.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETYMON",
+                    "riddle": "Word root.",
+                    "riddle_hard": "The original spark from which a meaning grew.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEXICON",
+                    "riddle": "Word book.",
+                    "riddle_hard": "The entire map of everything that can be said.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUIPU",
+                    "riddle": "Knot record.",
+                    "riddle_hard": "The string-memory of the empire among the clouds.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 603,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "Philosophy",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "TELEOLOGY",
+                    "riddle": "Purpose end.",
+                    "riddle_hard": "The idea that the end determines the beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOLIPSISM",
+                    "riddle": "I am all.",
+                    "riddle_hard": "The lonely belief that only the self is real.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MONISM",
+                    "riddle": "One stuff.",
+                    "riddle_hard": "The vision of a universe built from a single soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COGITO",
+                    "riddle": "I think.",
+                    "riddle_hard": "The singular proof that there is something to ask.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUALIA",
+                    "riddle": "Feeling bits.",
+                    "riddle_hard": "The unnameable redness of the red that you see.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 604,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "AncientCivs",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CUNEIFORM",
+                    "riddle": "Wedge script.",
+                    "riddle_hard": "Triangular marks that woke the history from silence.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MINOAN",
+                    "riddle": "Crete culture.",
+                    "riddle_hard": "The labyrinth builders of the wine-dark sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUIPU",
+                    "riddle": "Knot record.",
+                    "riddle_hard": "The string-memory of the empire among the clouds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ETYMON",
+                    "riddle": "Word root.",
+                    "riddle_hard": "The original spark from which a meaning grew.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 605,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "Philosophy",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "NIHILISM",
+                    "riddle": "No meaning.",
+                    "riddle_hard": "The terrifying freedom of a world without a why.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONTOLOGY",
+                    "riddle": "Being study.",
+                    "riddle_hard": "The map of what it means to truly exist.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DIALECTIC",
+                    "riddle": "Talk logic.",
+                    "riddle_hard": "The clash of thoughts that births a higher truth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GILGAMESH",
+                    "riddle": "Epic hero.",
+                    "riddle_hard": "The king who sought the plant of life and found truth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "Infinite point.",
+                    "riddle_hard": "A needle-thin rip in the fabric of the universe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 606,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "Linguistics",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PHONEME",
+                    "riddle": "Sound unit.",
+                    "riddle_hard": "The smallest brick in the house of speech.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "QUIPU",
+                    "riddle": "Knot record.",
+                    "riddle_hard": "The string-memory of the empire among the clouds.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 607,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 608,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 609,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 610,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 611,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 612,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 613,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 614,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 615,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 616,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 617,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 618,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 619,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 620,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 621,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 622,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 623,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 624,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 625,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 626,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 627,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 628,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 629,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 630,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 631,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CHIEF",
+                    "riddle": "Leader of the tribe",
+                    "riddle_hard": "This principal source dictates the whole flow’s pace",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 632,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 633,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 634,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 635,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 636,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 637,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 638,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 639,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 640,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 641,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 642,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 643,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 644,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 645,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 646,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 647,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 648,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 649,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 650,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 651,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 652,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 653,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 654,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 655,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 656,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 657,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 658,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 659,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 660,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 661,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 662,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 663,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 664,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 665,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 666,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 667,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 668,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 669,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 670,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 671,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 672,
+            "grid_size": 8,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 673,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 674,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 675,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 676,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 677,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 678,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 679,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 680,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 681,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 682,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 683,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 684,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 685,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 686,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 687,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 688,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 689,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 690,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 691,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 692,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 693,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 694,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 695,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 696,
+            "grid_size": 7,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEMANTIC",
+                    "riddle": "Meaning study.",
+                    "riddle_hard": "The investigation of the ghost within the sign.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLOSSARY",
+                    "riddle": "Term list.",
+                    "riddle_hard": "A key to the locked doors of specialized tongues.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero where all things begin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 697,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 698,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 699,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 700,
+            "grid_size": 6,
+            "category": "The Echo",
+            "subcategory": "General",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALPHA",
+                    "riddle": "Start.",
+                    "riddle_hard": "Beginning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUMERIAN",
+                    "riddle": "Ancient Iraq.",
+                    "riddle_hard": "The first tongue to carve secrets onto wet clay.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZIGGURAT",
+                    "riddle": "Step temple.",
+                    "riddle_hard": "A mountain built by man to touch the hem of gods.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AKKADIAN",
+                    "riddle": "Old empire.",
+                    "riddle_hard": "The language of kings who ruled the fertile delta.",
+                    "is_hard": true
+                },
+                {
+                    "word": "KNOSSOS",
+                    "riddle": "Palace city.",
+                    "riddle_hard": "The throne of the bull where the maze began.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

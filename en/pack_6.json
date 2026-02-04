@@ -1,0 +1,4552 @@
+{
+    "Levels": [
+        {
+            "level_id": 501,
+            "grid_size": 6,
+            "complexity": 35.1,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "EPOCHE",
+                    "riddle": "Suspense.",
+                    "riddle_hard": "Setting aside what we think we know for truth.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "FRACTAL",
+                    "riddle": "Self shape.",
+                    "riddle_hard": "A pattern that repeats into the infinite small.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "PULSAR",
+                    "riddle": "Tick star.",
+                    "riddle_hard": "A lighthouse spinning in the deep night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 502,
+            "grid_size": 6,
+            "complexity": 35.2,
+            "category": "The Absolute",
+            "subcategory": "Quantum",
+            "puzzles": [
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "QUANTA",
+                    "riddle": "Small step.",
+                    "riddle_hard": "The smallest grain in the field of light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 503,
+            "grid_size": 6,
+            "complexity": 35.3,
+            "category": "The Absolute",
+            "subcategory": "Quantum",
+            "puzzles": [
+                {
+                    "word": "PHOTON",
+                    "riddle": "Light bit.",
+                    "riddle_hard": "A massless spark racing since the first morning.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GLUON",
+                    "riddle": "Sticky bit.",
+                    "riddle_hard": "The force that binds the heart of the atom.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "COGITO",
+                    "riddle": "I think.",
+                    "riddle_hard": "The singular proof that there is something to ask.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "PHYSIS",
+                    "riddle": "Nature.",
+                    "riddle_hard": "The self-growing power of the living world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 504,
+            "grid_size": 6,
+            "complexity": 35.4,
+            "category": "The Absolute",
+            "subcategory": "Zen Mastery",
+            "puzzles": [
+                {
+                    "word": "EMPTY",
+                    "riddle": "No stuff.",
+                    "riddle_hard": "The value of the glass is the space inside.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SCHEMA",
+                    "riddle": "Mind map.",
+                    "riddle_hard": "The blueprint the mind uses to build the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "QUASAR",
+                    "riddle": "Bright star.",
+                    "riddle_hard": "The blinding heart of a young galaxy.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "Round fall.",
+                    "riddle_hard": "Dancing around a heavier heart forever.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 505,
+            "grid_size": 6,
+            "complexity": 35.5,
+            "category": "The Absolute",
+            "subcategory": "Cosmic",
+            "puzzles": [
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MONAD",
+                    "riddle": "Single unit.",
+                    "riddle_hard": "The first point of the cosmos where all begins.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "PARITY",
+                    "riddle": "Balance.",
+                    "riddle_hard": "The mirror symmetry of the cosmic laws.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ONENESS",
+                    "riddle": "Unity state.",
+                    "riddle_hard": "Where all the lines of the universe disappear.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 506,
+            "grid_size": 6,
+            "complexity": 35.6,
+            "category": "The Absolute",
+            "subcategory": "Zen Mastery",
+            "puzzles": [
+                {
+                    "word": "STILL",
+                    "riddle": "No move.",
+                    "riddle_hard": "The resting face of eternity's mirror.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "CORTEX",
+                    "riddle": "Brain layer.",
+                    "riddle_hard": "The gray garden where thoughts are grown.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 507,
+            "grid_size": 6,
+            "complexity": 35.7,
+            "category": "The Absolute",
+            "subcategory": "Quantum",
+            "puzzles": [
+                {
+                    "word": "BRANE",
+                    "riddle": "Space skin.",
+                    "riddle_hard": "A thin sheet floating in a higher dimension.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "BUFFER",
+                    "riddle": "Wait info.",
+                    "riddle_hard": "A temporary nest for traveling data.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "RIGPA",
+                    "riddle": "Pure know.",
+                    "riddle_hard": "The awareness that is like a clear sky.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 508,
+            "grid_size": 6,
+            "complexity": 35.8,
+            "category": "The Absolute",
+            "subcategory": "Quantum",
+            "puzzles": [
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BINARY",
+                    "riddle": "Two state.",
+                    "riddle_hard": "The zero and one that build the digital sky.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ONTOS",
+                    "riddle": "True being.",
+                    "riddle_hard": "The fundamental substance of the real.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Tiny bit.",
+                    "riddle_hard": "A flavor of reality smaller than a dream.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SHUNYA",
+                    "riddle": "Zero void.",
+                    "riddle_hard": "The emptiness that is the source of all form.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ICE",
+                    "riddle": "Cold water.",
+                    "riddle_hard": "The silence of the northern stream.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 509,
+            "grid_size": 6,
+            "complexity": 35.9,
+            "category": "The Absolute",
+            "subcategory": "Transcendence",
+            "puzzles": [
+                {
+                    "word": "KERNEL",
+                    "riddle": "Core code.",
+                    "riddle_hard": "The seed from which the machine's mind grows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MESON",
+                    "riddle": "Medium bit.",
+                    "riddle_hard": "A bridge of force between the heavy parts.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SANGHA",
+                    "riddle": "Group path.",
+                    "riddle_hard": "The family of those who walk toward the light.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 510,
+            "grid_size": 6,
+            "complexity": 36.0,
+            "category": "The Absolute",
+            "subcategory": "Zen Mastery",
+            "puzzles": [
+                {
+                    "word": "ZAZEN",
+                    "riddle": "Sitting.",
+                    "riddle_hard": "The act of being a mountain in the storm.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "PARSEC",
+                    "riddle": "Distance.",
+                    "riddle_hard": "A measure of the void that no wing can cross.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "PSYCHE",
+                    "riddle": "Soul mind.",
+                    "riddle_hard": "The butterfly that breathes within the chest.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ION",
+                    "riddle": "Charged bit.",
+                    "riddle_hard": "A restless atom seeking a mate.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 511,
+            "grid_size": 6,
+            "complexity": 36.1,
+            "category": "The Absolute",
+            "subcategory": "Zen Mastery",
+            "puzzles": [
+                {
+                    "word": "BODHI",
+                    "riddle": "Wake tree.",
+                    "riddle_hard": "The shade where the mind finally opened.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "CORONA",
+                    "riddle": "Sun crown.",
+                    "riddle_hard": "The halo of fire around a hidden star.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SYZYGY",
+                    "riddle": "Three line.",
+                    "riddle_hard": "Three worlds dancing in a perfect row.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "Star cloud.",
+                    "riddle_hard": "A ghost of gas in the infinite dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SOLAR",
+                    "riddle": "Sun light.",
+                    "riddle_hard": "Driven by the fire of the central heart.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 512,
+            "grid_size": 6,
+            "complexity": 36.2,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "DASEIN",
+                    "riddle": "Being there.",
+                    "riddle_hard": "The state of existing within the world's flow.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "KARMA",
+                    "riddle": "Act effect.",
+                    "riddle_hard": "The echo of a stone thrown into the soul.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BOSON",
+                    "riddle": "Force bit.",
+                    "riddle_hard": "A messenger carrying the news of gravity or light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 513,
+            "grid_size": 6,
+            "complexity": 36.3,
+            "category": "The Absolute",
+            "subcategory": "Zen Mastery",
+            "puzzles": [
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "HEX",
+                    "riddle": "Six code.",
+                    "riddle_hard": "A colorful name for a number in the dark.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "GALAXY",
+                    "riddle": "Star group.",
+                    "riddle_hard": "A spiral island in the ocean of night.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 514,
+            "grid_size": 6,
+            "complexity": 36.4,
+            "category": "The Absolute",
+            "subcategory": "Transcendence",
+            "puzzles": [
+                {
+                    "word": "GHOST",
+                    "riddle": "Soul bit.",
+                    "riddle_hard": "The trace of a memory in the machine.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Info pulse.",
+                    "riddle_hard": "A flash traveling through the digital dark.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BARYON",
+                    "riddle": "Heavy bit.",
+                    "riddle_hard": "The solid stuff that makes the bones of the world.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 515,
+            "grid_size": 6,
+            "complexity": 36.5,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "AETHER",
+                    "riddle": "High air.",
+                    "riddle_hard": "The medium of the ancient starry light.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOURCE",
+                    "riddle": "Beginning.",
+                    "riddle_hard": "The spring from which the river of time flows.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "UPLOAD",
+                    "riddle": "Mind move.",
+                    "riddle_hard": "Leaving the bone for the wire.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "NEURAL",
+                    "riddle": "Mind link.",
+                    "riddle_hard": "A spark in the biological wire of the self.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "LOGIC",
+                    "riddle": "Reason.",
+                    "riddle_hard": "The cold path that the electricity follows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "BRAHMAN",
+                    "riddle": "All soul.",
+                    "riddle_hard": "The one breath that animates all masks.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 516,
+            "grid_size": 6,
+            "complexity": 36.6,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "NOESIS",
+                    "riddle": "Intellect.",
+                    "riddle_hard": "The direct seeing of the mind's inner eye.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "QUALIA",
+                    "riddle": "Feeling.",
+                    "riddle_hard": "The unnameable redness of the red that you see.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ZENITH",
+                    "riddle": "Peak point.",
+                    "riddle_hard": "The point directly above the center of the soul.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ONENESS",
+                    "riddle": "Unity state.",
+                    "riddle_hard": "Where all the lines of the universe disappear.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 517,
+            "grid_size": 6,
+            "complexity": 36.7,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "GNOSIS",
+                    "riddle": "Deep know.",
+                    "riddle_hard": "The direct sparked knowledge of the heart.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "STREAM",
+                    "riddle": "Data flow.",
+                    "riddle_hard": "A river of light flowing through the glass.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "LUNAR",
+                    "riddle": "Moon light.",
+                    "riddle_hard": "A silver reflection of a hidden fire.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "DECODE",
+                    "riddle": "Unlock.",
+                    "riddle_hard": "Turning the secret pulse back into a word.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 518,
+            "grid_size": 6,
+            "complexity": 36.8,
+            "category": "The Absolute",
+            "subcategory": "Metaphysics",
+            "puzzles": [
+                {
+                    "word": "ETHOS",
+                    "riddle": "Character.",
+                    "riddle_hard": "The guiding spirit of a person or a people.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SATORI",
+                    "riddle": "Quick wake.",
+                    "riddle_hard": "The sudden flash of the true nature.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "LEPTON",
+                    "riddle": "Light bit.",
+                    "riddle_hard": "A tiny traveler dancing on the edge of the void.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "DRIVE",
+                    "riddle": "Thrust.",
+                    "riddle_hard": "The engine that moves the machine forward.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 519,
+            "grid_size": 6,
+            "complexity": 36.9,
+            "category": "The Absolute",
+            "subcategory": "Transcendence",
+            "puzzles": [
+                {
+                    "word": "SYNTHETIC",
+                    "riddle": "Man made.",
+                    "riddle_hard": "Built by hands but dreaming of life.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 520,
+            "grid_size": 6,
+            "complexity": 37.0,
+            "category": "The Absolute",
+            "subcategory": "Quantum",
+            "puzzles": [
+                {
+                    "word": "MATRIX",
+                    "riddle": "Number grid.",
+                    "riddle_hard": "A box of values that shifts the path of space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Push arrow.",
+                    "riddle_hard": "A force with a size and a chosen path.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "KARMA",
+                    "riddle": "Act effect.",
+                    "riddle_hard": "The echo of a stone thrown into the soul.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 521,
+            "grid_size": 6,
+            "complexity": 37.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "No move.",
+                    "riddle_hard": "The resting face of eternity's mirror.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "PSYCHE",
+                    "riddle": "Soul mind.",
+                    "riddle_hard": "The butterfly that breathes within the chest.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "BIT",
+                    "riddle": "Smallest.",
+                    "riddle_hard": "A single atom of a digital thought.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 522,
+            "grid_size": 6,
+            "complexity": 37.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLAR",
+                    "riddle": "Sun light.",
+                    "riddle_hard": "Driven by the fire of the central heart.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BRAHMAN",
+                    "riddle": "All soul.",
+                    "riddle_hard": "The one breath that animates all masks.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Push arrow.",
+                    "riddle_hard": "A force with a size and a chosen path.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 523,
+            "grid_size": 6,
+            "complexity": 37.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 524,
+            "grid_size": 6,
+            "complexity": 37.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        },
+        {
+            "level_id": 525,
+            "grid_size": 6,
+            "complexity": 37.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SYZYGY",
+                    "riddle": "Three line.",
+                    "riddle_hard": "Three worlds dancing in a perfect row.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "RIGPA",
+                    "riddle": "Pure know.",
+                    "riddle_hard": "The awareness that is like a clear sky.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "BODHI",
+                    "riddle": "Wake tree.",
+                    "riddle_hard": "The shade where the mind finally opened.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 526,
+            "grid_size": 6,
+            "complexity": 37.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ONTOS",
+                    "riddle": "True being.",
+                    "riddle_hard": "The fundamental substance of the real.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "NOESIS",
+                    "riddle": "Intellect.",
+                    "riddle_hard": "The direct seeing of the mind's inner eye.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "GLUON",
+                    "riddle": "Sticky bit.",
+                    "riddle_hard": "The force that binds the heart of the atom.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 527,
+            "grid_size": 6,
+            "complexity": 37.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BRAHMAN",
+                    "riddle": "All soul.",
+                    "riddle_hard": "The one breath that animates all masks.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Tiny bit.",
+                    "riddle_hard": "A flavor of reality smaller than a dream.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 528,
+            "grid_size": 6,
+            "complexity": 37.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 529,
+            "grid_size": 6,
+            "complexity": 37.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SOURCE",
+                    "riddle": "Beginning.",
+                    "riddle_hard": "The spring from which the river of time flows.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "GALAXY",
+                    "riddle": "Star group.",
+                    "riddle_hard": "A spiral island in the ocean of night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "RHO",
+                    "riddle": "Fluid dens.",
+                    "riddle_hard": "The Greek spirit of the flowing river.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 530,
+            "grid_size": 6,
+            "complexity": 38.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BOSON",
+                    "riddle": "Force bit.",
+                    "riddle_hard": "A messenger carrying the news of gravity or light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "KERNEL",
+                    "riddle": "Core code.",
+                    "riddle_hard": "The seed from which the machine's mind grows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "QUASAR",
+                    "riddle": "Bright star.",
+                    "riddle_hard": "The blinding heart of a young galaxy.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "KARMA",
+                    "riddle": "Act effect.",
+                    "riddle_hard": "The echo of a stone thrown into the soul.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 531,
+            "grid_size": 6,
+            "complexity": 38.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "BINARY",
+                    "riddle": "Two state.",
+                    "riddle_hard": "The zero and one that build the digital sky.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 532,
+            "grid_size": 6,
+            "complexity": 38.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLAR",
+                    "riddle": "Sun light.",
+                    "riddle_hard": "Driven by the fire of the central heart.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 533,
+            "grid_size": 6,
+            "complexity": 38.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ONENESS",
+                    "riddle": "Unity state.",
+                    "riddle_hard": "Where all the lines of the universe disappear.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 534,
+            "grid_size": 6,
+            "complexity": 38.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FRACTAL",
+                    "riddle": "Self shape.",
+                    "riddle_hard": "A pattern that repeats into the infinite small.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "DRIVE",
+                    "riddle": "Thrust.",
+                    "riddle_hard": "The engine that moves the machine forward.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Tiny bit.",
+                    "riddle_hard": "A flavor of reality smaller than a dream.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 535,
+            "grid_size": 6,
+            "complexity": 38.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLAR",
+                    "riddle": "Sun light.",
+                    "riddle_hard": "Driven by the fire of the central heart.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "NEURAL",
+                    "riddle": "Mind link.",
+                    "riddle_hard": "A spark in the biological wire of the self.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 536,
+            "grid_size": 6,
+            "complexity": 38.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "QUASAR",
+                    "riddle": "Bright star.",
+                    "riddle_hard": "The blinding heart of a young galaxy.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "LOGIC",
+                    "riddle": "Reason.",
+                    "riddle_hard": "The cold path that the electricity follows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "Star cloud.",
+                    "riddle_hard": "A ghost of gas in the infinite dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 537,
+            "grid_size": 6,
+            "complexity": 38.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BRAHMAN",
+                    "riddle": "All soul.",
+                    "riddle_hard": "The one breath that animates all masks.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MONAD",
+                    "riddle": "Single unit.",
+                    "riddle_hard": "The first point of the cosmos where all begins.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 538,
+            "grid_size": 6,
+            "complexity": 38.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Info pulse.",
+                    "riddle_hard": "A flash traveling through the digital dark.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "PHI",
+                    "riddle": "Golden num.",
+                    "riddle_hard": "The hidden ratio of the blooming flower.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 539,
+            "grid_size": 6,
+            "complexity": 38.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "Round fall.",
+                    "riddle_hard": "Dancing around a heavier heart forever.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "STREAM",
+                    "riddle": "Data flow.",
+                    "riddle_hard": "A river of light flowing through the glass.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        },
+        {
+            "level_id": 540,
+            "grid_size": 6,
+            "complexity": 39.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SYZYGY",
+                    "riddle": "Three line.",
+                    "riddle_hard": "Three worlds dancing in a perfect row.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "FRACTAL",
+                    "riddle": "Self shape.",
+                    "riddle_hard": "A pattern that repeats into the infinite small.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 541,
+            "grid_size": 6,
+            "complexity": 39.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "DRIVE",
+                    "riddle": "Thrust.",
+                    "riddle_hard": "The engine that moves the machine forward.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 542,
+            "grid_size": 6,
+            "complexity": 39.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ZENITH",
+                    "riddle": "Peak point.",
+                    "riddle_hard": "The point directly above the center of the soul.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 543,
+            "grid_size": 6,
+            "complexity": 39.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DRIVE",
+                    "riddle": "Thrust.",
+                    "riddle_hard": "The engine that moves the machine forward.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Push arrow.",
+                    "riddle_hard": "A force with a size and a chosen path.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 544,
+            "grid_size": 6,
+            "complexity": 39.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 545,
+            "grid_size": 6,
+            "complexity": 39.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "PULSAR",
+                    "riddle": "Tick star.",
+                    "riddle_hard": "A lighthouse spinning in the deep night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "GNOSIS",
+                    "riddle": "Deep know.",
+                    "riddle_hard": "The direct sparked knowledge of the heart.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 546,
+            "grid_size": 6,
+            "complexity": 39.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 547,
+            "grid_size": 6,
+            "complexity": 39.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BIN",
+                    "riddle": "Container.",
+                    "riddle_hard": "A repository for the binary fragments.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 548,
+            "grid_size": 6,
+            "complexity": 39.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BUFFER",
+                    "riddle": "Wait info.",
+                    "riddle_hard": "A temporary nest for traveling data.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Push arrow.",
+                    "riddle_hard": "A force with a size and a chosen path.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 549,
+            "grid_size": 6,
+            "complexity": 39.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "KERNEL",
+                    "riddle": "Core code.",
+                    "riddle_hard": "The seed from which the machine's mind grows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ONTOS",
+                    "riddle": "True being.",
+                    "riddle_hard": "The fundamental substance of the real.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ZAZEN",
+                    "riddle": "Sitting.",
+                    "riddle_hard": "The act of being a mountain in the storm.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "BIN",
+                    "riddle": "Container.",
+                    "riddle_hard": "A repository for the binary fragments.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 550,
+            "grid_size": 6,
+            "complexity": 40.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ETHOS",
+                    "riddle": "Character.",
+                    "riddle_hard": "The guiding spirit of a person or a people.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "AETHER",
+                    "riddle": "High air.",
+                    "riddle_hard": "The medium of the ancient starry light.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "GALAXY",
+                    "riddle": "Star group.",
+                    "riddle_hard": "A spiral island in the ocean of night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BARYON",
+                    "riddle": "Heavy bit.",
+                    "riddle_hard": "The solid stuff that makes the bones of the world.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 551,
+            "grid_size": 6,
+            "complexity": 40.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BINARY",
+                    "riddle": "Two state.",
+                    "riddle_hard": "The zero and one that build the digital sky.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "GALAXY",
+                    "riddle": "Star group.",
+                    "riddle_hard": "A spiral island in the ocean of night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SCHEMA",
+                    "riddle": "Mind map.",
+                    "riddle_hard": "The blueprint the mind uses to build the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MONAD",
+                    "riddle": "Single unit.",
+                    "riddle_hard": "The first point of the cosmos where all begins.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 552,
+            "grid_size": 6,
+            "complexity": 40.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "CORONA",
+                    "riddle": "Sun crown.",
+                    "riddle_hard": "The halo of fire around a hidden star.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 553,
+            "grid_size": 6,
+            "complexity": 40.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "No move.",
+                    "riddle_hard": "The resting face of eternity's mirror.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "EMPTY",
+                    "riddle": "No stuff.",
+                    "riddle_hard": "The value of the glass is the space inside.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 554,
+            "grid_size": 6,
+            "complexity": 40.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "EMPTY",
+                    "riddle": "No stuff.",
+                    "riddle_hard": "The value of the glass is the space inside.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BINARY",
+                    "riddle": "Two state.",
+                    "riddle_hard": "The zero and one that build the digital sky.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 555,
+            "grid_size": 6,
+            "complexity": 40.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "LOGIC",
+                    "riddle": "Reason.",
+                    "riddle_hard": "The cold path that the electricity follows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 556,
+            "grid_size": 6,
+            "complexity": 40.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 557,
+            "grid_size": 6,
+            "complexity": 40.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "KERNEL",
+                    "riddle": "Core code.",
+                    "riddle_hard": "The seed from which the machine's mind grows.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MESON",
+                    "riddle": "Medium bit.",
+                    "riddle_hard": "A bridge of force between the heavy parts.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "RIGPA",
+                    "riddle": "Pure know.",
+                    "riddle_hard": "The awareness that is like a clear sky.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 558,
+            "grid_size": 6,
+            "complexity": 40.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GLUON",
+                    "riddle": "Sticky bit.",
+                    "riddle_hard": "The force that binds the heart of the atom.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "QUANTA",
+                    "riddle": "Small step.",
+                    "riddle_hard": "The smallest grain in the field of light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 559,
+            "grid_size": 6,
+            "complexity": 40.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SANGHA",
+                    "riddle": "Group path.",
+                    "riddle_hard": "The family of those who walk toward the light.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ENSO",
+                    "riddle": "Zen circle.",
+                    "riddle_hard": "One brush stroke that contains the all.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 560,
+            "grid_size": 6,
+            "complexity": 41.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MESON",
+                    "riddle": "Medium bit.",
+                    "riddle_hard": "A bridge of force between the heavy parts.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 561,
+            "grid_size": 6,
+            "complexity": 41.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BOSON",
+                    "riddle": "Force bit.",
+                    "riddle_hard": "A messenger carrying the news of gravity or light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "DECODE",
+                    "riddle": "Unlock.",
+                    "riddle_hard": "Turning the secret pulse back into a word.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 562,
+            "grid_size": 6,
+            "complexity": 41.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "CORTEX",
+                    "riddle": "Brain layer.",
+                    "riddle_hard": "The gray garden where thoughts are grown.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "AIR",
+                    "riddle": "Breath.",
+                    "riddle_hard": "The invisible sea we all swim in.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 563,
+            "grid_size": 6,
+            "complexity": 41.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 564,
+            "grid_size": 6,
+            "complexity": 41.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "GLUON",
+                    "riddle": "Sticky bit.",
+                    "riddle_hard": "The force that binds the heart of the atom.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 565,
+            "grid_size": 6,
+            "complexity": 41.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 566,
+            "grid_size": 6,
+            "complexity": 41.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DECODE",
+                    "riddle": "Unlock.",
+                    "riddle_hard": "Turning the secret pulse back into a word.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "QUARK",
+                    "riddle": "Tiny bit.",
+                    "riddle_hard": "A flavor of reality smaller than a dream.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 567,
+            "grid_size": 6,
+            "complexity": 41.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "QUALIA",
+                    "riddle": "Feeling.",
+                    "riddle_hard": "The unnameable redness of the red that you see.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "I",
+                    "riddle": "The self.",
+                    "riddle_hard": "The eye of the ego."
+                }
+            ]
+        },
+        {
+            "level_id": 568,
+            "grid_size": 6,
+            "complexity": 41.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ZENITH",
+                    "riddle": "Peak point.",
+                    "riddle_hard": "The point directly above the center of the soul.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BARYON",
+                    "riddle": "Heavy bit.",
+                    "riddle_hard": "The solid stuff that makes the bones of the world.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 569,
+            "grid_size": 6,
+            "complexity": 41.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "AETHER",
+                    "riddle": "High air.",
+                    "riddle_hard": "The medium of the ancient starry light.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "RIGPA",
+                    "riddle": "Pure know.",
+                    "riddle_hard": "The awareness that is like a clear sky.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "FLUX",
+                    "riddle": "Change flow.",
+                    "riddle_hard": "The rate through a window of empty space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        },
+        {
+            "level_id": 570,
+            "grid_size": 6,
+            "complexity": 42.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DOT",
+                    "riddle": "Single pt.",
+                    "riddle_hard": "The smallest seed of a sentence.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 571,
+            "grid_size": 6,
+            "complexity": 42.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ARC",
+                    "riddle": "Curved path.",
+                    "riddle_hard": "A rainbow bridge that holds no weight.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 572,
+            "grid_size": 6,
+            "complexity": 42.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MESON",
+                    "riddle": "Medium bit.",
+                    "riddle_hard": "A bridge of force between the heavy parts.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 573,
+            "grid_size": 6,
+            "complexity": 42.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "FRACTAL",
+                    "riddle": "Self shape.",
+                    "riddle_hard": "A pattern that repeats into the infinite small.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DASEIN",
+                    "riddle": "Being there.",
+                    "riddle_hard": "The state of existing within the world's flow.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "BOSON",
+                    "riddle": "Force bit.",
+                    "riddle_hard": "A messenger carrying the news of gravity or light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "KOAN",
+                    "riddle": "Mind riddle.",
+                    "riddle_hard": "A question that breaks the logic's back.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 574,
+            "grid_size": 6,
+            "complexity": 42.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "Round fall.",
+                    "riddle_hard": "Dancing around a heavier heart forever.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "BODHI",
+                    "riddle": "Wake tree.",
+                    "riddle_hard": "The shade where the mind finally opened.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 575,
+            "grid_size": 6,
+            "complexity": 42.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "FRACTAL",
+                    "riddle": "Self shape.",
+                    "riddle_hard": "A pattern that repeats into the infinite small.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 576,
+            "grid_size": 6,
+            "complexity": 42.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GAS",
+                    "riddle": "Air stuff.",
+                    "riddle_hard": "Matter that has forgotten how to be solid.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 577,
+            "grid_size": 6,
+            "complexity": 42.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Info pulse.",
+                    "riddle_hard": "A flash traveling through the digital dark.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "RIGPA",
+                    "riddle": "Pure know.",
+                    "riddle_hard": "The awareness that is like a clear sky.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 578,
+            "grid_size": 6,
+            "complexity": 42.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "PHOTON",
+                    "riddle": "Light bit.",
+                    "riddle_hard": "A massless spark racing since the first morning.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "LUNAR",
+                    "riddle": "Moon light.",
+                    "riddle_hard": "A silver reflection of a hidden fire.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ETHOS",
+                    "riddle": "Character.",
+                    "riddle_hard": "The guiding spirit of a person or a people.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 579,
+            "grid_size": 6,
+            "complexity": 42.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MATRIX",
+                    "riddle": "Number grid.",
+                    "riddle_hard": "A box of values that shifts the path of space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "PARITY",
+                    "riddle": "Balance.",
+                    "riddle_hard": "The mirror symmetry of the cosmic laws.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 580,
+            "grid_size": 6,
+            "complexity": 43.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "LOGOS",
+                    "riddle": "Word truth.",
+                    "riddle_hard": "The rational order of the spinning world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "LUNAR",
+                    "riddle": "Moon light.",
+                    "riddle_hard": "A silver reflection of a hidden fire.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SHUNYA",
+                    "riddle": "Zero void.",
+                    "riddle_hard": "The emptiness that is the source of all form.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 581,
+            "grid_size": 6,
+            "complexity": 43.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 582,
+            "grid_size": 6,
+            "complexity": 43.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 583,
+            "grid_size": 6,
+            "complexity": 43.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "CORONA",
+                    "riddle": "Sun crown.",
+                    "riddle_hard": "The halo of fire around a hidden star.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "COGITO",
+                    "riddle": "I think.",
+                    "riddle_hard": "The singular proof that there is something to ask.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NADIR",
+                    "riddle": "Lowest pt.",
+                    "riddle_hard": "The absolute bottom of the cosmic well.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 584,
+            "grid_size": 6,
+            "complexity": 43.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ZENITH",
+                    "riddle": "Peak point.",
+                    "riddle_hard": "The point directly above the center of the soul.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "PARSEC",
+                    "riddle": "Distance.",
+                    "riddle_hard": "A measure of the void that no wing can cross.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BRAHMAN",
+                    "riddle": "All soul.",
+                    "riddle_hard": "The one breath that animates all masks.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 585,
+            "grid_size": 6,
+            "complexity": 43.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SILENCE",
+                    "riddle": "Pure quiet.",
+                    "riddle_hard": "The original language of the universe.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 586,
+            "grid_size": 6,
+            "complexity": 43.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "QUANTA",
+                    "riddle": "Small step.",
+                    "riddle_hard": "The smallest grain in the field of light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        },
+        {
+            "level_id": 587,
+            "grid_size": 6,
+            "complexity": 43.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "TENSOR",
+                    "riddle": "Force map.",
+                    "riddle_hard": "The rubber skin of reality's hidden math.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 588,
+            "grid_size": 6,
+            "complexity": 43.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Twist.",
+                    "riddle_hard": "The internal dance of the smallest particles.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "PULSAR",
+                    "riddle": "Tick star.",
+                    "riddle_hard": "A lighthouse spinning in the deep night.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "VECTOR",
+                    "riddle": "Push arrow.",
+                    "riddle_hard": "A force with a size and a chosen path.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 589,
+            "grid_size": 6,
+            "complexity": 43.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "DUALITY",
+                    "riddle": "Two parts.",
+                    "riddle_hard": "The dance of opposites that creates the world.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "STELLAR",
+                    "riddle": "Star like.",
+                    "riddle_hard": "Born from the compression of the deep dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "PULSAR",
+                    "riddle": "Tick star.",
+                    "riddle_hard": "A lighthouse spinning in the deep night.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 590,
+            "grid_size": 6,
+            "complexity": 44.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "TELEOS",
+                    "riddle": "Final end.",
+                    "riddle_hard": "The purpose that pulls the present forward.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 591,
+            "grid_size": 6,
+            "complexity": 44.1,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ARRAY",
+                    "riddle": "List row.",
+                    "riddle_hard": "A sequence of spirits waiting for the call.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ATMAN",
+                    "riddle": "Inner self.",
+                    "riddle_hard": "The divine spark within the human clay.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DASEIN",
+                    "riddle": "Being there.",
+                    "riddle_hard": "The state of existing within the world's flow.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        },
+        {
+            "level_id": 592,
+            "grid_size": 6,
+            "complexity": 44.2,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SHELL",
+                    "riddle": "Hard cover.",
+                    "riddle_hard": "The protective layer around the inner core.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "HORIZON",
+                    "riddle": "Event edge.",
+                    "riddle_hard": "The point of no return where light fails to fly.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "DHARMA",
+                    "riddle": "The Law.",
+                    "riddle_hard": "The eternal rhythm of the cosmic order.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SHUNYA",
+                    "riddle": "Zero void.",
+                    "riddle_hard": "The emptiness that is the source of all form.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 593,
+            "grid_size": 6,
+            "complexity": 44.3,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 594,
+            "grid_size": 6,
+            "complexity": 44.4,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "NOMOS",
+                    "riddle": "Law order.",
+                    "riddle_hard": "The custom that binds the chaos of the city.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "SATORI",
+                    "riddle": "Quick wake.",
+                    "riddle_hard": "The sudden flash of the true nature.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "APHELION",
+                    "riddle": "Far orbit.",
+                    "riddle_hard": "The lonely point furthest from the sun.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "All space.",
+                    "riddle_hard": "The grand garden of everything that is.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "Unity.",
+                    "riddle_hard": "The droplet that thinks it is the ocean.",
+                    "subcategory": "Zen"
+                }
+            ]
+        },
+        {
+            "level_id": 595,
+            "grid_size": 6,
+            "complexity": 44.5,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ASTRON",
+                    "riddle": "Star word.",
+                    "riddle_hard": "The prefix of the dream of the heights.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "GATE",
+                    "riddle": "Circuit.",
+                    "riddle_hard": "The threshold where the bit decides its path.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MUKTI",
+                    "riddle": "Freedom.",
+                    "riddle_hard": "The breaking of the chain of the thousand lives.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MAYA",
+                    "riddle": "Illusion.",
+                    "riddle_hard": "The velvet veil that hides the one truth.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "ENTROPY",
+                    "riddle": "Disorder.",
+                    "riddle_hard": "The slow cooling of the cosmic fire towards zero.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MU",
+                    "riddle": "No thing.",
+                    "riddle_hard": "The answer that empties the bowl of self.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 596,
+            "grid_size": 6,
+            "complexity": 44.6,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ZAZEN",
+                    "riddle": "Sitting.",
+                    "riddle_hard": "The act of being a mountain in the storm.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "FERMION",
+                    "riddle": "Matter bit.",
+                    "riddle_hard": "A brick that refuses to share its space.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "BOSON",
+                    "riddle": "Force bit.",
+                    "riddle_hard": "A messenger carrying the news of gravity or light.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                }
+            ]
+        },
+        {
+            "level_id": 597,
+            "grid_size": 6,
+            "complexity": 44.7,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "KARMA",
+                    "riddle": "Act effect.",
+                    "riddle_hard": "The echo of a stone thrown into the soul.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "PHOTON",
+                    "riddle": "Light bit.",
+                    "riddle_hard": "A massless spark racing since the first morning.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "Pure empty.",
+                    "riddle_hard": "The silent zero between the suns.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "ESSENCE",
+                    "riddle": "Core being.",
+                    "riddle_hard": "The ghost inside the mask of reality.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "GNOSIS",
+                    "riddle": "Deep know.",
+                    "riddle_hard": "The direct sparked knowledge of the heart.",
+                    "subcategory": "Metaphysics"
+                }
+            ]
+        },
+        {
+            "level_id": 598,
+            "grid_size": 6,
+            "complexity": 44.8,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "ECLIPSE",
+                    "riddle": "Dark sun.",
+                    "riddle_hard": "A temporary theft of the moon's light.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SOLSTICE",
+                    "riddle": "Long day.",
+                    "riddle_hard": "The moment the sun turns back towards the dark.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "MONAD",
+                    "riddle": "Single unit.",
+                    "riddle_hard": "The first point of the cosmos where all begins.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "SINGULAR",
+                    "riddle": "One point.",
+                    "riddle_hard": "Where the laws of physics finally break.",
+                    "subcategory": "Quantum"
+                }
+            ]
+        },
+        {
+            "level_id": 599,
+            "grid_size": 6,
+            "complexity": 44.9,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "PSYCHE",
+                    "riddle": "Soul mind.",
+                    "riddle_hard": "The butterfly that breathes within the chest.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "GHOST",
+                    "riddle": "Soul bit.",
+                    "riddle_hard": "The trace of a memory in the machine.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "BYTE",
+                    "riddle": "Info group.",
+                    "riddle_hard": "A small word spoken in the language of wires.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "NEURAL",
+                    "riddle": "Mind link.",
+                    "riddle_hard": "A spark in the biological wire of the self.",
+                    "subcategory": "Transcendence"
+                },
+                {
+                    "word": "SAMSARA",
+                    "riddle": "Circle.",
+                    "riddle_hard": "The wheel of birth and death that never rests.",
+                    "subcategory": "Zen Mastery"
+                }
+            ]
+        },
+        {
+            "level_id": 600,
+            "grid_size": 6,
+            "complexity": 45.0,
+            "category": "The Absolute",
+            "subcategory": "Mastery",
+            "puzzles": [
+                {
+                    "word": "EMPTY",
+                    "riddle": "No stuff.",
+                    "riddle_hard": "The value of the glass is the space inside.",
+                    "subcategory": "Zen Mastery"
+                },
+                {
+                    "word": "MANIFOLD",
+                    "riddle": "Many fold.",
+                    "riddle_hard": "A shape that looks flat but curves in the dark.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "MESON",
+                    "riddle": "Medium bit.",
+                    "riddle_hard": "A bridge of force between the heavy parts.",
+                    "subcategory": "Quantum"
+                },
+                {
+                    "word": "APORIA",
+                    "riddle": "Deadlock.",
+                    "riddle_hard": "The state of wonder when logic meets a wall.",
+                    "subcategory": "Metaphysics"
+                },
+                {
+                    "word": "LUNAR",
+                    "riddle": "Moon light.",
+                    "riddle_hard": "A silver reflection of a hidden fire.",
+                    "subcategory": "Cosmic"
+                },
+                {
+                    "word": "SYNAPSE",
+                    "riddle": "Mind gap.",
+                    "riddle_hard": "Where the thought jumps the infinite void.",
+                    "subcategory": "Transcendence"
+                }
+            ]
+        }
+    ]
+}

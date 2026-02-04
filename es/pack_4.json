@@ -1,0 +1,2302 @@
+[
+    {
+        "level_id": 301,
+        "grid_size": 4,
+        "complexity": 1.0,
+        "category": "El Tiempo",
+        "subcategory": "Ecos Antiguos",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "La voz del pasado que rebota en las piedras."
+            },
+            {
+                "word": "AYER",
+                "riddle": "El rio que ya paso pero dejo su rastro."
+            },
+            {
+                "word": "OYE",
+                "riddle": "Prestar atención al murmullo de los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 302,
+        "grid_size": 4,
+        "complexity": 1.1,
+        "category": "El Tiempo",
+        "subcategory": "Arena",
+        "puzzles": [
+            {
+                "word": "FINA",
+                "riddle": "Polvo de roca que mide la vida en el cristal."
+            },
+            {
+                "word": "CAER",
+                "riddle": "El movimiento constante de las horas breves."
+            },
+            {
+                "word": "MAR",
+                "riddle": "Donde terminan todos los granos de arena."
+            }
+        ]
+    },
+    {
+        "level_id": 303,
+        "grid_size": 4,
+        "complexity": 1.2,
+        "category": "El Tiempo",
+        "subcategory": "Imperios",
+        "puzzles": [
+            {
+                "word": "ORO",
+                "riddle": "El metal que sobrevive a la mano que lo guarda."
+            },
+            {
+                "word": "MURO",
+                "riddle": "Lo que el hombre levanta y el tiempo derriba."
+            },
+            {
+                "word": "REY",
+                "riddle": "Una sombra que mando sobre otras sombras."
+            }
+        ]
+    },
+    {
+        "level_id": 304,
+        "grid_size": 4,
+        "complexity": 1.3,
+        "category": "El Tiempo",
+        "subcategory": "Sabiduría",
+        "puzzles": [
+            {
+                "word": "LIBRO",
+                "riddle": "Cápsula de papel que guarda el pensamiento."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La idea que ilumina a traves de las edades."
+            },
+            {
+                "word": "VER",
+                "riddle": "Comprender el sentido detras de la memoria."
+            }
+        ]
+    },
+    {
+        "level_id": 305,
+        "grid_size": 4,
+        "complexity": 1.4,
+        "category": "El Tiempo",
+        "subcategory": "Ruinas",
+        "puzzles": [
+            {
+                "word": "PIEDRA",
+                "riddle": "Hueso de la ciudad que el musgo devora."
+            },
+            {
+                "word": "PASO",
+                "riddle": "La huella que el tiempo deja en el asfalto."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar de pie cuando todo lo demas ha caido."
+            }
+        ]
+    },
+    {
+        "level_id": 306,
+        "grid_size": 5,
+        "complexity": 1.5,
+        "category": "El Tiempo",
+        "subcategory": "Relojes",
+        "puzzles": [
+            {
+                "word": "TIC",
+                "riddle": "El latido metalico del corazon de los dias."
+            },
+            {
+                "word": "AGUJA",
+                "riddle": "La espada pequeña que hiere al segundo."
+            },
+            {
+                "word": "CIRA",
+                "riddle": "El circulo eterno que no llega a ningun lugar."
+            },
+            {
+                "word": "HOY",
+                "riddle": "El unico fruto que cuelga de la rama del tiempo."
+            }
+        ]
+    },
+    {
+        "level_id": 307,
+        "grid_size": 5,
+        "complexity": 1.6,
+        "category": "El Tiempo",
+        "subcategory": "Memoria",
+        "puzzles": [
+            {
+                "word": "FOTO",
+                "riddle": "Trampa de luz que detiene un suspiro para siempre."
+            },
+            {
+                "word": "CARA",
+                "riddle": "El mapa de carne donde el tiempo escribe su historia."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El archivo secreto de todo lo que hemos amado."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Lo que permanece unido a pesar de la distancia."
+            }
+        ]
+    },
+    {
+        "level_id": 308,
+        "grid_size": 5,
+        "complexity": 1.7,
+        "category": "El Tiempo",
+        "subcategory": "Mitos",
+        "puzzles": [
+            {
+                "word": "FUEGO",
+                "riddle": "El regalo del cielo que trajo la primera noche."
+            },
+            {
+                "word": "DIOS",
+                "riddle": "El nombre que le damos al misterio que nos mira."
+            },
+            {
+                "word": "HÉROE",
+                "riddle": "Aquel que busca el destino mas alla de su sombra."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El camino sagrado de los heroes y los poetas."
+            }
+        ]
+    },
+    {
+        "level_id": 309,
+        "grid_size": 5,
+        "complexity": 1.8,
+        "category": "El Tiempo",
+        "subcategory": "Tradición",
+        "puzzles": [
+            {
+                "word": "PAN",
+                "riddle": "El sabor que se repite en cada mesa del mundo."
+            },
+            {
+                "word": "CASA",
+                "riddle": "El fuego central donde se calienta la familia."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Lo que nos ata a la tierra de nuestros padres."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse parte de una cadena que no tiene fin."
+            }
+        ]
+    },
+    {
+        "level_id": 310,
+        "grid_size": 5,
+        "complexity": 1.9,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Historia",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Comprender que todo pasa y nada permanece."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Descansar en la corriente del rio sin resistirse."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ser el pasado, el presente y el futuro a la vez."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una presencia en el teatro de los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 311,
+        "grid_size": 4,
+        "complexity": 2.0,
+        "category": "El Tiempo",
+        "subcategory": "Egipto",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Miras al astro rey desde una montaña de arena."
+            },
+            {
+                "word": "SOL",
+                "riddle": "El ojo de fuego que madura el grano del Nilo."
+            },
+            {
+                "word": "ORO",
+                "riddle": "La carne de los dioses que no conoce la muerte."
+            }
+        ]
+    },
+    {
+        "level_id": 312,
+        "grid_size": 4,
+        "complexity": 2.1,
+        "category": "El Tiempo",
+        "subcategory": "Grecia",
+        "puzzles": [
+            {
+                "word": "IDEA",
+                "riddle": "La forma perfecta que nace en el jardin del alma."
+            },
+            {
+                "word": "LOGO",
+                "riddle": "La palabra que pone orden en el caos del mundo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Saber que la verdad es siempre una y la misma."
+            }
+        ]
+    },
+    {
+        "level_id": 313,
+        "grid_size": 4,
+        "complexity": 2.2,
+        "category": "El Tiempo",
+        "subcategory": "Roma",
+        "puzzles": [
+            {
+                "word": "VÍA",
+                "riddle": "El camino de piedra que une todos los destinos."
+            },
+            {
+                "word": "LEY",
+                "riddle": "La cuerda invisible que mantiene unido al pueblo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El fruto que se cosecha tras el ruido de las espadas."
+            }
+        ]
+    },
+    {
+        "level_id": 314,
+        "grid_size": 4,
+        "complexity": 2.3,
+        "category": "El Tiempo",
+        "subcategory": "Media",
+        "puzzles": [
+            {
+                "word": "REZO",
+                "riddle": "El susurro que sube hacia las bovedas de piedra."
+            },
+            {
+                "word": "CUNA",
+                "riddle": "Donde el saber duerme a la espera de un nuevo dia."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Sentirse hermano en la fe y en la misma fatiga."
+            }
+        ]
+    },
+    {
+        "level_id": 315,
+        "grid_size": 4,
+        "complexity": 2.4,
+        "category": "El Tiempo",
+        "subcategory": "Zen de las Edades",
+        "puzzles": [
+            {
+                "word": "CAER",
+                "riddle": "Ver como las coronas ruedan por el suelo del tiempo."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La chispa de conciencia que cruza todas las épocas."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir mas alla de los nombres y los imperios."
+            }
+        ]
+    },
+    {
+        "level_id": 316,
+        "grid_size": 5,
+        "complexity": 2.5,
+        "category": "El Tiempo",
+        "subcategory": "Renacer",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "El despertar del hombre que se mira en el espejo."
+            },
+            {
+                "word": "RAZÓN",
+                "riddle": "La antorcha que disipa las sombras de la ignorancia."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La belleza que brota del numero y la armonia."
+            },
+            {
+                "word": "VER",
+                "riddle": "Abrir los ojos a la maravilla de la naturaleza."
+            }
+        ]
+    },
+    {
+        "level_id": 317,
+        "grid_size": 5,
+        "complexity": 2.6,
+        "category": "El Tiempo",
+        "subcategory": "Industria",
+        "puzzles": [
+            {
+                "word": "HUMO",
+                "riddle": "El aliento gris de las maquinas que mueven el mundo."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La fatiga del hierro forjado en el corazon del fuego."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El camino de metal que acorta todas las distancias."
+            },
+            {
+                "word": "MAS",
+                "riddle": "El deseo de producir que nunca se siente saciado."
+            }
+        ]
+    },
+    {
+        "level_id": 318,
+        "grid_size": 5,
+        "complexity": 2.7,
+        "category": "El Tiempo",
+        "subcategory": "Moderna",
+        "puzzles": [
+            {
+                "word": "ONDA",
+                "riddle": "La voz invisible que viaja por el aire sin descanso."
+            },
+            {
+                "word": "CINE",
+                "riddle": "La fabrica de sombras que fabrica sueños de luz."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El anhelo de calma en medio del estruendo urbano."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Saber que el mundo entero cabe en una pequeña caja."
+            }
+        ]
+    },
+    {
+        "level_id": 319,
+        "grid_size": 5,
+        "complexity": 2.8,
+        "category": "El Tiempo",
+        "subcategory": "Virtual",
+        "puzzles": [
+            {
+                "word": "BIT",
+                "riddle": "La unidad minima de un universo hecho de numeros."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "La red invisible que atrapa todas las miradas."
+            },
+            {
+                "word": "MERO",
+                "riddle": "El reflejo de la vida en una superficie de cristal."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Sentirse solo en medio de una multitud de luces."
+            }
+        ]
+    },
+    {
+        "level_id": 320,
+        "grid_size": 5,
+        "complexity": 3.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen Histórico",
+        "puzzles": [
+            {
+                "word": "PASÓ",
+                "riddle": "Soltar el orgullo de lo que una vez fuimos."
+            },
+            {
+                "word": "PRESÉ",
+                "riddle": "Vivir el unico regalo que el tiempo nos ofrece."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el mismo espiritu que respiro en la piramide."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente estar aqui, siendo la historia misma."
+            }
+        ]
+    },
+    {
+        "level_id": 321,
+        "grid_size": 4,
+        "complexity": 3.1,
+        "category": "El Tiempo",
+        "subcategory": "Velas",
+        "puzzles": [
+            {
+                "word": "MAR",
+                "riddle": "El lienzo de sal donde el hombre escribe su ambicion."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "La mano invisible que empuja el sueño hacia el oeste."
+            },
+            {
+                "word": "OLA",
+                "riddle": "El latido del oceano que acuna a los valientes."
+            }
+        ]
+    },
+    {
+        "level_id": 322,
+        "grid_size": 4,
+        "complexity": 3.2,
+        "category": "El Tiempo",
+        "subcategory": "Brújula",
+        "puzzles": [
+            {
+                "word": "NORTE",
+                "riddle": "El punto fijo que aguanta el giro de la duda."
+            },
+            {
+                "word": "IMÁN",
+                "riddle": "La ley del corazon que siempre sabe donde ir."
+            },
+            {
+                "word": "GUÍA",
+                "riddle": "Una aguja de fe en un mundo de sombras líquidas."
+            }
+        ]
+    },
+    {
+        "level_id": 323,
+        "grid_size": 4,
+        "complexity": 3.3,
+        "category": "El Tiempo",
+        "subcategory": "Nuevas Tierras",
+        "puzzles": [
+            {
+                "word": "COSTA",
+                "riddle": "La linea de espuma que separa el miedo de la gloria."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "El color de la esperanza que brota entre las nubes."
+            },
+            {
+                "word": "AVISO",
+                "riddle": "El grito del vigia que cambia el destino de un rey."
+            }
+        ]
+    },
+    {
+        "level_id": 324,
+        "grid_size": 4,
+        "complexity": 3.4,
+        "category": "El Tiempo",
+        "subcategory": "Especias",
+        "puzzles": [
+            {
+                "word": "SABOR",
+                "riddle": "El tesoro que se esconde en una semilla lejana."
+            },
+            {
+                "word": "POLVO",
+                "riddle": "Oro molido que viaja mil leguas para ser aroma."
+            },
+            {
+                "word": "RICA",
+                "riddle": "La tierra que guarda el sol en sus frutos raros."
+            }
+        ]
+    },
+    {
+        "level_id": 325,
+        "grid_size": 4,
+        "complexity": 3.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Navegante",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Saber que estas en casa incluso en medio del mar."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud que se halla en el ojo de la tormenta."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en el presente, entre el cielo y el abismo."
+            }
+        ]
+    },
+    {
+        "level_id": 326,
+        "grid_size": 5,
+        "complexity": 3.6,
+        "category": "El Tiempo",
+        "subcategory": "Cartografía",
+        "puzzles": [
+            {
+                "word": "MAPA",
+                "riddle": "El intento del hombre por atrapar al mundo en un papel."
+            },
+            {
+                "word": "TINTA",
+                "riddle": "La sangre del sabio que inventa contornos de esperanza."
+            },
+            {
+                "word": "LÍNEA",
+                "riddle": "La frontera imaginaria que trazamos en lo infinito."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ver la esfera entera con los ojos de la mente."
+            }
+        ]
+    },
+    {
+        "level_id": 327,
+        "grid_size": 5,
+        "complexity": 3.7,
+        "category": "El Tiempo",
+        "subcategory": "Horizonte",
+        "puzzles": [
+            {
+                "word": "LEJOS",
+                "riddle": "El lugar donde el sol y el mar se dan el primer beso."
+            },
+            {
+                "word": "VEO",
+                "riddle": "La certeza de que hay algo mas alla de lo que toco."
+            },
+            {
+                "word": "META",
+                "riddle": "El puerto espiritual donde el viaje se hace luz."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color del infinito que nos llama por nuestro nombre."
+            }
+        ]
+    },
+    {
+        "level_id": 328,
+        "grid_size": 5,
+        "complexity": 3.8,
+        "category": "El Tiempo",
+        "subcategory": "Seda",
+        "puzzles": [
+            {
+                "word": "HILO",
+                "riddle": "La caricia de oriente que cruza desiertos y mares."
+            },
+            {
+                "word": "SUAVE",
+                "riddle": "La textura del lujo que oculta el rigor del camino."
+            },
+            {
+                "word": "RUTA",
+                "riddle": "El sendero de las caravanas bajo la luna roja."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El brillo que se busca en el tejido de lo exótico."
+            }
+        ]
+    },
+    {
+        "level_id": 329,
+        "grid_size": 5,
+        "complexity": 3.9,
+        "category": "El Tiempo",
+        "subcategory": "Intercambio",
+        "puzzles": [
+            {
+                "word": "DAR",
+                "riddle": "Ofrecer un grano de maiz y recibir una palabra."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El asombro de mirar un rostro nunca antes visto."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Comprender que el extraño es solo un hermano lejano."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El puente que se tiende entre dos orillas del alma."
+            }
+        ]
+    },
+    {
+        "level_id": 330,
+        "grid_size": 5,
+        "complexity": 4.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Encuentro",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Llegar con las manos vacias para llenarlas de vida."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentir que el mundo se hace mas pequeño y mas sagrado."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La fuerza que une a las civilizaciones en un abrazo."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el testigo de un nuevo amanecer."
+            }
+        ]
+    },
+    {
+        "level_id": 331,
+        "grid_size": 4,
+        "complexity": 4.1,
+        "category": "El Tiempo",
+        "subcategory": "Colonias",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Levantar un hogar donde antes solo habia selva."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La soledad del colono que escucha la noche extraña."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Sembrar una semilla en un suelo que no tiene dueño."
+            }
+        ]
+    },
+    {
+        "level_id": 332,
+        "grid_size": 4,
+        "complexity": 4.2,
+        "category": "El Tiempo",
+        "subcategory": "Comercio",
+        "puzzles": [
+            {
+                "word": "MONA",
+                "riddle": "El metal que viaja en barcos para comprar silencios."
+            },
+            {
+                "word": "PESO",
+                "riddle": "La balanza que mide el valor de lo que no tiene precio."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El camino de plata que une dos mundos despiertos."
+            }
+        ]
+    },
+    {
+        "level_id": 333,
+        "grid_size": 4,
+        "complexity": 4.3,
+        "category": "El Tiempo",
+        "subcategory": "Cosecha",
+        "puzzles": [
+            {
+                "word": "FRUTO",
+                "riddle": "El regalo del sol que madura en la rama nueva."
+            },
+            {
+                "word": "VINO",
+                "riddle": "La sangre de la uva que alegra el alma del viajero."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "La primera flor que nace en la tierra de acogida."
+            }
+        ]
+    },
+    {
+        "level_id": 334,
+        "grid_size": 4,
+        "complexity": 4.4,
+        "category": "El Tiempo",
+        "subcategory": "Frontera II",
+        "puzzles": [
+            {
+                "word": "RÍO",
+                "riddle": "La cinta de agua que marca el limite de lo andado."
+            },
+            {
+                "word": "MÁS",
+                "riddle": "El impulso de dar un paso mas alla del horizonte."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Saber que la verdadera frontera esta en la mente."
+            }
+        ]
+    },
+    {
+        "level_id": 335,
+        "grid_size": 4,
+        "complexity": 4.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Tierra",
+        "puzzles": [
+            {
+                "word": "BARRO",
+                "riddle": "La materia sagrada que nos dio la primera forma."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La energia que sube desde la raíz hasta el cielo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el mismo espiritu que la montaña y el rio."
+            }
+        ]
+    },
+    {
+        "level_id": 336,
+        "grid_size": 5,
+        "complexity": 4.6,
+        "category": "El Tiempo",
+        "subcategory": "Arquitectura II",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "La piedra que se apoya en la piedra para ser ciudad."
+            },
+            {
+                "word": "ARCO",
+                "riddle": "La curva de luz que sostiene el peso del cielo."
+            },
+            {
+                "word": "PLAZA",
+                "riddle": "El corazon de piedra donde se cruzan las vidas."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Construir un orden eterno sobre el barro efímero."
+            }
+        ]
+    },
+    {
+        "level_id": 337,
+        "grid_size": 5,
+        "complexity": 4.7,
+        "category": "El Tiempo",
+        "subcategory": "Mestizaje",
+        "puzzles": [
+            {
+                "word": "SANGRE",
+                "riddle": "El rio rojo donde se mezclan dos linajes antiguos."
+            },
+            {
+                "word": "CARA",
+                "riddle": "Un rostro nuevo que resume dos mundos lejanos."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El crisol de espiritu donde nace una nueva fe."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Descubrir que somos la suma de mil ayeres distintos."
+            }
+        ]
+    },
+    {
+        "level_id": 338,
+        "grid_size": 5,
+        "complexity": 4.8,
+        "category": "El Tiempo",
+        "subcategory": "Legado II",
+        "puzzles": [
+            {
+                "word": "HIELO",
+                "riddle": "La memoria que se congela en el cristal de la historia."
+            },
+            {
+                "word": "ORO",
+                "riddle": "Lo que brilla en la frente de los que ya se fueron."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La esencia que no se pierde en el rio del tiempo."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Una cadena de manos que se pasan la misma luz."
+            }
+        ]
+    },
+    {
+        "level_id": 339,
+        "grid_size": 5,
+        "complexity": 4.9,
+        "category": "El Tiempo",
+        "subcategory": "Expansión II",
+        "puzzles": [
+            {
+                "word": "REMA",
+                "riddle": "Cruzar el oceano cargado de sueños y miedos."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Lo que se busca cuando el sol cae tras el mar."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El sendero de estrellas que guia a los perdidos."
+            },
+            {
+                "word": "SER",
+                "riddle": "Encontrarse a uno mismo en la inmensidad del mapa."
+            }
+        ]
+    },
+    {
+        "level_id": 340,
+        "grid_size": 5,
+        "complexity": 5.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Raíz",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Pertenecer a ningun lugar es pertenecer al todo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Hallar el centro en cualquier punto del camino."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Dormir tranquilo donde la tierra te acoja hoy."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una raiz que se nutre del silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 341,
+        "grid_size": 4,
+        "complexity": 5.1,
+        "category": "El Tiempo",
+        "subcategory": "Razón",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "La llama de la mente que disipa el miedo antiguo."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La logica que brilla como un diamante en el lodo."
+            },
+            {
+                "word": "IDEA",
+                "riddle": "La semilla que florece en el jardin del pensamiento."
+            }
+        ]
+    },
+    {
+        "level_id": 342,
+        "grid_size": 4,
+        "complexity": 5.2,
+        "category": "El Tiempo",
+        "subcategory": "Ciencia",
+        "puzzles": [
+            {
+                "word": "VER",
+                "riddle": "Mirar la naturaleza con ojos libres de dogmas."
+            },
+            {
+                "word": "DATO",
+                "riddle": "Un pequeño grano de verdad en el mar de lo incierto."
+            },
+            {
+                "word": "LEY",
+                "riddle": "El orden secreto que rige el baile de los atomos."
+            }
+        ]
+    },
+    {
+        "level_id": 343,
+        "grid_size": 4,
+        "complexity": 5.3,
+        "category": "El Tiempo",
+        "subcategory": "Libertad",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "El pajaro que rompe la jaula de la ignorancia."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Ser dueño de tu propio destino bajo el sol."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La cadena que se rompe cuando el hombre despierta."
+            }
+        ]
+    },
+    {
+        "level_id": 344,
+        "grid_size": 4,
+        "complexity": 5.4,
+        "category": "El Tiempo",
+        "subcategory": "Enciclopedia",
+        "puzzles": [
+            {
+                "word": "TODO",
+                "riddle": "Reunir el saber del mundo en un cofre de papel."
+            },
+            {
+                "word": "LIBRO",
+                "riddle": "La nave que nos lleva a traves de los siglos."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El sendero compartido que ilumina a la multitud."
+            }
+        ]
+    },
+    {
+        "level_id": 345,
+        "grid_size": 4,
+        "complexity": 5.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Verdad",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Dudar de todo para llegar a la certeza del ser."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma que brota de la comprension profunda."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el espejo que refleja lo que es."
+            }
+        ]
+    },
+    {
+        "level_id": 346,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "El Tiempo",
+        "subcategory": "Derechos",
+        "puzzles": [
+            {
+                "word": "VIVA",
+                "riddle": "La llama sagrada que arde en el pecho de cada hombre."
+            },
+            {
+                "word": "IGUAL",
+                "riddle": "Reconocer el mismo brillo en los ojos del otro."
+            },
+            {
+                "word": "LEY",
+                "riddle": "El escudo que protege al debil frente al poderoso."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Saber que mi libertad termina donde empieza la tuya."
+            }
+        ]
+    },
+    {
+        "level_id": 347,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "El Tiempo",
+        "subcategory": "Observación",
+        "puzzles": [
+            {
+                "word": "LUPA",
+                "riddle": "Agrandar lo pequeño para ver el milagro de cerca."
+            },
+            {
+                "word": "GOTA",
+                "riddle": "Un mundo entero que late en el rocio del alba."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Concentrar la mirada para quemar la ilusion."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La claridad de quien mira sin prejuicio ni deseo."
+            }
+        ]
+    },
+    {
+        "level_id": 348,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "El Tiempo",
+        "subcategory": "Progreso II",
+        "puzzles": [
+            {
+                "word": "SUBE",
+                "riddle": "El ascenso del espiritu hacia cumbres de razon."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El viento del cambio que limpia los cielos del ayer."
+            },
+            {
+                "word": "MAÑA",
+                "riddle": "La habilidad del hombre para domar a la materia."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Confiar en que el mañana sera mas luz que sombra."
+            }
+        ]
+    },
+    {
+        "level_id": 349,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "El Tiempo",
+        "subcategory": "Diálogo",
+        "puzzles": [
+            {
+                "word": "VOZ",
+                "riddle": "El puente de palabras que une dos orillas de duda."
+            },
+            {
+                "word": "OÍR",
+                "riddle": "Abrir el corazon al murmullo de la razon ajena."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Ofrecer un argumento y recibir una nueva luz."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El acuerdo que nace cuando el ego se rinde al logo."
+            }
+        ]
+    },
+    {
+        "level_id": 350,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Claridad",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Hallar la luz propia en medio del bosque de ideas."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentir que la razon y el corazon son una misma cosa."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en la transparencia de un pensamiento puro."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Quedarse en silencio cuando la verdad ya ha hablado."
+            }
+        ]
+    },
+    {
+        "level_id": 351,
+        "grid_size": 4,
+        "complexity": 6.1,
+        "category": "El Tiempo",
+        "subcategory": "Vapor",
+        "puzzles": [
+            {
+                "word": "HUMO",
+                "riddle": "El aliento blanco que despierta al gigante de hierro."
+            },
+            {
+                "word": "AGUA",
+                "riddle": "La fuerza mansa que se hace furia bajo el fuego."
+            },
+            {
+                "word": "TREN",
+                "riddle": "El gusano de metal que cruza el mapa sin aliento."
+            }
+        ]
+    },
+    {
+        "level_id": 352,
+        "grid_size": 4,
+        "complexity": 6.2,
+        "category": "El Tiempo",
+        "subcategory": "Hierro",
+        "puzzles": [
+            {
+                "word": "DURA",
+                "riddle": "La materia que el hombre forja para vencer al tiempo."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "Dos lineas de plata que nunca llegan a besarse."
+            },
+            {
+                "word": "PESO",
+                "riddle": "La carga de la industria sobre los hombros del mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 353,
+        "grid_size": 4,
+        "complexity": 6.3,
+        "category": "El Tiempo",
+        "subcategory": "Ciudad II",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Colmenas de ladrillo donde el silencio se apaga."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El brillo artificial que intenta engañar a la noche."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentirse gota en un rio de rostros desconocidos."
+            }
+        ]
+    },
+    {
+        "level_id": 354,
+        "grid_size": 4,
+        "complexity": 6.4,
+        "category": "El Tiempo",
+        "subcategory": "Masa",
+        "puzzles": [
+            {
+                "word": "SINO",
+                "riddle": "El destino de ser uno mas en la gran muchedumbre."
+            },
+            {
+                "word": "MODA",
+                "riddle": "La sombra del deseo que se fabrica por millones."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El brillo que mueve la rueda del incansable mercado."
+            }
+        ]
+    },
+    {
+        "level_id": 355,
+        "grid_size": 4,
+        "complexity": 6.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Máquina",
+        "puzzles": [
+            {
+                "word": "SER",
+                "riddle": "No dejar que el engranaje devore tu latido interior."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar el centro inmovil en el corazon del ruido."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse pieza de un sistema que no sabe amar."
+            }
+        ]
+    },
+    {
+        "level_id": 356,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "El Tiempo",
+        "subcategory": "Ruido",
+        "puzzles": [
+            {
+                "word": "GRITO",
+                "riddle": "La voz del bismuto que clama entre las paredes."
+            },
+            {
+                "word": "ASERO",
+                "riddle": "El choque de los dias contra el yunque del trabajo."
+            },
+            {
+                "word": "TINTA",
+                "riddle": "Las noticias que vuelan antes de que el sol despierte."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La necesidad de cerrar los ojos para oir el alma."
+            }
+        ]
+    },
+    {
+        "level_id": 357,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "El Tiempo",
+        "subcategory": "Prisa",
+        "puzzles": [
+            {
+                "word": "CORRE",
+                "riddle": "La enfermedad de llegar antes que el propio sombra."
+            },
+            {
+                "word": "HORA",
+                "riddle": "El tirano que nos encierra en un circulo de metal."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La cuerda floja donde baila el hombre moderno."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Llegar al final del dia sin haber vivido un instante."
+            }
+        ]
+    },
+    {
+        "level_id": 358,
+        "grid_size": 5,
+        "complexity": 6.8,
+        "category": "El Tiempo",
+        "subcategory": "Olvido II",
+        "puzzles": [
+            {
+                "word": "BORRA",
+                "riddle": "Lo que el viento de la industria hace con la tradicion."
+            },
+            {
+                "word": "AYER",
+                "riddle": "Un paisaje que se disuelve tras el cristal del tren."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El hilo roto entre el hombre y la madre tierra."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un suspiro que se pierde entre las chimeneas grises."
+            }
+        ]
+    },
+    {
+        "level_id": 359,
+        "grid_size": 5,
+        "complexity": 6.9,
+        "category": "El Tiempo",
+        "subcategory": "Espera",
+        "puzzles": [
+            {
+                "word": "QUIETO",
+                "riddle": "La rebelion de quedarse sentado en la estacion."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El espacio sagrado que nadie puede mecanizar."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Ofrecer un momento de calma al que corre a tu lado."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que aguarda al final del tunel oscuro."
+            }
+        ]
+    },
+    {
+        "level_id": 360,
+        "grid_size": 5,
+        "complexity": 7.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Ritmo",
+        "puzzles": [
+            {
+                "word": "LATIR",
+                "riddle": "Sincronizar el alma con el pulso sagrado del mundo."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Caminar despacio por la via que el mundo recorre."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Sentirse libre de la prisa que encadena a los demas."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el observador del gran torbellino."
+            }
+        ]
+    },
+    {
+        "level_id": 361,
+        "grid_size": 4,
+        "complexity": 7.1,
+        "category": "El Tiempo",
+        "subcategory": "Espejo",
+        "puzzles": [
+            {
+                "word": "CARA",
+                "riddle": "El cristal que nos devuelve la imagen de lo que ya no somos."
+            },
+            {
+                "word": "OTRO",
+                "riddle": "El extraño que nos mira con nuestros propios ojos."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La transparencia del agua que no juzga la belleza."
+            }
+        ]
+    },
+    {
+        "level_id": 362,
+        "grid_size": 4,
+        "complexity": 7.2,
+        "category": "El Tiempo",
+        "subcategory": "Pantalla",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "El resplandor electrico que oculta la luz de las estrellas."
+            },
+            {
+                "word": "VEO",
+                "riddle": "Mirar the world a traves de una ventana de cristal y bits."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La ilusion de estar presente sin estar realmente ahí."
+            }
+        ]
+    },
+    {
+        "level_id": 363,
+        "grid_size": 4,
+        "complexity": 7.3,
+        "category": "El Tiempo",
+        "subcategory": "Vínculo",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "El hilo invisible que nos une a pesar de la distancia."
+            },
+            {
+                "word": "RED",
+                "riddle": "La tela de araña donde the world entero queda atrapado."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Recordar que compartimos el mismo aire y el mismo sueño."
+            }
+        ]
+    },
+    {
+        "level_id": 364,
+        "grid_size": 4,
+        "complexity": 7.4,
+        "category": "El Tiempo",
+        "subcategory": "Celeridad",
+        "puzzles": [
+            {
+                "word": "VELOZ",
+                "riddle": "El rayo que cruza la mente antes de que el labio hable."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Lo que falta cuando the world gira mas rapido que el alma."
+            },
+            {
+                "word": "FIN",
+                "riddle": "El abismo que aguarda al que corre sin saber hacia donde."
+            }
+        ]
+    },
+    {
+        "level_id": 365,
+        "grid_size": 4,
+        "complexity": 7.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Cambio",
+        "puzzles": [
+            {
+                "word": "FLUYI",
+                "riddle": "Ser como el rio que abraza la piedra sin detenerse."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud que se halla en medio de la transformacion."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir con plenitud en la eterna danza de las formas."
+            }
+        ]
+    },
+    {
+        "level_id": 366,
+        "grid_size": 5,
+        "complexity": 7.6,
+        "category": "El Tiempo",
+        "subcategory": "Memoria II",
+        "puzzles": [
+            {
+                "word": "BORRA",
+                "riddle": "El arte de soltar lo que ya no sirve para caminar."
+            },
+            {
+                "word": "AYER",
+                "riddle": "Una sombra que se disuelve en la claridad del ahora."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La esencia que brilla cuando el recuerdo se apaga."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un presente continuo que no necesita de archivos."
+            }
+        ]
+    },
+    {
+        "level_id": 367,
+        "grid_size": 5,
+        "complexity": 7.7,
+        "category": "El Tiempo",
+        "subcategory": "Identidad",
+        "puzzles": [
+            {
+                "word": "QUIÉN",
+                "riddle": "La pregunta que resuena en el silencio de la noche."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Descubrir que no eres ninguno de tus nombres."
+            },
+            {
+                "word": "SER",
+                "riddle": "La consciencia pura que observa el fluir del tiempo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse parte del todo sin dejar de ser uno mismo."
+            }
+        ]
+    },
+    {
+        "level_id": 368,
+        "grid_size": 5,
+        "complexity": 7.8,
+        "category": "El Tiempo",
+        "subcategory": "Pausa",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "El gesto sagrado de detener la maquina del world."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Llenar los pulmones de silencio y de presencia vacia."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La joya que se encuentra en la grieta de un segundo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La recompensa de aquel que sabe esperar sin deseo."
+            }
+        ]
+    },
+    {
+        "level_id": 369,
+        "grid_size": 5,
+        "complexity": 7.9,
+        "category": "El Tiempo",
+        "subcategory": "Retorno",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Volver al origen despues de haber caminado mil vidas."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Beber de nuevo del manantial que nunca se agota."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley de gravedad que nos devuelve a nosotros mismos."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que el punto de partida es la meta final."
+            }
+        ]
+    },
+    {
+        "level_id": 370,
+        "grid_size": 6,
+        "complexity": 8.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Ahora",
+        "puzzles": [
+            {
+                "word": "PRESENTE",
+                "riddle": "El unico lugar donde the world ocurre realmente."
+            },
+            {
+                "word": "INSTANTE",
+                "riddle": "La puerta estrecha que se abre hacia la eternidad."
+            },
+            {
+                "word": "SILENCIO",
+                "riddle": "La voz de Dios hablando al oido del que no busca."
+            },
+            {
+                "word": "DESPIERTA",
+                "riddle": "El acto de abrir los ojos y ver the world por primera vez."
+            }
+        ]
+    },
+    {
+        "level_id": 371,
+        "grid_size": 4,
+        "complexity": 8.1,
+        "category": "El Tiempo",
+        "subcategory": "Conflicto",
+        "puzzles": [
+            {
+                "word": "DUEL",
+                "riddle": "El choque de voluntades que ciega la luz del dia."
+            },
+            {
+                "word": "ROJO",
+                "riddle": "El color de la pasion que se derrama sin sentido."
+            },
+            {
+                "word": "ODIO",
+                "riddle": "La espina que crece en el alma cuando falta el perdon."
+            }
+        ]
+    },
+    {
+        "level_id": 372,
+        "grid_size": 4,
+        "complexity": 8.2,
+        "category": "El Tiempo",
+        "subcategory": "Tregua",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "El silencio que nace cuando el metal deja de sonar."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Un suspiro de alivio en medio del campo de ceniza."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Ofrecer ayuda al que ayer era la sombra enemiga."
+            }
+        ]
+    },
+    {
+        "level_id": 373,
+        "grid_size": 4,
+        "complexity": 8.3,
+        "category": "El Tiempo",
+        "subcategory": "Memoria III",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "Piedras que guardan nombres que el tiempo no borra."
+            },
+            {
+                "word": "FLOR",
+                "riddle": "Un gesto de vida sobre la tierra que guarda el sueño."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Recordar que al final todos volvemos al mismo origen."
+            }
+        ]
+    },
+    {
+        "level_id": 374,
+        "grid_size": 4,
+        "complexity": 8.4,
+        "category": "El Tiempo",
+        "subcategory": "Reconstruir",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Levantar de nuevo lo que el viento se llevo."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La voluntad que brilla mas fuerte tras la tormenta."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El brote verde que rompe el asfalto del olvido."
+            }
+        ]
+    },
+    {
+        "level_id": 375,
+        "grid_size": 4,
+        "complexity": 8.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Calma",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Comprender que la guerra es solo un sueño turbulento."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse hermano de aquel que hoy camina a tu lado."
+            },
+            {
+                "word": "SER",
+                "riddle": "Hallar la paz mas alla de las banderas y los miedos."
+            }
+        ]
+    },
+    {
+        "level_id": 376,
+        "grid_size": 5,
+        "complexity": 8.6,
+        "category": "El Tiempo",
+        "subcategory": "Despegue",
+        "puzzles": [
+            {
+                "word": "FUEGO",
+                "riddle": "La columna de luz que nos empuja hacia las nubes."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Dejar atras el peso de la tierra y del pasado."
+            },
+            {
+                "word": "SUBE",
+                "riddle": "El anhelo de tocar el cielo con manos de metal."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "Mirar hacia abajo y ver que los limites son sueños."
+            }
+        ]
+    },
+    {
+        "level_id": 377,
+        "grid_size": 5,
+        "complexity": 8.7,
+        "category": "El Tiempo",
+        "subcategory": "Órbita",
+        "puzzles": [
+            {
+                "word": "GIRO",
+                "riddle": "Danzar en el vacio al ritmo de un mundo azul."
+            },
+            {
+                "word": "PESO",
+                "riddle": "Sentirse pluma en un oceano de silencio infinito."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La soledad del vigia que guarda el sueño de todos."
+            },
+            {
+                "word": "VEO",
+                "riddle": "Observar la esfera perfecta donde todo late a la vez."
+            }
+        ]
+    },
+    {
+        "level_id": 378,
+        "grid_size": 5,
+        "complexity": 8.8,
+        "category": "El Tiempo",
+        "subcategory": "La Luna",
+        "puzzles": [
+            {
+                "word": "PISO",
+                "riddle": "Poner la huella en el polvo de otro mundo frio."
+            },
+            {
+                "word": "CUNA",
+                "riddle": "Mirar hacia atras y ver la casa flotando en la nada."
+            },
+            {
+                "word": "IMÁN",
+                "riddle": "La fuerza blanca que mueve las mareas y el alma."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio absoluto de un jardin sin aire ni ruido."
+            }
+        ]
+    },
+    {
+        "level_id": 379,
+        "grid_size": 5,
+        "complexity": 8.9,
+        "category": "El Tiempo",
+        "subcategory": "Regreso II",
+        "puzzles": [
+            {
+                "word": "CAER",
+                "riddle": "Atravesar el fuego para volver al abrazo de casa."
+            },
+            {
+                "word": "MAR",
+                "riddle": "El espejo azul que recibe al viajero de las estrellas."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Sentirse pequeño ante la inmensidad de lo vivido."
+            },
+            {
+                "word": "SER",
+                "riddle": "Traer un pedazo de infinito en el brillo de los ojos."
+            }
+        ]
+    },
+    {
+        "level_id": 380,
+        "grid_size": 5,
+        "complexity": 9.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Esfera",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Comprender que la tierra es un solo corazon que late."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Sentirse nada y sentirlo todo en el mismo instante."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Saber que el viaje fuera es solo un viaje hacia dentro."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una presencia que observa el milagro azul."
+            }
+        ]
+    },
+    {
+        "level_id": 381,
+        "grid_size": 4,
+        "complexity": 9.1,
+        "category": "El Tiempo",
+        "subcategory": "Digital",
+        "puzzles": [
+            {
+                "word": "BIT",
+                "riddle": "La unidad minima de un universo hecho de luces."
+            },
+            {
+                "word": "SÍI",
+                "riddle": "El primer latido de una maquina que empieza a pensar."
+            },
+            {
+                "word": "NOO",
+                "riddle": "La sombra binaria que define la forma de la idea."
+            }
+        ]
+    },
+    {
+        "level_id": 382,
+        "grid_size": 4,
+        "complexity": 9.2,
+        "category": "El Tiempo",
+        "subcategory": "Pantalla II",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "Un sol de cristal que brilla en la palma de la mano."
+            },
+            {
+                "word": "VEO",
+                "riddle": "Perderse en un jardin de imagenes que no se pueden tocar."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La ilusion de estar en mil sitios sin moverse del sitio."
+            }
+        ]
+    },
+    {
+        "level_id": 383,
+        "grid_size": 4,
+        "complexity": 9.3,
+        "category": "El Tiempo",
+        "subcategory": "La Red",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "Un hilo invisible que atrapa todos los pensamientos."
+            },
+            {
+                "word": "RED",
+                "riddle": "Sentirse pez en un oceano de datos sin orillas."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Saber que un susurro aqui se oye al otro lado del mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 384,
+        "grid_size": 4,
+        "complexity": 9.4,
+        "category": "El Tiempo",
+        "subcategory": "Código",
+        "puzzles": [
+            {
+                "word": "PURO",
+                "riddle": "El orden perfecto que rige un mundo invisible."
+            },
+            {
+                "word": "DATO",
+                "riddle": "Una gota de saber en el torrente de lo efimero."
+            },
+            {
+                "word": "LEY",
+                "riddle": "La gramatica secreta que hace que la luz actue."
+            }
+        ]
+    },
+    {
+        "level_id": 385,
+        "grid_size": 4,
+        "complexity": 9.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Red",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Comprender que la red es solo un reflejo del ser."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar el silencio en medio del trafico constante."
+            },
+            {
+                "word": "SER",
+                "riddle": "No ser el dato, sino la consciencia que lo mira."
+            }
+        ]
+    },
+    {
+        "level_id": 386,
+        "grid_size": 5,
+        "complexity": 9.6,
+        "category": "El Tiempo",
+        "subcategory": "Velocidad",
+        "puzzles": [
+            {
+                "word": "VELOZ",
+                "riddle": "El rayo de informacion que viaja mas que el viento."
+            },
+            {
+                "word": "PRISA",
+                "riddle": "La enfermedad de querer saberlo todo al instante."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Sentirse vacio en un mundo que gira sin descanso."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La linea de atencion que se rompe por el exceso."
+            }
+        ]
+    },
+    {
+        "level_id": 387,
+        "grid_size": 5,
+        "complexity": 9.7,
+        "category": "El Tiempo",
+        "subcategory": "Búsqueda",
+        "puzzles": [
+            {
+                "word": "VEO",
+                "riddle": "Preguntar al espejo de cristal por la razon de vivir."
+            },
+            {
+                "word": "RUTA",
+                "riddle": "Perderse en un laberinto de enlaces que no llevan a casa."
+            },
+            {
+                "word": "META",
+                "riddle": "El puerto de verdad que se busca tras el ruido."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Tener el saber del mundo y no saber quien eres."
+            }
+        ]
+    },
+    {
+        "level_id": 388,
+        "grid_size": 5,
+        "complexity": 9.8,
+        "category": "El Tiempo",
+        "subcategory": "Conexión II",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "El puente de luz que intenta unir dos soledades."
+            },
+            {
+                "word": "UNIR",
+                "riddle": "Hacer que dos mundos se toquen a traves del cristal."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino de estar atados a una red que no duerme."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Comprender que somos una sola mente compartida."
+            }
+        ]
+    },
+    {
+        "level_id": 389,
+        "grid_size": 5,
+        "complexity": 9.9,
+        "category": "El Tiempo",
+        "subcategory": "Ruido II",
+        "puzzles": [
+            {
+                "word": "OÍR",
+                "riddle": "Intentar escuchar el latido bajo el grito del bit."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "El color de la pantalla cuando el alma se apaga."
+            },
+            {
+                "word": "HAYO",
+                "riddle": "Lo que se encuentra cuando se deja de buscar fuera."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad interior que no depende de la red."
+            }
+        ]
+    },
+    {
+        "level_id": 390,
+        "grid_size": 5,
+        "complexity": 10.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Silencio",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Estar desconectado para encontrarse con la vida."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Sentir el vacio sagrado que ningun dato llena."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el mismo silencio que habita entre las estrellas."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser, sin cables, sin redes, sin ruido."
+            }
+        ]
+    },
+    {
+        "level_id": 391,
+        "grid_size": 4,
+        "complexity": 10.1,
+        "category": "El Tiempo",
+        "subcategory": "Mañana",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "La llama que cruzara el puente de lo desconocido."
+            },
+            {
+                "word": "COSA",
+                "riddle": "Comprender que el futuro es solo una idea en el ahora."
+            },
+            {
+                "word": "VERA",
+                "riddle": "La verdad que aguarda al final de todas las esperas."
+            }
+        ]
+    },
+    {
+        "level_id": 392,
+        "grid_size": 4,
+        "complexity": 10.2,
+        "category": "El Tiempo",
+        "subcategory": "Renuevo",
+        "puzzles": [
+            {
+                "word": "HOJA",
+                "riddle": "El libro de la naturaleza que siempre empieza hoy."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La fuerza que no sabe de siglos ni de memorias."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El aliento que limpia las paginas del ayer polvoriento."
+            }
+        ]
+    },
+    {
+        "level_id": 393,
+        "grid_size": 4,
+        "complexity": 10.3,
+        "category": "El Tiempo",
+        "subcategory": "Digital III",
+        "puzzles": [
+            {
+                "word": "PURO",
+                "riddle": "El brillo de una mente que no se deja programar."
+            },
+            {
+                "word": "OJO",
+                "riddle": "La mirada que ve mas alla de los pixeles y sombras."
+            },
+            {
+                "word": "SER",
+                "riddle": "Mantener la esencia en un mundo de espejos frios."
+            }
+        ]
+    },
+    {
+        "level_id": 394,
+        "grid_size": 4,
+        "complexity": 10.4,
+        "category": "El Tiempo",
+        "subcategory": "Eterno",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Sentirse parte de una historia que no tiene fin."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud de quien sabe que nada se pierde del todo."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ser el final de un camino y el inicio de otro mar."
+            }
+        ]
+    },
+    {
+        "level_id": 395,
+        "grid_size": 4,
+        "complexity": 10.5,
+        "category": "El Tiempo",
+        "subcategory": "Zen del Mañana",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "No temer a lo que vendra es el mayor de los tesoros."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Caminar con paso ligero hacia el alba sin nombre."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el testigo del tiempo que nace."
+            }
+        ]
+    },
+    {
+        "level_id": 396,
+        "grid_size": 5,
+        "complexity": 10.6,
+        "category": "El Tiempo",
+        "subcategory": "Legado III",
+        "puzzles": [
+            {
+                "word": "HIJO",
+                "riddle": "Dejar un rastro de amor en la arena de los siglos."
+            },
+            {
+                "word": "PASO",
+                "riddle": "La huella que guia a los que vendran tras nosotros."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que compartimos con el futuro lejano."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Entregarlo todo para que la vida siga su danza."
+            }
+        ]
+    },
+    {
+        "level_id": 397,
+        "grid_size": 5,
+        "complexity": 10.7,
+        "category": "El Tiempo",
+        "subcategory": "Global",
+        "puzzles": [
+            {
+                "word": "RED",
+                "riddle": "La malla invisible que nos hace una sola familia."
+            },
+            {
+                "word": "UNIR",
+                "riddle": "Descubrir que mi dolor es tambien tu dolor y tu paz."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El oceano comun donde todos los rios descansan."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Sentir que el mundo entero cabe en un solo abrazo."
+            }
+        ]
+    },
+    {
+        "level_id": 398,
+        "grid_size": 5,
+        "complexity": 10.8,
+        "category": "El Tiempo",
+        "subcategory": "Trascender",
+        "puzzles": [
+            {
+                "word": "SUBE",
+                "riddle": "Elevar el espiritu por encima de las ruinas del yo."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Hacerse ligero para cruzar la puerta de la luz."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Soltar la cuerda de los nombres y las posesiones."
+            },
+            {
+                "word": "SER",
+                "riddle": "Habitar el espacio puro donde el tiempo no llega."
+            }
+        ]
+    },
+    {
+        "level_id": 399,
+        "grid_size": 5,
+        "complexity": 10.9,
+        "category": "El Tiempo",
+        "subcategory": "Fin del Camino",
+        "puzzles": [
+            {
+                "word": "BORRA",
+                "riddle": "Ver como el viento se lleva el ultimo rastro de ego."
+            },
+            {
+                "word": "META",
+                "riddle": "El lugar donde el viajero y el camino se hacen uno."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma que envuelve el final de una gran jornada."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Saber que has llegado a casa sin haber salido de ella."
+            }
+        ]
+    },
+    {
+        "level_id": 400,
+        "grid_size": 6,
+        "complexity": 11.0,
+        "category": "El Tiempo",
+        "subcategory": "Zen de la Historia",
+        "puzzles": [
+            {
+                "word": "ETERNIDAD",
+                "riddle": "El mar sin orillas donde el tiempo se vuelve luz."
+            },
+            {
+                "word": "HISTORIA",
+                "riddle": "El sueño sagrado que la humanidad sueña despierta."
+            },
+            {
+                "word": "PRESENCIA",
+                "riddle": "Vivir el ahora con la fuerza de todos los siglos."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Hallar la unidad suprema en el fluir constante de la vida."
+            }
+        ]
+    }
+]

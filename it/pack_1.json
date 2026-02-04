@@ -1,0 +1,488 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Tutorial",
+            "subcategory": "Intro",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ENIGMA",
+                    "riddle": "Una domanda con un travestimento.",
+                    "riddle_hard": "Un segreto avvolto nella curiosità.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PERCORSO",
+                    "riddle": "Un nastro di terra sull'erba.",
+                    "riddle_hard": "Una guida che non dice mai una parola.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAESTRO",
+                    "riddle": "Il capo della tavola.",
+                    "riddle_hard": "Colui che tiene tutte le chiavi.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Natura",
+            "subcategory": "Cielo",
+            "complexity": 1.100000023841858,
+            "puzzles": [
+                {
+                    "word": "CIELO",
+                    "riddle": "Il soffitto che non ha mai bisogno di vernice.",
+                    "riddle_hard": "Un oceano blu dove nuotano gli uccelli.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOLE",
+                    "riddle": "La lampadina gigante nel cielo.",
+                    "riddle_hard": "L'occhio d'oro che non batte mai ciglio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARIA",
+                    "riddle": "Cibo invisibile per i tuoi polmoni.",
+                    "riddle_hard": "Vento trasparente in una scatola.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 3,
+            "grid_size": 5,
+            "category": "Gastronomia",
+            "subcategory": "Spezie",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PEPE",
+                    "riddle": "Piccola sfera che pizzica la lingua.",
+                    "riddle_hard": "Polvere nera che sveglia i sensi.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MENTA",
+                    "riddle": "Foglia fresca, perfetta dopo il pasto.",
+                    "riddle_hard": "Un soffio verde che dona il sollievo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANICE",
+                    "riddle": "Sapore di liquirizia e stelle piccole.",
+                    "riddle_hard": "Il seme dolce che chiude il pasto.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CURRY",
+                    "riddle": "Miscela gialla dall'Oriente lontano.",
+                    "riddle_hard": "L'oro in polvere che colora il riso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORIGANO",
+                    "riddle": "Profumo della pizza, caldo e mediterraneo.",
+                    "riddle_hard": "Erba che celebra la cucina del sud.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 4,
+            "grid_size": 5,
+            "category": "Elementi",
+            "subcategory": "Acqua e Riflessi",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MARE",
+                    "riddle": "Grande distesa salata.",
+                    "riddle_hard": "Dove il cielo riposa.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOCCIA",
+                    "riddle": "Piccola sfera d'acqua.",
+                    "riddle_hard": "Un minuscolo viaggio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAPORE",
+                    "riddle": "Acqua che sale, invisibile.",
+                    "riddle_hard": "Nebbia che sogna l'altezza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRINA",
+                    "riddle": "Ghiaccio sottile sull'erba.",
+                    "riddle_hard": "I diamanti del mattino.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAGO",
+                    "riddle": "Specchio immobile di terra.",
+                    "riddle_hard": "Occhio calmo del paesaggio.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 5,
+            "grid_size": 5,
+            "category": "Natura",
+            "subcategory": "Bosco",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ACQUA",
+                    "riddle": "Liquido vitale nel ruscello.",
+                    "riddle_hard": "Vita liquida e pura.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FANGO",
+                    "riddle": "Terra bagnata dopo la pioggia.",
+                    "riddle_hard": "Dopo il pianto della natura.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FUNGO",
+                    "riddle": "Cresce con l'umidità, senza sole.",
+                    "riddle_hard": "Ombra e cappello nel bosco.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TERRA",
+                    "riddle": "Dove nascono tutte le radici.",
+                    "riddle_hard": "Tappeto di ogni ciclo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHIOMA",
+                    "riddle": "La parte alta dell'albero.",
+                    "riddle_hard": "Dove il vento sussurra.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 6,
+            "grid_size": 5,
+            "category": "Gastronomia",
+            "subcategory": "Raccolto",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "OLIVA",
+                    "riddle": "Frutto verde o nero per l'olio prezioso.",
+                    "riddle_hard": "Piccola luna sulla pelle scura.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRANO",
+                    "riddle": "Oro del campo, base per il buon pane.",
+                    "riddle_hard": "Dorme biondo nel vento estivo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FICHI",
+                    "riddle": "Dolcezza viola che pende matura.",
+                    "riddle_hard": "Lacrima zuccherina che l'estate dona.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RADICE",
+                    "riddle": "Parte nascosta che nutre la pianta.",
+                    "riddle_hard": "Ancoraggio nel silenzio della terra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEME",
+                    "riddle": "Piccolo inizio di una nuova vita.",
+                    "riddle_hard": "Promessa chiusa di un domani verde.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 7,
+            "grid_size": 5,
+            "category": "Gastronomia",
+            "subcategory": "Cucina",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GUSTO",
+                    "riddle": "Il senso che allieta.",
+                    "riddle_hard": "L'eco del sapore nell'anima.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MISTO",
+                    "riddle": "Insieme di elementi.",
+                    "riddle_hard": "Dove le parti si fondono.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALA",
+                    "riddle": "Ambiente per i pasti.",
+                    "riddle_hard": "Lo spazio dell'attesa serena.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OLIO",
+                    "riddle": "Liquido dorato.",
+                    "riddle_hard": "Il velo liscio del Mediterraneo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRASARE",
+                    "riddle": "Cuocere lentamente.",
+                    "riddle_hard": "Il tempo che rende tenero l'ingrediente.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 8,
+            "grid_size": 5,
+            "category": "Natura",
+            "subcategory": "Tundra",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PERMA",
+                    "riddle": "Terra che non si scioglie.",
+                    "riddle_hard": "Il fondo eterno del paesaggio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRINA",
+                    "riddle": "Un velo sottile al mattino.",
+                    "riddle_hard": "Il respiro gelido della notte.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RENNA",
+                    "riddle": "Corna grandi nel freddo.",
+                    "riddle_hard": "Viaggia su tappeti di muschio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUSCHIO",
+                    "riddle": "Tappeto verde su pietra.",
+                    "riddle_hard": "Vita bassa che ignora l'altezza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARCTICO",
+                    "riddle": "Il limite più a nord.",
+                    "riddle_hard": "Dove il sole danza in eterno.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 9,
+            "grid_size": 5,
+            "category": "Natura",
+            "subcategory": "Meteo",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "NEBBIA",
+                    "riddle": "Copre il mattino.",
+                    "riddle_hard": "Velo che nasconde il presente.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUONO",
+                    "riddle": "Voce grossa in cielo.",
+                    "riddle_hard": "Eco scuro di un lampo lontano.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRANDINE",
+                    "riddle": "Sassi di ghiaccio veloci.",
+                    "riddle_hard": "Lacrime dure che cadono in fretta.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NUVOLA",
+                    "riddle": "Bianco che galleggia.",
+                    "riddle_hard": "Soffice zattera nel vasto azzurro.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 10,
+            "grid_size": 4,
+            "category": "Elementi",
+            "subcategory": "Cristallo",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GEMA",
+                    "riddle": "Brilla al buio.",
+                    "riddle_hard": "Lacrime pietrificate del tempo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VETRO",
+                    "riddle": "Trasparente e fragile.",
+                    "riddle_hard": "Cattura la luce, ma non il calore.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALE",
+                    "riddle": "Gusto aspro e minerale.",
+                    "riddle_hard": "Sabbia che preserva l'effimero.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUARZO",
+                    "riddle": "Roccia che vibra.",
+                    "riddle_hard": "Il cuore geologico del tempo.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 11,
+            "grid_size": 5,
+            "category": "Elementi",
+            "subcategory": "Fuoco",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BRACE",
+                    "riddle": "Resto ardente e rosso.",
+                    "riddle_hard": "Cenere che ancora spera.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPUTO",
+                    "riddle": "Lancio di una scintilla.",
+                    "riddle_hard": "Goccia incandescente alzata.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FUMO",
+                    "riddle": "Aria che sale dal fuoco.",
+                    "riddle_hard": "Il respiro visibile dell'ombra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOBO",
+                    "riddle": "La forma della fiamma.",
+                    "riddle_hard": "Un sole tascabile che danza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRASARE",
+                    "riddle": "Cuocere lentamente nel calore.",
+                    "riddle_hard": "Trasformare col tempo paziente.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 12,
+            "grid_size": 7,
+            "category": "Elementi",
+            "subcategory": " Fuoco",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FORNO",
+                    "riddle": "Fiamma danza viva",
+                    "riddle_hard": "Il cuore di brace pulsa forte",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIAMMA",
+                    "riddle": "Danza luminosa",
+                    "riddle_hard": "Lingua che consuma il tempo",
+                    "is_hard": false
+                },
+                {
+                    "word": "FONDER",
+                    "riddle": "Sciogliere il solido",
+                    "riddle_hard": "Trasformazione per calore",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALORE",
+                    "riddle": "Sensazione intensa",
+                    "riddle_hard": "Il palpito del sole interno",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 13,
+            "grid_size": 5,
+            "category": "Gastronomia",
+            "subcategory": "Cucina",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FORNO",
+                    "riddle": "Dove il pane prende forma.",
+                    "riddle_hard": "Camera che esala calore misurato.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZUCCHERO",
+                    "riddle": "Dolcezza che inganna il gusto.",
+                    "riddle_hard": "Cristallo bianco, essenza del piacere.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRODO",
+                    "riddle": "Liquido che nutre e conforta.",
+                    "riddle_hard": "Essenza liquida di radici e ossa.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ACETO",
+                    "riddle": "Asprezza che bilancia il grasso.",
+                    "riddle_hard": "Sapore pungente, spirito fermentato.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAPORE",
+                    "riddle": "La lingua ne percepisce l'eco.",
+                    "riddle_hard": "Impronta invisibile sul palato.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPEZIA",
+                    "riddle": "Un pizzico di mondo nel piatto.",
+                    "riddle_hard": "Semi e cortecce che narrano terre lontane.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

@@ -1,0 +1,4694 @@
+{
+    "Levels": [
+        {
+            "level_id": 101,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Stone Road",
+            "complexity": 3.0,
+            "puzzles": [
+                {
+                    "word": "TRAIL",
+                    "riddle": "Path carved by feet.",
+                    "riddle_hard": "The dusty whisper of an old way.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALKS",
+                    "riddle": "Rhythm of feet.",
+                    "riddle_hard": "One step dancing with the next.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STONY",
+                    "riddle": "The earth's jagged bone.",
+                    "riddle_hard": "Finding strength in the hardness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROADS",
+                    "riddle": "Earth's tying lines.",
+                    "riddle_hard": "The long reach of human hands.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RELIC",
+                    "riddle": "RELIC of Ancient Paths.",
+                    "riddle_hard": "A hidden relic found in ancient paths.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 102,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Hidden Cave",
+            "complexity": 3.08,
+            "puzzles": [
+                {
+                    "word": "CAVE",
+                    "riddle": "Stone's hollow heart.",
+                    "riddle_hard": "The mountain's cold and silent womb.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INKY",
+                    "riddle": "Black as a.",
+                    "riddle_hard": "The darkest void without any light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Reaching world's core.",
+                    "riddle_hard": "Where the sun's warm reach ends.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ECHO",
+                    "riddle": "A ghost made.",
+                    "riddle_hard": "The stone returning your spirit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MISTY",
+                    "riddle": "Ghost of morning sea.",
+                    "riddle_hard": "The mountain's wet morning breath.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 103,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Old Bridge",
+            "complexity": 3.16,
+            "puzzles": [
+                {
+                    "word": "ARCH",
+                    "riddle": "Bow never fires.",
+                    "riddle_hard": "The stone's silent curved embrace.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPAN",
+                    "riddle": "Stony frozen leap.",
+                    "riddle_hard": "Bridging the gap between worlds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OVER",
+                    "riddle": "Above river rush.",
+                    "riddle_hard": "A moment's rest above the flow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WORN",
+                    "riddle": "Polished by steps.",
+                    "riddle_hard": "A memory etched into the path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIMBERS",
+                    "riddle": "Old heavy logs.",
+                    "riddle_hard": "Heavy cylinders of timber and sap.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 104,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Ruins",
+            "complexity": 3.24,
+            "puzzles": [
+                {
+                    "word": "RUIN",
+                    "riddle": "Skeleton of power.",
+                    "riddle_hard": "A slow return to the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALL",
+                    "riddle": "Stones once whole.",
+                    "riddle_hard": "A barrier that time finally broke.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAST",
+                    "riddle": "Ghost of history.",
+                    "riddle_hard": "The whispers of a finished story.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUST",
+                    "riddle": "Ground world powder.",
+                    "riddle_hard": "The only thing time creates.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OVERGROWN",
+                    "riddle": "Hidden under green.",
+                    "riddle_hard": "Reclaimed by the emerald mother.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 105,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Forest Floor",
+            "complexity": 3.32,
+            "puzzles": [
+                {
+                    "word": "FERN",
+                    "riddle": "Green feathers of.",
+                    "riddle_hard": "Green feathers of. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOFT",
+                    "riddle": "The forest's velvet floor.",
+                    "riddle_hard": "The gentle yield of moss.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOSS",
+                    "riddle": "Green skin on.",
+                    "riddle_hard": "The velvet cloak of the damp.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOAK",
+                    "riddle": "Holding water in.",
+                    "riddle_hard": "Drenched from the deep earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STEM",
+                    "riddle": "The backbone of.",
+                    "riddle_hard": "The main trunk of a small plant.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 106,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Tall Trees",
+            "complexity": 3.4,
+            "puzzles": [
+                {
+                    "word": "OAKS",
+                    "riddle": "Sturdy forest giants.",
+                    "riddle_hard": "Sturdy forest giants. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PITH",
+                    "riddle": "The tree's inner heart.",
+                    "riddle_hard": "The soft vascular tissue in a stem.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TWIG",
+                    "riddle": "A small branch.",
+                    "riddle_hard": "A tiny wooden arm reaching out.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIGH",
+                    "riddle": "Reaching for the blue.",
+                    "riddle_hard": "Where only wings can go.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PINE",
+                    "riddle": "A needle in.",
+                    "riddle_hard": "Sharp green breath of the mountain.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 107,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Wild River",
+            "complexity": 3.48,
+            "puzzles": [
+                {
+                    "word": "FLOW",
+                    "riddle": "Water finding its.",
+                    "riddle_hard": "Water finding its. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUSH",
+                    "riddle": "The river's urgent song.",
+                    "riddle_hard": "The river's urgent song. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "A bite from.",
+                    "riddle_hard": "The bite of the mountain's ice.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The sky's blue blood.",
+                    "riddle_hard": "A mirror for the morning sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWIM",
+                    "riddle": "Weightless in the blue.",
+                    "riddle_hard": "Weightless in the blue. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 108,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Night Watch",
+            "complexity": 3.56,
+            "puzzles": [
+                {
+                    "word": "MOON",
+                    "riddle": "Silver night lamp.",
+                    "riddle_hard": "The silver eye watching the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OWL",
+                    "riddle": "Ghost with gold eyes.",
+                    "riddle_hard": "A silent hunter on feathered wings.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NILL",
+                    "riddle": "The absence of something.",
+                    "riddle_hard": "The absence of something. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAKE",
+                    "riddle": "Guarding for the sun.",
+                    "riddle_hard": "The restless watch for first light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABODE",
+                    "riddle": "The place where.",
+                    "riddle_hard": "A home built of peace and shadow.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 109,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Storm Coming",
+            "complexity": 3.64,
+            "puzzles": [
+                {
+                    "word": "GRAY",
+                    "riddle": "The sky's sad face.",
+                    "riddle_hard": "The mask before the rain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIND",
+                    "riddle": "The sky's invisible hands.",
+                    "riddle_hard": "The invisible push of air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAIN",
+                    "riddle": "The sky's cooling tears.",
+                    "riddle_hard": "The sky sharing its tears.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOUD",
+                    "riddle": "The sky's deep voice.",
+                    "riddle_hard": "The drum of the storm.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOLT",
+                    "riddle": "The sky's sudden spark.",
+                    "riddle_hard": "The jagged hammer of the sky.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 110,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Sunrise",
+            "complexity": 3.72,
+            "puzzles": [
+                {
+                    "word": "DAWN",
+                    "riddle": "The sky's first awakening.",
+                    "riddle_hard": "The sky's first awakening. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOLD",
+                    "riddle": "The sun's morning wealth.",
+                    "riddle_hard": "The sun's morning wealth. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RISE",
+                    "riddle": "Lifting the head.",
+                    "riddle_hard": "Lifting the head to light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "The sun's gentle touch.",
+                    "riddle_hard": "The sun's gentle touch. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "The lantern of.",
+                    "riddle_hard": "The lantern of. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 111,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Mountain Pass",
+            "complexity": 3.8,
+            "puzzles": [
+                {
+                    "word": "PEAK",
+                    "riddle": "High world king.",
+                    "riddle_hard": "The snowy crown of the earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SNOW",
+                    "riddle": "The mountain's cold crown.",
+                    "riddle_hard": "White blanket from the sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "Where air turns icy.",
+                    "riddle_hard": "A bite from the winter wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIEW",
+                    "riddle": "The world in.",
+                    "riddle_hard": "A world spread out below.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HISTORY",
+                    "riddle": "HISTORY of Ancient Paths.",
+                    "riddle_hard": "A hidden history found in ancient paths.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 112,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Desert Trail",
+            "complexity": 3.88,
+            "puzzles": [
+                {
+                    "word": "SAND",
+                    "riddle": "A million stone worlds.",
+                    "riddle_hard": "Earth ground into golden powder.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "The desert's invisible fire.",
+                    "riddle_hard": "The oven breath of the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRY",
+                    "riddle": "Tongue forgetting water.",
+                    "riddle_hard": "The thirst that never ends.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUNE",
+                    "riddle": "Traveling mountain of sand.",
+                    "riddle_hard": "A hill that moves on wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WATER",
+                    "riddle": "The blue gold.",
+                    "riddle_hard": "More precious than gold here.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RELIC",
+                    "riddle": "RELIC of Ancient Paths.",
+                    "riddle_hard": "A hidden relic found in ancient paths.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 113,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Secret Garden",
+            "complexity": 3.96,
+            "puzzles": [
+                {
+                    "word": "GATE",
+                    "riddle": "Door to peace.",
+                    "riddle_hard": "A wooden barrier to wild secrets.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROSE",
+                    "riddle": "Beauty that bites.",
+                    "riddle_hard": "A velvet flower with sharp thorns.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VINE",
+                    "riddle": "Green sun ladder.",
+                    "riddle_hard": "The green climb of the plant.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENTRANCE",
+                    "riddle": "Way into garden.",
+                    "riddle_hard": "A secret threshold found in leaves.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RELIC",
+                    "riddle": "RELIC of Ancient Paths.",
+                    "riddle_hard": "A hidden relic found in ancient paths.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 114,
+            "grid_size": 5,
+            "category": "Ancient Paths",
+            "subcategory": "Temple Steps",
+            "complexity": 4.04,
+            "puzzles": [
+                {
+                    "word": "STEP",
+                    "riddle": "A stone ladder.",
+                    "riddle_hard": "A stone ladder to peace.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PRAY",
+                    "riddle": "A whisper to.",
+                    "riddle_hard": "A whisper to the unseen.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BELL",
+                    "riddle": "A voice calling.",
+                    "riddle_hard": "A voice calling the soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "A mind like.",
+                    "riddle_hard": "The lake when the wind dies.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HISTORY",
+                    "riddle": "HISTORY of Ancient Paths.",
+                    "riddle_hard": "A hidden history found in ancient paths.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 115,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Swamp Life",
+            "complexity": 4.12,
+            "puzzles": [
+                {
+                    "word": "MUD",
+                    "riddle": "The earth's heavy glue.",
+                    "riddle_hard": "The earth's heavy glue. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FROG",
+                    "riddle": "A singer in.",
+                    "riddle_hard": "A singer in the reeds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REED",
+                    "riddle": "A green spear.",
+                    "riddle_hard": "A green spear in the mud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DAMP",
+                    "riddle": "Breathing under the water.",
+                    "riddle_hard": "Breathing under the water. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SWAMP",
+                    "riddle": "The earth's drowning forest.",
+                    "riddle_hard": "The earth's drowning forest. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 116,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Canyon Echoes",
+            "complexity": 4.2,
+            "puzzles": [
+                {
+                    "word": "DEEP",
+                    "riddle": "A wound in.",
+                    "riddle_hard": "A wound in the earth's skin.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RED",
+                    "riddle": "The earth's baked blood.",
+                    "riddle_hard": "The earth's baked blood. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ECHO",
+                    "riddle": "A ghost of.",
+                    "riddle_hard": "A ghost of your own word.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCK",
+                    "riddle": "A giant stone statue.",
+                    "riddle_hard": "A giant stone statue. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALLS",
+                    "riddle": "Mountains built backwards.",
+                    "riddle_hard": "Mountains built backwards. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 117,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Island",
+            "complexity": 4.28,
+            "puzzles": [
+                {
+                    "word": "ISLE",
+                    "riddle": "A green ship.",
+                    "riddle_hard": "A green ship on blue sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAND",
+                    "riddle": "The earth's soft border.",
+                    "riddle_hard": "The earth's soft border. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PALM",
+                    "riddle": "A green star.",
+                    "riddle_hard": "A green star on a trunk.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAVE",
+                    "riddle": "The ocean's heavy pulse.",
+                    "riddle_hard": "The ocean's heavy pulse. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The sky's deep reflection.",
+                    "riddle_hard": "The reflection of the sky.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 118,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Volcano",
+            "complexity": 4.36,
+            "puzzles": [
+                {
+                    "word": "LAVA",
+                    "riddle": "The mountain's river.",
+                    "riddle_hard": "The mountain's river of fire.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIRE",
+                    "riddle": "The sun's heart.",
+                    "riddle_hard": "The sun's heart on earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASH",
+                    "riddle": "Gray snow from.",
+                    "riddle_hard": "Gray snow from a fire sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "The breath of.",
+                    "riddle_hard": "The breath of the deep earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOWS",
+                    "riddle": "The light of.",
+                    "riddle_hard": "The light of sleeping rock.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 119,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Glacier",
+            "complexity": 4.44,
+            "puzzles": [
+                {
+                    "word": "ICE",
+                    "riddle": "ICE of Deep Nature.",
+                    "riddle_hard": "A river that sleeps in white.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "The bite of.",
+                    "riddle_hard": "The bite of the ancient north.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The deep heart.",
+                    "riddle_hard": "The deep heart of winter.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLOW",
+                    "riddle": "A journey measured.",
+                    "riddle_hard": "A journey measured in ages.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLIDE",
+                    "riddle": "A dance without.",
+                    "riddle_hard": "The dance of the giant.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 120,
+            "grid_size": 5,
+            "category": "Deep Nature",
+            "subcategory": "Zen Nature",
+            "complexity": 4.52,
+            "puzzles": [
+                {
+                    "word": "ONE",
+                    "riddle": "The end of.",
+                    "riddle_hard": "The end of all separation.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "The spark in.",
+                    "riddle_hard": "The spark in the silence.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PURE",
+                    "riddle": "As clear as.",
+                    "riddle_hard": "As clear as the first spring.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BASE",
+                    "riddle": "The foundation of.",
+                    "riddle_hard": "The lowest part of the structure.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIGHT",
+                    "riddle": "LIGHT of Deep Nature.",
+                    "riddle_hard": "The first thing to exist.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Deep Nature.",
+                    "riddle_hard": "A hidden abyss found in deep nature.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 121,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Street Life",
+            "complexity": 4.6,
+            "puzzles": [
+                {
+                    "word": "ROAD",
+                    "riddle": "A grey river.",
+                    "riddle_hard": "A grey river. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WALK",
+                    "riddle": "The rhythm of.",
+                    "riddle_hard": "The rhythm of. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUSY",
+                    "riddle": "The humming hive.",
+                    "riddle_hard": "A storm of many directions.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHOP",
+                    "riddle": "A forest of desires.",
+                    "riddle_hard": "A forest of things to own.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 122,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Night Lights",
+            "complexity": 4.68,
+            "puzzles": [
+                {
+                    "word": "NEON",
+                    "riddle": "Coloured light in.",
+                    "riddle_hard": "Coloured light in. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "A soft fire.",
+                    "riddle_hard": "The light that never sleeps.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAMP",
+                    "riddle": "A small sun.",
+                    "riddle_hard": "A small sun. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CITY",
+                    "riddle": "A mountain made.",
+                    "riddle_hard": "A hive made of stone.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 123,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Traffic",
+            "complexity": 4.76,
+            "puzzles": [
+                {
+                    "word": "STOP",
+                    "riddle": "A moment's pause.",
+                    "riddle_hard": "A hand that says wait.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Blurring the world.",
+                    "riddle_hard": "Blurring the world. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAIT",
+                    "riddle": "The breath before.",
+                    "riddle_hard": "A lesson in being still.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARS",
+                    "riddle": "Metal shells for.",
+                    "riddle_hard": "Metal shells for. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 124,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Subway",
+            "complexity": 4.84,
+            "puzzles": [
+                {
+                    "word": "TUBE",
+                    "riddle": "A passage through.",
+                    "riddle_hard": "A metal worm in the dark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RIDE",
+                    "riddle": "Flowing through the earth.",
+                    "riddle_hard": "Flowing through the earth. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "The rush of.",
+                    "riddle_hard": "The rush of underground wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAPS",
+                    "riddle": "A spider's web.",
+                    "riddle_hard": "A spider's web of ways.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 125,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Skyscrapers",
+            "complexity": 4.92,
+            "puzzles": [
+                {
+                    "word": "TALL",
+                    "riddle": "A stone finger.",
+                    "riddle_hard": "A stone finger in the sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIGH",
+                    "riddle": "Where the noise.",
+                    "riddle_hard": "Where the noise can't reach.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIEW",
+                    "riddle": "A world turned.",
+                    "riddle_hard": "A world turned into a map.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STEEL",
+                    "riddle": "Bones that never.",
+                    "riddle_hard": "The cold bones of the city.",
+                    "is_hard": true
+                },
+                {
+                    "word": "CITY",
+                    "riddle": "A valley of.",
+                    "riddle_hard": "A valley of deep shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 126,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Park Rest",
+            "complexity": 4.99,
+            "puzzles": [
+                {
+                    "word": "PARK",
+                    "riddle": "An island of.",
+                    "riddle_hard": "An island of living green.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REST",
+                    "riddle": "Finding a seat.",
+                    "riddle_hard": "Finding a seat in silence.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TREE",
+                    "riddle": "The city's green lung.",
+                    "riddle_hard": "The city's green lung. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIRD",
+                    "riddle": "A messenger on.",
+                    "riddle_hard": "A singing cloud in a tree.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GREEN",
+                    "riddle": "The memory of.",
+                    "riddle_hard": "The memory of the forest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 127,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Market",
+            "complexity": 5.07,
+            "puzzles": [
+                {
+                    "word": "SALE",
+                    "riddle": "A chance to.",
+                    "riddle_hard": "A chance to own for less.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUY",
+                    "riddle": "Trading hours for toys.",
+                    "riddle_hard": "Trading hours for toys. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FOOD",
+                    "riddle": "The earth's gift.",
+                    "riddle_hard": "The earth's gift to the bowl.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CASH",
+                    "riddle": "Leaves that buy.",
+                    "riddle_hard": "The leaves of the market.",
+                    "is_hard": true
+                },
+                {
+                    "word": "COINS",
+                    "riddle": "The clinking sound.",
+                    "riddle_hard": "The clinking sound of work.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 128,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Cafe",
+            "complexity": 5.15,
+            "puzzles": [
+                {
+                    "word": "CAFE",
+                    "riddle": "A harbor in.",
+                    "riddle_hard": "A harbor in the city rush.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BREW",
+                    "riddle": "Wakefulness in a cup.",
+                    "riddle_hard": "Wakefulness in a cup. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUP",
+                    "riddle": "A circle holding warmth.",
+                    "riddle_hard": "A circle holding warmth. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "READ",
+                    "riddle": "Looking at a.",
+                    "riddle_hard": "Looking at a. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PIZZA",
+                    "riddle": "A circle of.",
+                    "riddle_hard": "The shared sun of a Friday night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 129,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Rainy Street",
+            "complexity": 5.23,
+            "puzzles": [
+                {
+                    "word": "WET",
+                    "riddle": "Mirror made of.",
+                    "riddle_hard": "Mirror made of falling sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRAY",
+                    "riddle": "A blanket of.",
+                    "riddle_hard": "A blanket of soft clouds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUSH",
+                    "riddle": "Chasing a dry place.",
+                    "riddle_hard": "Chasing a dry place. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAXI",
+                    "riddle": "Yellow car for hire.",
+                    "riddle_hard": "A bright beetle in the rain.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RAINY",
+                    "riddle": "The sky cleaning.",
+                    "riddle_hard": "The sky cleaning the street.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of City Whispers.",
+                    "riddle_hard": "A hidden peace found in city whispers.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 130,
+            "grid_size": 5,
+            "category": "City Whispers",
+            "subcategory": "Rooftop",
+            "complexity": 5.31,
+            "puzzles": [
+                {
+                    "word": "ROOF",
+                    "riddle": "The world's highest floor.",
+                    "riddle_hard": "The world's highest floor. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAR",
+                    "riddle": "A jewel in.",
+                    "riddle_hard": "A jewel in the velvet black.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIND",
+                    "riddle": "A cold word.",
+                    "riddle_hard": "A cold word from the sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "Quiet above the noise.",
+                    "riddle_hard": "The top of the silent world.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLADE",
+                    "riddle": "A sunlit room.",
+                    "riddle_hard": "Where the forest opens its green arms.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of City Whispers.",
+                    "riddle_hard": "A hidden zen found in city whispers.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 131,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Pottery",
+            "complexity": 5.39,
+            "puzzles": [
+                {
+                    "word": "CLAY",
+                    "riddle": "Earth waiting to.",
+                    "riddle_hard": "Earth waiting to be held.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "A world born.",
+                    "riddle_hard": "A world born from motion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOWL",
+                    "riddle": "A hollow shaped.",
+                    "riddle_hard": "A hollow shaped by hands.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KILN",
+                    "riddle": "A cave of.",
+                    "riddle_hard": "The fire that turns mud to stone.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 132,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Woodwork",
+            "complexity": 5.47,
+            "puzzles": [
+                {
+                    "word": "SAWS",
+                    "riddle": "Teeth that eat.",
+                    "riddle_hard": "Teeth that eat the tree.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOD",
+                    "riddle": "The forest's solid memory.",
+                    "riddle_hard": "The forest's solid memory. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAND",
+                    "riddle": "Erasing the mark.",
+                    "riddle_hard": "Erasing the mark of metal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DUST",
+                    "riddle": "The gold of.",
+                    "riddle_hard": "The ghost of the cut wood.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 133,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Painting",
+            "complexity": 5.55,
+            "puzzles": [
+                {
+                    "word": "INK",
+                    "riddle": "Darkness that tells stories.",
+                    "riddle_hard": "Darkness that tells stories. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAINT",
+                    "riddle": "Trapping dreams on cloth.",
+                    "riddle_hard": "Capturing the sun in a jar.",
+                    "is_hard": true
+                },
+                {
+                    "word": "DRAW",
+                    "riddle": "A line chasing.",
+                    "riddle_hard": "A line chasing a vision.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINE",
+                    "riddle": "The shortest path.",
+                    "riddle_hard": "The shortest path for thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 134,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Origami",
+            "complexity": 5.63,
+            "puzzles": [
+                {
+                    "word": "FOLD",
+                    "riddle": "FOLD of The Craft.",
+                    "riddle_hard": "A crease that makes life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIRD",
+                    "riddle": "BIRD of The Craft.",
+                    "riddle_hard": "A wing that cannot fly.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLAT",
+                    "riddle": "A world without depth.",
+                    "riddle_hard": "A world without depth. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAKE",
+                    "riddle": "Birth from a.",
+                    "riddle_hard": "Bringing a dream into the hand.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 135,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Weaving",
+            "complexity": 5.71,
+            "puzzles": [
+                {
+                    "word": "LOOM",
+                    "riddle": "The engine of.",
+                    "riddle_hard": "The engine of the cloth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "YARN",
+                    "riddle": "A long line.",
+                    "riddle_hard": "A long line of soft life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLOTH",
+                    "riddle": "Many threads becoming one.",
+                    "riddle_hard": "A skin made of many threads.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MAT",
+                    "riddle": "A simple rest.",
+                    "riddle_hard": "A simple rest for feet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOOL",
+                    "riddle": "Heat from a.",
+                    "riddle_hard": "Heat from a furry friend.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 136,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Smithing",
+            "complexity": 5.79,
+            "puzzles": [
+                {
+                    "word": "IRON",
+                    "riddle": "The earth's cold strength.",
+                    "riddle_hard": "The stubborn heart of the earth.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FIRE",
+                    "riddle": "The red tongue.",
+                    "riddle_hard": "The red tongue of the forge.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "Softness found in.",
+                    "riddle_hard": "Softness found in the flame.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAT",
+                    "riddle": "Reshaping with a song.",
+                    "riddle_hard": "Reshaping with a song. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HARD",
+                    "riddle": "The result of.",
+                    "riddle_hard": "The result of the hammer.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 137,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Writing",
+            "complexity": 5.87,
+            "puzzles": [
+                {
+                    "word": "WORD",
+                    "riddle": "A small seed.",
+                    "riddle_hard": "A small seed of meaning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEN",
+                    "riddle": "Mightier than the.",
+                    "riddle_hard": "A metal beak that drinks deep to sing on paper.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAGE",
+                    "riddle": "A field of.",
+                    "riddle_hard": "A white field for black seeds.",
+                    "is_hard": true
+                },
+                {
+                    "word": "STORY",
+                    "riddle": "A world made.",
+                    "riddle_hard": "A world made of whispers.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TELL",
+                    "riddle": "Setting the spirit free.",
+                    "riddle_hard": "Setting the spirit free. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 138,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Cooking",
+            "complexity": 5.95,
+            "puzzles": [
+                {
+                    "word": "COOK",
+                    "riddle": "Alchemist of the kitchen.",
+                    "riddle_hard": "Alchemist of the kitchen. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "The sun in.",
+                    "riddle_hard": "The sun in the metal pot.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHOP",
+                    "riddle": "Dividing to bring together.",
+                    "riddle_hard": "Dividing to bring together. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TASTE",
+                    "riddle": "A dance on.",
+                    "riddle_hard": "The soul's judgment of the meal.",
+                    "is_hard": true
+                },
+                {
+                    "word": "DINE",
+                    "riddle": "The feast of.",
+                    "riddle_hard": "The feast of the senses.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 139,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Gardening",
+            "complexity": 6.03,
+            "puzzles": [
+                {
+                    "word": "GROW",
+                    "riddle": "The slow surge.",
+                    "riddle_hard": "The slow surge of life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEED",
+                    "riddle": "A forest in.",
+                    "riddle_hard": "A forest in a tiny shell.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WEED",
+                    "riddle": "A visitor who.",
+                    "riddle_hard": "A visitor who stays too long.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARE",
+                    "riddle": "Listening to the green.",
+                    "riddle_hard": "Listening to the green. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "DIRT",
+                    "riddle": "The foundation of.",
+                    "riddle_hard": "The foundation of all bloom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 140,
+            "grid_size": 5,
+            "category": "The Craft",
+            "subcategory": "Zen Art",
+            "complexity": 6.11,
+            "puzzles": [
+                {
+                    "word": "FLOW",
+                    "riddle": "Acting without a thought.",
+                    "riddle_hard": "Acting without a thought. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOUL",
+                    "riddle": "Inner spirit.",
+                    "riddle_hard": "The observer behind the eyes.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "The quiet lake.",
+                    "riddle_hard": "The quiet lake. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WORK",
+                    "riddle": "Labor or creation.",
+                    "riddle_hard": "Labor or creation. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Craft.",
+                    "riddle_hard": "A hidden peace found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Craft.",
+                    "riddle_hard": "A hidden zen found in the craft.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 141,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Zodiac",
+            "complexity": 6.19,
+            "puzzles": [
+                {
+                    "word": "LION",
+                    "riddle": "The sun-ruled king.",
+                    "riddle_hard": "A mane of light trapped in a summer's night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRAB",
+                    "riddle": "Walking sideways in.",
+                    "riddle_hard": "Walking sideways through the tide.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FISH",
+                    "riddle": "The final pair.",
+                    "riddle_hard": "Two paths taken while staying in place.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BULL",
+                    "riddle": "The stubborn horns.",
+                    "riddle_hard": "The stubborn horns of heaven.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "NEBULA of Celestial Dance.",
+                    "riddle_hard": "A hidden nebula found in celestial dance.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 142,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Planets",
+            "complexity": 6.27,
+            "puzzles": [
+                {
+                    "word": "MARS",
+                    "riddle": "A rusty spark.",
+                    "riddle_hard": "A rusty spark in the night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RING",
+                    "riddle": "A halo made.",
+                    "riddle_hard": "A circle of icy ghosts.",
+                    "is_hard": true
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The deepest ocean.",
+                    "riddle_hard": "The deepest ocean of space.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "NEBULA of Celestial Dance.",
+                    "riddle_hard": "A hidden nebula found in celestial dance.",
+                    "is_hard": true
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "NEBULA of Celestial Dance.",
+                    "riddle_hard": "A hidden nebula found in celestial dance.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 143,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Eclipse",
+            "complexity": 6.35,
+            "puzzles": [
+                {
+                    "word": "DARK",
+                    "riddle": "The sun's brief slumber.",
+                    "riddle_hard": "When the sun's eye is closed.",
+                    "is_hard": true
+                },
+                {
+                    "word": "STAR",
+                    "riddle": "A silver pin.",
+                    "riddle_hard": "A silver pin on velvet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RARE",
+                    "riddle": "A moment out.",
+                    "riddle_hard": "A moment out of time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "NEBULA of Celestial Dance.",
+                    "riddle_hard": "A hidden nebula found in celestial dance.",
+                    "is_hard": true
+                },
+                {
+                    "word": "NEBULA",
+                    "riddle": "NEBULA of Celestial Dance.",
+                    "riddle_hard": "A hidden nebula found in celestial dance.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 144,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Shooting Stars",
+            "complexity": 6.43,
+            "puzzles": [
+                {
+                    "word": "WISH",
+                    "riddle": "Sky seed secret.",
+                    "riddle_hard": "A hope planted in light.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FAST",
+                    "riddle": "Blink of light.",
+                    "riddle_hard": "The quick silver line of space.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCK",
+                    "riddle": "Lonely fire traveler.",
+                    "riddle_hard": "A burning stone with no home.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BURN",
+                    "riddle": "Dissolving in air.",
+                    "riddle_hard": "Screaming light as it dies.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FIREBALL",
+                    "riddle": "Glowing sky sphere.",
+                    "riddle_hard": "A heart of flame in space.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 145,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Constellations",
+            "complexity": 6.51,
+            "puzzles": [
+                {
+                    "word": "BEAR",
+                    "riddle": "A giant padded.",
+                    "riddle_hard": "A giant padded in starlight.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINE",
+                    "riddle": "Tracing the path.",
+                    "riddle_hard": "Tracing the path of gods.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MYTH",
+                    "riddle": "Old tales told.",
+                    "riddle_hard": "History written in silver points.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FORM",
+                    "riddle": "Finding order in.",
+                    "riddle_hard": "Finding order in the chaos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HUNT",
+                    "riddle": "Chasing the dawn forever.",
+                    "riddle_hard": "Chasing the dawn forever. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 146,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Nebula",
+            "complexity": 6.59,
+            "puzzles": [
+                {
+                    "word": "DUST",
+                    "riddle": "The ashes of.",
+                    "riddle_hard": "The ashes of forgotten suns.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BORN",
+                    "riddle": "The cradle of.",
+                    "riddle_hard": "The cradle of new light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLOUD",
+                    "riddle": "A veil of.",
+                    "riddle_hard": "The colorful breath of stars.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GAS",
+                    "riddle": "The invisible weight.",
+                    "riddle_hard": "The invisible weight of space.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "A soft fire.",
+                    "riddle_hard": "A soft fire in the void.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 147,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Gravity",
+            "complexity": 6.67,
+            "puzzles": [
+                {
+                    "word": "PULL",
+                    "riddle": "The earth's secret hunger.",
+                    "riddle_hard": "The earth's secret hunger. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FALL",
+                    "riddle": "Surrendering to the ground.",
+                    "riddle_hard": "Surrendering to the ground. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DOWN",
+                    "riddle": "The only way.",
+                    "riddle_hard": "The only way we know.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAVY",
+                    "riddle": "Bound to the.",
+                    "riddle_hard": "Bound to the. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SUN",
+                    "riddle": "The anchor of.",
+                    "riddle_hard": "The anchor of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 148,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Orbit",
+            "complexity": 6.75,
+            "puzzles": [
+                {
+                    "word": "OMEN",
+                    "riddle": "A whisper from.",
+                    "riddle_hard": "A secret sign in the flight of birds.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MOON",
+                    "riddle": "The silver ghost.",
+                    "riddle_hard": "The silver ghost of night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TURN",
+                    "riddle": "The dance of.",
+                    "riddle_hard": "The dance of the sphere.",
+                    "is_hard": false
+                },
+                {
+                    "word": "YEAR",
+                    "riddle": "The time it.",
+                    "riddle_hard": "The time it takes to bloom.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "Waking and sleeping.",
+                    "riddle_hard": "Waking and sleeping in turn.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 149,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Void",
+            "complexity": 6.83,
+            "puzzles": [
+                {
+                    "word": "COLD",
+                    "riddle": "Where heat is forgotten.",
+                    "riddle_hard": "Where heat is forgotten. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DARK",
+                    "riddle": "The shadow between suns.",
+                    "riddle_hard": "The shadow between suns. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAST",
+                    "riddle": "Too big for.",
+                    "riddle_hard": "A sea with no shores.",
+                    "is_hard": true
+                },
+                {
+                    "word": "NULL",
+                    "riddle": "The silence before.",
+                    "riddle_hard": "The silence before the start.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZERO",
+                    "riddle": "Perfectly empty space.",
+                    "riddle_hard": "Perfectly empty space. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 150,
+            "grid_size": 5,
+            "category": "Celestial Dance",
+            "subcategory": "Zen Space",
+            "complexity": 6.91,
+            "puzzles": [
+                {
+                    "word": "AWE",
+                    "riddle": "Speechless before the sky.",
+                    "riddle_hard": "Speechless before the sky. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TINY",
+                    "riddle": "A blue dust mote.",
+                    "riddle_hard": "A blue dust mote. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILENT",
+                    "riddle": "The roar of nothingness.",
+                    "riddle_hard": "The music of the spheres.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "The mother of everything.",
+                    "riddle_hard": "The mother of everything. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "The many and.",
+                    "riddle_hard": "The many and the single.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORBIT",
+                    "riddle": "ORBIT of Celestial Dance.",
+                    "riddle_hard": "A hidden orbit found in celestial dance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 151,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Tides",
+            "complexity": 6.99,
+            "puzzles": [
+                {
+                    "word": "HIGH",
+                    "riddle": "The ocean's rising reach.",
+                    "riddle_hard": "The ocean's rising reach. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIDE",
+                    "riddle": "The pulse of.",
+                    "riddle_hard": "The pulse of. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MOON",
+                    "riddle": "The master of.",
+                    "riddle_hard": "The master of the waves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PULL",
+                    "riddle": "An invisible tether.",
+                    "riddle_hard": "An invisible tether. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRENCH",
+                    "riddle": "TRENCH of Inner Sea.",
+                    "riddle_hard": "A hidden trench found in inner sea.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 152,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Coral Reef",
+            "complexity": 7.07,
+            "puzzles": [
+                {
+                    "word": "FISH",
+                    "riddle": "A sliver of.",
+                    "riddle_hard": "A sliver of moving color.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REEF",
+                    "riddle": "A wall of.",
+                    "riddle_hard": "A colorful city of coral.",
+                    "is_hard": true
+                },
+                {
+                    "word": "CORAL",
+                    "riddle": "Stony sea flower.",
+                    "riddle_hard": "The living city under waves.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIVE",
+                    "riddle": "LIVE of Inner Sea.",
+                    "riddle_hard": "Breath in the salt stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRENCH",
+                    "riddle": "TRENCH of Inner Sea.",
+                    "riddle_hard": "A hidden trench found in inner sea.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 153,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Depths",
+            "complexity": 7.15,
+            "puzzles": [
+                {
+                    "word": "DARK",
+                    "riddle": "Where the sun.",
+                    "riddle_hard": "Where the sun is a legend.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "The bite of.",
+                    "riddle_hard": "The bite of the deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Far beneath the waves.",
+                    "riddle_hard": "Where the sun never reaches.",
+                    "is_hard": true
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The color of.",
+                    "riddle_hard": "The color of the night sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRENCH",
+                    "riddle": "TRENCH of Inner Sea.",
+                    "riddle_hard": "A hidden trench found in inner sea.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 154,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Waves",
+            "complexity": 7.23,
+            "puzzles": [
+                {
+                    "word": "SURF",
+                    "riddle": "Dancing on the edge.",
+                    "riddle_hard": "Dancing on the edge. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FOAM",
+                    "riddle": "The lace of.",
+                    "riddle_hard": "The lace of the breaker.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRASH",
+                    "riddle": "The thunder of.",
+                    "riddle_hard": "The thunder of. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ROLL",
+                    "riddle": "A long and.",
+                    "riddle_hard": "A long and heavy breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEA",
+                    "riddle": "The cradle of.",
+                    "riddle_hard": "The cradle of all life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 155,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Storm at Sea",
+            "complexity": 7.31,
+            "puzzles": [
+                {
+                    "word": "WIND",
+                    "riddle": "The roar of.",
+                    "riddle_hard": "The roar of the grey sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAIN",
+                    "riddle": "Sweet water in.",
+                    "riddle_hard": "Sweet water in the salt.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEAR",
+                    "riddle": "Respect for the.",
+                    "riddle_hard": "Respect for the great deep.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROCK",
+                    "riddle": "The cradle of.",
+                    "riddle_hard": "The dance between life and sea.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GALE",
+                    "riddle": "The storm's wild shout.",
+                    "riddle_hard": "The storm's wild shout. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 156,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Calm Waters",
+            "complexity": 7.39,
+            "puzzles": [
+                {
+                    "word": "FLAT",
+                    "riddle": "Smooth as a.",
+                    "riddle_hard": "Smooth as a fallen leaf.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIRROR",
+                    "riddle": "A glass world.",
+                    "riddle_hard": "A twin world on the surface.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "Silence on the surface.",
+                    "riddle_hard": "Silence on the surface. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "Without a single ripple.",
+                    "riddle_hard": "Without a single ripple. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 157,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Sailor's Life",
+            "complexity": 7.47,
+            "puzzles": [
+                {
+                    "word": "BOAT",
+                    "riddle": "A wooden leaf.",
+                    "riddle_hard": "A wooden leaf on the sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOT",
+                    "riddle": "KNOT of Inner Sea.",
+                    "riddle_hard": "A promise made of hemp.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ROPE",
+                    "riddle": "The thread of.",
+                    "riddle_hard": "The thread of the voyage.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAIL",
+                    "riddle": "Wings for the water.",
+                    "riddle_hard": "Wings for the water. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALT",
+                    "riddle": "The taste of.",
+                    "riddle_hard": "The taste of the spray.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 158,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Island Home",
+            "complexity": 7.55,
+            "puzzles": [
+                {
+                    "word": "SAND",
+                    "riddle": "Ground that flows.",
+                    "riddle_hard": "Ground that flows like path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PALM",
+                    "riddle": "Leaning towards the tide.",
+                    "riddle_hard": "A green fan for the beach.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HOME",
+                    "riddle": "HOME of Inner Sea.",
+                    "riddle_hard": "Roots in the coral sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "The sun's constant hug.",
+                    "riddle_hard": "The sun's constant hug. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ISLE",
+                    "riddle": "A green dot.",
+                    "riddle_hard": "A green dot in the blue.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 159,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Pearls",
+            "complexity": 7.63,
+            "puzzles": [
+                {
+                    "word": "GEM",
+                    "riddle": "A shiny secret.",
+                    "riddle_hard": "A shiny secret of shell.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLAM",
+                    "riddle": "Shellfish home.",
+                    "riddle_hard": "Shellfish home. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CANDY",
+                    "riddle": "A tiny piece.",
+                    "riddle_hard": "Sweetness wrapped in a crinkly secret.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SEA",
+                    "riddle": "Ocean home of clams.",
+                    "riddle_hard": "Ocean home of clams. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROUND",
+                    "riddle": "Sphere shape.",
+                    "riddle_hard": "Sphere shape. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 160,
+            "grid_size": 5,
+            "category": "Inner Sea",
+            "subcategory": "Zen Ocean",
+            "complexity": 7.71,
+            "puzzles": [
+                {
+                    "word": "FLOW",
+                    "riddle": "Surrendering to the current.",
+                    "riddle_hard": "Surrendering to the current. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Beneath the surface.",
+                    "riddle_hard": "Beneath the surface of things.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAST",
+                    "riddle": "VAST of Inner Sea.",
+                    "riddle_hard": "Bigger than the mind can hold.",
+                    "is_hard": true
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "The breath in.",
+                    "riddle_hard": "The breath in every drop.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUE",
+                    "riddle": "The shade of.",
+                    "riddle_hard": "The shade of infinite peace.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ABYSS",
+                    "riddle": "ABYSS of Inner Sea.",
+                    "riddle_hard": "A hidden abyss found in inner sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 161,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Seasons",
+            "complexity": 7.79,
+            "puzzles": [
+                {
+                    "word": "YEAR",
+                    "riddle": "The cycle of.",
+                    "riddle_hard": "A single breath of the earth.",
+                    "is_hard": true
+                },
+                {
+                    "word": "TURN",
+                    "riddle": "The wheels of.",
+                    "riddle_hard": "The wheels of time spinning.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "The season of.",
+                    "riddle_hard": "The season of quiet rest.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "The first touch.",
+                    "riddle_hard": "The first touch of the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of Time's River.",
+                    "riddle_hard": "A hidden zen found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 162,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "The Clock",
+            "complexity": 7.87,
+            "puzzles": [
+                {
+                    "word": "TICK",
+                    "riddle": "A heartbeat made.",
+                    "riddle_hard": "A heartbeat made of metal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FACE",
+                    "riddle": "The map of.",
+                    "riddle_hard": "The map of the passing hour.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HAND",
+                    "riddle": "The shadow of.",
+                    "riddle_hard": "The silent finger of time.",
+                    "is_hard": true
+                },
+                {
+                    "word": "BELL",
+                    "riddle": "A song for.",
+                    "riddle_hard": "A song for the heavy hour.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of Time's River.",
+                    "riddle_hard": "A hidden zen found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 163,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Memory",
+            "complexity": 7.95,
+            "puzzles": [
+                {
+                    "word": "PAST",
+                    "riddle": "The echo of.",
+                    "riddle_hard": "The echo of what was.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BACK",
+                    "riddle": "Looking over the shoulder.",
+                    "riddle_hard": "Looking over the shoulder. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KEEP",
+                    "riddle": "KEEP of Time's River.",
+                    "riddle_hard": "Treasures in the mind's eye.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "A garden of.",
+                    "riddle_hard": "The library with no walls.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of Time's River.",
+                    "riddle_hard": "A hidden zen found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 164,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Future",
+            "complexity": 8.03,
+            "puzzles": [
+                {
+                    "word": "NEXT",
+                    "riddle": "The step not.",
+                    "riddle_hard": "The step not yet taken.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOPE",
+                    "riddle": "A light in.",
+                    "riddle_hard": "A light in the unknown.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLAN",
+                    "riddle": "A map for.",
+                    "riddle_hard": "A path drawn before the step.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SOON",
+                    "riddle": "Riding the edge.",
+                    "riddle_hard": "Riding the edge of now.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of Time's River.",
+                    "riddle_hard": "A hidden zen found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 165,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Flow",
+            "complexity": 8.11,
+            "puzzles": [
+                {
+                    "word": "RUSH",
+                    "riddle": "The foolish race.",
+                    "riddle_hard": "The foolish race for time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLOW",
+                    "riddle": "Walking with the sunset.",
+                    "riddle_hard": "Walking with the sunset. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAIT",
+                    "riddle": "The wisdom of.",
+                    "riddle_hard": "The wisdom of the stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GONE",
+                    "riddle": "Leaving only the scent.",
+                    "riddle_hard": "Leaving only the scent. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "TIME",
+                    "riddle": "The stream with.",
+                    "riddle_hard": "The stream with no source.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 166,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Cycles",
+            "complexity": 8.19,
+            "puzzles": [
+                {
+                    "word": "LOOP",
+                    "riddle": "LOOP of Time's River.",
+                    "riddle_hard": "A path that meets itself.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RING",
+                    "riddle": "The shape of eternity.",
+                    "riddle_hard": "The shape of eternity. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGAIN",
+                    "riddle": "The wheel's second turn.",
+                    "riddle_hard": "The circle that never breaks.",
+                    "is_hard": true
+                },
+                {
+                    "word": "NOW",
+                    "riddle": "The only grain.",
+                    "riddle_hard": "The only grain of sand.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TURN",
+                    "riddle": "The dance of.",
+                    "riddle_hard": "The dance of the season.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 167,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Decay",
+            "complexity": 8.27,
+            "puzzles": [
+                {
+                    "word": "DUST",
+                    "riddle": "The final gift.",
+                    "riddle_hard": "The final gift of time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RUST",
+                    "riddle": "The orange hunger.",
+                    "riddle_hard": "The orange hunger of air.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRAY",
+                    "riddle": "The color of.",
+                    "riddle_hard": "The color of long winters.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FADE",
+                    "riddle": "Returning to the shadow.",
+                    "riddle_hard": "The slow death of color.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AGED",
+                    "riddle": "Rich with many years.",
+                    "riddle_hard": "Rich with many years. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 168,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Renewal",
+            "complexity": 8.35,
+            "puzzles": [
+                {
+                    "word": "RISE",
+                    "riddle": "Waking up the world.",
+                    "riddle_hard": "Waking up the world. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "LIVING",
+                    "riddle": "The fire in.",
+                    "riddle_hard": "The fire in the pulse.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRESHER",
+                    "riddle": "The world born again.",
+                    "riddle_hard": "The world born again. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAKE",
+                    "riddle": "Opening the inner eye.",
+                    "riddle_hard": "Opening the inner eye. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of Time's River.",
+                    "riddle_hard": "A hidden zen found in time's river.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 169,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Eternity",
+            "complexity": 8.43,
+            "puzzles": [
+                {
+                    "word": "EVER",
+                    "riddle": "A word with.",
+                    "riddle_hard": "Beyond the end of days.",
+                    "is_hard": true
+                },
+                {
+                    "word": "TIME",
+                    "riddle": "The master of.",
+                    "riddle_hard": "The master of all things.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LONG",
+                    "riddle": "Measured by many lives.",
+                    "riddle_hard": "Measured by many lives. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAST",
+                    "riddle": "Empty but full.",
+                    "riddle_hard": "Empty but full of light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEEP",
+                    "riddle": "Truth at the bottom.",
+                    "riddle_hard": "Truth at the bottom. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 170,
+            "grid_size": 5,
+            "category": "Time's River",
+            "subcategory": "Zen Moment",
+            "complexity": 8.51,
+            "puzzles": [
+                {
+                    "word": "NOW",
+                    "riddle": "The center of.",
+                    "riddle_hard": "The center of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HERE",
+                    "riddle": "Underneath your feet.",
+                    "riddle_hard": "Underneath your feet. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "A lake without.",
+                    "riddle_hard": "The center of the storm.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "Silence in the heart.",
+                    "riddle_hard": "Silence in the heart. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "Everything together.",
+                    "riddle_hard": "Everything together. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of Time's River.",
+                    "riddle_hard": "A hidden peace found in time's river.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 171,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Firefly",
+            "complexity": 8.59,
+            "puzzles": [
+                {
+                    "word": "GLOW",
+                    "riddle": "A winged spark.",
+                    "riddle_hard": "A winged spark in the dark.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUG",
+                    "riddle": "A tiny traveler.",
+                    "riddle_hard": "A tiny traveler of night.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHASM",
+                    "riddle": "A deep breath.",
+                    "riddle_hard": "Where the earth opens its stony heart.",
+                    "is_hard": true
+                },
+                {
+                    "word": "WING",
+                    "riddle": "A sail for.",
+                    "riddle_hard": "A sail for the breeze.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 172,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Idea",
+            "complexity": 8.67,
+            "puzzles": [
+                {
+                    "word": "BULB",
+                    "riddle": "A sudden bloom.",
+                    "riddle_hard": "A sudden bloom of light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLASH",
+                    "riddle": "A spark across.",
+                    "riddle_hard": "A spark across. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "The fertile field.",
+                    "riddle_hard": "The fertile field of thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KNOW",
+                    "riddle": "When the fog.",
+                    "riddle_hard": "When the fog clears away.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEW",
+                    "riddle": "Born for the.",
+                    "riddle_hard": "Born for the first time.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 173,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Passion",
+            "complexity": 8.75,
+            "puzzles": [
+                {
+                    "word": "LOVE",
+                    "riddle": "The sun in.",
+                    "riddle_hard": "The sun in the spirit.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEAT",
+                    "riddle": "The result of.",
+                    "riddle_hard": "The result of inner fire.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BURN",
+                    "riddle": "The cost of.",
+                    "riddle_hard": "The passion of the wood.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FIRE",
+                    "riddle": "A wild and.",
+                    "riddle_hard": "A wild and hungry light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 174,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Creation",
+            "complexity": 8.83,
+            "puzzles": [
+                {
+                    "word": "MAKERS",
+                    "riddle": "Hands that shape.",
+                    "riddle_hard": "Hands that shape the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUILD",
+                    "riddle": "Making the dream solid.",
+                    "riddle_hard": "Giving bone to a dream.",
+                    "is_hard": true
+                },
+                {
+                    "word": "FORM",
+                    "riddle": "The mold of existence.",
+                    "riddle_hard": "The mold of existence. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 175,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Life Force",
+            "complexity": 8.91,
+            "puzzles": [
+                {
+                    "word": "CHI",
+                    "riddle": "The river of.",
+                    "riddle_hard": "The river of the breath.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALIVE",
+                    "riddle": "The flame in.",
+                    "riddle_hard": "Dancing on the edge of time.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "The drop in.",
+                    "riddle_hard": "The drop in the ocean.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAT",
+                    "riddle": "The rhythm of.",
+                    "riddle_hard": "The rhythm of your days.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 176,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Invention",
+            "complexity": 8.98,
+            "puzzles": [
+                {
+                    "word": "WORK",
+                    "riddle": "The sweat of progress.",
+                    "riddle_hard": "The sweat of progress. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "Doing without doing.",
+                    "riddle_hard": "Doing without doing. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAKES",
+                    "riddle": "Bringing forth what wasn't.",
+                    "riddle_hard": "Bringing forth what wasn't. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 177,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Storm Spark",
+            "complexity": 9.06,
+            "puzzles": [
+                {
+                    "word": "BOLT",
+                    "riddle": "A jagged reach.",
+                    "riddle_hard": "A jagged line of light.",
+                    "is_hard": true
+                },
+                {
+                    "word": "LIGHTS",
+                    "riddle": "Banishing the heavy dark.",
+                    "riddle_hard": "Banishing the heavy dark. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOUDLY",
+                    "riddle": "The voice of.",
+                    "riddle_hard": "The voice of the cloud.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SKIES",
+                    "riddle": "The canvas of.",
+                    "riddle_hard": "The canvas of the rain.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 178,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Campfire",
+            "complexity": 9.14,
+            "puzzles": [
+                {
+                    "word": "CAMPING",
+                    "riddle": "A home with.",
+                    "riddle_hard": "A home with no walls.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WARM",
+                    "riddle": "The gift of.",
+                    "riddle_hard": "The gift of the wood.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SONG",
+                    "riddle": "Voices in the smoke.",
+                    "riddle_hard": "Voices in the smoke. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "GLINT",
+                    "riddle": "A quick wink.",
+                    "riddle_hard": "A tiny spark on a dark path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "PEACE of The Spark.",
+                    "riddle_hard": "A hidden peace found in the spark.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 179,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Star Light",
+            "complexity": 9.22,
+            "puzzles": [
+                {
+                    "word": "FAR",
+                    "riddle": "Across the great.",
+                    "riddle_hard": "Across the great silent sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANCIENT",
+                    "riddle": "A message from.",
+                    "riddle_hard": "A message from long ago.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOPE",
+                    "riddle": "A distant anchor.",
+                    "riddle_hard": "A light that never dies.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SKY",
+                    "riddle": "The garden of.",
+                    "riddle_hard": "The garden of the infinite.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOW",
+                    "riddle": "The touch of.",
+                    "riddle_hard": "The touch of a far sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 180,
+            "grid_size": 5,
+            "category": "The Spark",
+            "subcategory": "Zen Light",
+            "complexity": 9.3,
+            "puzzles": [
+                {
+                    "word": "SIGHT",
+                    "riddle": "The gift of.",
+                    "riddle_hard": "The gift of. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "CLEAR",
+                    "riddle": "Like water in.",
+                    "riddle_hard": "Like water in a glass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRAIN",
+                    "riddle": "The throne of awareness.",
+                    "riddle_hard": "The throne of awareness. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRIGHT",
+                    "riddle": "The quality of.",
+                    "riddle_hard": "The quality of. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ZEN",
+                    "riddle": "ZEN of The Spark.",
+                    "riddle_hard": "A hidden zen found in the spark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HUSH",
+                    "riddle": "Quiet moment.",
+                    "riddle_hard": "The sudden fall of silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 181,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Whisper",
+            "complexity": 9.38,
+            "puzzles": [
+                {
+                    "word": "HUSH",
+                    "riddle": "The breath of.",
+                    "riddle_hard": "A finger to the lips.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SOFT",
+                    "riddle": "Like the fall.",
+                    "riddle_hard": "Like the fall of snow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TELL",
+                    "riddle": "Giving a gift.",
+                    "riddle_hard": "Giving a gift of words.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WIND",
+                    "riddle": "WIND of Silence.",
+                    "riddle_hard": "The ghost that moves things.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "MUSE in the silence.",
+                    "riddle_hard": "A hidden muse found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 182,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Mute",
+            "complexity": 9.46,
+            "puzzles": [
+                {
+                    "word": "MUTE",
+                    "riddle": "The silence between breaths.",
+                    "riddle_hard": "The silence between breaths. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEAF",
+                    "riddle": "Listening to the.",
+                    "riddle_hard": "Listening to the inner soul.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIGN",
+                    "riddle": "Speaking with silent fingers.",
+                    "riddle_hard": "Speaking with silent fingers. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "LOUD",
+                    "riddle": "The roar of.",
+                    "riddle_hard": "The roar of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "MUSE in the silence.",
+                    "riddle_hard": "A hidden muse found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 183,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Echo",
+            "complexity": 9.54,
+            "puzzles": [
+                {
+                    "word": "ECHO",
+                    "riddle": "Repeated sound.",
+                    "riddle_hard": "Repeated sound. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "LOST",
+                    "riddle": "A sound with.",
+                    "riddle_hard": "A sound with no home.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALL",
+                    "riddle": "A seed thrown.",
+                    "riddle_hard": "A seed thrown to the wind.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEAR",
+                    "riddle": "Within the reach.",
+                    "riddle_hard": "Within the reach of a song.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "MUSE in the silence.",
+                    "riddle_hard": "A hidden muse found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 184,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Peace",
+            "complexity": 9.62,
+            "puzzles": [
+                {
+                    "word": "CALM",
+                    "riddle": "Relaxed state.",
+                    "riddle_hard": "No ripples on the soul.",
+                    "is_hard": true
+                },
+                {
+                    "word": "REST",
+                    "riddle": "Putting down the burden.",
+                    "riddle_hard": "Putting down the burden. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DONE",
+                    "riddle": "The end of.",
+                    "riddle_hard": "The end of the long road.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLOW",
+                    "riddle": "Walking with the sunset.",
+                    "riddle_hard": "Walking with the sunset. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "MUSE in the silence.",
+                    "riddle_hard": "A hidden muse found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 185,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Stillness",
+            "complexity": 9.7,
+            "puzzles": [
+                {
+                    "word": "STOP",
+                    "riddle": "The end of.",
+                    "riddle_hard": "The end of the road.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WAIT",
+                    "riddle": "The wisdom of.",
+                    "riddle_hard": "The wisdom of the stone.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOLD",
+                    "riddle": "The strength of.",
+                    "riddle_hard": "The strength of the root.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAY",
+                    "riddle": "Don't leave.",
+                    "riddle_hard": "Don't leave. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "COOL",
+                    "riddle": "The touch of.",
+                    "riddle_hard": "The touch of the morning shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 186,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Void",
+            "complexity": 9.78,
+            "puzzles": [
+                {
+                    "word": "NONE",
+                    "riddle": "The absence of.",
+                    "riddle_hard": "The absence of a shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NULL",
+                    "riddle": "The empty heart.",
+                    "riddle_hard": "The empty heart of a circle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GONE",
+                    "riddle": "Leaving only the memory.",
+                    "riddle_hard": "Leaving only the memory. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZERO",
+                    "riddle": "The beginning of everything.",
+                    "riddle_hard": "The beginning of everything. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "A sea with.",
+                    "riddle_hard": "A sea with no water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 187,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Zen Quiet",
+            "complexity": 9.86,
+            "puzzles": [
+                {
+                    "word": "PURE",
+                    "riddle": "Untouched by a.",
+                    "riddle_hard": "Untouched by a single thought.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIND",
+                    "riddle": "A field of.",
+                    "riddle_hard": "A field of white snow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FREE",
+                    "riddle": "A bird with.",
+                    "riddle_hard": "A bird with. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "SILK",
+                    "riddle": "Soft as a.",
+                    "riddle_hard": "Soft as a spider's dream.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                },
+                {
+                    "word": "MUSE",
+                    "riddle": "MUSE in the silence.",
+                    "riddle_hard": "A hidden muse found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 188,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Deep Space",
+            "complexity": 9.94,
+            "puzzles": [
+                {
+                    "word": "DARK",
+                    "riddle": "The cloak of.",
+                    "riddle_hard": "The cloak of the stars.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "Where the sun.",
+                    "riddle_hard": "Where the sun is a legend.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VAST",
+                    "riddle": "Across the ocean.",
+                    "riddle_hard": "Beyond the reach of thought.",
+                    "is_hard": true
+                },
+                {
+                    "word": "VOID",
+                    "riddle": "The hungry deep.",
+                    "riddle_hard": "The hungry deep of heaven.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STAR",
+                    "riddle": "A silver pin.",
+                    "riddle_hard": "A silver pin on velvet.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 189,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Winter Night",
+            "complexity": 10.02,
+            "puzzles": [
+                {
+                    "word": "SNOW",
+                    "riddle": "A blanket of.",
+                    "riddle_hard": "A blanket of fallen light.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ICE",
+                    "riddle": "A glass world.",
+                    "riddle_hard": "A glass world on the lake.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SLEEP",
+                    "riddle": "A voyage to.",
+                    "riddle_hard": "A voyage to. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "COLD",
+                    "riddle": "The bite of.",
+                    "riddle_hard": "The bite of the silver sky.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOON",
+                    "riddle": "The ghost of.",
+                    "riddle_hard": "The ghost of the sun.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 190,
+            "grid_size": 5,
+            "category": "Silence",
+            "subcategory": "Inner Peace",
+            "complexity": 10.1,
+            "puzzles": [
+                {
+                    "word": "SOUL",
+                    "riddle": "The observer behind.",
+                    "riddle_hard": "The observer behind the eyes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HEART",
+                    "riddle": "The drum of existence.",
+                    "riddle_hard": "The drum inside the chest.",
+                    "is_hard": true
+                },
+                {
+                    "word": "CALM",
+                    "riddle": "The center of.",
+                    "riddle_hard": "The center of the hurricane.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOVE",
+                    "riddle": "The light in.",
+                    "riddle_hard": "The light in the shadow.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "A drop in.",
+                    "riddle_hard": "A drop in the great sea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STILL",
+                    "riddle": "STILL in the silence.",
+                    "riddle_hard": "A hidden still found in silence.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 191,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "One",
+            "complexity": 10.18,
+            "puzzles": [
+                {
+                    "word": "ONE",
+                    "riddle": "Everything in a.",
+                    "riddle_hard": "Everything in a single point.",
+                    "is_hard": false
+                },
+                {
+                    "word": "UNIT",
+                    "riddle": "A piece of.",
+                    "riddle_hard": "A piece of the whole puzzle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAME",
+                    "riddle": "Shadow and substance bound.",
+                    "riddle_hard": "Shadow and substance bound. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHOLE",
+                    "riddle": "A circle with.",
+                    "riddle_hard": "A circle with. The secret path.",
+                    "is_hard": true
+                },
+                {
+                    "word": "CENTER",
+                    "riddle": "CENTER in the unity.",
+                    "riddle_hard": "A hidden center found in unity.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 192,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Bond",
+            "complexity": 10.26,
+            "puzzles": [
+                {
+                    "word": "GLUE",
+                    "riddle": "The invisible thread.",
+                    "riddle_hard": "The invisible thread of fate.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JOIN",
+                    "riddle": "Two hearts beating.",
+                    "riddle_hard": "Two hearts beating as one.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINK",
+                    "riddle": "A bridge between spirits.",
+                    "riddle_hard": "A bridge between two parts.",
+                    "is_hard": true
+                },
+                {
+                    "word": "TIED",
+                    "riddle": "Bound by a.",
+                    "riddle_hard": "Bound by a golden cord.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CENTER",
+                    "riddle": "CENTER in the unity.",
+                    "riddle_hard": "A hidden center found in unity.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 193,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Team",
+            "complexity": 10.34,
+            "puzzles": [
+                {
+                    "word": "TEAM",
+                    "riddle": "Many hands, one heart.",
+                    "riddle_hard": "The strength of the circle.",
+                    "is_hard": true
+                },
+                {
+                    "word": "WORK",
+                    "riddle": "Building the common dream.",
+                    "riddle_hard": "Building the common dream. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HELP",
+                    "riddle": "A hand in.",
+                    "riddle_hard": "A hand in the darkness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIDE",
+                    "riddle": "Walking the same path.",
+                    "riddle_hard": "Walking the same path. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CENTER",
+                    "riddle": "CENTER in the unity.",
+                    "riddle_hard": "A hidden center found in unity.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 194,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Fit",
+            "complexity": 10.42,
+            "puzzles": [
+                {
+                    "word": "FIT",
+                    "riddle": "The perfect rest.",
+                    "riddle_hard": "The perfect rest for a piece.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PUZZLE",
+                    "riddle": "A pattern born.",
+                    "riddle_hard": "A pattern to be found.",
+                    "is_hard": true
+                },
+                {
+                    "word": "PART",
+                    "riddle": "A single step.",
+                    "riddle_hard": "A single step of the trek.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SET",
+                    "riddle": "Collection of stars.",
+                    "riddle_hard": "Collection of stars. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CENTER",
+                    "riddle": "CENTER in the unity.",
+                    "riddle_hard": "A hidden center found in unity.",
+                    "is_hard": true
+                },
+                {
+                    "word": "AAA",
+                    "riddle": ".",
+                    "riddle_hard": "... The secret path.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 195,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Nature's Web",
+            "complexity": 10.5,
+            "puzzles": [
+                {
+                    "word": "WEB",
+                    "riddle": "The silver net.",
+                    "riddle_hard": "The silver net of life.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NET",
+                    "riddle": "Catching the morning dew.",
+                    "riddle_hard": "Catching the morning dew. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALL",
+                    "riddle": "Everything bound together.",
+                    "riddle_hard": "Everything bound together. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIFE",
+                    "riddle": "The fire in.",
+                    "riddle_hard": "The fire in every cell.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINKS",
+                    "riddle": "Invisible strings of fate.",
+                    "riddle_hard": "The invisible threads of fate.",
+                    "is_hard": true
+                },
+                {
+                    "word": "US",
+                    "riddle": "You and me.",
+                    "riddle_hard": "You and me as one.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHOLE",
+                    "riddle": "WHOLE in the unity.",
+                    "riddle_hard": "A hidden whole found in unity.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 196,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Harmony",
+            "complexity": 10.58,
+            "puzzles": [
+                {
+                    "word": "SONG",
+                    "riddle": "A bird's morning breath.",
+                    "riddle_hard": "A melody of shared souls.",
+                    "is_hard": true
+                },
+                {
+                    "word": "BEAT",
+                    "riddle": "The rhythm of.",
+                    "riddle_hard": "The rhythm of the heart.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUNE",
+                    "riddle": "Finding the shared note.",
+                    "riddle_hard": "Finding the shared note. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SING",
+                    "riddle": "Voices joined in light.",
+                    "riddle_hard": "Voices joined in light. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOTE",
+                    "riddle": "A single star.",
+                    "riddle_hard": "A single star of music.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHOLE",
+                    "riddle": "WHOLE in the unity.",
+                    "riddle_hard": "A hidden whole found in unity.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 197,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Balance",
+            "complexity": 10.66,
+            "puzzles": [
+                {
+                    "word": "EVEN",
+                    "riddle": "Balanced on a.",
+                    "riddle_hard": "Balanced on a blade of grass.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EQUAL",
+                    "riddle": "Two hearts on.",
+                    "riddle_hard": "The water level in two cups.",
+                    "is_hard": true
+                },
+                {
+                    "word": "JUST",
+                    "riddle": "The truth in.",
+                    "riddle_hard": "The truth in the middle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "Perfectly centered soul.",
+                    "riddle_hard": "Perfectly centered soul. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAIR",
+                    "riddle": "Without a heavy hand.",
+                    "riddle_hard": "Without a heavy hand. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHOLE",
+                    "riddle": "WHOLE in the unity.",
+                    "riddle_hard": "A hidden whole found in unity.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 198,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Cycle",
+            "complexity": 10.74,
+            "puzzles": [
+                {
+                    "word": "CIRCLE",
+                    "riddle": "The path with.",
+                    "riddle_hard": "The shape of the infinite.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ROUND",
+                    "riddle": "Rolling towards forever.",
+                    "riddle_hard": "Rolling towards forever. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGAIN",
+                    "riddle": "The wheel's second turn.",
+                    "riddle_hard": "The wheel's second turn. The secret path.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPIN",
+                    "riddle": "The motion of.",
+                    "riddle_hard": "The motion of the world.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WHOLE",
+                    "riddle": "WHOLE in the unity.",
+                    "riddle_hard": "A hidden whole found in unity.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 199,
+            "grid_size": 5,
+            "category": "Unity",
+            "subcategory": "Zen Whole",
+            "complexity": 10.82,
+            "puzzles": [
+                {
+                    "word": "FULL",
+                    "riddle": "Empty of attachment.",
+                    "riddle_hard": "The cup that cannot hold more.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOOD",
+                    "riddle": "Light in seed.",
+                    "riddle_hard": "The innate light within the seed.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLEAR",
+                    "riddle": "Mountain water mind.",
+                    "riddle_hard": "A mind like still mountain water.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIPE",
+                    "riddle": "Ready to fall.",
+                    "riddle_hard": "Ready to fall and be born.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PEACE",
+                    "riddle": "Silent soul rest.",
+                    "riddle_hard": "The absence of conflict within.",
+                    "is_hard": true
+                },
+                {
+                    "word": "ONE",
+                    "riddle": "Final number.",
+                    "riddle_hard": "The lonely point where all begins.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 200,
+            "grid_size": 6,
+            "category": "The Great Zen",
+            "subcategory": "Cosmos",
+            "complexity": 10.9,
+            "puzzles": [
+                {
+                    "word": "STARS",
+                    "riddle": "Silver sky eyes.",
+                    "riddle_hard": "The silver eyes of heaven.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPACE",
+                    "riddle": "Sea between worlds.",
+                    "riddle_hard": "The cold sea between the worlds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIME",
+                    "riddle": "Seed's master.",
+                    "riddle_hard": "The silent master of all seeds.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIGHT",
+                    "riddle": "Existence's brush.",
+                    "riddle_hard": "The golden brush of existence.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOLACE",
+                    "riddle": "Silence comfort.",
+                    "riddle_hard": "Peace found within the vastness.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COSMOS",
+                    "riddle": "Grand design.",
+                    "riddle_hard": "The orderly arrangement of stars.",
+                    "is_hard": true
+                },
+                {
+                    "word": "UNIFY",
+                    "riddle": "Drop to sea.",
+                    "riddle_hard": "Joining the lonely drop to sea.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

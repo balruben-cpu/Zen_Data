@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Tutoriel",
+            "subcategory": "Intro",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ÉNIGME",
+                    "riddle": "Une question qui porte un déguisement.",
+                    "riddle_hard": "Un secret enveloppé de curiosité."
+                },
+                {
+                    "word": "CHEMIN",
+                    "riddle": "Un ruban de terre sur l'herbe.",
+                    "riddle_hard": "Un guide qui ne dit jamais un mot."
+                },
+                {
+                    "word": "MAÎTRE",
+                    "riddle": "Le patron du plateau.",
+                    "riddle_hard": "Celui qui détient toutes les clés.",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Nature",
+            "subcategory": "Ciel",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "CIEL",
+                    "riddle": "Le plafond qui n'a jamais besoin de peinture.",
+                    "riddle_hard": "Un océan bleu où nagent les oiseaux."
+                },
+                {
+                    "word": "SOLEIL",
+                    "riddle": "L'ampoule géante dans le ciel.",
+                    "riddle_hard": "L'œil d'or qui ne cligne jamais."
+                },
+                {
+                    "word": "AIR",
+                    "riddle": "Nourriture invisible pour vos poumons.",
+                    "riddle_hard": "Vent transparent dans une boîte."
+                }
+            ]
+        }
+    ]
+}

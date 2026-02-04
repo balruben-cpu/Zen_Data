@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Tutorial",
+            "subcategory": "Intro",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RÄTSEL",
+                    "riddle": "Eine Frage, die eine Verkleidung trägt.",
+                    "riddle_hard": "Ein in Neugier gehülltes Geheimnis."
+                },
+                {
+                    "word": "PFAD",
+                    "riddle": "Ein Band aus Erde auf dem Gras.",
+                    "riddle_hard": "Ein Führer, der nie ein Wort sagt."
+                },
+                {
+                    "word": "MEISTER",
+                    "riddle": "Der Chef des Brettes.",
+                    "riddle_hard": "Derjenige, der alle Schlüssel hält.",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Natur",
+            "subcategory": "Himmel",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "HIMMEL",
+                    "riddle": "Die Decke, die nie gestrichen werden muss.",
+                    "riddle_hard": "Ein blauer Ozean, in dem Vögel schwimmen."
+                },
+                {
+                    "word": "SONNE",
+                    "riddle": "Die riesige Glühbirne am Himmel.",
+                    "riddle_hard": "Das goldene Auge, das nie blinzelt."
+                },
+                {
+                    "word": "LUFT",
+                    "riddle": "Unsichtbare Nahrung für deine Lungen.",
+                    "riddle_hard": "Transparenter Wind in einer Kiste."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2302 @@
+[
+    {
+        "level_id": 401,
+        "grid_size": 4,
+        "complexity": 1.0,
+        "category": "La Naturaleza",
+        "subcategory": "Tierra",
+        "puzzles": [
+            {
+                "word": "RAIZ",
+                "riddle": "El ancla secreta que busca el corazon del mundo."
+            },
+            {
+                "word": "BARO",
+                "riddle": "La materia humilde que nos dio la primera forma."
+            },
+            {
+                "word": "DURO",
+                "riddle": "El silencio de la piedra que aguanta el paso del tiempo."
+            }
+        ]
+    },
+    {
+        "level_id": 402,
+        "grid_size": 4,
+        "complexity": 1.1,
+        "category": "La Naturaleza",
+        "subcategory": "Montaña",
+        "puzzles": [
+            {
+                "word": "PICO",
+                "riddle": "El dedo de roca que intenta rozar el cielo."
+            },
+            {
+                "word": "NUBE",
+                "riddle": "El velo blanco que corona la frente del gigante."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Sentirse grande y pequeño a la vez en la cumbre."
+            }
+        ]
+    },
+    {
+        "level_id": 403,
+        "grid_size": 4,
+        "complexity": 1.2,
+        "category": "La Naturaleza",
+        "subcategory": "Agua",
+        "puzzles": [
+            {
+                "word": "RÍO",
+                "riddle": "La cinta de plata que corre sin saber hacia donde."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El beso frio de la lluvia sobre la tierra sedienta."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Saber que todo fluye y nada vuelve a ser lo mismo."
+            }
+        ]
+    },
+    {
+        "level_id": 404,
+        "grid_size": 4,
+        "complexity": 1.3,
+        "category": "La Naturaleza",
+        "subcategory": "Mar",
+        "puzzles": [
+            {
+                "word": "OLA",
+                "riddle": "La caricia de sal que se deshace en la arena."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color del infinito que duerme bajo la espuma."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Escuchar el latido del oceano en una caracola."
+            }
+        ]
+    },
+    {
+        "level_id": 405,
+        "grid_size": 4,
+        "complexity": 1.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Tierra",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Sentarse en el suelo y sentir que ya lo tienes todo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el mismo barro que pisas con tus pies desnudos."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una semilla esperando su momento."
+            }
+        ]
+    },
+    {
+        "level_id": 406,
+        "grid_size": 5,
+        "complexity": 1.6,
+        "category": "La Naturaleza",
+        "subcategory": "Cueva",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "La voz de la piedra que repite nuestro propio nombre."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "La penumbra sagrada que guarda el primer secreto."
+            },
+            {
+                "word": "GOTA",
+                "riddle": "El reloj de agua que esculpe templos de cristal."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La chispa que revela el tesoro oculto en la sombra."
+            }
+        ]
+    },
+    {
+        "level_id": 407,
+        "grid_size": 5,
+        "complexity": 1.7,
+        "category": "La Naturaleza",
+        "subcategory": "Bosque",
+        "puzzles": [
+            {
+                "word": "HAYA",
+                "riddle": "El pilar de madera que sostiene el techo verde."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El susurro de las hojas contando cuentos de antaño."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "La esperanza que brota en cada rama nueva."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentirse parte del coro invisible de la selva."
+            }
+        ]
+    },
+    {
+        "level_id": 408,
+        "grid_size": 5,
+        "complexity": 1.8,
+        "category": "La Naturaleza",
+        "subcategory": "Manantial",
+        "puzzles": [
+            {
+                "word": "NACE",
+                "riddle": "El brote de cristal que surge del vientre de la roca."
+            },
+            {
+                "word": "CLARO",
+                "riddle": "El espejo de frescura donde el sol se mira."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La paciencia del agua que vence a la piedra mas recia."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Saber que una gota contiene la esencia del mar."
+            }
+        ]
+    },
+    {
+        "level_id": 409,
+        "grid_size": 5,
+        "complexity": 1.9,
+        "category": "La Naturaleza",
+        "subcategory": "Horizonte II",
+        "puzzles": [
+            {
+                "word": "LEJOS",
+                "riddle": "Alla donde la tierra se abraza al cielo infinito."
+            },
+            {
+                "word": "VEO",
+                "riddle": "La linea de la mente que nunca se deja alcanzar."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "La promesa de calma que aguarda en la lejanía."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Caminar hacia la meta sabiendo que ya has llegado."
+            }
+        ]
+    },
+    {
+        "level_id": 410,
+        "grid_size": 5,
+        "complexity": 2.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de los Elementos",
+        "puzzles": [
+            {
+                "word": "FUEGO",
+                "riddle": "La pasion que ilumina pero no quema el corazon."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "La libertad de no ser nada para poder serlo todo."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar en armonia con la danza del mundo natural."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser un elemento mas en el gran circulo."
+            }
+        ]
+    },
+    {
+        "level_id": 411,
+        "grid_size": 4,
+        "complexity": 2.1,
+        "category": "La Naturaleza",
+        "subcategory": "Llama",
+        "puzzles": [
+            {
+                "word": "SOL",
+                "riddle": "La gran hoguera que mantiene despierto al mundo."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El brillo que el fuego deja en la frente del metal."
+            },
+            {
+                "word": "VIVA",
+                "riddle": "La energia que baila sin descanso sobre la madera."
+            }
+        ]
+    },
+    {
+        "level_id": 412,
+        "grid_size": 4,
+        "complexity": 2.2,
+        "category": "La Naturaleza",
+        "subcategory": "Calor",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "El primer abrazo que recibe el alma que nace."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La caricia invisible que disipa el miedo al frio."
+            },
+            {
+                "word": "MERO",
+                "riddle": "Sentirse tibio ante el regalo de una hoguera amiga."
+            }
+        ]
+    },
+    {
+        "level_id": 413,
+        "grid_size": 4,
+        "complexity": 2.3,
+        "category": "La Naturaleza",
+        "subcategory": "Aire",
+        "puzzles": [
+            {
+                "word": "ALA",
+                "riddle": "La barca de plumas que navega por el mar azul."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El susurro que une a todas las criaturas que respiran."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El espacio vacio que permite que la vida ocurra."
+            }
+        ]
+    },
+    {
+        "level_id": 414,
+        "grid_size": 4,
+        "complexity": 2.4,
+        "category": "La Naturaleza",
+        "subcategory": "Viento",
+        "puzzles": [
+            {
+                "word": "REMA",
+                "riddle": "Empujar las nubes como si fueran barcos de algodon."
+            },
+            {
+                "word": "HOJA",
+                "riddle": "La danzarina que vuela sin alas al son del invisible."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Saber que el cambio es el unico aliento constante."
+            }
+        ]
+    },
+    {
+        "level_id": 415,
+        "grid_size": 4,
+        "complexity": 2.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen del Aliento",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Inspirar el mundo y espirar todas tus sombras."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma que se encuentra entre un aire y el siguiente."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser el viento que cruza por el pinar."
+            }
+        ]
+    },
+    {
+        "level_id": 416,
+        "grid_size": 5,
+        "complexity": 2.6,
+        "category": "La Naturaleza",
+        "subcategory": "Volcán",
+        "puzzles": [
+            {
+                "word": "ROJO",
+                "riddle": "La sangre de la tierra que brota del sueño profundo."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La roca que se hace liquida bajo el beso del fuego."
+            },
+            {
+                "word": "HAYO",
+                "riddle": "El poder de crear nuevas islas en el oceano de pavor."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir que la creacion y la destruccion son una danza."
+            }
+        ]
+    },
+    {
+        "level_id": 417,
+        "grid_size": 5,
+        "complexity": 2.7,
+        "category": "La Naturaleza",
+        "subcategory": "Ceniza",
+        "puzzles": [
+            {
+                "word": "GRIS",
+                "riddle": "El polvo de plata que queda cuando el grito se apaga."
+            },
+            {
+                "word": "AYER",
+                "riddle": "Lo que una vez fue rama y ahora es abono para el mañana."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La esencia que no arde porque ya es eterna."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Sentir que de la muerte siempre nace una nueva esperanza."
+            }
+        ]
+    },
+    {
+        "level_id": 418,
+        "grid_size": 5,
+        "complexity": 2.8,
+        "category": "La Naturaleza",
+        "subcategory": "Tormenta",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "El rayo que ilumina el caos en un pestañeo de luz."
+            },
+            {
+                "word": "OÍR",
+                "riddle": "El rugido del cielo que despierta al espiritu dormido."
+            },
+            {
+                "word": "NOS",
+                "riddle": "Sentirse pequeños bajo el asombro de la fuerza bruta."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "La calma que aguarda tras las cortinas de agua gris."
+            }
+        ]
+    },
+    {
+        "level_id": 419,
+        "grid_size": 5,
+        "complexity": 2.9,
+        "category": "La Naturaleza",
+        "subcategory": "Clima",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "El arcoiris que tiende un puente de colores efimeros."
+            },
+            {
+                "word": "VEO",
+                "riddle": "La sonrisa del sol tras las lagrimas de la nube."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Recibir el regalo de un dia nuevo sin preguntar por que."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La transparencia del aire lavado por la lluvia de mayo."
+            }
+        ]
+    },
+    {
+        "level_id": 420,
+        "grid_size": 5,
+        "complexity": 3.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Unidad",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Sentir que el aire, el fuego, el agua y la tierra son uno solo."
+            },
+            {
+                "word": "NADA",
+                "riddle": "No ser nada especial es ser la naturaleza misma."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La fuerza magnetica que mantiene unidos los elementos."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente estar aqui, vibrando con el pulso del cosmos."
+            }
+        ]
+    },
+    {
+        "level_id": 421,
+        "grid_size": 4,
+        "complexity": 3.1,
+        "category": "La Naturaleza",
+        "subcategory": "Primavera",
+        "puzzles": [
+            {
+                "word": "BROTE",
+                "riddle": "El primer grito de esperanza que rompe el hielo."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La alegria de despertar tras un largo sueño de nieve."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El verde que vuelve a pintar los valles del alma."
+            }
+        ]
+    },
+    {
+        "level_id": 422,
+        "grid_size": 4,
+        "complexity": 3.2,
+        "category": "La Naturaleza",
+        "subcategory": "Verano",
+        "puzzles": [
+            {
+                "word": "CALOR",
+                "riddle": "La caricia de oro que hace madurar el trigo."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El dia eterno donde la sombra es un refugio fresco."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Sentir la plenitud de la tierra bajo el sol de agosto."
+            }
+        ]
+    },
+    {
+        "level_id": 423,
+        "grid_size": 4,
+        "complexity": 3.3,
+        "category": "La Naturaleza",
+        "subcategory": "Otoño",
+        "puzzles": [
+            {
+                "word": "HOJA",
+                "riddle": "Soltar lo viejo para que el viento limpie el camino."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El color de la despedida que alfombra los senderos."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Comprender que caer es tambien una forma de volar."
+            }
+        ]
+    },
+    {
+        "level_id": 424,
+        "grid_size": 4,
+        "complexity": 3.4,
+        "category": "La Naturaleza",
+        "subcategory": "Invierno",
+        "puzzles": [
+            {
+                "word": "FRÍO",
+                "riddle": "El cristal que guarda la esencia en lo mas profundo."
+            },
+            {
+                "word": "NADA",
+                "riddle": "El gran silencio blanco donde Gaia descansa en calma."
+            },
+            {
+                "word": "SERO",
+                "riddle": "Sentirse semilla bajo el manto protector de la helada."
+            }
+        ]
+    },
+    {
+        "level_id": 425,
+        "grid_size": 4,
+        "complexity": 3.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de los Ciclos",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "No hay principio ni fin, solo un eterno fluir."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir que lo que se va es lo que luego vuelve."
+            },
+            {
+                "word": "SER",
+                "riddle": "Aceptar los cambios con la paz de una montaña."
+            }
+        ]
+    },
+    {
+        "level_id": 426,
+        "grid_size": 5,
+        "complexity": 3.6,
+        "category": "La Naturaleza",
+        "subcategory": "Semilla",
+        "puzzles": [
+            {
+                "word": "HUYE",
+                "riddle": "Escapar de la cascara para buscar la caricia del sol."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Beber de la tierra la fuerza para ser un gigante."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La paciencia infinita que habita en un grano de cereal."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentir que todo el bosque cabe en una mano cerrada."
+            }
+        ]
+    },
+    {
+        "level_id": 427,
+        "grid_size": 5,
+        "complexity": 3.7,
+        "category": "La Naturaleza",
+        "subcategory": "Floral",
+        "puzzles": [
+            {
+                "word": "PURA",
+                "riddle": "La belleza que no busca ser vista, solo ser esencia."
+            },
+            {
+                "word": "ROSA",
+                "riddle": "El perfume que cuenta historias sin usar palabras."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Ofrecer el color a la abeja y el aroma al viento."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Tocar el milagro efimero de un petalo de seda."
+            }
+        ]
+    },
+    {
+        "level_id": 428,
+        "grid_size": 5,
+        "complexity": 3.8,
+        "category": "La Naturaleza",
+        "subcategory": "Cosecha",
+        "puzzles": [
+            {
+                "word": "RICO",
+                "riddle": "El sabor de lo que ha crecido al ritmo del tiempo."
+            },
+            {
+                "word": "MERO",
+                "riddle": "Sentirse agradecido por el pan y por la sombra."
+            },
+            {
+                "word": "DAR",
+                "riddle": "Repartir el fruto como la tierra reparte su amor."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un ciclo que se cumple para dar paso al siguiente."
+            }
+        ]
+    },
+    {
+        "level_id": 429,
+        "grid_size": 5,
+        "complexity": 3.9,
+        "category": "La Naturaleza",
+        "subcategory": "Reposo",
+        "puzzles": [
+            {
+                "word": "BAJO",
+                "riddle": "Dormir en el vientre de la madre bajo la hojarasca."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El suspiro lento de los robles que sueñan con mayo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma necesaria para que la fuerza se renueve."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente esperar, confiando en el sol que vendra."
+            }
+        ]
+    },
+    {
+        "level_id": 430,
+        "grid_size": 5,
+        "complexity": 4.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen del Renacer",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Morir cada dia a lo que fuimos para nacer de nuevo."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La soledad de la cumbre que vigila el cambio eterno."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse rama, raiz, flor y fruto en un solo instante."
+            },
+            {
+                "word": "SER",
+                "riddle": "La consciencia que observa la rueda gira sin fin."
+            }
+        ]
+    },
+    {
+        "level_id": 431,
+        "grid_size": 4,
+        "complexity": 4.1,
+        "category": "La Naturaleza",
+        "subcategory": "Árbol",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "El puente de madera que une el abismo con el cielo."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "La sabiduria silenciosa que crece un anillo cada año."
+            },
+            {
+                "word": "ARRI",
+                "riddle": "Apoyar la espalda en la fuerza que no sabe de prisas."
+            }
+        ]
+    },
+    {
+        "level_id": 432,
+        "grid_size": 4,
+        "complexity": 4.2,
+        "category": "La Naturaleza",
+        "subcategory": "Savia",
+        "puzzles": [
+            {
+                "word": "RÍO",
+                "riddle": "La sangre dulce que recorre las venas de la corteza."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El motor invisible que empuja la hoja hacia la luz."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El alimento sagrado que la tierra ofrece al gigante."
+            }
+        ]
+    },
+    {
+        "level_id": 433,
+        "grid_size": 4,
+        "complexity": 4.3,
+        "category": "La Naturaleza",
+        "subcategory": "Raíz II",
+        "puzzles": [
+            {
+                "word": "ATAR",
+                "riddle": "Abrazar la oscuridad para poder sostener la luz."
+            },
+            {
+                "word": "CASA",
+                "riddle": "Sentirse seguro en el abrazo profundo de la madre."
+            },
+            {
+                "word": "DARO",
+                "riddle": "La red invisible donde todos los bosques se hablan."
+            }
+        ]
+    },
+    {
+        "level_id": 434,
+        "grid_size": 4,
+        "complexity": 4.4,
+        "category": "La Naturaleza",
+        "subcategory": "Musgo",
+        "puzzles": [
+            {
+                "word": "PIEL",
+                "riddle": "El terciopelo verde que viste la desnudez de la piedra."
+            },
+            {
+                "word": "FINA",
+                "riddle": "La alfombra de calma que guarda la humedad del alba."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Sentir la suavidad de los siglos creciendo en la sombra."
+            }
+        ]
+    },
+    {
+        "level_id": 435,
+        "grid_size": 4,
+        "complexity": 4.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen del Bosque",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Comprender que cada hoja es el bosque entero latiendo."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Perder el nombre entre el susurro de las encinas."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una presencia entre la sombra y el sol."
+            }
+        ]
+    },
+    {
+        "level_id": 436,
+        "grid_size": 5,
+        "complexity": 4.6,
+        "category": "La Naturaleza",
+        "subcategory": "Helecho",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "La geometria perfecta que se despliega en la umbria."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "Un abanico de frescura que danza en el aire quieto."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "El brote en espiral que guarda el secreto de la vida."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ver en una sola rama el diseño infinito del cosmos."
+            }
+        ]
+    },
+    {
+        "level_id": 437,
+        "grid_size": 5,
+        "complexity": 4.7,
+        "category": "La Naturaleza",
+        "subcategory": "Bambú",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "El tallo que sabe bailar con la fuerza del viento."
+            },
+            {
+                "word": "DURO",
+                "riddle": "Ser firme por fuera y estar vacio por dentro."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino de crecer recto buscando siempre el cenit."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar el equilibrio entre la fuerza y la gracia."
+            }
+        ]
+    },
+    {
+        "level_id": 438,
+        "grid_size": 5,
+        "complexity": 4.8,
+        "category": "La Naturaleza",
+        "subcategory": "Pino",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "El vigia de agujas que no teme al rigor del invierno."
+            },
+            {
+                "word": "PURA",
+                "riddle": "El aroma de resina que limpia los pulmones del alma."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La majestad de quien permanece verde ante el cambio."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Una flecha de esperanza apuntando hacia las estrellas."
+            }
+        ]
+    },
+    {
+        "level_id": 439,
+        "grid_size": 5,
+        "complexity": 4.9,
+        "category": "La Naturaleza",
+        "subcategory": "Selva",
+        "puzzles": [
+            {
+                "word": "VIDA",
+                "riddle": "El torrente de fuerza donde todo nace y todo devora."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El rayo que lucha por tocar el suelo entre los gigantes."
+            },
+            {
+                "word": "NOSO",
+                "riddle": "Sentirse parte de una red de vida que no tiene orillas."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley salvaje que mantiene el orden en el caos verde."
+            }
+        ]
+    },
+    {
+        "level_id": 440,
+        "grid_size": 5,
+        "complexity": 5.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Planta",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Estar quieto y crecer, esa es la mayor sabiduria."
+            },
+            {
+                "word": "NADA",
+                "riddle": "No desear ser otra cosa que lo que ya eres."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Beber el sol y la lluvia con la misma gratitud."
+            },
+            {
+                "word": "SER",
+                "riddle": "Habitar el instante con la paciencia de un roble."
+            }
+        ]
+    },
+    {
+        "level_id": 441,
+        "grid_size": 4,
+        "complexity": 5.1,
+        "category": "La Naturaleza",
+        "subcategory": "Lobo",
+        "puzzles": [
+            {
+                "word": "GUÍA",
+                "riddle": "La voz que llama a los hermanos bajo la luna clara."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse parte de un solo latido que recorre el valle."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color del frio que une a la manada en el abrazo."
+            }
+        ]
+    },
+    {
+        "level_id": 442,
+        "grid_size": 4,
+        "complexity": 5.2,
+        "category": "La Naturaleza",
+        "subcategory": "Búho",
+        "puzzles": [
+            {
+                "word": "VEO",
+                "riddle": "Mirar donde otros solo encuentran sombras and miedo."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El vigia silencioso que guarda los sueños de la noche."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud de quien sabe esperar a que la luz vuelva."
+            }
+        ]
+    },
+    {
+        "level_id": 443,
+        "grid_size": 4,
+        "complexity": 5.3,
+        "category": "La Naturaleza",
+        "subcategory": "Ciervo",
+        "puzzles": [
+            {
+                "word": "PASO",
+                "riddle": "Caminar sin romper el cristal del silencio del bosque."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "La corona de ramas que busca the sun entre las hayas."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Estar alerta y sereno en el jardin de los peligros."
+            }
+        ]
+    },
+    {
+        "level_id": 444,
+        "grid_size": 4,
+        "complexity": 5.4,
+        "category": "La Naturaleza",
+        "subcategory": "Abeja",
+        "puzzles": [
+            {
+                "word": "DARO",
+                "riddle": "Trabajar para el mañana sin preguntar por la gloria."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El tesoro dulce que nace del beso de mil flores."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que la gota es necesaria para el oceano."
+            }
+        ]
+    },
+    {
+        "level_id": 445,
+        "grid_size": 4,
+        "complexity": 5.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen del Vínculo",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "No somos islas, sino hilos en el gran tapiz de la vida."
+            },
+            {
+                "word": "UNO",
+                "riddle": "El mismo aliento que mueve al lobo mueve al hombre."
+            },
+            {
+                "word": "SER",
+                "riddle": "Sentirse hermano de todo lo que late bajo the sky."
+            }
+        ]
+    },
+    {
+        "level_id": 446,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "La Naturaleza",
+        "subcategory": "Águila",
+        "puzzles": [
+            {
+                "word": "MIRO",
+                "riddle": "Ver the world desde el lugar donde nacen las nubes."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La mirada que no se detiene en las pequeñas cosas."
+            },
+            {
+                "word": "ALA",
+                "riddle": "Sostenerse en el invisible con la fuerza del anhelo."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que la altura da la paz a los valientes."
+            }
+        ]
+    },
+    {
+        "level_id": 447,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "La Naturaleza",
+        "subcategory": "Pez",
+        "puzzles": [
+            {
+                "word": "RÍO",
+                "riddle": "Ser como el agua, fluyendo sin oponer resistencia."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La voluntad de nadar contra la corriente del mundo."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "Habitar the silence profundo de las cuevas de cristal."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Estar en casa en cualquier lugar donde el agua fluya."
+            }
+        ]
+    },
+    {
+        "level_id": 448,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "La Naturaleza",
+        "subcategory": "Zorro",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Caminar por el filo de la noche con pasos de humo."
+            },
+            {
+                "word": "VEO",
+                "riddle": "El ingenio que encuentra el camino donde no hay senda."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Enseñar a los pequeños el arte de ser libres y sabios."
+            },
+            {
+                "word": "SER",
+                "riddle": "No ser visto es tambien una forma de estar presente."
+            }
+        ]
+    },
+    {
+        "level_id": 449,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "La Naturaleza",
+        "subcategory": "Hormiga",
+        "puzzles": [
+            {
+                "word": "PURA",
+                "riddle": "La fuerza que mueve montañas grano a grano de arena."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Cargar con el peso del mundo por amor a la manada."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Hallar el tesoro en la humildad de los pequeños actos."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Saber que el esfuerzo de uno es la vida de todos."
+            }
+        ]
+    },
+    {
+        "level_id": 450,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Criatura",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "No hay juicio, solo el impulso sagrado de existir."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Olvidar el yo para ser simplemente el latido del bosque."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley que une al depredador y a la presa en un ciclo."
+            },
+            {
+                "word": "SER",
+                "riddle": "Vivir el ahora con la plenitud de un animal salvaje."
+            }
+        ]
+    },
+    {
+        "level_id": 451,
+        "grid_size": 4,
+        "complexity": 6.1,
+        "category": "La Naturaleza",
+        "subcategory": "Niebla",
+        "puzzles": [
+            {
+                "word": "VELO",
+                "riddle": "La sabiduria de ocultar las formas para revelar la esencia."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "El abrazo suave de la nube que baja a besar la tierra."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Caminar por el mundo sin saber donde termina el camino."
+            }
+        ]
+    },
+    {
+        "level_id": 452,
+        "grid_size": 4,
+        "complexity": 6.2,
+        "category": "La Naturaleza",
+        "subcategory": "Rocío",
+        "puzzles": [
+            {
+                "word": "PURA",
+                "riddle": "La lagrima de alegria que el cielo deja en cada hoja."
+            },
+            {
+                "word": "JOYA",
+                "riddle": "Diamantes efimeros que se disuelven con el primer rayo."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentirse fresco y renovado en el umbral de un dia nuevo."
+            }
+        ]
+    },
+    {
+        "level_id": 453,
+        "grid_size": 4,
+        "complexity": 6.3,
+        "category": "La Naturaleza",
+        "subcategory": "Rayo",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "La flecha de fuego que rompe la negrura de la tormenta."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Un instante de claridad que revela el diseño del caos."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir la fuerza electrica que hace latir a las estrellas."
+            }
+        ]
+    },
+    {
+        "level_id": 454,
+        "grid_size": 4,
+        "complexity": 6.4,
+        "category": "La Naturaleza",
+        "subcategory": "Viento II",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "El mensajero invisible que trae noticias de otros mares."
+            },
+            {
+                "word": "GUÍA",
+                "riddle": "Saber hacia donde sopla el espiritu en cada momento."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La libertad de no tener peso y volar con las nubes."
+            }
+        ]
+    },
+    {
+        "level_id": 455,
+        "grid_size": 4,
+        "complexity": 6.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen del Cielo",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "El azul es el techo común de todos los seres vivos."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Estar tan vacio y tan lleno como un mediodia radiante."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una mirada perdida en la inmensidad clara."
+            }
+        ]
+    },
+    {
+        "level_id": 456,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "La Naturaleza",
+        "subcategory": "Nube II",
+        "puzzles": [
+            {
+                "word": "BAJO",
+                "riddle": "Ser una montaña de algodon que flota sobre los valles."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La transformacion constante de la forma en el vacio."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Sentirse viajero sin mapa en el oceano del aire."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Saber que estar de paso es la unica forma de ser eterno."
+            }
+        ]
+    },
+    {
+        "level_id": 457,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "La Naturaleza",
+        "subcategory": "Lluvia II",
+        "puzzles": [
+            {
+                "word": "OCÉA",
+                "riddle": "Mil lagrimas de cristal que vuelven al seno materno."
+            },
+            {
+                "word": "PURA",
+                "riddle": "El baño sagrado que lava el polvo de los siglos."
+            },
+            {
+                "word": "DATO",
+                "riddle": "Escuchar el mensaje secreto en el repicar del tejado."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar la calma en el ritmo constante de la caida."
+            }
+        ]
+    },
+    {
+        "level_id": 458,
+        "grid_size": 5,
+        "complexity": 6.8,
+        "category": "La Naturaleza",
+        "subcategory": "Trueno",
+        "puzzles": [
+            {
+                "word": "OÍR",
+                "riddle": "El rugido profundo que hace temblar las raices del ser."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "La voz de Gaia recordandonos su poder primordial."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar en silencio cuando la naturaleza habla alto."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "El anuncio de que la tormenta traera la fertilidad."
+            }
+        ]
+    },
+    {
+        "level_id": 459,
+        "grid_size": 5,
+        "complexity": 6.9,
+        "category": "La Naturaleza",
+        "subcategory": "Calma II",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "El suspiro del mundo cuando la tempestad se retira."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Caminar por el bosque recien lavado por el cielo."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Sentir la frescura del barro y la tibieza del sol."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "La claridad que nace tras el paso de las sombras."
+            }
+        ]
+    },
+    {
+        "level_id": 460,
+        "grid_size": 5,
+        "complexity": 7.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Atmósfera",
+        "puzzles": [
+            {
+                "word": "SER",
+                "riddle": "Ser tan invisible y tan necesario como el oxigeno."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Respirar el universo y dejar que el nos respire."
+            },
+            {
+                "word": "NADA",
+                "riddle": "No oponer resistencia al viento ni a la lluvia."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Vivir en la transparencia de un pensamiento puro."
+            }
+        ]
+    },
+    {
+        "level_id": 461,
+        "grid_size": 4,
+        "complexity": 7.1,
+        "category": "La Naturaleza",
+        "subcategory": "Sol II",
+        "puzzles": [
+            {
+                "word": "SOL",
+                "riddle": "El corazon de fuego que late en el centro de la vida."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El brillo que despierta a la flor y al pensamiento."
+            },
+            {
+                "word": "VIVE",
+                "riddle": "Saber que cada mañana es un regalo de luz nueva."
+            }
+        ]
+    },
+    {
+        "level_id": 462,
+        "grid_size": 4,
+        "complexity": 7.2,
+        "category": "La Naturaleza",
+        "subcategory": "Luna II",
+        "puzzles": [
+            {
+                "word": "CUCO",
+                "riddle": "El espejo de plata que guarda el silencio de la noche."
+            },
+            {
+                "word": "MAR",
+                "riddle": "La fuerza blanca que mueve las mareas y el alma."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar la calma bajo el velo suave de la penumbra."
+            }
+        ]
+    },
+    {
+        "level_id": 463,
+        "grid_size": 4,
+        "complexity": 7.3,
+        "category": "La Naturaleza",
+        "subcategory": "Estrellas II",
+        "puzzles": [
+            {
+                "word": "GUÍA",
+                "riddle": "Luces antiguas que nos cuentan cuentos de eternidad."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El mapa de diamantes que orienta al viajero perdido."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentirse gota en un oceano de soles y de misterio."
+            }
+        ]
+    },
+    {
+        "level_id": 464,
+        "grid_size": 4,
+        "complexity": 7.4,
+        "category": "La Naturaleza",
+        "subcategory": "Día",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "El tiempo de actuar y de sembrar la buena semilla."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Llenar los pulmones de claridad y de proposito."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Celebrar el milagro de existir en la danza del sol."
+            }
+        ]
+    },
+    {
+        "level_id": 465,
+        "grid_size": 4,
+        "complexity": 7.5,
+        "category": "La Naturaleza",
+        "subcategory": "Noche II",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Volver al refugio del ser cuando el ruido se apaga."
+            },
+            {
+                "word": "NADA",
+                "riddle": "El vacio sagrado donde el alma se renueva en silencio."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una presencia que sueña bajo los astros."
+            }
+        ]
+    },
+    {
+        "level_id": 466,
+        "grid_size": 5,
+        "complexity": 7.6,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Luz",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "Comprender que la sombra es solo la ausencia de amor."
+            },
+            {
+                "word": "PURO",
+                "riddle": "La transparencia del cristal que no retiene el rayo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la misma luz que ilumina y la que es iluminada."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar el brillo interior que no depende del dia."
+            }
+        ]
+    },
+    {
+        "level_id": 467,
+        "grid_size": 5,
+        "complexity": 7.7,
+        "category": "La Naturaleza",
+        "subcategory": "Proceso",
+        "puzzles": [
+            {
+                "word": "PASO",
+                "riddle": "Cuidar la raiz sabiendo que el fruto llegara."
+            },
+            {
+                "word": "DARO",
+                "riddle": "Ofrecer la sombra hoy para los bosques de mañana."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La firmeza de quien camina sin mirar atras."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Saber que el camino es la meta en cada instante."
+            }
+        ]
+    },
+    {
+        "level_id": 468,
+        "grid_size": 5,
+        "complexity": 7.8,
+        "category": "La Naturaleza",
+        "subcategory": "Desapego",
+        "puzzles": [
+            {
+                "word": "BAJO",
+                "riddle": "Dejar ir lo que ya se cumplio como el arbol sus hojas."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Hacerse ligero para que el viento nos lleve a casa."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La libertad de no tener nada y serlo todo."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "La conexion que permanece cuando el nombre se borra."
+            }
+        ]
+    },
+    {
+        "level_id": 469,
+        "grid_size": 5,
+        "complexity": 7.9,
+        "category": "La Naturaleza",
+        "subcategory": "Gaia",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "El vientre de la tierra que recibe al viajero cansado."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La fuerza que transforma la roca en flor y en alma."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Volver a beber de la fuente primordial del ser."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que nada muere, solo cambia de forma."
+            }
+        ]
+    },
+    {
+        "level_id": 470,
+        "grid_size": 6,
+        "complexity": 8.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Naturaleza",
+        "puzzles": [
+            {
+                "word": "ARMONÍA",
+                "riddle": "La musica silente que suena en el orden del bosque."
+            },
+            {
+                "word": "ETERNIDAD",
+                "riddle": "El instante que dura siempre en el corazon de Gaia."
+            },
+            {
+                "word": "PRESENCIA",
+                "riddle": "Sentirse rama, rio, montaña y luz al mismo tiempo."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Hallar la unidad suprema en la danza de los elementos."
+            }
+        ]
+    },
+    {
+        "level_id": 471,
+        "grid_size": 4,
+        "complexity": 8.1,
+        "category": "La Naturaleza",
+        "subcategory": "Grillo",
+        "puzzles": [
+            {
+                "word": "OÍR",
+                "riddle": "El violin del pasto que canta a la luna en el jardin."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La melodia humilde que llena el silencio de la noche."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentir que lo pequeño tambien tiene una voz sagrada."
+            }
+        ]
+    },
+    {
+        "level_id": 472,
+        "grid_size": 4,
+        "complexity": 8.2,
+        "category": "La Naturaleza",
+        "subcategory": "Mariposa",
+        "puzzles": [
+            {
+                "word": "ALA",
+                "riddle": "Petalos de seda que han aprendido el arte de volar."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La belleza que nace del cambio y de la paciencia."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Ser una mancha de color en el lienzo del mediodia."
+            }
+        ]
+    },
+    {
+        "level_id": 473,
+        "grid_size": 4,
+        "complexity": 8.3,
+        "category": "La Naturaleza",
+        "subcategory": "Caracol",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Llevar el hogar a cuestas por el sendero del rocio."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La espiral de piedra que protege un corazon blando."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Comprender que la prisa no es necesaria para llegar."
+            }
+        ]
+    },
+    {
+        "level_id": 474,
+        "grid_size": 4,
+        "complexity": 8.4,
+        "category": "La Naturaleza",
+        "subcategory": "Libélula",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "Un rayo de cristal que se detiene sobre el estanque."
+            },
+            {
+                "word": "BAJO",
+                "riddle": "Danzar sobre el agua sin mojar las alas de plata."
+            },
+            {
+                "word": "PURO",
+                "riddle": "La transparencia que habita en un instante de vuelo."
+            }
+        ]
+    },
+    {
+        "level_id": 475,
+        "grid_size": 4,
+        "complexity": 8.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de lo Pequeño",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "En una gota de agua se refleja el universo entero."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser tan importante como el sol siendo solo un grano."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una vida mas bajo el amparo de la brizna."
+            }
+        ]
+    },
+    {
+        "level_id": 476,
+        "grid_size": 5,
+        "complexity": 8.6,
+        "category": "La Naturaleza",
+        "subcategory": "Hongo",
+        "puzzles": [
+            {
+                "word": "GRIS",
+                "riddle": "El paraguas del bosque que brota en la umbria secreta."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La fuerza que nace de lo que la tierra ha soltado."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Una red invisible que une a los arboles en silencio."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Saber que la descomposicion es la cuna de lo nuevo."
+            }
+        ]
+    },
+    {
+        "level_id": 477,
+        "grid_size": 5,
+        "complexity": 8.7,
+        "category": "La Naturaleza",
+        "subcategory": "Helecho II",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "La curva perfecta que se desenrolla buscando el aire."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "Un encaje de sombras que viste el suelo de la selva."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Acariciar la prehistoria que aun late en cada rama."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La frescura que emana de quien no necesita flores."
+            }
+        ]
+    },
+    {
+        "level_id": 478,
+        "grid_size": 5,
+        "complexity": 8.8,
+        "category": "La Naturaleza",
+        "subcategory": "Escarabajo",
+        "puzzles": [
+            {
+                "word": "DURO",
+                "riddle": "Un caballero de azabache con armadura de luz lunar."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Cargar con el peso de la tierra con paso firme."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino de ser el joyero humilde de la hojarasca."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Sentirse fuerte siendo bicho en el inmenso jardin."
+            }
+        ]
+    },
+    {
+        "level_id": 479,
+        "grid_size": 5,
+        "complexity": 8.9,
+        "category": "La Naturaleza",
+        "subcategory": "Araña",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "Tejer puentes de plata entre las ramas del destino."
+            },
+            {
+                "word": "ROÍR",
+                "riddle": "La paciencia de atrapar el viento en una red de seda."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La geometria sagrada que brilla con el primer rocio."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La entrega total al diseño que sostiene la existencia."
+            }
+        ]
+    },
+    {
+        "level_id": 480,
+        "grid_size": 5,
+        "complexity": 9.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Red",
+        "puzzles": [
+            {
+                "word": "UNO",
+                "riddle": "Si tocas un hilo de la red, todo el bosque vibra."
+            },
+            {
+                "word": "NADA",
+                "riddle": "No somos el tejedor, sino una hebra mas en el tejido."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar en el centro del mundo sin ocupar espacio."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente ser parte de la gran conexion de vida."
+            }
+        ]
+    },
+    {
+        "level_id": 481,
+        "grid_size": 4,
+        "complexity": 9.1,
+        "category": "La Naturaleza",
+        "subcategory": "Gruta",
+        "puzzles": [
+            {
+                "word": "ECO",
+                "riddle": "La voz de la tierra que nace del corazon de la roca."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El aire frio y sabio que guarda el primer secreto."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentirse en el vientre de la madre, seguro y en paz."
+            }
+        ]
+    },
+    {
+        "level_id": 482,
+        "grid_size": 4,
+        "complexity": 9.2,
+        "category": "La Naturaleza",
+        "subcategory": "Cristal",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "La chispa que despierta el tesoro en la oscuridad."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La geometria perfecta que crece en el silencio total."
+            },
+            {
+                "word": "DATO",
+                "riddle": "La memoria mineral que guarda el calor de los siglos."
+            }
+        ]
+    },
+    {
+        "level_id": 483,
+        "grid_size": 4,
+        "complexity": 9.3,
+        "category": "La Naturaleza",
+        "subcategory": "Fósil",
+        "puzzles": [
+            {
+                "word": "HOJA",
+                "riddle": "Una caricia de vida detenida en el tiempo de piedra."
+            },
+            {
+                "word": "SERO",
+                "riddle": "Ser testigo mudo de los eones que pasaron antes."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Comprender que nada se pierde, solo se transforma."
+            }
+        ]
+    },
+    {
+        "level_id": 484,
+        "grid_size": 4,
+        "complexity": 9.4,
+        "category": "La Naturaleza",
+        "subcategory": "Suelo",
+        "puzzles": [
+            {
+                "word": "RAIZ",
+                "riddle": "El ancla que busca el alimento en el abismo negro."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Recibir la fuerza de los antiguos que ahora son polvo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse tierra y saber que de ella brota la esperanza."
+            }
+        ]
+    },
+    {
+        "level_id": 485,
+        "grid_size": 4,
+        "complexity": 9.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Profundidad",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "En lo mas hondo del ser, el ruido del mundo calla."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La soledad de la sima que es la mayor de las libertades."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una piedra mas en el cimiento del mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 486,
+        "grid_size": 5,
+        "complexity": 9.6,
+        "category": "La Naturaleza",
+        "subcategory": "Acuífero",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "El oceano escondido que espera bajo nuestros pies."
+            },
+            {
+                "word": "RÍO",
+                "riddle": "Venas de cristal que recorren el cuerpo del planeta."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La promesa de frescura que brotara en el manantial."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La ley que lleva al agua a buscar siempre el centro."
+            }
+        ]
+    },
+    {
+        "level_id": 487,
+        "grid_size": 5,
+        "complexity": 9.7,
+        "category": "La Naturaleza",
+        "subcategory": "Magma",
+        "puzzles": [
+            {
+                "word": "ROJO",
+                "riddle": "La pasion de la tierra que sueña con ser montaña."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La roca liquida que cuenta historias de creacion."
+            },
+            {
+                "word": "DARO",
+                "riddle": "El calor primordial que mantiene vivo el espiritu."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Saber que lo que parece fuego es la sangre del mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 488,
+        "grid_size": 5,
+        "complexity": 9.8,
+        "category": "La Naturaleza",
+        "subcategory": "Sismo",
+        "puzzles": [
+            {
+                "word": "OÍR",
+                "riddle": "El rugido del despertar de las placas durmientes."
+            },
+            {
+                "word": "AYER",
+                "riddle": "El movimiento que borra lo viejo para crear lo nuevo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar el equilibrio en medio de la gran sacudida."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentir el poder de quien puede cambiarlo todo hoy."
+            }
+        ]
+    },
+    {
+        "level_id": 489,
+        "grid_size": 5,
+        "complexity": 9.9,
+        "category": "La Naturaleza",
+        "subcategory": "Simpatía",
+        "puzzles": [
+            {
+                "word": "PARA",
+                "riddle": "Detener el paso para escuchar el latido de la piedra."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "Sentir la hermandad entre la roca y el musgo suave."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Ser el heredero de un mundo que no nos pertenece."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Comprender que la tierra y el hombre son un solo ser."
+            }
+        ]
+    },
+    {
+        "level_id": 490,
+        "grid_size": 5,
+        "complexity": 10.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de Gaia II",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "No somos dueños de la tierra, sino sus invitados."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La paz de ser un suspiro en la eternidad del planeta."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La fuerza que mantiene unidos los elementos."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente estar presente en el gran sueño de Gaia."
+            }
+        ]
+    },
+    {
+        "level_id": 491,
+        "grid_size": 4,
+        "complexity": 10.1,
+        "category": "La Naturaleza",
+        "subcategory": "Polen",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "Polvo de estrellas que viaja en el lomo del viento."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La promesa invisible que busca un lugar para brotar."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El tesoro que la flor entrega al futuro del bosque."
+            }
+        ]
+    },
+    {
+        "level_id": 492,
+        "grid_size": 4,
+        "complexity": 10.2,
+        "category": "La Naturaleza",
+        "subcategory": "Savia II",
+        "puzzles": [
+            {
+                "word": "RÍO",
+                "riddle": "El latido dulce que sube por el canal del tiempo."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "El motor de la esperanza que viste de gala a la rama."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Sentir la energia que fluye sin pedir nada a cambio."
+            }
+        ]
+    },
+    {
+        "level_id": 493,
+        "grid_size": 4,
+        "complexity": 10.3,
+        "category": "La Naturaleza",
+        "subcategory": "Copa",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "Beber el sol desde el lugar donde anidan las aves."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Conversar con las nubes en el idioma del susurro."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar la quietud en la cima de la fuerza verde."
+            }
+        ]
+    },
+    {
+        "level_id": 494,
+        "grid_size": 4,
+        "complexity": 10.4,
+        "category": "La Naturaleza",
+        "subcategory": "Lodo",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "La mezcla de agua y tierra que nos dio el primer abrazo."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La humildad de la materia que no teme mancharse de vida."
+            },
+            {
+                "word": "SERO",
+                "riddle": "Saber que del fango mas negro nace el loto mas blanco."
+            }
+        ]
+    },
+    {
+        "level_id": 495,
+        "grid_size": 4,
+        "complexity": 10.5,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Humildad",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "Estar a ras de suelo es estar cerca del corazon."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el mismo barro que pisas y el mismo cielo que miras."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una huella que se borra para dejar paso."
+            }
+        ]
+    },
+    {
+        "level_id": 496,
+        "grid_size": 5,
+        "complexity": 10.6,
+        "category": "La Naturaleza",
+        "subcategory": "Fraser",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "La voluntad de crecer entre la nieve y el olvido."
+            },
+            {
+                "word": "DURO",
+                "riddle": "La corteza que aguanta el rigor de mil inviernos."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "La semilla que espera el turno bajo el manto gris."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Ser el testigo verde en el paramo de la soledad."
+            }
+        ]
+    },
+    {
+        "level_id": 497,
+        "grid_size": 5,
+        "complexity": 10.7,
+        "category": "La Naturaleza",
+        "subcategory": "Huésped",
+        "puzzles": [
+            {
+                "word": "DARO",
+                "riddle": "Abrir la rama para que el pajaro halle su nido."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Recibir al viajero con el regalo de la sombra."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La generosidad de quien da sin saber a quien."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Hallar la alegria en ser el hogar de otro ser."
+            }
+        ]
+    },
+    {
+        "level_id": 498,
+        "grid_size": 5,
+        "complexity": 10.8,
+        "category": "La Naturaleza",
+        "subcategory": "Silencio II",
+        "puzzles": [
+            {
+                "word": "BAJO",
+                "riddle": "La quietud de la nieve cuando el viento se duerme."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La voz de la montaña que solo se escucha con el alma."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Estar en presencia de lo inmenso sin decir palabra."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse parte de la gran pausa que precede a la vida."
+            }
+        ]
+    },
+    {
+        "level_id": 499,
+        "grid_size": 5,
+        "complexity": 10.9,
+        "category": "La Naturaleza",
+        "subcategory": "Regreso",
+        "puzzles": [
+            {
+                "word": "AYER",
+                "riddle": "Soltar la forma para volver al seno de la tierra."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "El camino de vuelta hacia la fuente de todo frescor."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que el circulo se cierra para volver a abrirse."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Un viaje que termina para empezar de nuevo mañana."
+            }
+        ]
+    },
+    {
+        "level_id": 500,
+        "grid_size": 6,
+        "complexity": 11.0,
+        "category": "La Naturaleza",
+        "subcategory": "Zen de la Madre Tierra",
+        "puzzles": [
+            {
+                "word": "CONSCIENCIA",
+                "riddle": "Despertar al sueño de ser uno con los elementos."
+            },
+            {
+                "word": "GRATITUD",
+                "riddle": "El aroma que el alma desprende ante el milagro."
+            },
+            {
+                "word": "TOTALIDAD",
+                "riddle": "No hay fuera ni dentro, solo el gran corazon de Gaia."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Habitar el centro de la rueda con la paz absoluta."
+            }
+        ]
+    }
+]

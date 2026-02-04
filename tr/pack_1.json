@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Eğitici",
+            "subcategory": "Giriş",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BILMECE",
+                    "riddle": "Kılık değiştirmiş bir soru.",
+                    "riddle_hard": "Merakla paketlenmiş bir sır."
+                },
+                {
+                    "word": "YOL",
+                    "riddle": "Çimenlerin üzerindeki toprak şerit.",
+                    "riddle_hard": "Tek bir kelime bile etmeyen bir rehber."
+                },
+                {
+                    "word": "USTA",
+                    "riddle": "Tahtanın patronu.",
+                    "riddle_hard": "Tüm anahtarları elinde tutan kişi.",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Doğa",
+            "subcategory": "Gökyüzü",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "GÖK",
+                    "riddle": "Hiç boyanması gerekmeyen tavan.",
+                    "riddle_hard": "Kuşların yüzdüğü mavi bir okyanus."
+                },
+                {
+                    "word": "GÜNEŞ",
+                    "riddle": "Gökyüzündeki dev ampul.",
+                    "riddle_hard": "Hiç kırpmayan altın göz."
+                },
+                {
+                    "word": "HAVA",
+                    "riddle": "Akciğerlerin için görünmez yiyecek.",
+                    "riddle_hard": "Kutudaki şeffaf rüzgar."
+                }
+            ]
+        }
+    ]
+}

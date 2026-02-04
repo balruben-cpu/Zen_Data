@@ -1,0 +1,462 @@
+[
+    {
+        "level_id": 501,
+        "grid_size": 4,
+        "complexity": 5.1,
+        "category": "El Viaje Interior",
+        "subcategory": "Silencio",
+        "puzzles": [
+            {
+                "word": "PAZ",
+                "riddle": "La puerta dorada que se abre cuando el ruido termina."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Escuchar el latido del propio corazon en la calma."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Estar vacio de palabras para estar lleno de luz."
+            }
+        ]
+    },
+    {
+        "level_id": 502,
+        "grid_size": 4,
+        "complexity": 5.2,
+        "category": "El Viaje Interior",
+        "subcategory": "Espejo",
+        "puzzles": [
+            {
+                "word": "VEO",
+                "riddle": "Mirar mas alla de la forma que el mundo nos ha dado."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El cristal cristalino donde se refleja la verdad."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Comprender que lo que ves en otros habita en ti."
+            }
+        ]
+    },
+    {
+        "level_id": 503,
+        "grid_size": 4,
+        "complexity": 5.3,
+        "category": "El Viaje Interior",
+        "subcategory": "Respiro",
+        "puzzles": [
+            {
+                "word": "AIRE",
+                "riddle": "El hilo de plata que une el afuera con el adentro."
+            },
+            {
+                "word": "VIVE",
+                "riddle": "Sentir la ola de vida que nos recorre en cada pausa."
+            },
+            {
+                "word": "SER",
+                "riddle": "Habitar el aire con la consciencia del presente."
+            }
+        ]
+    },
+    {
+        "level_id": 504,
+        "grid_size": 4,
+        "complexity": 5.4,
+        "category": "El Viaje Interior",
+        "subcategory": "Senda",
+        "puzzles": [
+            {
+                "word": "PASO",
+                "riddle": "Caminar hacia el centro sin buscar llegar a ninguna parte."
+            },
+            {
+                "word": "GUÍA",
+                "riddle": "La voz interior que conoce el camino sin usar mapas."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El anhelo de ser libre de las cadenas del deseo."
+            }
+        ]
+    },
+    {
+        "level_id": 505,
+        "grid_size": 4,
+        "complexity": 5.5,
+        "category": "El Viaje Interior",
+        "subcategory": "Zen de la Calma",
+        "puzzles": [
+            {
+                "word": "NADA",
+                "riddle": "No hay tormenta que pueda agitar el fondo del lago."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Sentarse quieto y dejar que el mundo siga su curso."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La sabiduria de no luchar contra lo que ya es."
+            }
+        ]
+    },
+    {
+        "level_id": 506,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "El Viaje Interior",
+        "subcategory": "Escucha",
+        "puzzles": [
+            {
+                "word": "OÍR",
+                "riddle": "Prestar oido a lo que el silencio tiene que decirte."
+            },
+            {
+                "word": "VERDE",
+                "riddle": "Sentir la frescura de una idea que nace en la quietud."
+            },
+            {
+                "word": "MANO",
+                "riddle": "Soltar el control para recibir el don del instante."
+            },
+            {
+                "word": "SER",
+                "riddle": "Ser un recipiente abierto a la musica del universo."
+            }
+        ]
+    },
+    {
+        "level_id": 507,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "El Viaje Interior",
+        "subcategory": "Luz Interna",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "Encender la llama que no se apaga con el viento."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que brilla cuando cerramos los ojos."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Descubrir que el universo entero late en tu pecho."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la chispa y el incendio, el centro y la orilla."
+            }
+        ]
+    },
+    {
+        "level_id": 508,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "El Viaje Interior",
+        "subcategory": "Despertar",
+        "puzzles": [
+            {
+                "word": "VERA",
+                "riddle": "Correr el velo que nos ocultaba la belleza real."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La vision que nace directamente del corazon limpio."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Volver a ser el niño que se asombra ante la nada."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Sentir que cada latido es un nuevo nacimiento."
+            }
+        ]
+    },
+    {
+        "level_id": 509,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "El Viaje Interior",
+        "subcategory": "Aceptación",
+        "puzzles": [
+            {
+                "word": "TOMA",
+                "riddle": "Recibir la lluvia y el sol con la misma sonrisa."
+            },
+            {
+                "word": "BAJO",
+                "riddle": "Dejar caer las defensas para ser verdaderamente fuerte."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "La serenidad del cielo que no teme a las nubes."
+            },
+            {
+                "word": "SER",
+                "riddle": "Amistarse con la sombra para encontrar la luz."
+            }
+        ]
+    },
+    {
+        "level_id": 510,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "El Viaje Interior",
+        "subcategory": "Zen del Ser",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "No busques fuera lo que solo puede hallarse dentro."
+            },
+            {
+                "word": "NADA",
+                "riddle": "El tesoro mas grande es no necesitar poseer nada."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Comprender que el observador y lo observado son uno."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "Descansar en la presencia pura, sin juicios ni tiempo."
+            }
+        ]
+    },
+    {
+        "level_id": 511,
+        "grid_size": 4,
+        "complexity": 6.1,
+        "category": "El Viaje Interior",
+        "subcategory": "Consciencia",
+        "puzzles": [
+            {
+                "word": "VEO",
+                "riddle": "Estar despierto mientras el mundo aun duerme en el deseo."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que no se apaga cuando el sol se retira."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Sentir que cada acto pequeño es una danza sagrada."
+            }
+        ]
+    },
+    {
+        "level_id": 512,
+        "grid_size": 4,
+        "complexity": 6.2,
+        "category": "El Viaje Interior",
+        "subcategory": "Vacío",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "El espacio libre donde todas las cosas pueden ser."
+            },
+            {
+                "word": "PURA",
+                "riddle": "La mente que no retiene nada, como un cielo sin nubes."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Hallar la plenitud en medio de la ausencia de formas."
+            }
+        ]
+    },
+    {
+        "level_id": 513,
+        "grid_size": 4,
+        "complexity": 6.3,
+        "category": "El Viaje Interior",
+        "subcategory": "Reflejo II",
+        "puzzles": [
+            {
+                "word": "AZUL",
+                "riddle": "La calma del estanque que muestra la verdad sin distorsion."
+            },
+            {
+                "word": "JOYA",
+                "riddle": "La joya que brilla en el fondo de un pensamiento sereno."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Reconocerse en la mirada de todo lo que nos rodea."
+            }
+        ]
+    },
+    {
+        "level_id": 514,
+        "grid_size": 4,
+        "complexity": 6.4,
+        "category": "El Viaje Interior",
+        "subcategory": "Puente",
+        "puzzles": [
+            {
+                "word": "MANO",
+                "riddle": "Extender la bondad hacia las sombras que temen la luz."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Cruzar el abismo que separa el yo de los otros."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La union que nace de comprender que no hay separacion."
+            }
+        ]
+    },
+    {
+        "level_id": 515,
+        "grid_size": 4,
+        "complexity": 6.5,
+        "category": "El Viaje Interior",
+        "subcategory": "Zen de la Visión",
+        "puzzles": [
+            {
+                "word": "VERA",
+                "riddle": "Mirar con los ojos del alma lo que la razon no alcanza."
+            },
+            {
+                "word": "NADA",
+                "riddle": "No hay misterio, solo una falta de quietud para ver."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente una presencia que observa el fluir de la vida."
+            }
+        ]
+    },
+    {
+        "level_id": 516,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "El Viaje Interior",
+        "subcategory": "Desapego II",
+        "puzzles": [
+            {
+                "word": "BAJO",
+                "riddle": "Soltar la orilla para ser llevado por la corriente."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Ser tan ligero que ni siquiera el pensamiento nos pese."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "Volar por encima de las cumbres del orgullo y del miedo."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "Vivir intensamente cada segundo sin intentar retenerlo."
+            }
+        ]
+    },
+    {
+        "level_id": 517,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "El Viaje Interior",
+        "subcategory": "Misterio",
+        "puzzles": [
+            {
+                "word": "FOCO",
+                "riddle": "La pregunta que no tiene respuesta, sino silencio."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La belleza de lo incognoscible que nos invita a entrar."
+            },
+            {
+                "word": "HIJO",
+                "riddle": "Ser el heredero de un secreto que se cuenta sin palabras."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Hallar el centro del laberinto en el propio latido."
+            }
+        ]
+    },
+    {
+        "level_id": 518,
+        "grid_size": 5,
+        "complexity": 6.8,
+        "category": "El Viaje Interior",
+        "subcategory": "Quietud II",
+        "puzzles": [
+            {
+                "word": "PASO",
+                "riddle": "Estar tan quieto que la naturaleza nos confunda con roca."
+            },
+            {
+                "word": "PURO",
+                "riddle": "El cristal de la mente que no se empaña con el deseo."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La compañia perfecta de quien se siente en su centro."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "La radiacion que emite un ser en paz con todo lo que es."
+            }
+        ]
+    },
+    {
+        "level_id": 519,
+        "grid_size": 5,
+        "complexity": 6.9,
+        "category": "El Viaje Interior",
+        "subcategory": "Retorno",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "Volver al lugar de donde nunca salimos realmente."
+            },
+            {
+                "word": "DARO",
+                "riddle": "Ofrecer el fruto de la busqueda a los que aun caminan."
+            },
+            {
+                "word": "TOMA",
+                "riddle": "Beber de la fuente que mana en el desierto del olvido."
+            },
+            {
+                "word": "UNO",
+                "riddle": "El viaje termina donde empezo, pero con ojos nuevos."
+            }
+        ]
+    },
+    {
+        "level_id": 520,
+        "grid_size": 5,
+        "complexity": 7.0,
+        "category": "El Viaje Interior",
+        "subcategory": "Zen del Viaje",
+        "puzzles": [
+            {
+                "word": "ZEN",
+                "riddle": "No hay meta, el camino es el destino en cada paso."
+            },
+            {
+                "word": "NADA",
+                "riddle": "Llegar al final y descubrir que siempre estuvimos en casa."
+            },
+            {
+                "word": "SER",
+                "riddle": "La plenitud de habitar el instante sin buscar otra cosa."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La sonrisa del Buda que florece en tu propio pecho."
+            }
+        ]
+    }
+]

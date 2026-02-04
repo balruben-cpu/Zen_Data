@@ -1,0 +1,50 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 5,
+            "category": "Light",
+            "subcategory": "Radiance",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GLOW",
+                    "riddle": "A soft, steady light that remains without a flame.",
+                    "riddle_hard": "The lingering warmth of a dying ember's silent smile.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BEAM",
+                    "riddle": "A concentrated line of light or radiation.",
+                    "riddle_hard": "A bridge of radiance connecting the distant star to the seeking eye.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHINE",
+                    "riddle": "To give off or reflect a bright, clear light.",
+                    "riddle_hard": "The soul's quiet attempt to mirror the midday sun.",
+                    "is_hard": true
+                },
+                {
+                    "word": "RAY",
+                    "riddle": "A single narrow path of light coming from the sun.",
+                    "riddle_hard": "A golden needle sewing the vast sky to the heavy earth.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUMEN",
+                    "riddle": "The unit used to measure the flow of visible light.",
+                    "riddle_hard": "The silent heartbeat of a flickering candle in the dark.",
+                    "is_hard": true
+                },
+                {
+                    "word": "HALO",
+                    "riddle": "A circle of light shown around the head of a sacred figure.",
+                    "riddle_hard": "The crown of silver mist worn by the moon in a moment of prayer.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

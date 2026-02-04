@@ -1,0 +1,3914 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Ներածություն",
+            "subcategory": "Սկիզբ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՀԱՆԵԼՈՒԿ",
+                    "riddle": "Ունեմ լուծում, բայց խնդիր չեմ։",
+                    "riddle_hard": "Մտքի թակարդ եմ, մինչև չգուշակես։",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒՂԻ",
+                    "riddle": "Կյանքի ճանապարհ:",
+                    "riddle_hard": "Հետք, որը տանում է դեպի նպատակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴՈՒՌ",
+                    "riddle": "Բացիր, որ մտնես տուն:",
+                    "riddle_hard": "Ունի բռնակ, բայց չունի ձեռք",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Երկինք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԵՐԿԻՆՔ",
+                    "riddle": "Գիշերը՝ աստղեր, ցերեկը՝ ամպեր:",
+                    "riddle_hard": "Կապույտ օվկիանոս, որը երբեք չի թրջում ափերը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Առանց կրակի տաքացնում է բոլորին:",
+                    "riddle_hard": "Տիեզերքի կենտրոնական բոցը, որը սնում է կյանքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴ",
+                    "riddle": "Անտեսանելի կենսատու պարգև:",
+                    "riddle_hard": "Ամենուր է, բայց չես տեսնում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՍՏՂ",
+                    "riddle": "Գիշերային երկնքի կայծ:",
+                    "riddle_hard": "Հեռավոր աշխարհների արցունքներ մթության մեջ:",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 3,
+            "grid_size": 4,
+            "category": "Վերացական",
+            "subcategory": "Փիլիսոփայություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Անունս տաս՝ կոչնչանամ։",
+                    "riddle_hard": "Որքան շատ եմ, այնքան քիչ կլսես։",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՉԻՆՉ",
+                    "riddle": "Կույրը տեսնում է, համրը՝ խոսում:",
+                    "riddle_hard": "Միակ բանը, որը կարող է տանել ձեզ հետ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԻՉ",
+                    "riddle": "Շատի հակառակն եմ:",
+                    "riddle_hard": "Ավելին լիներ, բավարար կլիներ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Մղում է առաջ՝ հաղթելով ամեն ինչ։",
+                    "riddle_hard": "Անտեսանելի ղեկ՝ ճակատագրի ձեռքում։",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 4,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Անտառ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԾԱՌ",
+                    "riddle": "Կանաչ երկնասլաց հսկա:",
+                    "riddle_hard": "Երկրի թոքերը, որոնք խոսում են քամու հետ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՐԵՎ",
+                    "riddle": "Կանաչ փոքրիկ առագաստ:",
+                    "riddle_hard": "Անտառի լուռ ձեռագիրը աշնանային քամուն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐՄԱՏ",
+                    "riddle": "Խարսխված թաքնված ուժ:",
+                    "riddle_hard": "Գետնի տակ պահված հիշողություն և հենարան:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՑ",
+                    "riddle": "Կյանքի սնունդ:",
+                    "riddle_hard": "Հողի և արևի համբերության արդյունքը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 5,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Օվկիանոս",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Կենսատու թափանցիկ հեղուկ:",
+                    "riddle_hard": "Անձև տարերք, որը հաղթում է ամենակարծր քարին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՍՔ",
+                    "riddle": "Անընդհատ և սահուն ընթացք:",
+                    "riddle_hard": "Ժամանակի արտացոլանքը լեռնային վտակի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԼԻՔ",
+                    "riddle": "Սպիտակափրփուր ծովային ճամփորդ:",
+                    "riddle_hard": "Օվկիանի բարձրացող և խոնարհվող շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽՈՐՔ",
+                    "riddle": "Օվկիանի լուռ խորություն:",
+                    "riddle_hard": "Այնտեղ, որտեղ արևի լույսը չի հասնում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 6,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Տարերք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿՐԱԿ",
+                    "riddle": "Պարող ջերմ բոց:",
+                    "riddle_hard": "Անմար կիրք, որը կանչում է գիշերվա մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Մեղմ և պայծառ լույս:",
+                    "riddle_hard": "Այն, ինչ մնում է աչքերում տեսիլքից հետո:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԱՔ",
+                    "riddle": "Հաճելի և հանգիստ ջերմություն:",
+                    "riddle_hard": "Գարնան առաջին հպումը սառած հողին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Մթության թշնամին:",
+                    "riddle_hard": "Ճշմարտության շողը մտքի խավարում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 7,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Երկիր",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՀՈՂ",
+                    "riddle": "Մութ կենսատու շերտ:",
+                    "riddle_hard": "Համբերատար մայր, որն ընդունում է բոլոր սերմերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓՈՇԻ",
+                    "riddle": "Լույսի մեջ պարող մասնիկներ:",
+                    "riddle_hard": "Անցյալի մանրացված հետքերը օդի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐՄ",
+                    "riddle": "Կյանքի փոքրիկ սկիզբ:",
+                    "riddle_hard": "Հողի մեջ թաքնված ապագա անտառը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Լուռ ներդաշնակություն:",
+                    "riddle_hard": "Փոթորկից հետո եկած լռությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 8,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Անձրև",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Ամպերից թափվող կյանք:",
+                    "riddle_hard": "Երկնքի արցունքը, որը սնում է հողը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱԹԻԼ",
+                    "riddle": "Ջրի փոքրիկ մարգարիտ:",
+                    "riddle_hard": "Օվկիանի հայելին մեկ փոքրիկ կետի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԱՑ",
+                    "riddle": "Փոթորկից հետո թարմ զգացողություն:",
+                    "riddle_hard": "Հպում, որը հիշեցնում է ջրի ներկայության մասին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՍԿԻ",
+                    "riddle": "Թանկարժեք մետաղ:",
+                    "riddle_hard": "Արևի արցունքը երկրի ընդերքում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 9,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Ձմեռ",
+            "complexity": 1.7999999523162842,
+            "puzzles": [
+                {
+                    "word": "ՁՅՈՒՆ",
+                    "riddle": "Իջնող սպիտակ լռություն:",
+                    "riddle_hard": "Երկրի ձմեռային քունը ծածկող սպիտակ ծածկոց:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՑՈՒՐՏ",
+                    "riddle": "Հյուսիսային քամու համբույր:",
+                    "riddle_hard": "Անտեսանելի դանակ, որը սառեցնում է շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԱՌԸ",
+                    "riddle": "Հոսելը մոռացած ջուր:",
+                    "riddle_hard": "Ժամանակի կանգնեցված հոսքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴ",
+                    "riddle": "Ձմեռային սառը շունչ:",
+                    "riddle_hard": "Անտեսանելի տարերք լռության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 10,
+            "grid_size": 4,
+            "category": "Միտք",
+            "subcategory": "Լռություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Անձայն վիճակ:",
+                    "riddle_hard": "Պատասխան բոլոր հարցերին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՆԳ",
+                    "riddle": "Մտքի հանգիստ վիճակ:",
+                    "riddle_hard": "Լռության մեջ գտնված ներդաշնակություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՅԼ",
+                    "riddle": "Շարժման լուռ միավոր:",
+                    "riddle_hard": "Ճանապարհի սկիզբը և շարունակությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԻՏՔ",
+                    "riddle": "Գիտակցության թռիչք:",
+                    "riddle_hard": "Անտեսանելի կայծ լռության օվկիանում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 11,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Լեռներ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԱԳԱԹ",
+                    "riddle": "Լեռան բարձրագույն կետ:",
+                    "riddle_hard": "Վերջին կանգառը երկրի և երկնքի միջև:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԺԱՅՌ",
+                    "riddle": "Հսկա քարե պատ:",
+                    "riddle_hard": "Քարացած հսկա, որը երբեք չի թարթում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՆՋ",
+                    "riddle": "Լեռան թեք մակերևույթ:",
+                    "riddle_hard": "Արահետի թեքվածքը, որը փորձում է կամքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐՁԱԳԱՆՔ",
+                    "riddle": "Լեռների կրկնվող ձայն:",
+                    "riddle_hard": "Լռության պատասխանը ձեր բառերով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՐԻ",
+                    "riddle": "Դրական որակ:",
+                    "riddle_hard": "Այն, ինչը սնունդ է բարի հոգու համար:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 12,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Անապատ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՎԱԶ",
+                    "riddle": "Ոսկե փոշու ծով:",
+                    "riddle_hard": "Հազարավոր լռակյաց քարերի մանրացված հիշողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏՈԹ",
+                    "riddle": "Արևի կիզիչ շունչ:",
+                    "riddle_hard": "Անտեսանելի կրակ, որը խմում է խոնավությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԱԶԻՍ",
+                    "riddle": "Կանաչ կղզի ավազներում:",
+                    "riddle_hard": "Հրաշք, որը թաքնված է ոսկե ալիքների տակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋԵՐՄ",
+                    "riddle": "Արևի ջերմությունը:",
+                    "riddle_hard": "Անտեսանելի կրակ, որը շոյում է մաշկը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 13,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Դաշտ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԴԱՇՏ",
+                    "riddle": "Երկրի կանաչ գորգ:",
+                    "riddle_hard": "Հազարավոր նուրբ նիզակներ քամուն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՍԿ",
+                    "riddle": "Հացահատիկի ոսկե օրորոց:",
+                    "riddle_hard": "Ամառվա ջերմության մեջ հասունացած գաղտնիք:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՄԻ",
+                    "riddle": "Ազատ տարածության թափառական:",
+                    "riddle_hard": "Անտեսանելի ձեռք դաշտերի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Մեր ներսի լույսը:",
+                    "riddle_hard": "Այն, ինչը երբեք չի ծերանում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 14,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Ծաղիկներ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՎԱՐԴ",
+                    "riddle": "Փշոտ այգու թագուհի:",
+                    "riddle_hard": "Գեղեցկություն, որը պաշտպանում է իրեն սուր զենքով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՏՈՍ",
+                    "riddle": "Ջրերի սուրբ ծաղիկ:",
+                    "riddle_hard": "Մաքրություն, որը ծնվում է լճի տիղմի խորքից:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՏ",
+                    "riddle": "Ծաղկի անտեսանելի հոգի:",
+                    "riddle_hard": "Օդի մեջ լուծված քնքուշ հիշողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Սրտի լեզուն:",
+                    "riddle_hard": "Ամենամեծ ուժը տիեզերքում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 15,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Թռչուններ",
+            "complexity": 2.4000000953674318,
+            "puzzles": [
+                {
+                    "word": "ՓԵՏՈՒՐ",
+                    "riddle": "Թեթև երկնային հպում:",
+                    "riddle_hard": "Այն, ինչ թողնում է թռչունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲՈՒՅՆ",
+                    "riddle": "Տուն ճյուղերի միջև:",
+                    "riddle_hard": "Փոքրիկ աշխարհ՝ հյուսված ճյուղերից:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԾԻՎ",
+                    "riddle": "Լեռների զավակ:",
+                    "riddle_hard": "Արարատի հավերժական պահապանը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 16,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Քարանձավ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՄՈՒԹ",
+                    "riddle": "Խորը հողի լռություն:",
+                    "riddle_hard": "Աչքերի համար անտեսանելի դարձած իրականություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄՈՒՏՔ",
+                    "riddle": "Երկրի հավերժական պահապան:",
+                    "riddle_hard": "Լուռ վկա, որը տեսել է դարերի սկիզբը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐ",
+                    "riddle": "Ամուր նյութ:",
+                    "riddle_hard": "Երկրի ընդերքի հնագույն զարկերակը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՍԿԻ",
+                    "riddle": "Փայլուն մետաղ:",
+                    "riddle_hard": "Ժամանակի արևը քարի մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 17,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Ծիածան",
+            "complexity": 2.5999999046325685,
+            "puzzles": [
+                {
+                    "word": "ԱՂԵՂ",
+                    "riddle": "Երկնային գունավոր կոր:",
+                    "riddle_hard": "Լույսի բեկված ժպիտը երկնքին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳՈՒՅՆ",
+                    "riddle": "Լույսի բեկված մասնիկ:",
+                    "riddle_hard": "Զգացողություն, որը կյանք է տալիս:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Ամպերը ծակող լույս:",
+                    "riddle_hard": "Արևի նուրբ մատը, որը շոյում է աշխարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Անտեսանելի ճրագ:",
+                    "riddle_hard": "Այն, ինչը բացում է աշխարհի գույները:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 18,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Խոհանոց",
+            "complexity": 2.700000047683716,
+            "puzzles": [
+                {
+                    "word": "ՀԱՑ",
+                    "riddle": "Սեղանի կյանքի հիմք:",
+                    "riddle_hard": "Արևի և հողի համբերության համեղ արդյունքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍՈՒՐՃ",
+                    "riddle": "Ջերմ լցված բաժակ:",
+                    "riddle_hard": "Տերևների մեջ թաքնված անտառի տաք շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՂԱՆ",
+                    "riddle": "Ընտանեկան հանդիպման վայր:",
+                    "riddle_hard": "Չորս ոտքով հենարան հույսի համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՃԱՇ",
+                    "riddle": "Բարի երեկոյան ավանդույթ:",
+                    "riddle_hard": "Օրվա վերջին հանգրվանը սեղանի շուրջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՆԻՐ",
+                    "riddle": "Համեղ ուտեստ:",
+                    "riddle_hard": "Սպիտակ գանձ խոհանոցի խորքում:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՂԵՐ",
+                    "riddle": "Համի համեմունք:",
+                    "riddle_hard": "Սպիտակ բյուրեղյա լռություն:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 19,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Առավոտ",
+            "complexity": 2.799999952316284,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պատուհանից ներս հյուր:",
+                    "riddle_hard": "Առաջին զարթուցիչը կոպերի տակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Առավոտյան ոսկե շող:",
+                    "riddle_hard": "Երկնային աչք, որը բացվում է լուսաբացին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԿԻԶԲ",
+                    "riddle": "Օրվա սկիզբը:",
+                    "riddle_hard": "Արևի առաջին ժպիտը երկրին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Ճանապարհի սկզբի ուժ:",
+                    "riddle_hard": "Լվացված աշխարհի զգացողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔՈՒՆ",
+                    "riddle": "Գիշերային հանգիստ:",
+                    "riddle_hard": "Փոքրիկ մահ, որը վերածնում է ուժերը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԵՍ",
+                    "riddle": "Ո՞վ ես դու:",
+                    "riddle_hard": "Աշխարհի կենտրոնը քո համար:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 20,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Այգի",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԹՈՒՓ",
+                    "riddle": "Ցածրահասակ կանաչ կույտ:",
+                    "riddle_hard": "Ծառից փոքր, խոտից մեծ բույս:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՑՈՂԱՄԱՆ",
+                    "riddle": "Ծաղիկների ձեռքի անձրև:",
+                    "riddle_hard": "Մետաղյա ամպ, որը բերում է կանաչ փրկություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊՏՈՒՂ",
+                    "riddle": "Աշխատանքի քաղցր պարգև:",
+                    "riddle_hard": "Ծառի վրա ծնված համեղ գանձ՝ արևից հասած:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԾԻԼ",
+                    "riddle": "Հողից ծնված կանաչ սկիզբ:",
+                    "riddle_hard": "Գետնի տակից դեպի արևը ձգվող առաջին շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԾԱՂԻԿ",
+                    "riddle": "Բնության գունավոր ժպիտը:",
+                    "riddle_hard": "Ցողունի գագաթին բացված գեղեցկություն:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 21,
+            "grid_size": 4,
+            "category": "Տուն",
+            "subcategory": "Հյուրասենյակ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱԹՈՌ",
+                    "riddle": "Տան տաք զգացողություն:",
+                    "riddle_hard": "Այն, ինչը ստիպում է հանգստանալ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻՐ",
+                    "riddle": "Դարակի աշխարհների դուռ:",
+                    "riddle_hard": "Թղթե թևեր, որոնք տանում են ձեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՄՊ",
+                    "riddle": "Երեկոյան արև:",
+                    "riddle_hard": "Ապակե բանտարկված լույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՅՍ",
+                    "riddle": "Լավի սպասումը:",
+                    "riddle_hard": "Ամենավերջինը մարող ճրագը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 22,
+            "grid_size": 4,
+            "category": "Տուն",
+            "subcategory": "Ննջասենյակ",
+            "complexity": 3.0999999046325685,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Քնի լավագույն ընկեր:",
+                    "riddle_hard": "Անտեսանելի վերմակ աշխարհի դեմ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՆԳ",
+                    "riddle": "Վաստակած դադար օրից:",
+                    "riddle_hard": "Ուժերի վերականգնում մթության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԵՐԱԶ",
+                    "riddle": "Գիշերային պատկերներ:",
+                    "riddle_hard": "Կինոթատրոն կոպերի տակ, դուք գլխավոր դերում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐԸ",
+                    "riddle": "Սրտի զարկ:",
+                    "riddle_hard": "Անմահ զգացմունք:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 23,
+            "grid_size": 4,
+            "category": "Տուն",
+            "subcategory": "Մաքրություն",
+            "complexity": 3.200000047683716,
+            "puzzles": [
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Մաքրության պայծառ պարգև:",
+                    "riddle_hard": "Արևի արտացոլանքը մաքուր մակերեսի ժպիտի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՎԵԼ",
+                    "riddle": "Փոշու դեմ օգնական:",
+                    "riddle_hard": "Ձեռքի փայտե պոչով կախարդ, որը ցրում է կեղտը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՐԳ",
+                    "riddle": "Իրերի ճիշտ տեղը:",
+                    "riddle_hard": "Խառնաշփոթի վերջը և մտքի հանգստության սկիզբը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏՈՒՆ",
+                    "riddle": "Ամենահարազատ վայրը:",
+                    "riddle_hard": "Ակրոպոլիսից մինչև խրճիթ, սա հոգու տեղն է:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 24,
+            "grid_size": 4,
+            "category": "Տուն",
+            "subcategory": "Ստեղծագործություն",
+            "complexity": 3.299999952316284,
+            "puzzles": [
+                {
+                    "word": "ԳՐԻՉ",
+                    "riddle": "Մտքերի թղթե հաղորդիչ:",
+                    "riddle_hard": "Մագաղաթի վրա պարող թանաքե սուրը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՆԵՐԿ",
+                    "riddle": "Վառ աշխարհի գործիք:",
+                    "riddle_hard": "Հեղուկ ծիածան վրձնի հպմանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿՏԱՎ",
+                    "riddle": "Երևակայության տարածք:",
+                    "riddle_hard": "Սպիտակ դաշտ երազների համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՑ",
+                    "riddle": "Սեղանի օրհնությունը:",
+                    "riddle_hard": "Արևի ոսկին՝ թխված սիրով:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 25,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Անտառ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՍՈՃԻ",
+                    "riddle": "Մշտադալար անտառի պահապան:",
+                    "riddle_hard": "Ասեղնագործ հսկա, որը միշտ զգեստով է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿՈՆ",
+                    "riddle": "Ապագա ծառի օրորոց:",
+                    "riddle_hard": "Անտառի պաշտպանված սաղմը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԵԺ",
+                    "riddle": "Անտառային ոսկե արցունք:",
+                    "riddle_hard": "Ծառի արյունը, որը դառնում է սաթ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Լռության տունը:",
+                    "riddle_hard": "Հոգու հանգրվանը երկար ճամփից հետո:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՆԱՉ",
+                    "riddle": "Անտառի գույնը:",
+                    "riddle_hard": "Բնության ամենավառ երանգը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԾԱՌԵՐ",
+                    "riddle": "Անտառի հիմքը:",
+                    "riddle_hard": "Կանաչ հսկաների բազմությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 26,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Գետ",
+            "complexity": 3.5,
+            "puzzles": [
+                {
+                    "word": "ԱՓԵՐԸ",
+                    "riddle": "Վազող ջրի սահման:",
+                    "riddle_hard": "Հողի և ջրի հանդիպման վայրը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԵՏԱԿ",
+                    "riddle": "Գետի հարթած ճանապարհ:",
+                    "riddle_hard": "Ժայռը ծակող համբերության հետքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՎԱԶ",
+                    "riddle": "Գետի հատակի ոսկի:",
+                    "riddle_hard": "Ջրի տակ պահված ժամանակի հատիկները:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼՈՒՆ",
+                    "riddle": "Շողշողացող:",
+                    "riddle_hard": "Այն, ինչը արտացոլում է լույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Կենդանի տարերք:",
+                    "riddle_hard": "Հոսող և կյանք տվող հեղուկը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 27,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Լիճ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՋԻՆՋ",
+                    "riddle": "Ջրի անհողմ մակերես:",
+                    "riddle_hard": "Բնության պատկերը ջրի վրա:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԵՂԵԳ",
+                    "riddle": "Շշնջացող անտառ:",
+                    "riddle_hard": "Ջրային բնակչի լուռ պահապանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Մաքուր տարերք:",
+                    "riddle_hard": "Ամեն ինչ լվացող հավերժական լուծիչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Անմահ մասնիկ:",
+                    "riddle_hard": "Մարմնի լուռ բնակիչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՎ",
+                    "riddle": "Հանգիստ վիճակ:",
+                    "riddle_hard": "Լռության մեջ գտնված խաղաղություն:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՓԵՐ",
+                    "riddle": "Ջրի սահմանը:",
+                    "riddle_hard": "Լճի ափին գտնվող հողը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 28,
+            "grid_size": 5,
+            "category": "Միտք",
+            "subcategory": "Գիտելիք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՄԻՏՔ",
+                    "riddle": "Գիտակցության անտեսանելի կայծ:",
+                    "riddle_hard": "Ամենաարագ թռչունը առանց թևերի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓՈՐՁ",
+                    "riddle": "Ժամանակի իմաստություն:",
+                    "riddle_hard": "Սխալների և հաղթանակների բեռը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՍ",
+                    "riddle": "Կյանքի պարգև:",
+                    "riddle_hard": "Ճակատագրի հուշումը սրտով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառ շող:",
+                    "riddle_hard": "Այն, ինչը ցույց է տալիս ճանապարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻՐՔ",
+                    "riddle": "Գիտելիքի փոքրիկ մասնիկ:",
+                    "riddle_hard": "Այն, ինչը սովորում ենք ամեն օր:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳՐՔԵՐ",
+                    "riddle": "Գիտելիքի պահապաններ:",
+                    "riddle_hard": "Թղթե աշխարհների լուռ բնակիչները:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 29,
+            "grid_size": 5,
+            "category": "Միտք",
+            "subcategory": "Ուշադրություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՏԵՍԻԼ",
+                    "riddle": "Աշխարհին ուղղված շող:",
+                    "riddle_hard": "Հոգու պատուհանը աշխարհի համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՆՇԱՆ",
+                    "riddle": "Տեսողության սրություն:",
+                    "riddle_hard": "Ուշադրության կենտրոնը մեկ կետում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓՈՐՁ",
+                    "riddle": "Պատասխանների ճամփորդություն:",
+                    "riddle_hard": "Ճշմարտության հետքերով անվերջ արշավ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԻՐՏ",
+                    "riddle": "Միավորող ուժ:",
+                    "riddle_hard": "Աշխարհի ամենահզոր գաղտնիքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Ներքին կարողություն:",
+                    "riddle_hard": "Այն, ինչը մղում է առաջ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՏԵՍՔ",
+                    "riddle": "Տեսողության օրգան:",
+                    "riddle_hard": "Լույսի և գույնի ընկալման աղբյուրը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 30,
+            "grid_size": 5,
+            "category": "Միտք",
+            "subcategory": "Հիշողություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՊԱՏԿԵՐ",
+                    "riddle": "Հոգում պահվող նկար:",
+                    "riddle_hard": "Անցյալի արտացոլանքը մտքի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԵՏՔ",
+                    "riddle": "Իրադարձության մնացորդ:",
+                    "riddle_hard": "Այն, ինչը ժամանակը չի ջնջել:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՊԸ",
+                    "riddle": "Անցյալի և ներկայի թել:",
+                    "riddle_hard": "Անտեսանելի կամուրջ մարդկանց միջև:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՐԸ",
+                    "riddle": "Ժամանակի մեծ հատված:",
+                    "riddle_hard": "Հարյուր տարվա լուռ պատմությունը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՀԻՇԱՏԱԿ",
+                    "riddle": "Վառ հիշողություն:",
+                    "riddle_hard": "Անցյալի անմար կրակը հոգում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 31,
+            "grid_size": 4,
+            "category": "Առողջություն",
+            "subcategory": "Սպորտ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Մկանների թաքնված էներգիա:",
+                    "riddle_hard": "Ներքին հզորություն հաղթահարման պահին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՎԱԶՔ",
+                    "riddle": "Արագ պար քամու հետ:",
+                    "riddle_hard": "Տարածության նվաճումը սեփական ռիթմով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Թարմ օդի կում:",
+                    "riddle_hard": "Կյանքի վառելանյութը, որը կապում է մեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Մեր ներքին կայծը:",
+                    "riddle_hard": "Այն, ինչը երբեք չի հոգնում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 32,
+            "grid_size": 4,
+            "category": "Առողջություն",
+            "subcategory": "Ջուր",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՂԱ",
+                    "riddle": "Ճամփորդություն լողավազանում:",
+                    "riddle_hard": "Մարմնի թեթև պարը ջրի գրկում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՑՈՂ",
+                    "riddle": "Առավոտյան թարմ կաթիլներ:",
+                    "riddle_hard": "Գիշերվա լուռ խոնավությունը՝ ադամանդի պես:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԼԻՔ",
+                    "riddle": "Զովություն բերող շարժում:",
+                    "riddle_hard": "Ջրի բարձրացող ողջույնը ափին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Լուռ վիճակ:",
+                    "riddle_hard": "Երբ սիրտն ու միտքը լռում են միասին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 33,
+            "grid_size": 4,
+            "category": "Առողջություն",
+            "subcategory": "Յոգա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՀԵՆՔ",
+                    "riddle": "Մարմնի կայուն դիրք:",
+                    "riddle_hard": "Երկրի և մարմնի միջև հավասարակշռություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Ներքին խաղաղություն:",
+                    "riddle_hard": "Մտքի լռեցված փոթորիկը և իմաստությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԻԳ",
+                    "riddle": "Մարմնի ճկունություն և ուժ:",
+                    "riddle_hard": "Լարվածության և թուլացման նուրբ սահմանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Կյանքի ռիթմը:",
+                    "riddle_hard": "Անտեսանելի շարժում հոգու խորքում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 34,
+            "grid_size": 4,
+            "category": "Առողջություն",
+            "subcategory": "Սնունդ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՄԻՐԳ",
+                    "riddle": "Բնության վիտամինային պարգև:",
+                    "riddle_hard": "Արևի լույսով լցված համեղ գնդակ ճյուղից:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՄ",
+                    "riddle": "Ուտելիքի զգացողություն:",
+                    "riddle_hard": "Լեզվի վրա պարող քիմիական հիշողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԱՐՄ",
+                    "riddle": "Առողջ սննդի որակ:",
+                    "riddle_hard": "Կյանքի կենդանի շունչը բնության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՅՍ",
+                    "riddle": "Վաղվա լույսը:",
+                    "riddle_hard": "Այն, ինչը պահում է մեզ ամենամութ պահին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 35,
+            "grid_size": 5,
+            "category": "Հոգի",
+            "subcategory": "Ուրախություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԺՊԻՏ",
+                    "riddle": "Արևի շող դեմքին:",
+                    "riddle_hard": "Հոգու դուռը բացող կարճ ճանապարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒՐԱԽ",
+                    "riddle": "Հոգու պայծառ լույս:",
+                    "riddle_hard": "Աշխարհը գունավորող ներքին զգացողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԻՐՏ",
+                    "riddle": "Ամենահզոր ուժն աշխարհում:",
+                    "riddle_hard": "Անտեսանելի կրակ, որը տաքացնում է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՐԻՔ",
+                    "riddle": "Ամենամեծ բարիքը:",
+                    "riddle_hard": "Այն, ինչը ջերմացնում է առանց կրակի:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԽԻՆԴ",
+                    "riddle": "Ուրախության զգացում:",
+                    "riddle_hard": "Հոգու թռիչքը վառ գույների մեջ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Աշխարհի ամենամեծ ուժը:",
+                    "riddle_hard": "Անտեսանելի կապը ամեն ինչի միջև:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 36,
+            "grid_size": 5,
+            "category": "Հոգի",
+            "subcategory": "Խաղաղություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՅՍԸ",
+                    "riddle": "Հոգու ջերմ պարզություն:",
+                    "riddle_hard": "Գիտակցության ճառագայթ ներքին մառախուղում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՅՍ",
+                    "riddle": "Աստղ ամենամութ գիշերը:",
+                    "riddle_hard": "Ապագայի խոստումը ներկայի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Աշխարհը լավացնող որակ:",
+                    "riddle_hard": "Առաջին քայլը դեպի մարդու սրտի ազնվություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Լավ մարդու որակ:",
+                    "riddle_hard": "Այն, ինչը ջերմացնում է առանց կրակի:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԽԻՆԴ",
+                    "riddle": "Խորհրդավոր համաձայնություն:",
+                    "riddle_hard": "Պարզ և խաղաղ պատասխան:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 37,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Երաժշտություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՁԱՅՆ",
+                    "riddle": "Անտեսանելի ալիք:",
+                    "riddle_hard": "Օդի թրթիռ ձեր սրտի լարերին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՌԻԹՄԸ",
+                    "riddle": "Շարժող սրտի զարկ:",
+                    "riddle_hard": "Ժամանակի պարը հնչյունների մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՆՈՏԱ",
+                    "riddle": "Երաժշտական այբուբեն:",
+                    "riddle_hard": "Լռության մեջ դրված կանչ, որը սպասում է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՆՉՅՈՒՆ",
+                    "riddle": "Երաժշտության մասնիկ:",
+                    "riddle_hard": "Օդի մեջ ծնված և մարող կյանքը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԼԱՐԵՐ",
+                    "riddle": "Գործիքի թել:",
+                    "riddle_hard": "Թրթռացող հոգին երաժշտության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 38,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Նկարչություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՎՐՁԻՆ",
+                    "riddle": "Նկարչի գործիք:",
+                    "riddle_hard": "Գույների փայտիկը, որը կենդանացնում է կտավը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՏԿԵՐ",
+                    "riddle": "Կտավի վրա ծնված աշխարհ:",
+                    "riddle_hard": "Մտքի լուսանկարը հավերժ հարթության վրա:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳՈՒՅՆ",
+                    "riddle": "Աշխարհի երանգը:",
+                    "riddle_hard": "Լույսի և ստվերի խաղը կտավի վրա:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԿՏԱՎՆ",
+                    "riddle": "Նկարչի հիմքը:",
+                    "riddle_hard": "Սպիտակ տարածք երազների համար:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՆԵՐԿ",
+                    "riddle": "Գունավոր հեղուկ:",
+                    "riddle_hard": "Այն, ինչը կյանք է տալիս պատկերին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 39,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Ճարտարապետություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՊԱՏ",
+                    "riddle": "Տարածության ամուր սահման:",
+                    "riddle_hard": "Քարե լռություն պաշտպանության համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍՅՈՒՆ",
+                    "riddle": "Երկնասլաց հենարան:",
+                    "riddle_hard": "Ուղղահայաց հզորություն դարերի ծանրությամբ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄԱՐ",
+                    "riddle": "Կորացած երկնային կամուրջ:",
+                    "riddle_hard": "Երկու կետի հանդիպումը քարի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐ",
+                    "riddle": "Հիմնական նյութ:",
+                    "riddle_hard": "Հողի և ջանքի համեղ միությունը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԳՄԲԵԹ",
+                    "riddle": "Տանիքի կորությունը:",
+                    "riddle_hard": "Երկնային կամարի քարե մարմնավորումը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԴՈՒՌ",
+                    "riddle": "Մուտքի տեղը:",
+                    "riddle_hard": "Աշխարհների միջև բացվող սահմանը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 40,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Քանդակագործություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՔԱՐԸ",
+                    "riddle": "Ննջող ձև մարմարում:",
+                    "riddle_hard": "Հավերժական նյութ, որը սպասում է հարվածին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԵՄՔ",
+                    "riddle": "Քարի մեջ արթնացած հոգի:",
+                    "riddle_hard": "Զգացմունքի արձանագրությունը քարի վրա:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԵՌՔ",
+                    "riddle": "Ստեղծագործողի ուժ:",
+                    "riddle_hard": "Գործիքը, որը կապում է միտքը նյութին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԵՎԵՐ",
+                    "riddle": "Քարի մեջ արթնացած պատկեր:",
+                    "riddle_hard": "Ներդաշնակության արտացոլանքը նյութում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՎԸ",
+                    "riddle": "Փափուկ նյութ:",
+                    "riddle_hard": "Ձև ընդունող հողի լուռ համբերությունը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Մակերեսի շողերը:",
+                    "riddle_hard": "Լույսի վերջին հպումը հարթությանը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 41,
+            "grid_size": 4,
+            "category": "Ճամփորդություն",
+            "subcategory": "Տրանսպորտ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՆԱՎԸ",
+                    "riddle": "Օվկիանի հսկա ճամփորդ:",
+                    "riddle_hard": "Փայտե կամ մետաղյա կղզի, որը հաղթում է ալիքներին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹՌԻՉՔ",
+                    "riddle": "Անհոգ սլացք օդում:",
+                    "riddle_hard": "Ձգողության ուժի հաշտ հաղթահարումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՃԱՄՓԱ",
+                    "riddle": "Հավերժական շարժման ուղի:",
+                    "riddle_hard": "Անվերջ կծիկ, որը բացվում է ոտքերի տակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴ",
+                    "riddle": "Թափանցիկ տարերք:",
+                    "riddle_hard": "Այն, ինչը միավորում է ամբողջ աշխարհը մեկ շնչով:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 42,
+            "grid_size": 4,
+            "category": "Ճամփորդություն",
+            "subcategory": "Քարտեզ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԻԾ",
+                    "riddle": "Ճանապարհի նշան:",
+                    "riddle_hard": "Անտեսանելի սահմանի արտացոլումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿՈՂՄ",
+                    "riddle": "Աշխարհի ուղղություն:",
+                    "riddle_hard": "Կողմնացույցի սլաքի հուշումը անհայտության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՂԸ",
+                    "riddle": "Ճամփորդության կետ:",
+                    "riddle_hard": "Աշխարհագրական կոորդինատ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Լուռ պահ:",
+                    "riddle_hard": "Երբ քամին այլևս չի շշնջում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 43,
+            "grid_size": 4,
+            "category": "Ճամփորդություն",
+            "subcategory": "Լեռնագնացություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՎԵՐ",
+                    "riddle": "Միակ ուղղությունը դեպի գագաթ:",
+                    "riddle_hard": "Հայացք, որը միշտ ձգտում է դեպի աստղերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՐԱՆ",
+                    "riddle": "Կյանքի թել ժայռի վրա:",
+                    "riddle_hard": "Հյուսված հույս, որը միացնում է մեզ քարին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՅԼ",
+                    "riddle": "Ճանապարհի հիմնական միավոր:",
+                    "riddle_hard": "Կամքի դրսևորումը անհասանելիի համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐԸ",
+                    "riddle": "Լեռների պահապանը:",
+                    "riddle_hard": "Հնագույն և ամուր նյութը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 44,
+            "grid_size": 4,
+            "category": "Ճամփորդություն",
+            "subcategory": "Ծովափ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՎԱԶ",
+                    "riddle": "Ոսկեփայլ ծովափնյա գորգ:",
+                    "riddle_hard": "Ժամանակի փոքրիկ հատիկներ, որոնք լռում են ափին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԵՑԻ",
+                    "riddle": "Ծովի լռության պահապան:",
+                    "riddle_hard": "Օվկիանի հնագույն երաժշտության լուռ ամանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Անհատնում կենդանություն:",
+                    "riddle_hard": "Տիեզերքի անգույն, բայց վառ արյունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Ներքին լռության լույս:",
+                    "riddle_hard": "Այն, ինչը երբեք չի թրջվում ալիքներից:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 45,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Աստղագիտություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՍՏՂ",
+                    "riddle": "Գիշերվա լուսե աչք:",
+                    "riddle_hard": "Տիեզերական կրակ, որը հասնում է մեզ դարերի միջով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Գիշերվա արծաթե տիրակալ:",
+                    "riddle_hard": "Արևի լուռ հայելին մթության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄՈՒԹ",
+                    "riddle": "Արևի բացակայությունը:",
+                    "riddle_hard": "Լույսի լռությունը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՐԵՎԸ",
+                    "riddle": "Ջերմություն:",
+                    "riddle_hard": "Կյանքի աղբյուրը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Լույս:",
+                    "riddle_hard": "Արևի հպումը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 46,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Ֆիզիկա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՅՍԸ",
+                    "riddle": "Էներգիայի պայծառ ձև:",
+                    "riddle_hard": "Տիեզերքի լեզուն, որը ճանաչում են աչքերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺԸ",
+                    "riddle": "Շարժիչ հզորություն:",
+                    "riddle_hard": "Անտեսանելի ձեռքը, որը պտտում է աշխարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԵՎ",
+                    "riddle": "Մակերեսի տեսք:",
+                    "riddle_hard": "Քաոսից ծնված ներդաշնակության պատկերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՏՈՄ",
+                    "riddle": "Ամենափոքր մասնիկ:",
+                    "riddle_hard": "Ամեն ինչի սկիզբը և վերջը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇԱՐԺ",
+                    "riddle": "Կյանքի դրսևորում:",
+                    "riddle_hard": "Ժամանակի պարը տարածության մեջ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՀԱՏԸ",
+                    "riddle": "Մասնիկ:",
+                    "riddle_hard": "Անբաժանելի միավորը բազմության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 47,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Կենսաբանություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԲՋԻՋՍ",
+                    "riddle": "Կյանքի փոքրիկ տուն:",
+                    "riddle_hard": "Աշխարհի ամենափոքր լաբորատորիան:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻՆ",
+                    "riddle": "Կյանքի կարմիր գետ:",
+                    "riddle_hard": "Էներգիայի հոսող գետը մարմնի լաբիրինթոսում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐՄԵՐ",
+                    "riddle": "Ձևավորվող հող:",
+                    "riddle_hard": "Մարդու ձեռքում կենդանացող հին արմատը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Ապրելու ընթացք:",
+                    "riddle_hard": "Ժամանակի մեծագույն պարգևը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՆՈԹ",
+                    "riddle": "Կարմիր հեղուկ:",
+                    "riddle_hard": "Երակների գետը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 48,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Քիմիա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԱԶ",
+                    "riddle": "Անտեսանելի վիճակ:",
+                    "riddle_hard": "Ազատ մասնիկների պարը տարածության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱԹԻԼ",
+                    "riddle": "Հեղուկի մասնիկ:",
+                    "riddle_hard": "Օվկիանի հանգիստը փոքրիկ ոլորտում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Լաբորատոր լույս:",
+                    "riddle_hard": "Մտքի պարզությունը ապակու հետևում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԹՈՒ",
+                    "riddle": "Կծու հեղուկ:",
+                    "riddle_hard": "Տարրերի զայրույթը բնության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄՈԼԵԿՈՒԼ",
+                    "riddle": "Տարրերի միություն:",
+                    "riddle_hard": "Անտեսանելի կառույց կյանքի հայելում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 49,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Մաթեմատիկա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԹՎԵՐ",
+                    "riddle": "Քանակի նշաններ:",
+                    "riddle_hard": "Տիեզերքի լեզվի տառերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻԾԸ",
+                    "riddle": "Անվերջ շարք:",
+                    "riddle_hard": "Հեռավորություն երկու կետի միջև:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԶՐՈՆ",
+                    "riddle": "Ոչնչի պատկեր:",
+                    "riddle_hard": "Դատարկություն, որը մեծացնում է արժեքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՇԻՎ",
+                    "riddle": "Գործողություն:",
+                    "riddle_hard": "Այն, ինչը լուծում է խնդիրները:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԵՏ",
+                    "riddle": "Գծերի հանդիպում:",
+                    "riddle_hard": "Տարածության շրջադարձային կետը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՄԱՍԵՐ",
+                    "riddle": "Բաժիններ:",
+                    "riddle_hard": "Բազմության մեջ առանձնացված մասնիկները:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 50,
+            "grid_size": 5,
+            "category": "Գիտություն",
+            "subcategory": "Ժամանակ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՎԱՅՐ",
+                    "riddle": "Ակնթարթ:",
+                    "riddle_hard": "Անցողիկ պահի ատոմը հավերժության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՐԵՐ",
+                    "riddle": "Հարյուրամյա շրջաններ:",
+                    "riddle_hard": "Պատմության հսկա քայլերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԻՄԱ",
+                    "riddle": "Իրական պահ:",
+                    "riddle_hard": "Անցյալի և ապագայի հանդիպման կետը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԺԱՄ",
+                    "riddle": "Անվերջ հոսք:",
+                    "riddle_hard": "Ամեն ինչ փոխող և ոչինչ չներող ուժը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՏԱՐԻ",
+                    "riddle": "Լուսավոր շրջան:",
+                    "riddle_hard": "Արևի ճանապարհը երկնքի կամարով:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԿՅԱՆՔ",
+                    "riddle": "Ապրելու ժամանակ:",
+                    "riddle_hard": "Մեր բաժին ժամանակը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 51,
+            "grid_size": 4,
+            "category": "Գիտություն",
+            "subcategory": "Լույս",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Լույսի ծիածանային շարք:",
+                    "riddle_hard": "Սպիտակ շողի գունավոր հոգին պրիզմայի միջով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՍՊՆՅԱԿ",
+                    "riddle": "Աշխարհը փոխող ապակի:",
+                    "riddle_hard": "Ապակե աչք, որը հավաքում է լույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Արևի հանկարծակի ողջույն:",
+                    "riddle_hard": "Ակնթարթային անդրադարձ, որը կուրացնում է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴ",
+                    "riddle": "Թափանցիկ տարերք:",
+                    "riddle_hard": "Անտեսանելի շունչը տարածության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 52,
+            "grid_size": 4,
+            "category": "Գիտություն",
+            "subcategory": "Ձայն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱԼԻՔ",
+                    "riddle": "Անտեսանելի սուրհանդակ:",
+                    "riddle_hard": "Օդի թրթիռ, որը տանում է բառերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՄԲՐ",
+                    "riddle": "Ձայնի ուրույն գույն:",
+                    "riddle_hard": "Հնչյունի հետքը, որը ճանաչելի է դարձնում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՆՉ",
+                    "riddle": "Լռությունից վերադարձած ձայն:",
+                    "riddle_hard": "Ժայռերի պատասխանը ձեր կանչին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Սրտի զարկը:",
+                    "riddle_hard": "Անտեսանելի կապ հեռավորության վրա:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 53,
+            "grid_size": 4,
+            "category": "Մշակույթ",
+            "subcategory": "Թատրոն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԴԻՄԱԿ",
+                    "riddle": "Թաքցնող երես:",
+                    "riddle_hard": "Սառած ժպիտ, որի տակ լռում է իրական դեմքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԵՐ",
+                    "riddle": "Ուրիշ կյանք:",
+                    "riddle_hard": "Հոգու զգեստը, որը կրում են ուրիշի առաջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԵՄ",
+                    "riddle": "Խաղի սահման:",
+                    "riddle_hard": "Կարմիր լռություն, որը թաքցնում է սկիզբը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Բեմական շող:",
+                    "riddle_hard": "Լեռների լեզվով խոսող հավերժական ոգին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 54,
+            "grid_size": 4,
+            "category": "Մշակույթ",
+            "subcategory": "Գիրք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԼՈՒԽ",
+                    "riddle": "Պատմության փուլ:",
+                    "riddle_hard": "Գրքի հանգրվանը մտքերի ճանապարհին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂ",
+                    "riddle": "Իրադարձությունների թեզ:",
+                    "riddle_hard": "Իրադարձությունների թելը բառերի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Պատմության նշան:",
+                    "riddle_hard": "Նա, ով կրում է հեղինակի երազանքները:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺԸ",
+                    "riddle": "Ներքին հզորություն:",
+                    "riddle_hard": "Անտեսանելի հենարանը, որը պահում է մեզ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 55,
+            "grid_size": 5,
+            "category": "Միտք",
+            "subcategory": "Տրամաբանություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԹԵՈՐԵՄ",
+                    "riddle": "Ճշմարտություն:",
+                    "riddle_hard": "Մտքի ամուր կառույց փաստերի վրա:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԻՄՔ",
+                    "riddle": "Ճանապարհի սկիզբ:",
+                    "riddle_hard": "Դատողություններ շղթայի վերջին օղակը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՍՏ",
+                    "riddle": "Ճշմարտության հիմք:",
+                    "riddle_hard": "Հաստատուն քար, որի վրա կառուցվում է հույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՎ",
+                    "riddle": "Դրական որակ:",
+                    "riddle_hard": "Այն, ինչը փնտրում է բարի սիրտը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՊԱՑՈՒՅՑ",
+                    "riddle": "Հավաստի փաստ:",
+                    "riddle_hard": "Ճշմարտությունը հաստատող անժխտելի ուժը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 56,
+            "grid_size": 5,
+            "category": "Միտք",
+            "subcategory": "Երազ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՏԵՍԻԼՔ",
+                    "riddle": "Լուռ հյուր:",
+                    "riddle_hard": "Մտքի պատկերներ, երբ կոպերը փակվում են:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹՌԻՉՔ",
+                    "riddle": "Անքաշություն:",
+                    "riddle_hard": "Հոգու ձգտումը դեպի վեր առանց կշռի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՆԳԻՍՏ",
+                    "riddle": "Նավահանգիստ:",
+                    "riddle_hard": "Այն վայրը, որտեղ միտքը գտնում է լռություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԿ",
+                    "riddle": "Մտքի ակնթարթ:",
+                    "riddle_hard": "Ժամանակի փոքրիկ կանգառը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻՇԵՐ",
+                    "riddle": "Աստղերի ժամը:",
+                    "riddle_hard": "Մթության մեջ բացվող տիեզերական պատկերը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 57,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Հանքանյութեր",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՊՐԻԶՄԱ",
+                    "riddle": "Գույներ ծնող ապակի:",
+                    "riddle_hard": "Լույսի բեկման բյուրեղը ներկապնակի համար:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՆԻՍՏԸ",
+                    "riddle": "Բյուրեղի գիծ:",
+                    "riddle_hard": "Քարի հարթության սահմանը լույսի հետ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐ",
+                    "riddle": "Բնության մարմին:",
+                    "riddle_hard": "Երկրաչափական մաքրություն երկրի խորքում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Լույսի ճառագայթ:",
+                    "riddle_hard": "Արևի նուրբ հպումը թանկարժեք քարին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Թափանցիկ նյութ:",
+                    "riddle_hard": "Բնության կատարյալ սիմետրիկ մարմինը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՎ",
+                    "riddle": "Ուղղություն:",
+                    "riddle_hard": "Ճիշտ կողմը ճանապարհին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 58,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Հրաբուխ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԽԱՌՆԱՐԱՆ",
+                    "riddle": "Լեռան գավաթ:",
+                    "riddle_hard": "Երկրի շունչը դուրս հանող հսկա բերանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՎԱՆ",
+                    "riddle": "Հրե գետ:",
+                    "riddle_hard": "Երկրի սրտից ժայթքող այրող արյունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄՈԽԻՐ",
+                    "riddle": "Բոցի հետք:",
+                    "riddle_hard": "Կրակի մոխրագույն հուշը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՐԱԲՈՒԽ",
+                    "riddle": "Երկրի ծխնելույզը, որը կրակ է փսխում:",
+                    "riddle_hard": "Ծխում է առանց ծխախոտի, լացում է կրակով:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 59,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Եղանակ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿԱՅԾԱԿ",
+                    "riddle": "Պայծառ լարում:",
+                    "riddle_hard": "Ամպերի զայրույթը՝ գծված լույսի թելերով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՐՈՏ",
+                    "riddle": "Հզոր ձայն:",
+                    "riddle_hard": "Երկնային թմբուկները, որոնք դողոց են տալիս:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄՇՈՒՇ",
+                    "riddle": "Սպիտակ ամպ:",
+                    "riddle_hard": "Աշխարհը թաքցնող սպիտակ լռություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇԱՆԹ",
+                    "riddle": "Հողի մասնիկ:",
+                    "riddle_hard": "Տարերքի սկիզբը, որը պահում է արմատները:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՑՈՂ",
+                    "riddle": "Երկնային ջուր:",
+                    "riddle_hard": "Ամպերից թափվող կենսատու խոնավությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Օդային բամբակ:",
+                    "riddle_hard": "Երկնքում լողացող սպիտակ կղզյակը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 60,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Տիեզերք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՔԱՈՍ",
+                    "riddle": "Անկարգություն:",
+                    "riddle_hard": "Այնտեղ, որտեղ ձևն ու կարգը դեռ չկան:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՐԳ",
+                    "riddle": "Ներդաշնակություն:",
+                    "riddle_hard": "Անտեսանելի օրենքը, որը պտտում է աստղերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Ձգողականություն:",
+                    "riddle_hard": "Մթության մեջ թաքնված հսկա ձեռքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Լռություն:",
+                    "riddle_hard": "Այն վիճակը, որտեղ աստղերը հետևում են մեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՍՏՂ",
+                    "riddle": "Գիշերվա լույս:",
+                    "riddle_hard": "Տիեզերքում պարող հեռավոր կրակը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԳԻՇԵՐ",
+                    "riddle": "Մթության ժամ:",
+                    "riddle_hard": "Լռության մեջ բացվող տիեզերական պատուհանը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 61,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Կլիմա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՏԱՔ",
+                    "riddle": "Ջերմության շունչ:",
+                    "riddle_hard": "Մոլեկուլների պարը, որը տաքացնում է մաշկը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՑՈՒՐՏ",
+                    "riddle": "Սառնության հպում:",
+                    "riddle_hard": "Էներգիայի բացակայությունը, որը սառեցնում է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԱՐՄ",
+                    "riddle": "Մաքուր օդ:",
+                    "riddle_hard": "Անձրևից հետո մնացած կենսատու շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՍԿԻ",
+                    "riddle": "Փայլուն մետաղ:",
+                    "riddle_hard": "Արևի լույսի պինդ հիշողությունը երկրի տակ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 62,
+            "grid_size": 4,
+            "category": "Բնություն",
+            "subcategory": "Աշխարհագրություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՓ",
+                    "riddle": "Ջրի հանդիպման տեղ:",
+                    "riddle_hard": "Ցամաքի և ջրի միջև եղած նեղ սահմանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿՂԶԻ",
+                    "riddle": "Շրջապատված ցամաք:",
+                    "riddle_hard": "Օվկիանի գրկում մնացած փոքրիկ աշխարհ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԾՈՎ",
+                    "riddle": "Աղի ջրի տարածություն:",
+                    "riddle_hard": "Երկրի լազուր հայելին տիեզերքի խորքում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՇԽԱՐՀԸ",
+                    "riddle": "Մեր բնակավայրը:",
+                    "riddle_hard": "Անտեսանելի կապը, որը հաղթում է հեռավորությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 63,
+            "grid_size": 4,
+            "category": "Տիեզերք",
+            "subcategory": "Մոլորակներ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԵՐԿԻՐ",
+                    "riddle": "Մեր կապույտ տունը:",
+                    "riddle_hard": "Տիեզերական անապատում ծաղկած օազիսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԱՐՍ",
+                    "riddle": "Կարմիր աշխարհ:",
+                    "riddle_hard": "Կարմիր մոլորակը, որը սպասում է մարդուն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕՂԱԿ",
+                    "riddle": "Երկնային զարդ:",
+                    "riddle_hard": "Սառցե բեկորների պարը մոլորակի շուրջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅ",
+                    "riddle": "Լեռների զավակ:",
+                    "riddle_hard": "Հնագույն ոգին, որը երբեք չի լռում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 64,
+            "grid_size": 4,
+            "category": "Տիեզերք",
+            "subcategory": "Գիտություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Սլացող շող:",
+                    "riddle_hard": "Ժամանակի միջով անցնող աստղերի պատմությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԳՈՂ",
+                    "riddle": "Կապող ուժ:",
+                    "riddle_hard": "Աշխարհները պահող անտեսանելի թելը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԺԱՄ",
+                    "riddle": "Հոսող միավոր:",
+                    "riddle_hard": "Աստղային պտույտների անցողիկ տևողությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Մեր ներքին աշխարհը:",
+                    "riddle_hard": "Այն, ինչը միանում է տիեզերքին լռության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 65,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Պատշգամբ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Թարմություն:",
+                    "riddle_hard": "Տան և աշխարհի միջև եղած ազատ շունչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՍԻԼ",
+                    "riddle": "Պատկեր:",
+                    "riddle_hard": "Հորիզոնի կտորը, որը պատկանում է ձեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Առաջին հյուրը:",
+                    "riddle_hard": "Տաքության ոսկե աղբյուրը լռության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Ներդաշնակություն:",
+                    "riddle_hard": "Հոգու հանգիստը աղմկոտ աշխարհից հեռու:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴՈՒՌԸ",
+                    "riddle": "Մուտքի տեղը:",
+                    "riddle_hard": "Անցումը դեպի ներքին աշխարհ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԿԵՏ",
+                    "riddle": "Ձայնարկություն:",
+                    "riddle_hard": "Զարմանքի կամ կանչի ակնթարթային ձայնը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 66,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Գրադարան",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԻՐՔ",
+                    "riddle": "Գրքերի հանգրվան:",
+                    "riddle_hard": "Իմաստության շարքերը պահող պահապանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԱՆԱՔ",
+                    "riddle": "Հավերժացնող հեղուկ:",
+                    "riddle_hard": "Մտքի արյունը, որը մնում է թղթին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՌ",
+                    "riddle": "Մտքի միավոր:",
+                    "riddle_hard": "Լեզվի փոքրիկ աշխարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԱՏԻՏ",
+                    "riddle": "Ջերմ շունչ:",
+                    "riddle_hard": "Գրքի հպումը, որը ջերմացնում է միտքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԻՏՔ",
+                    "riddle": "Մտքի տերը:",
+                    "riddle_hard": "Նա, ով կերտում է նոր աշխարհներ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԷՋ",
+                    "riddle": "Ներքին լույս:",
+                    "riddle_hard": "Անտեսանելի թռիչքը բառերի միջով:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 67,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Պար",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՌԻԹՄ",
+                    "riddle": "Շարժման զարկ:",
+                    "riddle_hard": "Ժամանակի չափը մարմնի շարժման մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԹԻՌԸ",
+                    "riddle": "Կախված ակնթարթ:",
+                    "riddle_hard": "Ձգողականության հաղթահարումը օդում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇԱՐԺ",
+                    "riddle": "Պարի տարր:",
+                    "riddle_hard": "Հոգու արտահայտումը տարածության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառ շող:",
+                    "riddle_hard": "Բեմի վրա պարող ճառագայթը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՐԸ",
+                    "riddle": "Մարմնի լեզուն:",
+                    "riddle_hard": "Հնագույն արվեստը, որը կանչում է:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԲԵՄԸ",
+                    "riddle": "Խաղի տեղը:",
+                    "riddle_hard": "Այնտեղ, որտեղ ծնվում է հրաշքը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 68,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Կինո",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԴԵՐԵՐ",
+                    "riddle": "Էկրանին կյանք:",
+                    "riddle_hard": "Ուրիշի ճակատագիրը սեփականելու հմայքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱԴՐ",
+                    "riddle": "Պատմության բեկոր:",
+                    "riddle_hard": "Ժամանակի սառած հատվածը էկրանին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐԸ",
+                    "riddle": "Զգացմունք:",
+                    "riddle_hard": "Մթության մեջ բացվող հրաշքի աշխարհը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺԸ",
+                    "riddle": "Հզորություն:",
+                    "riddle_hard": "Անտեսանելի ուժը պատկերի հետևում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՖԻԼՄ",
+                    "riddle": "Կինոյի աշխարհ:",
+                    "riddle_hard": "Հազարավոր կադրերի լուռ միությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԵՄՔ",
+                    "riddle": "Տեսողական ձև:",
+                    "riddle_hard": "Այն, ինչը խոսում է առանց բառերի:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 69,
+            "grid_size": 5,
+            "category": "Տուն",
+            "subcategory": "Խոհանոց",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՀԱՄ",
+                    "riddle": "Ճաշի զգացողություն:",
+                    "riddle_hard": "Լեզվի վրա ծնվող ակնթարթային հաճույքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՏ",
+                    "riddle": "Անդեսանելի հրավեր:",
+                    "riddle_hard": "Օդում տարածվող համեղ հրավերը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՑ",
+                    "riddle": "Սուրբ սնունդ:",
+                    "riddle_hard": "Կյանքի պարզ և թանկարժեք սկիզբը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋՈՒՐ",
+                    "riddle": "Կենսատու հեղուկ:",
+                    "riddle_hard": "Տիեզերքի թափանցիկ արյունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՎ",
+                    "riddle": "Հողի մարմին:",
+                    "riddle_hard": "Մարդու ձեռքում կենդանացող հողը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԵՓԵԼ",
+                    "riddle": "Սնվելու պրոցես:",
+                    "riddle_hard": "Էներգիայի ստացման բնական ճանապարհը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՃԱՇ",
+                    "riddle": "Կեսօրվա սեղան:",
+                    "riddle_hard": "Ընտանիքի միավորման ժամը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱԿՆ",
+                    "riddle": "Աչք կամ պահ:",
+                    "riddle_hard": "Սեղանի շուրջ փայլող աչքը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 70,
+            "grid_size": 5,
+            "category": "Մարդ",
+            "subcategory": "Աշխատանք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳՈՐԾ",
+                    "riddle": "Ամենօրյա զբաղմունք:",
+                    "riddle_hard": "Աշխարհը փոխելու մարդու միակ ձևը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋԱՆՔԵՐ",
+                    "riddle": "Ներքին ուժ:",
+                    "riddle_hard": "Աշխատանքի պտուղը, որը քաղում ենք:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓՈՂ",
+                    "riddle": "Արժեքի նշան:",
+                    "riddle_hard": "Ժամանակի և էներգիայի փոխանակումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺԸ",
+                    "riddle": "Մեր ոգին:",
+                    "riddle_hard": "Աշխատասեր սիրտը լեռների մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Վերջնական կետ:",
+                    "riddle_hard": "Երկար ճանապարհի տեսանելի պտուղը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԻՐՏ",
+                    "riddle": "Միություն:",
+                    "riddle_hard": "Մարդկանց միավորող անտեսանելի թելը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 71,
+            "grid_size": 4,
+            "category": "Միտք",
+            "subcategory": "Գաղափար",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿԱՅԾ",
+                    "riddle": "Մտքի հանկարծակի ծնունդ:",
+                    "riddle_hard": "Մտքի արագ բռնկումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Օզարում:",
+                    "riddle_hard": "Ճշմարտության պայծառ շողը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈԳԻՆ",
+                    "riddle": "Մտքի դուռ:",
+                    "riddle_hard": "Անվերջության դուռը ամեն նոր մտքում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Սրտի լույս:",
+                    "riddle_hard": "Ամենահզոր գաղափարը աշխարհում:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 72,
+            "grid_size": 4,
+            "category": "Միտք",
+            "subcategory": "Բառ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՀՍՏԱԿ",
+                    "riddle": "Մաքուր:",
+                    "riddle_hard": "Առանց կասկածի ճշմարտություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒՐԱԽ",
+                    "riddle": "Ժպիտ:",
+                    "riddle_hard": "Հոգու պայծառ վիճակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Հանգիստ:",
+                    "riddle_hard": "Ներքին լռություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԻՐՏԸ",
+                    "riddle": "Կյանքի կենտրոն:",
+                    "riddle_hard": "Սիրո տունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 73,
+            "grid_size": 4,
+            "category": "Տիեզերք",
+            "subcategory": "Գալակտիկա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՍՏՂ",
+                    "riddle": "Աստղերի պտույտ:",
+                    "riddle_hard": "Տիեզերքի անվերջ պարը աստղերի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Ոսկե կրակ:",
+                    "riddle_hard": "Ջերմության աղբյուրը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋԵՐՄ",
+                    "riddle": "Տաք:",
+                    "riddle_hard": "Սիրո զգացողությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Շունչ:",
+                    "riddle_hard": "Կյանքի անտեսանելի հիմքը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 74,
+            "grid_size": 4,
+            "category": "Տիեզերք",
+            "subcategory": "Լույս",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Ոսկե թել:",
+                    "riddle_hard": "Արևի ժպիտը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Խորհրդավոր լույս:",
+                    "riddle_hard": "Աստղերի շշուկը, որը հասնում է մեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍՏՎԵՐ",
+                    "riddle": "Մութ հատված:",
+                    "riddle_hard": "Լույսի բացակայությունը և խորհուրդը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅՏ",
+                    "riddle": "Բացահայտում:",
+                    "riddle_hard": "Այն, ինչը դուրս է գալիս մթությունից:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 75,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Հայելի",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԴԵՄՔ",
+                    "riddle": "Ունի աչքեր, քիթ ու բերան:",
+                    "riddle_hard": "Հայելու մեջ միշտ քեզ է նայում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՉՔԵՐ",
+                    "riddle": "Աչքերի ուժ:",
+                    "riddle_hard": "Ներքին աշխարհի պատուհանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Փայլուն շող:",
+                    "riddle_hard": "Անդրադարձը, որը փոխում է տեսարանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Թափանցիկ տարածք:",
+                    "riddle_hard": "Անտեսանելի կապը ձեր և հայելու միջև:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԿԸ",
+                    "riddle": "Աչք:",
+                    "riddle_hard": "Հայելում փայլող կրակե շողը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Ոսկե լույս:",
+                    "riddle_hard": "Ջերմության աղբյուրը հայելու մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 76,
+            "grid_size": 5,
+            "category": "Մարդ",
+            "subcategory": "Փարոս",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿՐԱԿ",
+                    "riddle": "Փարոսի սիրտ:",
+                    "riddle_hard": "Միայնակ բոցը մթության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԼԻՔ",
+                    "riddle": "Օվկիանի ռիթմ:",
+                    "riddle_hard": "Ծովի շնչառությունը անմարդաբնակ ափին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒՂԻ",
+                    "riddle": "Ապահով ճանապարհ:",
+                    "riddle_hard": "Հույսի թել, որը տանում է դեպի տուն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅ",
+                    "riddle": "Ազնիվ ոգի:",
+                    "riddle_hard": "Լեռների լռակյաց պահապանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառ շող:",
+                    "riddle_hard": "Ուղեցույցը մութ ջրերի մեջ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Ներքին լույս:",
+                    "riddle_hard": "Այն, ինչը գտնում է ափը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 77,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Քանդակագործ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՔԱՐ",
+                    "riddle": "Ննջող ձև:",
+                    "riddle_hard": "Անշունչ նյութ, որը վարպետի ձեռքերում կյանք է ստանում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՁԵՎ",
+                    "riddle": "Անթերի վիճակ:",
+                    "riddle_hard": "Անմահ ստեղծագործություն մարդու ձեռքերով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՏԿԵՐ",
+                    "riddle": "Տեսողական ձև:",
+                    "riddle_hard": "Հոգի, որն արթնացել է մարմարի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԱՐՄԱՐ",
+                    "riddle": "Սպիտակ քար:",
+                    "riddle_hard": "Սառը հարթություն, որը պահում է վարպետի երազանքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Կամքի դրսևորում:",
+                    "riddle_hard": "Անտեսանելի հարված, որը կերտում է հավերժությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Ներքին ուժ:",
+                    "riddle_hard": "Այն, ինչը տանում է մեզ առաջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 78,
+            "grid_size": 5,
+            "category": "Արվեստ",
+            "subcategory": "Թատրոն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԴԵՐ",
+                    "riddle": "Կարևոր անձ:",
+                    "riddle_hard": "Հոգու հայելին, որը պահում է ակնթարթը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԵՄ",
+                    "riddle": "Աշխարհ:",
+                    "riddle_hard": "Կյանքի փոքրիկ տիեզերքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԻԵՍ",
+                    "riddle": "Բառերի հյուսվածք:",
+                    "riddle_hard": "Բառերի և զգացմունքների լուռ միությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴԸ",
+                    "riddle": "Շունչ:",
+                    "riddle_hard": "Բեմի վրա պարող թափանցիկ ոգին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառ շող:",
+                    "riddle_hard": "Լուսարձակների տակ ծնված հույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Խորհրդավոր լույս:",
+                    "riddle_hard": "Արվեստի հավերժական կանչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻՐ",
+                    "riddle": "Լուռ նշան:",
+                    "riddle_hard": "Գրավոր խոսքի հզորությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 79,
+            "grid_size": 5,
+            "category": "Մարդ",
+            "subcategory": "Ազատություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԹՌԻՉՔ",
+                    "riddle": "Ազատ շարժում:",
+                    "riddle_hard": "Հոգու ձգտումը դեպի անեզրը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Ներքին ուժ:",
+                    "riddle_hard": "Անտեսանելի հենարանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՎ",
+                    "riddle": "Թեթև քամի:",
+                    "riddle_hard": "Քամու հոգին, որը պատ չունի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՑ",
+                    "riddle": "Ազատ տարածք:",
+                    "riddle_hard": "Դռները, որոնք միշտ սպասում են:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՎԸ",
+                    "riddle": "Բարի որակ:",
+                    "riddle_hard": "Այն, ինչը բացում է սիրտը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՇԽԱՐՀ",
+                    "riddle": "Մեր տունը:",
+                    "riddle_hard": "Անսահման տարածությունը առանց կապանքների:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 80,
+            "grid_size": 5,
+            "category": "Բնություն",
+            "subcategory": "Էներգիա",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿՐԱԿ",
+                    "riddle": "Տաք ուժ:",
+                    "riddle_hard": "Խարույկի թրթիռը մթության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՇԱՐԺ",
+                    "riddle": "Պրոցես:",
+                    "riddle_hard": "Մաքուր էներգիան, որը ստիպում է շարժվել:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Հզորություն:",
+                    "riddle_hard": "Ամեն ինչի շարժիչը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՎԱՌ",
+                    "riddle": "Պայծառ:",
+                    "riddle_hard": "Արևի ներքին հզոր լարումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՅԾ",
+                    "riddle": "Փոքրիկ կրակ:",
+                    "riddle_hard": "Մեծ հրդեհների փոքրիկ սկիզբը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՇՈՂ",
+                    "riddle": "Արևի շող:",
+                    "riddle_hard": "Լույսի բարակ թելը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱՋ",
+                    "riddle": "Կողմ:",
+                    "riddle_hard": "Էներգիայի վառ ու տաք երանգը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 81,
+            "grid_size": 5,
+            "category": "Էություն",
+            "subcategory": "Սերմ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՊԱՏ",
+                    "riddle": "Քարե պատնեշ:",
+                    "riddle_hard": "Լուռ պաշտպան տան շուրջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐ",
+                    "riddle": "Ննջող ձև:",
+                    "riddle_hard": "Անշունչ նյութը, որը դառնում է պատմություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՇ",
+                    "riddle": "Անցյալի հետք:",
+                    "riddle_hard": "Ավազի վրա թողնված հիշողություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՐ",
+                    "riddle": "Երկար ժամանակ:",
+                    "riddle_hard": "Տիեզերական պտույտի մեծ միավորը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐՄ",
+                    "riddle": "Կյանքի սկիզբ:",
+                    "riddle_hard": "Փոքրիկ հրաշքը, որը թաքնված է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՕԴ",
+                    "riddle": "Շունչ:",
+                    "riddle_hard": "Անտեսանելի կապը կյանքի և մահվան միջև:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՊ",
+                    "riddle": "Միավորող ուժ:",
+                    "riddle_hard": "Անտեսանելի թելը, որը պահում է աշխարհները:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 82,
+            "grid_size": 5,
+            "category": "Ոգի",
+            "subcategory": "Կամք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Ներքին ուժ:",
+                    "riddle_hard": "Որոշումների ամրությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Հզորություն:",
+                    "riddle_hard": "Այն, ինչը տանում է մեզ դեպի նպատակ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՅՍ",
+                    "riddle": "Վառ փարոս:",
+                    "riddle_hard": "Մտքի մեջ գծված լուսե կետը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՑ",
+                    "riddle": "Ազատ տարածք:",
+                    "riddle_hard": "Համարձակություն՝ փոխելու սեփական դիրքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՎԵՐ",
+                    "riddle": "Դեպի երկինք:",
+                    "riddle_hard": "Անսահմանության ուղղությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՐԸ",
+                    "riddle": "Տաք լույս:",
+                    "riddle_hard": "Ավազի վրա գծված վախերը ցրող քամին:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԱԿ",
+                    "riddle": "Պահ:",
+                    "riddle_hard": "Համարձակության վառ ու տաք երանգը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 83,
+            "grid_size": 5,
+            "category": "Ոգի",
+            "subcategory": "Ռիսկ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Ներքին հենարան:",
+                    "riddle_hard": "Հոգու պողպատը, որը չգիտի արգելք:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈԳԻ",
+                    "riddle": "Լուսե էություն:",
+                    "riddle_hard": "Տիեզերական կայծը մարմնի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿԱՄՔ",
+                    "riddle": "Ազդակ:",
+                    "riddle_hard": "Տիեզերական պատահականության խաղը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՉՔ",
+                    "riddle": "Թանկարժեք քար:",
+                    "riddle_hard": "Փայլուն և կարծր գանձ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Սրտի զարկ:",
+                    "riddle_hard": "Ամենահզոր ուժը անորոշության մեջ:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառություն:",
+                    "riddle_hard": "Մտքի օզարումը, որը լուսավորում է էջը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 84,
+            "grid_size": 4,
+            "category": "Ոգի",
+            "subcategory": "Լույս",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՄԱՌ",
+                    "riddle": "Շող:",
+                    "riddle_hard": "Լույսի ոսկե մատը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Լուսե ժամանակ:",
+                    "riddle_hard": "Լույսով լցված տարածություն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՋԵՐՄ",
+                    "riddle": "Վառ և լուսավոր:",
+                    "riddle_hard": "Ամեն ինչ լուսավորող պարզություն:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՀԱՅՐ",
+                    "riddle": "Ջերմ:",
+                    "riddle_hard": "Արևի առաջին հպումը երկրին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 85,
+            "grid_size": 5,
+            "category": "Ոգի",
+            "subcategory": "Լռություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՇՈՒՆՉ",
+                    "riddle": "Կապի միջոց:",
+                    "riddle_hard": "Անտեսանելի օդի հոսքը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՌԻԿ",
+                    "riddle": "Պահ:",
+                    "riddle_hard": "Ժամանակի փոքրիկ հատվածը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Խաղաղ կետ:",
+                    "riddle_hard": "Հոգու լռությունը աշխարհից հեռու:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՈՒԺ",
+                    "riddle": "Ուղղություն:",
+                    "riddle_hard": "Լռության մեջ լսվող լուռ համաձայնությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՐԵՐ",
+                    "riddle": "Տարի:",
+                    "riddle_hard": "Ժամանակի մեծ պտույտը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Կետ:",
+                    "riddle_hard": "Փոքրիկ կանգառ լռության մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 86,
+            "grid_size": 4,
+            "category": "Իմաստություն",
+            "subcategory": "Գիրք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԻՐ",
+                    "riddle": "Մտքի տուն:",
+                    "riddle_hard": "Իմաստի զենքը, որը կարող է բուժել:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՆՇԱՆ",
+                    "riddle": "Թաքնված իմաստ:",
+                    "riddle_hard": "Տիեզերքի լուռ լեզուն:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԻՏՔ",
+                    "riddle": "Գիտակցության շող:",
+                    "riddle_hard": "Անտեսանելի թռչունը ճանաչողության մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Պայծառություն:",
+                    "riddle_hard": "Մտքի օզարումը, որը լուսավորում է էջը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 87,
+            "grid_size": 4,
+            "category": "Իմաստություն",
+            "subcategory": "Փորձ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՍՊԻ",
+                    "riddle": "Հաղթահարման հետք:",
+                    "riddle_hard": "Մարմնի կամ հոգու վրա գրված պատմությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՍ",
+                    "riddle": "Սպալից ծնված իմացություն:",
+                    "riddle_hard": "Կյանքի դաժան, բայց արդարացի ուսուցումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԺԱՄԱՆԱԿ",
+                    "riddle": "Անվերջ գետ:",
+                    "riddle_hard": "Անվերջ հոսող գետը, որը հղկում է հոգին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Զգացմունք:",
+                    "riddle_hard": "Այն, ինչը ժամանակը չի կարող ջնջել:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 88,
+            "grid_size": 5,
+            "category": "Իմաստություն",
+            "subcategory": "Ճշմարտություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՐՄԱՏ",
+                    "riddle": "Հիմք:",
+                    "riddle_hard": "Թաքնված ամրությունը, որի վրա հենվում ենք:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԻՋՈՒԿ",
+                    "riddle": "Էության սիրտ:",
+                    "riddle_hard": "Բուն ճշմարտությունը՝ պաշտպանված շերտերով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՓԱՍՏ",
+                    "riddle": "Իրողություն:",
+                    "riddle_hard": "Իրականության կարծր բեկորը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅ",
+                    "riddle": "Ազգ:",
+                    "riddle_hard": "Լեռների լռակյաց ու հաստատուն վկան:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՃՇՄԱՐԻՏ",
+                    "riddle": "Իսկական:",
+                    "riddle_hard": "Այն, ինչը չի պահանջում ապացույց:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 89,
+            "grid_size": 5,
+            "category": "Ձեն",
+            "subcategory": "Դատարկություն",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԱՎԱԹ",
+                    "riddle": "Անոթ:",
+                    "riddle_hard": "Իմաստունի միտքը, որը պետք է դատարկ լինի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱԴԱՐ",
+                    "riddle": "Հնչյունների միջև:",
+                    "riddle_hard": "Այն լուռ պահը, որտեղ ծնվում է իմաստը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈԳԻ",
+                    "riddle": "Էություն:",
+                    "riddle_hard": "Դատարկության մեջ թաքնված անսահմանությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՌՈՒԹՅՈՒՆ",
+                    "riddle": "Լուռ վիճակ:",
+                    "riddle_hard": "Տիեզերքի լեզուն, որը լսում են հոգով:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 90,
+            "grid_size": 4,
+            "category": "Ձեն",
+            "subcategory": "Հոսք",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԳԵՏ",
+                    "riddle": "Շարժում:",
+                    "riddle_hard": "Կյանքի հավերժական պտույտը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՔԱՄԻ",
+                    "riddle": "Ազատ տարերք:",
+                    "riddle_hard": "Տիեզերքի շունչը, որը պատ չի ճանաչում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՐԵՎ",
+                    "riddle": "Բնության մաս:",
+                    "riddle_hard": "Բնության փոքրիկ մասնիկը՝ տիեզերական ռիթմում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՍՔ",
+                    "riddle": "Շարժում:",
+                    "riddle_hard": "Գետի և քամու անդադար երկխոսությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 91,
+            "grid_size": 5,
+            "category": "Ձեն",
+            "subcategory": "Հայելի",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ՓԱՅԼ",
+                    "riddle": "Լույսի խաղ:",
+                    "riddle_hard": "Գույների և շողերի պարը հայելում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԱՔՈՒՐ",
+                    "riddle": "Պարզ:",
+                    "riddle_hard": "Հոգու այն պարզությունը, որը տեսնում է հոգին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՅՍՏԵՂ",
+                    "riddle": "Իրական վայր:",
+                    "riddle_hard": "Տարածության այն կետը, որտեղ դուք հիմա կաք:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Լույս:",
+                    "riddle_hard": "Էության անտեսանելի կենտրոնը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍԸ",
+                    "riddle": "Շող:",
+                    "riddle_hard": "Մտքի պայծառ լույսը հայելու մեջ:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 92,
+            "grid_size": 8,
+            "category": "Տարրեր",
+            "subcategory": "Մետաղ",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԵՐԿԱԹ",
+                    "riddle": "Ուժի և կառուցվածքի հիմքը։",
+                    "riddle_hard": "Սև գույնի, բայց աշխարհը պահող։",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊՂԻՆՁ",
+                    "riddle": "Փայլուն, հաղորդիչ մետաղ։",
+                    "riddle_hard": "Օգտագործվում է լարերում և հնում՝ զենքերում։",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԾԱԹ",
+                    "riddle": "Ամենափայլունը լուսնի պես։",
+                    "riddle_hard": "Արժեքավոր է, բայց ավելի ցածր, քան ոսկին։",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԵՏԱՂ",
+                    "riddle": "Կերակրում եմ զարդերը։",
+                    "riddle_hard": "Անցնում եմ հոսանքով:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԱԳՆԵԶԻՈՒՄ",
+                    "riddle": "Խիստ բռնկվող թեթև մետաղ։",
+                    "riddle_hard": "Պարտադիր է բույսերի կանաչ գույնի համար (քլորոֆիլում)։",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 93,
+            "grid_size": 4,
+            "category": "Լուսավորում",
+            "subcategory": "Արթնացում",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ԱՐԵՎ",
+                    "riddle": "Հոգու լույս:",
+                    "riddle_hard": "Ճշմարտության պայծառ աստղը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՏԵՍԻԼ",
+                    "riddle": "Պատկեր:",
+                    "riddle_hard": "Իրականության հայացքը առանց պատրանքի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԶԱՏ",
+                    "riddle": "Առանց կապանք:",
+                    "riddle_hard": "Հոգու թռիչքը, որը չունի սահման:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼԱՎ",
+                    "riddle": "Բարի:",
+                    "riddle_hard": "Ազատության առաջին պտուղը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 94,
+            "grid_size": 5,
+            "category": "Լուսավորում",
+            "subcategory": "Իմաստություն",
+            "complexity": 10.300000190734864,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՌ",
+                    "riddle": "Լեզու:",
+                    "riddle_hard": "Այն խաղաղությունը, որտեղ լսվում է հոգին:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԻՐՏ",
+                    "riddle": "Պահապան:",
+                    "riddle_hard": "Մարդկային էության կենտրոնը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԳԻՏԱԿԻՑ",
+                    "riddle": "Արթուն:",
+                    "riddle_hard": "Նա, ով տեսնում է ճշմարտությունը քնի մեջ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅԸ",
+                    "riddle": "Ոգի:",
+                    "riddle_hard": "Արթնացած գիտակցության հնագույն արմատը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՐԹՈՒՆ",
+                    "riddle": "Չքնած:",
+                    "riddle_hard": "Լույսի մեջ բացվող նոր գիտակցությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 95,
+            "grid_size": 4,
+            "category": "Միասնություն",
+            "subcategory": "Կապ",
+            "complexity": 10.399999618530274,
+            "puzzles": [
+                {
+                    "word": "ՑԱՆՑ",
+                    "riddle": "Կապող թելեր:",
+                    "riddle_hard": "Տիեզերական հյուսվածքը, որը միավորում է մեզ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԵԿ",
+                    "riddle": "Ամբողջություն:",
+                    "riddle_hard": "Այն թիվը, որի մեջ բոլորը բաժանվում են:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱԼԻՔ",
+                    "riddle": "Շարժում:",
+                    "riddle_hard": "Ջրի շարժումը, որը երբեք չի բաժանվում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՍՔ",
+                    "riddle": "Շարժում:",
+                    "riddle_hard": "Տիեզերական զարկը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 96,
+            "grid_size": 4,
+            "category": "Միասնություն",
+            "subcategory": "Հաշտություն",
+            "complexity": 10.5,
+            "puzzles": [
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Հաշտություն:",
+                    "riddle_hard": "Հոգու վիճակը, երբ փոթորիկը լռում է:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԲԱՐԻ",
+                    "riddle": "Լուսե արարք:",
+                    "riddle_hard": "Սրտից բխող գործողությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԺՊԻՏ",
+                    "riddle": "Լույս դեմքին:",
+                    "riddle_hard": "Աշխարհի հետ համաձայնության նշանը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՍԵՐ",
+                    "riddle": "Վառ գույն:",
+                    "riddle_hard": "Խաղաղության ջերմացնող հպումը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 97,
+            "grid_size": 5,
+            "category": "Հավերժություն",
+            "subcategory": "Շրջան",
+            "complexity": 10.600000381469727,
+            "puzzles": [
+                {
+                    "word": "ԱՆՎԵՐՋ",
+                    "riddle": "Անսկիզբ ճամփա:",
+                    "riddle_hard": "Ժամանակի շրջապտույտը առանց սահմանի:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊՏՈՒՅՏ",
+                    "riddle": "Հավերժ պար:",
+                    "riddle_hard": "Տիեզերքի ռիթմիկ շարժումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԿՐԿԻՆ",
+                    "riddle": "Վերադարձ:",
+                    "riddle_hard": "Տարվա եղանակների անխուսափելի վերադարձը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀԱՅՏ",
+                    "riddle": "Ոգի:",
+                    "riddle_hard": "Հավերժության լուռ հաստատումը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԴԱՐ",
+                    "riddle": "Ժամանակ:",
+                    "riddle_hard": "Հազարամյակների լուռ հաջորդականությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 98,
+            "grid_size": 5,
+            "category": "Հավերժություն",
+            "subcategory": "Անմահություն",
+            "complexity": 10.699999809265137,
+            "puzzles": [
+                {
+                    "word": "ՀՈԳԻՆ",
+                    "riddle": "Մնայուն:",
+                    "riddle_hard": "Մարդու այն էությունը, որը չի մահանում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՀՈՒՇ",
+                    "riddle": "Կամուրջ:",
+                    "riddle_hard": "Անցյալի ձայները մեր հոգում:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Շող:",
+                    "riddle_hard": "Լռության մեջ փայլող հավերժական լույսը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԱՆՄԱՀ",
+                    "riddle": "Չմեռնող:",
+                    "riddle_hard": "Ժամանակից դուրս մնացող կյանքը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ԴԱՐԸ",
+                    "riddle": "Պահ:",
+                    "riddle_hard": "Անմահության անտեսանելի կրողը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 99,
+            "grid_size": 5,
+            "category": "Ավարտ",
+            "subcategory": "Արդյունք",
+            "complexity": 10.800000190734864,
+            "puzzles": [
+                {
+                    "word": "ԼՈՒՅՍԸ",
+                    "riddle": "Վերջնակետ:",
+                    "riddle_hard": "Հոգու լիակատար վիճակը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՊԱՐԶ",
+                    "riddle": "Իմաստության ձև:",
+                    "riddle_hard": "Բարդությունից հետո ծնված պարզությունը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԻՆԴ",
+                    "riddle": "Խաղաղ վայր:",
+                    "riddle_hard": "Երկար նավարկությունից հետո գտած հանգիստը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԽԱՂԱՂ",
+                    "riddle": "Հաշտ:",
+                    "riddle_hard": "Վերջնական լիության խաղաղ հանգիստը:",
+                    "is_hard": true
+                },
+                {
+                    "word": "ՍԻՐՏԸ",
+                    "riddle": "Նպատակ:",
+                    "riddle_hard": "Այն, ինչը փնտրում է հոգին:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 100,
+            "grid_size": 4,
+            "category": "Ձեն",
+            "subcategory": "Ամբողջություն",
+            "complexity": 11.0,
+            "puzzles": [
+                {
+                    "word": "ԶԵՆ",
+                    "riddle": "Այստեղ և հիմա:",
+                    "riddle_hard": "Գիտակցության կատարյալ վիճակը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԼՈՒՅՍ",
+                    "riddle": "Օզարում:",
+                    "riddle_hard": "Ներքին պարզության շողը:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ՄԵԿ",
+                    "riddle": "Ամբողջություն:",
+                    "riddle_hard": "Երբ դուք և աշխարհը դառնում եք մեկ:",
+                    "is_hard": false
+                },
+                {
+                    "word": "ԶԱՐԹԸ",
+                    "riddle": "Արթնացում:",
+                    "riddle_hard": "Վերջին լույսը, որը բացում է ճշմարտությունը:",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "チュートリアル",
+            "subcategory": "入門",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "謎",
+                    "riddle": "変装した質問。",
+                    "riddle_hard": "好奇心に包まれた秘密。"
+                },
+                {
+                    "word": "道",
+                    "riddle": "草の上の土のリボン。",
+                    "riddle_hard": "一言も発しないガイド。"
+                },
+                {
+                    "word": "達人",
+                    "riddle": "盤面の主。",
+                    "riddle_hard": "すべての鍵を握る者。",
+                    "is_hard": true
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "自然",
+            "subcategory": "空",
+            "complexity": 1.1,
+            "puzzles": [
+                {
+                    "word": "空",
+                    "riddle": "塗装のいらない天井。",
+                    "riddle_hard": "鳥が泳ぐ青い海。"
+                },
+                {
+                    "word": "太陽",
+                    "riddle": "空にある巨大な電球。",
+                    "riddle_hard": "瞬きをしない金の目。"
+                },
+                {
+                    "word": "空気",
+                    "riddle": "肺のための見えない食べ物。",
+                    "riddle_hard": "箱の中の透明な風。"
+                }
+            ]
+        }
+    ]
+}

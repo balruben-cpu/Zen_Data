@@ -1,0 +1,3158 @@
+{
+    "Levels": [
+        {
+            "level_id": 1,
+            "grid_size": 4,
+            "category": "Введение",
+            "subcategory": "Начало",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗАГАДКА",
+                    "riddle": "Тайна, требующая решения.",
+                    "riddle_hard": "Вопрос, который танцует в уме.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУТЬ",
+                    "riddle": "Тихая тропа под вашими ногами.",
+                    "riddle_hard": "Дорога к спокойствию и гармонии.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 2,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Небо",
+            "complexity": 1.100000023841858,
+            "puzzles": [
+                {
+                    "word": "НЕБО",
+                    "riddle": "Синева над головой.",
+                    "riddle_hard": "Небесный океан для белых кораблей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОЛНЦЕ",
+                    "riddle": "Золотой свет мира.",
+                    "riddle_hard": "Огненный глаз, дарующий жизнь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОЗДУХ",
+                    "riddle": "Невидимый дар жизни.",
+                    "riddle_hard": "Океан, который мы пьем легкими.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРИРОДА",
+                    "riddle": "Мать всего живого.",
+                    "riddle_hard": "Сила, связавшая лес, горы и реки.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 3,
+            "grid_size": 4,
+            "category": "Абстракция",
+            "subcategory": "Философия",
+            "complexity": 1.2000000476837159,
+            "puzzles": [
+                {
+                    "word": "ПУСТОТА",
+                    "riddle": "Тихое ничто.",
+                    "riddle_hard": "Тишина, где рождаются звуки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НИЧТО",
+                    "riddle": "Пустая ладонь.",
+                    "riddle_hard": "Невидимое, но ощутимое.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МАЛО",
+                    "riddle": "Минимум необходимого.",
+                    "riddle_hard": "Богатство в отказе от лишнего.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 4,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Лес",
+            "complexity": 1.2999999523162842,
+            "puzzles": [
+                {
+                    "word": "ДЕРЕВО",
+                    "riddle": "Зеленый гигант.",
+                    "riddle_hard": "Мост от земли к небу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИСТ",
+                    "riddle": "Парус на ветру.",
+                    "riddle_hard": "Изумруд, ловящий солнечный свет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОРЕНЬ",
+                    "riddle": "Скрытая сила.",
+                    "riddle_hard": "Узел жизни в глубине земли.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 5,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Океан",
+            "complexity": 1.399999976158142,
+            "puzzles": [
+                {
+                    "word": "ВОДА",
+                    "riddle": "Текучая жизнь.",
+                    "riddle_hard": "Стихия, принимающая любую форму.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОТОК",
+                    "riddle": "Движение вперед.",
+                    "riddle_hard": "Бег времени в горном ручье.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОЛНА",
+                    "riddle": "Белопенный гость.",
+                    "riddle_hard": "Вздох океана у берега.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 6,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Стихии",
+            "complexity": 1.5,
+            "puzzles": [
+                {
+                    "word": "ОГОНЬ",
+                    "riddle": "Танцующий свет.",
+                    "riddle_hard": "Пламя, превращающее всё в пепел.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЛЕСК",
+                    "riddle": "Мягкое сияние.",
+                    "riddle_hard": "Игра света, радующая глаз.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕПЛО",
+                    "riddle": "Невидимое касание.",
+                    "riddle_hard": "Дыхание очага в зимнюю стужу.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 7,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Земля",
+            "complexity": 1.600000023841858,
+            "puzzles": [
+                {
+                    "word": "ПОЧВА",
+                    "riddle": "Черная колыбель.",
+                    "riddle_hard": "Тьма, где дремлют семена жизни.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЫЛЬ",
+                    "riddle": "Танец в луче.",
+                    "riddle_hard": "Миры, парящие в свете дня.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛИНА",
+                    "riddle": "Мягкая податливость.",
+                    "riddle_hard": "Земля в руках творца.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 8,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Дождь",
+            "complexity": 1.7000000476837159,
+            "puzzles": [
+                {
+                    "word": "ДОЖДЬ",
+                    "riddle": "Небесные слезы.",
+                    "riddle_hard": "Нити, сшивающие небо с землей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАПЛЯ",
+                    "riddle": "Водная жемчужина.",
+                    "riddle_hard": "Прозрачный мир на лепестке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЛАГА",
+                    "riddle": "Дыхание утра.",
+                    "riddle_hard": "Свежесть после грозы.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 9,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Зима",
+            "complexity": 1.7999999523162842,
+            "puzzles": [
+                {
+                    "word": "СНЕГ",
+                    "riddle": "Белое безмолвие.",
+                    "riddle_hard": "Пух облаков, укрывший землю.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХОЛОД",
+                    "riddle": "Ледяное дыхание.",
+                    "riddle_hard": "Поступь мороза, усыпляющая всё.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕД",
+                    "riddle": "Твердая вода.",
+                    "riddle_hard": "Зеркало уснувшей реки.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 10,
+            "grid_size": 4,
+            "category": "Разум",
+            "subcategory": "Тишина",
+            "complexity": 1.899999976158142,
+            "puzzles": [
+                {
+                    "word": "ТИШИНА",
+                    "riddle": "Озеро ума.",
+                    "riddle_hard": "Отсутствие звуков, голос души.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОКОЙ",
+                    "riddle": "Миг созерцания.",
+                    "riddle_hard": "Станция, где мысли замедляются.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕДЛЕННО",
+                    "riddle": "Ритм листа.",
+                    "riddle_hard": "Красота в неспешном движении.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 11,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Горы",
+            "complexity": 2.0,
+            "puzzles": [
+                {
+                    "word": "ПИК",
+                    "riddle": "Вершина горы.",
+                    "riddle_hard": "Венец, касающийся облаков.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКАЛА",
+                    "riddle": "Каменная стена.",
+                    "riddle_hard": "Громада, пережившая тысячи бурь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКЛОН",
+                    "riddle": "Путь вниз.",
+                    "riddle_hard": "Спина горы, ведущая в долину.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭХО",
+                    "riddle": "Голос скал.",
+                    "riddle_hard": "Призрак звука в пустых ущельях.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 12,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Пустыня",
+            "complexity": 2.0999999046325685,
+            "puzzles": [
+                {
+                    "word": "ПЕСОК",
+                    "riddle": "Золотая пыль.",
+                    "riddle_hard": "Море камней, стертых временем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖАРА",
+                    "riddle": "Знойный воздух.",
+                    "riddle_hard": "Огненное дыхание пустыни.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОАЗИС",
+                    "riddle": "Чудо в песках.",
+                    "riddle_hard": "Изумрудный остров среди дюн.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИРАЖ",
+                    "riddle": "Обман зрения.",
+                    "riddle_hard": "Танец света, рождающий воду.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 13,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Степь",
+            "complexity": 2.200000047683716,
+            "puzzles": [
+                {
+                    "word": "ТРАВА",
+                    "riddle": "Зеленый ковер.",
+                    "riddle_hard": "Море зелени, покорное ветру.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОЛОС",
+                    "riddle": "Зерновой дар.",
+                    "riddle_hard": "Золотая чаша с хлебным будущим.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕТЕР",
+                    "riddle": "Свободный дух.",
+                    "riddle_hard": "Странник, поющий в пустой степи.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 14,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Цветы",
+            "complexity": 2.299999952316284,
+            "puzzles": [
+                {
+                    "word": "РОЗА",
+                    "riddle": "Королева сада.",
+                    "riddle_hard": "Красота под защитой шипов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОТОС",
+                    "riddle": "Цветок чистоты.",
+                    "riddle_hard": "Чистое чудо из мутной воды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АРОМАТ",
+                    "riddle": "Душа цветка.",
+                    "riddle_hard": "Тайный шлейф в воздухе.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 15,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Птицы",
+            "complexity": 2.4000000953674318,
+            "puzzles": [
+                {
+                    "word": "КРЫЛО",
+                    "riddle": "Орган полета.",
+                    "riddle_hard": "Весло, отталкивающееся от неба.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕРО",
+                    "riddle": "Частица крыла.",
+                    "riddle_hard": "Узорчатый дар, упавший с неба.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГНЕЗДО",
+                    "riddle": "Птичий дом.",
+                    "riddle_hard": "Плетеная колыбель в листве.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 16,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Пещера",
+            "complexity": 2.5,
+            "puzzles": [
+                {
+                    "word": "ТЬМА",
+                    "riddle": "Отсутствие света.",
+                    "riddle_hard": "Мрак, куда не доходит солнце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРОТ",
+                    "riddle": "Каменный зал.",
+                    "riddle_hard": "Чертог с застывшими слезами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАМЕНЬ",
+                    "riddle": "Твердое тело.",
+                    "riddle_hard": "Свидетель вечности из глубин.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 17,
+            "grid_size": 4,
+            "category": "Природа",
+            "subcategory": "Радуга",
+            "complexity": 2.5999999046325685,
+            "puzzles": [
+                {
+                    "word": "ДУГА",
+                    "riddle": "Цветной мост.",
+                    "riddle_hard": "Небесное коромысло из света.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦВЕТ",
+                    "riddle": "Игра красок.",
+                    "riddle_hard": "Дыхание жизни в пестром мире.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛУЧ",
+                    "riddle": "Тонкий свет.",
+                    "riddle_hard": "Золотая игла, сшивающая облака.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 18,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 2.700000047683716,
+            "puzzles": [
+                {
+                    "word": "ХЛЕБ",
+                    "riddle": "Всему голова.",
+                    "riddle_hard": "Золотистый дар с жаром печи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧАЙ",
+                    "riddle": "Горячий напиток.",
+                    "riddle_hard": "Настой листьев, греющий душу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТОЛ",
+                    "riddle": "Центр дома.",
+                    "riddle_hard": "Остров для самых близких.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УЖИН",
+                    "riddle": "Вечерняя трапеза.",
+                    "riddle_hard": "Вкус и тихий разговор в конце дня.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 19,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Утро",
+            "complexity": 2.799999952316284,
+            "puzzles": [
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Рассвет в окне.",
+                    "riddle_hard": "Посланник дня, гонящий тьму.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОН",
+                    "riddle": "Мир грез.",
+                    "riddle_hard": "Странствие души в лесах снов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАРЯ",
+                    "riddle": "Начало дня.",
+                    "riddle_hard": "Румянец неба перед солнцем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БОДРО",
+                    "riddle": "Радостный дух.",
+                    "riddle_hard": "Свежая сила для новых дел.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 20,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Сад",
+            "complexity": 2.9000000953674318,
+            "puzzles": [
+                {
+                    "word": "ПОЧВА",
+                    "riddle": "Земная плоть.",
+                    "riddle_hard": "Тьма, вскармливающая зерно.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕЙКА",
+                    "riddle": "Малый дождь.",
+                    "riddle_hard": "Жестяная тучка для цветов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛОД",
+                    "riddle": "Зрелый дар.",
+                    "riddle_hard": "Сладкая награда от деревьев.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОСТОК",
+                    "riddle": "Юная жизнь.",
+                    "riddle_hard": "Зеленый палец, пробивший почву.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 21,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Гостиная",
+            "complexity": 3.0,
+            "puzzles": [
+                {
+                    "word": "УЮТ",
+                    "riddle": "Домашнее тепло.",
+                    "riddle_hard": "Облако покоя у порога дома.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КНИГА",
+                    "riddle": "Дверь в мечту.",
+                    "riddle_hard": "Бумажный портал в иные миры.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАМПА",
+                    "riddle": "Вечерний свет.",
+                    "riddle_hard": "Домашнее солнце для мыслей.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 22,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Спальня",
+            "complexity": 3.0999999046325685,
+            "puzzles": [
+                {
+                    "word": "ТИШЬ",
+                    "riddle": "Мирное безмолвие.",
+                    "riddle_hard": "Покрывало ночи над звуками.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОТДЫХ",
+                    "riddle": "Пора набраться сил.",
+                    "riddle_hard": "Причал для уставшего путника.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕЧТА",
+                    "riddle": "Образ будущего.",
+                    "riddle_hard": "Пыль желаний, ставшая сном.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 23,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Уборка",
+            "complexity": 3.200000047683716,
+            "puzzles": [
+                {
+                    "word": "БЛЕСК",
+                    "riddle": "Сияние чистоты.",
+                    "riddle_hard": "Улыбка вещи без пыли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕТЛА",
+                    "riddle": "Лесная помощница.",
+                    "riddle_hard": "Страж, изгоняющий хаос.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОРЯДОК",
+                    "riddle": "Гармония мест.",
+                    "riddle_hard": "Гармония, где всё на месте.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 24,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Творчество",
+            "complexity": 3.299999952316284,
+            "puzzles": [
+                {
+                    "word": "ПЕРО",
+                    "riddle": "Орудие мысли.",
+                    "riddle_hard": "Ключ в безбрежный мир слов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРАСКИ",
+                    "riddle": "Цветные сны.",
+                    "riddle_hard": "Души природы в тюбиках.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХОЛСТ",
+                    "riddle": "Белое безмолвие.",
+                    "riddle_hard": "Лен, готовый принять любой мир.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 25,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Лес",
+            "complexity": 3.4000000953674318,
+            "puzzles": [
+                {
+                    "word": "СОСНА",
+                    "riddle": "Хвойный исполин.",
+                    "riddle_hard": "Стрела, пахнущая солнцем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШИШКА",
+                    "riddle": "Лесной сундучок.",
+                    "riddle_hard": "Броня, хранящая тайну леса.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМОЛА",
+                    "riddle": "Золото деревьев.",
+                    "riddle_hard": "Слеза леса, ставшая янтарем.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 26,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Река",
+            "complexity": 3.5,
+            "puzzles": [
+                {
+                    "word": "БЕРЕГ",
+                    "riddle": "Край воды.",
+                    "riddle_hard": "Объятие земли для реки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РУСЛО",
+                    "riddle": "Водная тропа.",
+                    "riddle_hard": "След бега живой влаги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕСОК",
+                    "riddle": "Речной дар.",
+                    "riddle_hard": "Мягкое золото речного дна.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 27,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Озеро",
+            "complexity": 3.5999999046325685,
+            "puzzles": [
+                {
+                    "word": "ГЛАДЬ",
+                    "riddle": "Водное зеркало.",
+                    "riddle_hard": "Зеркало для всего мира.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОСОКА",
+                    "riddle": "Острая трава.",
+                    "riddle_hard": "Зеленые мечи у кромки воды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАМЫШ",
+                    "riddle": "Шепот пруда.",
+                    "riddle_hard": "Стебли, поющие в сумерках.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 28,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Знание",
+            "complexity": 3.700000047683716,
+            "puzzles": [
+                {
+                    "word": "МЫСЛЬ",
+                    "riddle": "Вспышка ума.",
+                    "riddle_hard": "Молния, дающая понимание.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОПЫТ",
+                    "riddle": "Багаж времени.",
+                    "riddle_hard": "Колье из прожитых лет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УРОК",
+                    "riddle": "Дар жизни.",
+                    "riddle_hard": "Наставник, скрытый в ошибке.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 29,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Внимание",
+            "complexity": 3.799999952316284,
+            "puzzles": [
+                {
+                    "word": "ВЗГЛЯД",
+                    "riddle": "Окно души.",
+                    "riddle_hard": "Луч, связующий с бытием.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОКУС",
+                    "riddle": "Точка опоры.",
+                    "riddle_hard": "Центр, где мир обретает четкость.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОИСК",
+                    "riddle": "Стремление вдаль.",
+                    "riddle_hard": "Путь сердца к ответам.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 30,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Память",
+            "complexity": 3.9000000953674318,
+            "puzzles": [
+                {
+                    "word": "ОБРАЗ",
+                    "riddle": "Слепок былого.",
+                    "riddle_hard": "Картина, хранящая тепло.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЛЕД",
+                    "riddle": "Печать пути.",
+                    "riddle_hard": "Доказательство, что мы шли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЯЗЬ",
+                    "riddle": "Нить времени.",
+                    "riddle_hard": "Нить, объединившая всё сущее.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 31,
+            "grid_size": 4,
+            "category": "Здоровье",
+            "subcategory": "Спорт",
+            "complexity": 4.0,
+            "puzzles": [
+                {
+                    "word": "СИЛА",
+                    "riddle": "Огонь мышц.",
+                    "riddle_hard": "Энергия для любой преграды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕГ",
+                    "riddle": "Стремительный путь.",
+                    "riddle_hard": "Полет над землей с радостью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВДОХ",
+                    "riddle": "Глоток жизни.",
+                    "riddle_hard": "Мгновение новой силы.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 32,
+            "grid_size": 4,
+            "category": "Здоровье",
+            "subcategory": "Вода",
+            "complexity": 4.099999904632568,
+            "puzzles": [
+                {
+                    "word": "ЗАПЛЫВ",
+                    "riddle": "Путь в голубой бездне.",
+                    "riddle_hard": "Вызов стихии, требующий веры.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БРЫЗГИ",
+                    "riddle": "Водный салют.",
+                    "riddle_hard": "Алмазы от касания воды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НЫРОК",
+                    "riddle": "В глубь за покоем.",
+                    "riddle_hard": "Прыжок в объятия тишины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОЛНА",
+                    "riddle": "Ритм моря.",
+                    "riddle_hard": "Изгиб океана с мощью ветра.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 33,
+            "grid_size": 4,
+            "category": "Здоровье",
+            "subcategory": "Йога",
+            "complexity": 4.199999809265137,
+            "puzzles": [
+                {
+                    "word": "ПОЗА",
+                    "riddle": "Форма покоя.",
+                    "riddle_hard": "Храм покоя в положении тела.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БАЛАНС",
+                    "riddle": "Точка равновесия.",
+                    "riddle_hard": "Искусство неподвижности в хаосе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИР",
+                    "riddle": "Внутренняя тишь.",
+                    "riddle_hard": "Тишина единства без вражды.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 34,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Поход",
+            "complexity": 4.300000190734863,
+            "puzzles": [
+                {
+                    "word": "РЮКЗАК",
+                    "riddle": "Дом за спиной.",
+                    "riddle_hard": "Спутник со всем миром внутри.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАЛАТКА",
+                    "riddle": "Крепость из ткани.",
+                    "riddle_hard": "Уютный островок под звездами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОСТЕР",
+                    "riddle": "Ночной огонь.",
+                    "riddle_hard": "Пламя, греющее сердце во тьме.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУТЬ",
+                    "riddle": "Лента дорог.",
+                    "riddle_hard": "Шаги к открытию самого себя.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 35,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Океан",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МАЯК",
+                    "riddle": "Глаз берега.",
+                    "riddle_hard": "Страж, светящий в шторм.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШТИЛЬ",
+                    "riddle": "Спящее море.",
+                    "riddle_hard": "Зеркало моря для неба.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРИЛИВ",
+                    "riddle": "Дыхание бездны.",
+                    "riddle_hard": "Вода, смывающая печаль.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГАВАНЬ",
+                    "riddle": "Причал покоя.",
+                    "riddle_hard": "Объятия берега для судов.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 36,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Карта",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МАРШРУТ",
+                    "riddle": "Линия пути.",
+                    "riddle_hard": "Судьба странствия на бумаге.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОМПАС",
+                    "riddle": "Верный указатель.",
+                    "riddle_hard": "Игла, знающая сердце севера.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕРШИНА",
+                    "riddle": "Самая высокая цель.",
+                    "riddle_hard": "Встреча неба и земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДАЛЬ",
+                    "riddle": "Зов горизонта.",
+                    "riddle_hard": "Где небо сливается с лесом.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 37,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Город",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "УЛИЦА",
+                    "riddle": "Городская река.",
+                    "riddle_hard": "Артерия из камня и света.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАМЯТНИК",
+                    "riddle": "Застывшее время.",
+                    "riddle_hard": "Эхо великих дел в бронзе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МУЗЕЙ",
+                    "riddle": "Хранитель былого.",
+                    "riddle_hard": "Обитель шепчущих тайн.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОНТАН",
+                    "riddle": "Водный салют.",
+                    "riddle_hard": "Взлет струй к солнцу.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 38,
+            "grid_size": 5,
+            "category": "Искусство",
+            "subcategory": "Живопись",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЭСКИЗ",
+                    "riddle": "Первый набросок.",
+                    "riddle_hard": "Быстрый образ идеи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРАСКА",
+                    "riddle": "Кровь картины.",
+                    "riddle_hard": "Материя, оживляющая холст.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РАМА",
+                    "riddle": "Оправа мечты.",
+                    "riddle_hard": "Граница фантазии и бытия.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МУЗА",
+                    "riddle": "Дух вдохновения.",
+                    "riddle_hard": "Гостья, волнующая сердце.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 39,
+            "grid_size": 5,
+            "category": "Искусство",
+            "subcategory": "Музыка",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РИТМ",
+                    "riddle": "Пульс звука.",
+                    "riddle_hard": "Биение сердца мелодии.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕЛОДИЯ",
+                    "riddle": "Песня души.",
+                    "riddle_hard": "Нить звуков в узоре.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАД",
+                    "riddle": "Созвучие душ.",
+                    "riddle_hard": "Согласие нот и покой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТИШИНА",
+                    "riddle": "Начало всего.",
+                    "riddle_hard": "Колыбель и могила звука.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 40,
+            "grid_size": 5,
+            "category": "Искусство",
+            "subcategory": "Танцы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШАГ",
+                    "riddle": "Первое движение.",
+                    "riddle_hard": "Начало полета в танце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРАЦИЯ",
+                    "riddle": "Легкость жеста.",
+                    "riddle_hard": "Текучесть тела в движении.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОВОРОТ",
+                    "riddle": "Кружение мира.",
+                    "riddle_hard": "Вихрь, сливающий взгляды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЦЕНА",
+                    "riddle": "Остров света.",
+                    "riddle_hard": "Помост, ставший вселенной.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 41,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Странствие",
+            "complexity": 0.5,
+            "puzzles": [
+                {
+                    "word": "ПУТЬ",
+                    "riddle": "Дорога, ведущая к цели",
+                    "riddle_hard": "Бесконечная лента под ногами",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДАЛЬ",
+                    "riddle": "Видимое пространство впереди",
+                    "riddle_hard": "Там, где горизонт манит взор",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАГ",
+                    "riddle": "Движение при ходьбе",
+                    "riddle_hard": "Начало любого приключения",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОИСК",
+                    "riddle": "Процесс нахождения чего-то",
+                    "riddle_hard": "Жажда найти то, чего не хватает",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИТОГ",
+                    "riddle": "Результат долгого пути",
+                    "riddle_hard": "Точка, где опыт обретает имя",
+                    "is_hard": true
+                },
+                {
+                    "word": "ПОРОГ",
+                    "riddle": "Граница входа и выхода",
+                    "riddle_hard": "Место, где кончается привычное",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 42,
+            "grid_size": 5,
+            "category": "Путешествие",
+            "subcategory": "Странствие",
+            "complexity": 0.41999998688697817,
+            "puzzles": [
+                {
+                    "word": "ТРОПА",
+                    "riddle": "Узкая лесная дорожка",
+                    "riddle_hard": "Нить, вьющаяся среди деревьев",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОИСК",
+                    "riddle": "Стремление найти что-то",
+                    "riddle_hard": "Жажда найти ответ внутри себя",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОРОГ",
+                    "riddle": "Граница между домом и миром",
+                    "riddle_hard": "Место, где начинается неведомое",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДАЛЬ",
+                    "riddle": "Пространство впереди",
+                    "riddle_hard": "Там, где небо целует землю",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОРОГА",
+                    "riddle": "Путь, ведущий к цели",
+                    "riddle_hard": "Бесконечная лента под ногами",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 43,
+            "grid_size": 4,
+            "category": "Путешествие",
+            "subcategory": "Отель",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КЛЮЧ",
+                    "riddle": "Пропуск в покой.",
+                    "riddle_hard": "Предмет, открывающий обитель.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХОЛЛ",
+                    "riddle": "Перекресток лиц.",
+                    "riddle_hard": "Встреча людей со всей земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОТДЫХ",
+                    "riddle": "Причал тишины.",
+                    "riddle_hard": "Блаженство после пути.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 44,
+            "grid_size": 4,
+            "category": "Мир",
+            "subcategory": "Океан",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОРАЛЛ",
+                    "riddle": "Каменный сад.",
+                    "riddle_hard": "Творение крошечных жизней.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛУБИНА",
+                    "riddle": "Тайна бездны.",
+                    "riddle_hard": "Толща вод, скрывающая тайны.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РИФ",
+                    "riddle": "Подводный замок.",
+                    "riddle_hard": "Стена для волн и мыслей.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 45,
+            "grid_size": 5,
+            "category": "Мир",
+            "subcategory": "Джунгли",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЛИАНА",
+                    "riddle": "Лесная петля.",
+                    "riddle_hard": "Нить леса в поисках света.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТРОПИК",
+                    "riddle": "Жаркий край.",
+                    "riddle_hard": "Царство лета и птиц.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯГУАР",
+                    "riddle": "Пятнистый дух.",
+                    "riddle_hard": "Тень с золотыми глазами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОЖДЬ",
+                    "riddle": "Влажный дар.",
+                    "riddle_hard": "Поток, питающий зелень.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 46,
+            "grid_size": 5,
+            "category": "Мир",
+            "subcategory": "Север",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "АЙСБЕРГ",
+                    "riddle": "Ледяная гора.",
+                    "riddle_hard": "Ледяной великан в тумане.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХОЛОД",
+                    "riddle": "Дыхание льда.",
+                    "riddle_hard": "Власть севера над водой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИНЕЙ",
+                    "riddle": "Зимняя пыль.",
+                    "riddle_hard": "Кружево дыхания утра.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕД",
+                    "riddle": "Стеклянный щит.",
+                    "riddle_hard": "Броня реки против света.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 47,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Атомы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЯДРО",
+                    "riddle": "Сердце материи.",
+                    "riddle_hard": "Сгусток силы в центре всего.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАРЯД",
+                    "riddle": "Искра жизни.",
+                    "riddle_hard": "Электрическое дыхание мира.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Поток фотонов.",
+                    "riddle_hard": "Посланник звезд летящий сквозь вакуум.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СИЛА",
+                    "riddle": "Причина движения.",
+                    "riddle_hard": "Воля вселенной, вращающая миры.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 48,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Космос",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОРБИТА",
+                    "riddle": "Вечный круг.",
+                    "riddle_hard": "Танец времени на невидимой колее.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОМЕТА",
+                    "riddle": "Хвостатая гостья.",
+                    "riddle_hard": "Ледяная странница из тьмы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗВЕЗДА",
+                    "riddle": "Далекий маяк.",
+                    "riddle_hard": "Огненный шар, дарующий свет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУСТОТА",
+                    "riddle": "Великое ничто.",
+                    "riddle_hard": "Океан, где гаснут миры.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 49,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Время",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЕКУНДА",
+                    "riddle": "Миг вечности.",
+                    "riddle_hard": "Частица времени, исчезающая сразу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭПОХА",
+                    "riddle": "Глава истории.",
+                    "riddle_hard": "Пласт времен с судьбами народов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РИТМ",
+                    "riddle": "Пульс бытия.",
+                    "riddle_hard": "Чередование событий в музыке жизни.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАМЯТЬ",
+                    "riddle": "Сейф мгновений.",
+                    "riddle_hard": "Сокровищница ума с прошлым.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 50,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Эволюция",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЖИЗНЬ",
+                    "riddle": "Главная тайна.",
+                    "riddle_hard": "Танец материи, познающей себя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОТБОР",
+                    "riddle": "Закон природы.",
+                    "riddle_hard": "Сито времени для самых сильных.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЕН",
+                    "riddle": "Код предков.",
+                    "riddle_hard": "Чертеж памяти века.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОСТ",
+                    "riddle": "Тяга к солнцу.",
+                    "riddle_hard": "Стремление стать выше и сильнее.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 51,
+            "grid_size": 4,
+            "category": "Наука",
+            "subcategory": "Свет",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СПЕКТР",
+                    "riddle": "Радуга в луче.",
+                    "riddle_hard": "Многоцветная душа белого света.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИНЗА",
+                    "riddle": "Стеклянный глаз.",
+                    "riddle_hard": "Стекло, приближающее звезды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЛИК",
+                    "riddle": "Игра света.",
+                    "riddle_hard": "Танец солнца на воде.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 52,
+            "grid_size": 4,
+            "category": "Наука",
+            "subcategory": "Звук",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВОЛНА",
+                    "riddle": "Дрожание воздуха.",
+                    "riddle_hard": "Гонец с музыкой сквозь пространство.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕМБР",
+                    "riddle": "Цвет голоса.",
+                    "riddle_hard": "Уникальная окраска звука.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭХО",
+                    "riddle": "Дар пустоты.",
+                    "riddle_hard": "Возвращение голоса из глубины.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 53,
+            "grid_size": 4,
+            "category": "Культура",
+            "subcategory": "Театр",
+            "complexity": 6.199999809265137,
+            "puzzles": [
+                {
+                    "word": "МАСКА",
+                    "riddle": "Чужое лицо.",
+                    "riddle_hard": "Гримаса, дарующая свободу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОЛЬ",
+                    "riddle": "Чужая жизнь.",
+                    "riddle_hard": "Иная судьба, прожитая на сцене.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАНАВЕС",
+                    "riddle": "Граница миров.",
+                    "riddle_hard": "Граница магии и будней.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 54,
+            "grid_size": 4,
+            "category": "Культура",
+            "subcategory": "Книга",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГЛАВА",
+                    "riddle": "Часть пути.",
+                    "riddle_hard": "Этап, ведущий вглубь мира слов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЮЖЕТ",
+                    "riddle": "Нить интриги.",
+                    "riddle_hard": "Нить, держащая в напряжении.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЕРОЙ",
+                    "riddle": "Житель страниц.",
+                    "riddle_hard": "Вымысел, ставший живым.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 55,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Логика",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ТЕОРЕМА",
+                    "riddle": "Строгая истина.",
+                    "riddle_hard": "Истина, требующая доказательств.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЫВОД",
+                    "riddle": "Плодо мыслей.",
+                    "riddle_hard": "Точка, открывающая понимание.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФАКТ",
+                    "riddle": "Твердое знание.",
+                    "riddle_hard": "Неоспоримая частица реальности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СУТЬ",
+                    "riddle": "Главное зерно.",
+                    "riddle_hard": "Скрытая основа вещей.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 56,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Сон",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВИДЕНИЕ",
+                    "riddle": "Ночной гость.",
+                    "riddle_hard": "Образ из тумана подсознания.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЛЕТ",
+                    "riddle": "Дух свободы.",
+                    "riddle_hard": "Парение без крыльев в грезах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОКОЙ",
+                    "riddle": "Блаженная тишь.",
+                    "riddle_hard": "Гавань, где шторма затихают.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРЕЗА",
+                    "riddle": "Светлая мечта.",
+                    "riddle_hard": "Замок из облаков и надежд.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 57,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Минералы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПРИЗМА",
+                    "riddle": "Ловушка луча.",
+                    "riddle_hard": "Кристалл, расщепляющий свет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРАНЬ",
+                    "riddle": "Острая черта.",
+                    "riddle_hard": "Встреча света и тени на камне.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РУДА",
+                    "riddle": "Спящий металл.",
+                    "riddle_hard": "Сокровища, ждущие огня.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРИСТАЛЛ",
+                    "riddle": "Застывший порядок.",
+                    "riddle_hard": "Геометрия из хаоса недр.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 58,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Вулкан",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КРАТЕР",
+                    "riddle": "Огненная чаша.",
+                    "riddle_hard": "Рана, где дышит сердце земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАВА",
+                    "riddle": "Река пламени.",
+                    "riddle_hard": "Огненная кровь гор, сжигающая всё.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕПЕЛ",
+                    "riddle": "Серый след.",
+                    "riddle_hard": "Пыль пожара, укрывшая землю.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖЕРЛО",
+                    "riddle": "Горло недр.",
+                    "riddle_hard": "Проход к океану магмы.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 59,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Погода",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЦИКЛОН",
+                    "riddle": "Небесный вихрь.",
+                    "riddle_hard": "Вращение воздуха, несущее бурю.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРОЗА",
+                    "riddle": "Гнев небес.",
+                    "riddle_hard": "Битва искр и грома в тучах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТУМАН",
+                    "riddle": "Белая завеса.",
+                    "riddle_hard": "Облако, скрывшее очертания мира.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШТОРМ",
+                    "riddle": "Ярость вод.",
+                    "riddle_hard": "Волнение океана под ветром.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 60,
+            "grid_size": 5,
+            "category": "Эмоции",
+            "subcategory": "Радость",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "УЛЫБКА",
+                    "riddle": "Луч на лице.",
+                    "riddle_hard": "Сияние, топящее лед в сердце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМЕХ",
+                    "riddle": "Звук счастья.",
+                    "riddle_hard": "Взрыв веселья, объединяющий всех.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОСТОРГ",
+                    "riddle": "Высший полет.",
+                    "riddle_hard": "Душа замирает от восхищения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИСКРА",
+                    "riddle": "Начало огня.",
+                    "riddle_hard": "Вспышка, рождающая пламя.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 61,
+            "grid_size": 4,
+            "category": "Космос",
+            "subcategory": "Планеты",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СФЕРА",
+                    "riddle": "Круглая форма.",
+                    "riddle_hard": "Фигура тела, созданная гравитацией.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРАТЕР",
+                    "riddle": "Звездный шрам.",
+                    "riddle_hard": "Впадина от удара из пустоты.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОЛЬЦО",
+                    "riddle": "Ледяной пояс.",
+                    "riddle_hard": "Ожерелье из частиц вокруг планеты.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 62,
+            "grid_size": 4,
+            "category": "Космос",
+            "subcategory": "Звезды",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СИЯНИЕ",
+                    "riddle": "Вечный свет.",
+                    "riddle_hard": "Древние лучи сквозь бездну времен.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУЛЬС",
+                    "riddle": "Ритм космоса.",
+                    "riddle_hard": "Стук сердца далекого светила.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЫЛЬ",
+                    "riddle": "Звездный прах.",
+                    "riddle_hard": "Частицы, рождающие новые миры.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 63,
+            "grid_size": 5,
+            "category": "Тайна",
+            "subcategory": "Загадка",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШИФР",
+                    "riddle": "Тайный код.",
+                    "riddle_hard": "Знаки, хранящие истину от чужих.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СИМВОЛ",
+                    "riddle": "Знак смысла.",
+                    "riddle_hard": "Образ, скрывающий вселенную идей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАБИРИНТ",
+                    "riddle": "Сложный путь.",
+                    "riddle_hard": "Сеть, ведущая к центру души.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕНЬ",
+                    "riddle": "Верный спутник.",
+                    "riddle_hard": "Темное отражение, идущее за нами.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 64,
+            "grid_size": 5,
+            "category": "Тайна",
+            "subcategory": "Миф",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЛЕГЕНДА",
+                    "riddle": "Древний шепот.",
+                    "riddle_hard": "Предание, согретое верой людей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДРАКОН",
+                    "riddle": "Чешуйчатая мощь.",
+                    "riddle_hard": "Огнедышащий страж границ познания.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОСТРОВ",
+                    "riddle": "Клочок суши.",
+                    "riddle_hard": "Убежище, где время течет иначе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИДОЛ",
+                    "riddle": "Молчаливый бог.",
+                    "riddle_hard": "Лик, хранящий дух древности.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 65,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Зима",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МЕТЕЛЬ",
+                    "riddle": "Снежный вихрь.",
+                    "riddle_hard": "Пляска хлопьев, стирающая небо.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЬДИНА",
+                    "riddle": "Хрупкий плот.",
+                    "riddle_hard": "Осколок льда в холодном океане.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОРОЗ",
+                    "riddle": "Ледяной дух.",
+                    "riddle_hard": "Мастер, украшающий окна узорами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СНЕГ",
+                    "riddle": "Белый покой.",
+                    "riddle_hard": "Звезды, укрывающие уставшую землю.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 66,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Лето",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗНОЙ",
+                    "riddle": "Жаркий полдень.",
+                    "riddle_hard": "Воздух, где всё замирает в тени.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИСТВА",
+                    "riddle": "Зеленый шум.",
+                    "riddle_hard": "Покрывало, дарующее прохладу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОСА",
+                    "riddle": "Утренняя слеза.",
+                    "riddle_hard": "Жемчужины на траве утром.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛУГ",
+                    "riddle": "Цветной ковер.",
+                    "riddle_hard": "Море трав под летним ветром.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 67,
+            "grid_size": 5,
+            "category": "Жизнь",
+            "subcategory": "Рост",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОРЕНЬ",
+                    "riddle": "Скрытая опора.",
+                    "riddle_hard": "Сеть, пьющая соки для жизни дерева.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗЕРНО",
+                    "riddle": "Спящая тайна.",
+                    "riddle_hard": "Колыбель, где дремлет лес.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦВЕТОК",
+                    "riddle": "Малая радость.",
+                    "riddle_hard": "Праздник перед рождением плода.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕТКА",
+                    "riddle": "Перст к солнцу.",
+                    "riddle_hard": "Стремление дерева ввысь.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 68,
+            "grid_size": 5,
+            "category": "Жизнь",
+            "subcategory": "Время",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЧАСЫ",
+                    "riddle": "Счетчик мгновений.",
+                    "riddle_hard": "Механизм, считающий шаги вечности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕСОК",
+                    "riddle": "Текучая пыль.",
+                    "riddle_hard": "Крупинки, струящиеся сквозь пальцы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕК",
+                    "riddle": "Долгий путь.",
+                    "riddle_hard": "Отрезок времен с судьбами поколений.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЕНЬ",
+                    "riddle": "Круг света.",
+                    "riddle_hard": "Цикл от зари до заката.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 69,
+            "grid_size": 5,
+            "category": "Мудрость",
+            "subcategory": "Покой",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ТИШИНА",
+                    "riddle": "Голос безмолвия.",
+                    "riddle_hard": "Пространство для шепота души.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОТОС",
+                    "riddle": "Символ чистоты.",
+                    "riddle_hard": "Цветок из тины без пятен.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВДОХ",
+                    "riddle": "Глоток единства.",
+                    "riddle_hard": "Контакт с вселенной, дарующий жизнь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХРАМ",
+                    "riddle": "Обитель духа.",
+                    "riddle_hard": "Каменная молитва вечного покоя.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 70,
+            "grid_size": 5,
+            "category": "Мудрость",
+            "subcategory": "Путь",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШАГ",
+                    "riddle": "Начало движения.",
+                    "riddle_hard": "Преодоление покоя ради цели.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГОРА",
+                    "riddle": "Великий вызов.",
+                    "riddle_hard": "Твердыня, требующая воли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БРОД",
+                    "riddle": "Скрытая тропа.",
+                    "riddle_hard": "Место перехода через реку жизни.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦЕЛЬ",
+                    "riddle": "Звездный маяк.",
+                    "riddle_hard": "Точка на горизонте, дающая смысл.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 71,
+            "grid_size": 4,
+            "category": "Разум",
+            "subcategory": "Идея",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ИСКРА",
+                    "riddle": "Мгновение мысли.",
+                    "riddle_hard": "Вспышка, освещающая путь открытию.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Луч истины.",
+                    "riddle_hard": "Поток, разгоняющий сумерки сомнений.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗЕРНО",
+                    "riddle": "Корень замысла.",
+                    "riddle_hard": "Начало дела с мощью будущего.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 72,
+            "grid_size": 4,
+            "category": "Разум",
+            "subcategory": "Слово",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОБРАЗ",
+                    "riddle": "Живая картина.",
+                    "riddle_hard": "Идея, обретшая плоть в воображении.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РИФМА",
+                    "riddle": "Звуковое эхо.",
+                    "riddle_hard": "Созвучие слов в мелодии.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМЫСЛ",
+                    "riddle": "Душа речи.",
+                    "riddle_hard": "Суть, открытая чуткому уму.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 73,
+            "grid_size": 4,
+            "category": "Вселенная",
+            "subcategory": "Галактика",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВИХРЬ",
+                    "riddle": "Звездный танец.",
+                    "riddle_hard": "Вращение солнц вокруг центра.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОТОК",
+                    "riddle": "Река лучей.",
+                    "riddle_hard": "Свет сквозь бездны с вестью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦЕНТР",
+                    "riddle": "Точка притяжения.",
+                    "riddle_hard": "Сердце, удерживающее миры.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 74,
+            "grid_size": 4,
+            "category": "Вселенная",
+            "subcategory": "Свет",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЛУЧ",
+                    "riddle": "Нить солнца.",
+                    "riddle_hard": "Стрела, греющая землю из космоса.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЛЕСК",
+                    "riddle": "Сияние миров.",
+                    "riddle_hard": "Отблеск звезд в ночном небе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕНЬ",
+                    "riddle": "Отражение тьмы.",
+                    "riddle_hard": "Отсутствие света за преградой.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 75,
+            "grid_size": 6,
+            "category": "Сущность",
+            "subcategory": "Зеркало",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОБЛИК",
+                    "riddle": "Внешняя маска.",
+                    "riddle_hard": "Образ, отраженный в глазах других.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРАВДА",
+                    "riddle": "Чистое знание.",
+                    "riddle_hard": "Реальность, открытая сердцу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТЕКЛО",
+                    "riddle": "Прозрачный щит.",
+                    "riddle_hard": "Грань, отделяющая нас от отражения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЗГЛЯД",
+                    "riddle": "Мост души.",
+                    "riddle_hard": "Луч внимания внутрь или вовне.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 76,
+            "grid_size": 6,
+            "category": "Сущность",
+            "subcategory": "Маяк",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "БЕРЕГ",
+                    "riddle": "Желанный покой.",
+                    "riddle_hard": "Предел океана, где судно находит гавань.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОГОНЬ",
+                    "riddle": "Сердце во тьме.",
+                    "riddle_hard": "Энергия, ставшая светом надежды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОЛНА",
+                    "riddle": "Морской ритм.",
+                    "riddle_hard": "Изгиб бездны в вечном танце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУТЬ",
+                    "riddle": "Безопасный след.",
+                    "riddle_hard": "Тропа сквозь шторм, указанная маяком.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 77,
+            "grid_size": 6,
+            "category": "Искусство",
+            "subcategory": "Скульптор",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КАМЕНЬ",
+                    "riddle": "Безмолвная плоть.",
+                    "riddle_hard": "Твердь, хранящая будущий шедевр.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЕЗЕЦ",
+                    "riddle": "Острая воля.",
+                    "riddle_hard": "Инструмент, отсекающий лишнее.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОБРАЗ",
+                    "riddle": "Дух в мраморе.",
+                    "riddle_hard": "Форма, рожденная из хаоса камня.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖИЗНЬ",
+                    "riddle": "Дар творца.",
+                    "riddle_hard": "Дыхание, вложенное рукой мастера.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 78,
+            "grid_size": 6,
+            "category": "Искусство",
+            "subcategory": "Театр",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "АКТЕР",
+                    "riddle": "Живая маска.",
+                    "riddle_hard": "Путник, дарящий голос героям.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЦЕНА",
+                    "riddle": "Мир в луче.",
+                    "riddle_hard": "Подмостки, ставшие мирами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЬЕСА",
+                    "riddle": "Сплетение слов.",
+                    "riddle_hard": "Судьба, ждущая часа ожить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖЕСТ",
+                    "riddle": "Знак тишины.",
+                    "riddle_hard": "Движение рук, говорящее за тысячу.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 79,
+            "grid_size": 6,
+            "category": "Стихия",
+            "subcategory": "Ветер",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПОЛЕТ",
+                    "riddle": "Путь к небесам.",
+                    "riddle_hard": "Парение в воздушном океане.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШЕПОТ",
+                    "riddle": "Голос листвы.",
+                    "riddle_hard": "Звук воздуха в кронах деревьев.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАРУС",
+                    "riddle": "Ловушка ветра.",
+                    "riddle_hard": "Полотно, ловящее силу стихии.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СИЛА",
+                    "riddle": "Призрачная мощь.",
+                    "riddle_hard": "Энергия, способная гнуть дубы.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 80,
+            "grid_size": 6,
+            "category": "Стихия",
+            "subcategory": "Огонь",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ТЕПЛО",
+                    "riddle": "Дар костра.",
+                    "riddle_hard": "Дыхание пламени в ночи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛАМЯ",
+                    "riddle": "Танец искр.",
+                    "riddle_hard": "Энергия, пожирающая сухую плоть.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИСКРА",
+                    "riddle": "Малая искра.",
+                    "riddle_hard": "Осколок огня, рождающий пожар.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Победа над мглой.",
+                    "riddle_hard": "Свет истины, гонящий мрак ума.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 81,
+            "grid_size": 4,
+            "category": "Сущность",
+            "subcategory": "Зерно",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЖИЗНЬ",
+                    "riddle": "Вечное чудо.",
+                    "riddle_hard": "Сила ростка, пробивающая камень.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОСТ",
+                    "riddle": "Путь к свету.",
+                    "riddle_hard": "Развитие от капли до величия.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛОД",
+                    "riddle": "Итог терпения.",
+                    "riddle_hard": "Результат, хранящий будущие леса.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 82,
+            "grid_size": 4,
+            "category": "Сущность",
+            "subcategory": "Путь",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЛЕД",
+                    "riddle": "Печать судьбы.",
+                    "riddle_hard": "Память о пройденных верстах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАГ",
+                    "riddle": "Мера движения.",
+                    "riddle_hard": "Усилие, слагающее странствие.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦЕЛЬ",
+                    "riddle": "Манящий свет.",
+                    "riddle_hard": "Ориентир в тумане будущего.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 83,
+            "grid_size": 5,
+            "category": "Дух",
+            "subcategory": "Воля",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВЫБОР",
+                    "riddle": "Свободный шаг.",
+                    "riddle_hard": "Дар определять свой путь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СИЛА",
+                    "riddle": "Стальной дух.",
+                    "riddle_hard": "Стержень, держащий в хаосе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДУХ",
+                    "riddle": "Истинное Я.",
+                    "riddle_hard": "Вечное пламя внутри человека.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИР",
+                    "riddle": "Тихий покой.",
+                    "riddle_hard": "Согласие со всей вселенной.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 84,
+            "grid_size": 5,
+            "category": "Дух",
+            "subcategory": "Свет",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЛУЧ",
+                    "riddle": "Проводник правды.",
+                    "riddle_hard": "Нить озарения сквозь сомнения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЕНЬ",
+                    "riddle": "Пора свершений.",
+                    "riddle_hard": "Время познания красоты мира.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАРЯ",
+                    "riddle": "Шепот надежды.",
+                    "riddle_hard": "Румянец, предвещающий солнце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НЕБО",
+                    "riddle": "Око вечности.",
+                    "riddle_hard": "Океан, где тонут заботы.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 85,
+            "grid_size": 5,
+            "category": "Дух",
+            "subcategory": "Тишина",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВДОХ",
+                    "riddle": "Ритм бытия.",
+                    "riddle_hard": "Мгновение, когда мы впускаем жизнь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИГ",
+                    "riddle": "Атом времени.",
+                    "riddle_hard": "Точка реальности в потоке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОКОЙ",
+                    "riddle": "Мертвая зыбь.",
+                    "riddle_hard": "Неподвижность, отражающая всё.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОН",
+                    "riddle": "Полет души.",
+                    "riddle_hard": "Странствие в залах подсознания.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 86,
+            "grid_size": 5,
+            "category": "Мудрость",
+            "subcategory": "Книга",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЛОВО",
+                    "riddle": "Святая плоть.",
+                    "riddle_hard": "Мысль, созидающая миры.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗНАК",
+                    "riddle": "Печать тайны.",
+                    "riddle_hard": "Указатель познания с эхом смыслов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УМ",
+                    "riddle": "Ясный взор.",
+                    "riddle_hard": "Инструмент постижения истины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИСТ",
+                    "riddle": "Белый причал.",
+                    "riddle_hard": "Поле, ждущее прикосновения пера.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 87,
+            "grid_size": 5,
+            "category": "Мудрость",
+            "subcategory": "Опыт",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШРАМ",
+                    "riddle": "След битвы.",
+                    "riddle_hard": "Память о боли и уроках пути.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УРОК",
+                    "riddle": "Дар ошибки.",
+                    "riddle_hard": "Истина, извлеченная из неудач.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВРЕМЯ",
+                    "riddle": "Великий судья.",
+                    "riddle_hard": "Наставник, расставляющий всё по местам.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СУДЬБА",
+                    "riddle": "Узор нитей.",
+                    "riddle_hard": "Переплетение, ткущее жизнь.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 88,
+            "grid_size": 5,
+            "category": "Мудрость",
+            "subcategory": "Истина",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОРЕНЬ",
+                    "riddle": "Основа всего.",
+                    "riddle_hard": "Суть, держащая всё здание реальности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯДРО",
+                    "riddle": "Центр силы.",
+                    "riddle_hard": "Часть, хранящая тайну бытия.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФАКТ",
+                    "riddle": "Кремень ума.",
+                    "riddle_hard": "Свидетельство, разбивающее фантазии.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Глаз правды.",
+                    "riddle_hard": "Сияние, делающее всё явным.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 89,
+            "grid_size": 5,
+            "category": "Дзен",
+            "subcategory": "Пустота",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЧАША",
+                    "riddle": "Сосуд духа.",
+                    "riddle_hard": "Польза, сокрытая в пустоте.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАУЗА",
+                    "riddle": "Тишь в песне.",
+                    "riddle_hard": "Мгновение, рождающее смысл.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НУЛЬ",
+                    "riddle": "Точка начала.",
+                    "riddle_hard": "Граница, рождающая бесконечность.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯСНО",
+                    "riddle": "Чистый ум.",
+                    "riddle_hard": "Сознание, отражающее мир.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 90,
+            "grid_size": 5,
+            "category": "Дзен",
+            "subcategory": "Поток",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РЕКА",
+                    "riddle": "Вечный путь.",
+                    "riddle_hard": "Символ бесконечного движения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕТЕР",
+                    "riddle": "Дух воли.",
+                    "riddle_hard": "Свобода, наполняющая паруса.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИСТ",
+                    "riddle": "Пловец судьбы.",
+                    "riddle_hard": "Доверившийся течению реки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЕДИН",
+                    "riddle": "Чувство связи.",
+                    "riddle_hard": "Осознание единства со всем.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 91,
+            "grid_size": 4,
+            "category": "Дзен",
+            "subcategory": "Зеркало",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "БЛИК",
+                    "riddle": "Игра света.",
+                    "riddle_hard": "Отражение истины в сознании.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭХО",
+                    "riddle": "Голос пустоты.",
+                    "riddle_hard": "След, напоминающий о конце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИР",
+                    "riddle": "Океан неба.",
+                    "riddle_hard": "Пространство, отражающее вечность.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 92,
+            "grid_size": 4,
+            "category": "Дзен",
+            "subcategory": "Сад",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЛЕД",
+                    "riddle": "Метка пути.",
+                    "riddle_hard": "Отпечаток, тающий во времени.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НИТЬ",
+                    "riddle": "Связь всего.",
+                    "riddle_hard": "Паутина, соединяющая сердца.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДУХ",
+                    "riddle": "Аромат души.",
+                    "riddle_hard": "Сущность живого без оков.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 93,
+            "grid_size": 4,
+            "category": "Дзен",
+            "subcategory": "Гора",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПИК",
+                    "riddle": "Предел высоты.",
+                    "riddle_hard": "Встреча тверди с лазурью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕНЬ",
+                    "riddle": "Память света.",
+                    "riddle_hard": "Спутник, доказывающий свет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУТЬ",
+                    "riddle": "Главная цель.",
+                    "riddle_hard": "Дорога познания, что выше вершин.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 94,
+            "grid_size": 4,
+            "category": "Дзен",
+            "subcategory": "Вода",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГЛАДЬ",
+                    "riddle": "Покой ума.",
+                    "riddle_hard": "Гладь моря в ожидании озарения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НЫРОК",
+                    "riddle": "Прыжок в суть.",
+                    "riddle_hard": "Уход к ядру тайного смысла.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРУГ",
+                    "riddle": "Эхо камня.",
+                    "riddle_hard": "Расширение последствий в океане.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 95,
+            "grid_size": 5,
+            "category": "Пробуждение",
+            "subcategory": "Свет",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГЛАЗ",
+                    "riddle": "Окно мира.",
+                    "riddle_hard": "Вселенная смотрит в зеркало.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯСНО",
+                    "riddle": "Свет знания.",
+                    "riddle_hard": "Понимание без вопросов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СУТЬ",
+                    "riddle": "Ядро вещей.",
+                    "riddle_hard": "Зерно истины после огня.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕРА",
+                    "riddle": "Внутренняя заря.",
+                    "riddle_hard": "Пламя уверенности на тропе.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 96,
+            "grid_size": 5,
+            "category": "Пробуждение",
+            "subcategory": "Тишина",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗВУК",
+                    "riddle": "Гость тишины.",
+                    "riddle_hard": "Вибрация жизни из безмолвия.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАУЗА",
+                    "riddle": "Место силы.",
+                    "riddle_hard": "Дыхание, скрывающее мощь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОКОЙ",
+                    "riddle": "Сердце бури.",
+                    "riddle_hard": "Мир в центре вихря перемен.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИР",
+                    "riddle": "Дар духа.",
+                    "riddle_hard": "Гармония выше любых слов.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 97,
+            "grid_size": 5,
+            "category": "Пробуждение",
+            "subcategory": "Любовь",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ТЕПЛО",
+                    "riddle": "Дар сердца.",
+                    "riddle_hard": "Сияние, топящее древний лед.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕТ",
+                    "riddle": "Мост миров.",
+                    "riddle_hard": "Энергия, соединяющая берега.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДАР",
+                    "riddle": "Чистое благо.",
+                    "riddle_hard": "Дар вселенной, не требуя взамен.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЕДИН",
+                    "riddle": "Конец розни.",
+                    "riddle_hard": "Конец одиночества в сиянии.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 98,
+            "grid_size": 5,
+            "category": "Разум",
+            "subcategory": "Познание",
+            "complexity": 0.9800000190734863,
+            "puzzles": [
+                {
+                    "word": "РАЗУМ",
+                    "riddle": "То, что советуют не терять даже в пылу любви.",
+                    "riddle_hard": "Архитектор воздушных замков на твердой почве.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЫСЛЬ",
+                    "riddle": "Продукт мышления, идея.",
+                    "riddle_hard": "Незримая искра внутри головы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОГИКА",
+                    "riddle": "Наука о правильном мышлении.",
+                    "riddle_hard": "Строгий порядок в хаосе идей.",
+                    "is_hard": true
+                },
+                {
+                    "word": "СМЫСЛ",
+                    "riddle": "Главная суть или значение.",
+                    "riddle_hard": "То, что ищут между строк.",
+                    "is_hard": true
+                },
+                {
+                    "word": "СУТЬ",
+                    "riddle": "Самое главное в предмете.",
+                    "riddle_hard": "Зерно истины в оболочке слов.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 99,
+            "grid_size": 5,
+            "category": "Абсолют",
+            "subcategory": "Вечность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РИТМ",
+                    "riddle": "Танец атомов.",
+                    "riddle_hard": "Чередование циклов в музыке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕК",
+                    "riddle": "Миг веков.",
+                    "riddle_hard": "История как вздох в бесконечности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗВЕЗДА",
+                    "riddle": "Глаз тьмы.",
+                    "riddle_hard": "Свидетель тайны в ночи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕЗДНА",
+                    "riddle": "Зов высоты.",
+                    "riddle_hard": "Глубина неба и души.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 100,
+            "grid_size": 5,
+            "category": "Абсолют",
+            "subcategory": "Дзен",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПУСТОТА",
+                    "riddle": "Всеобъемлемость.",
+                    "riddle_hard": "Пространство рождения и смерти.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЫТИЕ",
+                    "riddle": "Сам факт.",
+                    "riddle_hard": "Радость существования сама по себе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕЧНОСТЬ",
+                    "riddle": "Вне времени.",
+                    "riddle_hard": "Слияние времен в Сейчас.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НИЧТО",
+                    "riddle": "Начало всего.",
+                    "riddle_hard": "Корень реальности, рождающий мир.",
+                    "is_hard": false
+                }
+            ],
+            "extra_words": []
+        }
+    ]
+}

@@ -1,0 +1,2382 @@
+[
+    {
+        "level_id": 101,
+        "grid_size": 4,
+        "complexity": 1.0,
+        "category": "La Ciudad",
+        "subcategory": "Arquitectura",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "Pared de piedra que protege el silencio del hogar."
+            },
+            {
+                "word": "ARCO",
+                "riddle": "Gesto de triunfo que sostiene el peso del cielo."
+            },
+            {
+                "word": "BASE",
+                "riddle": "La piedra firme donde descansa toda la estructura."
+            }
+        ]
+    },
+    {
+        "level_id": 102,
+        "grid_size": 4,
+        "complexity": 1.1,
+        "category": "La Ciudad",
+        "subcategory": "Calles",
+        "puzzles": [
+            {
+                "word": "VIA",
+                "riddle": "Camino de hierro o piedra que guía el movimiento."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Lugar seguro para el que cruza el río de asfalto."
+            },
+            {
+                "word": "GUIA",
+                "riddle": "Señal que nos dice hacia dónde orientar la marcha."
+            }
+        ]
+    },
+    {
+        "level_id": 103,
+        "grid_size": 4,
+        "complexity": 1.2,
+        "category": "La Ciudad",
+        "subcategory": "Luces",
+        "puzzles": [
+            {
+                "word": "FARO",
+                "riddle": "Ojo nocturno que vigila el descanso de los barrios."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Chispa eléctrica que vence a la sombra urbana."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Punto de claridad que resalta la belleza del edificio."
+            }
+        ]
+    },
+    {
+        "level_id": 104,
+        "grid_size": 4,
+        "complexity": 1.3,
+        "category": "La Ciudad",
+        "subcategory": "Plazas",
+        "puzzles": [
+            {
+                "word": "FORO",
+                "riddle": "Espacio abierto donde la voz del pueblo resuena."
+            },
+            {
+                "word": "MESA",
+                "riddle": "Centro de reunión bajo la sombra de los fresnos."
+            },
+            {
+                "word": "ARTE",
+                "riddle": "La expresión del espíritu en medio de la plaza."
+            }
+        ]
+    },
+    {
+        "level_id": 105,
+        "grid_size": 4,
+        "complexity": 1.4,
+        "category": "La Ciudad",
+        "subcategory": "Puentes",
+        "puzzles": [
+            {
+                "word": "NEXO",
+                "riddle": "Brazo de hierro que une dos orillas separadas."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "Desde donde se mira el fluir del río y la gente."
+            },
+            {
+                "word": "PILA",
+                "riddle": "Columna sumergida que aguanta el embate del agua."
+            }
+        ]
+    },
+    {
+        "level_id": 106,
+        "grid_size": 4,
+        "complexity": 1.5,
+        "category": "La Ciudad",
+        "subcategory": "Torres",
+        "puzzles": [
+            {
+                "word": "CIMA",
+                "riddle": "El punto más alto que acaricia el vientre de la nube."
+            },
+            {
+                "word": "MIRA",
+                "riddle": "Ventana circular para observar el mundo desde arriba."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Viento fresco que solo sopla en las alturas."
+            }
+        ]
+    },
+    {
+        "level_id": 107,
+        "grid_size": 4,
+        "complexity": 1.6,
+        "category": "La Ciudad",
+        "subcategory": "Jardines",
+        "puzzles": [
+            {
+                "word": "SETOS",
+                "riddle": "Muros verdes que guardan el perfume de la flor."
+            },
+            {
+                "word": "RAMA",
+                "riddle": "Brazo vegetal que ofrece sombra al paseante."
+            },
+            {
+                "word": "RAIZ",
+                "riddle": "Fuerza oculta que rompe el asfalto para respirar."
+            }
+        ]
+    },
+    {
+        "level_id": 108,
+        "grid_size": 4,
+        "complexity": 1.7,
+        "category": "La Ciudad",
+        "subcategory": "Mercado",
+        "puzzles": [
+            {
+                "word": "PUESTO",
+                "riddle": "Lugar de colores donde la tierra ofrece su fruto."
+            },
+            {
+                "word": "TRATO",
+                "riddle": "Acuerdo de palabras para compartir el sustento."
+            },
+            {
+                "word": "DAME",
+                "riddle": "Gesto de recibir la abundancia que el otro ofrece."
+            }
+        ]
+    },
+    {
+        "level_id": 109,
+        "grid_size": 4,
+        "complexity": 1.8,
+        "category": "La Ciudad",
+        "subcategory": "Ruidos",
+        "puzzles": [
+            {
+                "word": "VOZ",
+                "riddle": "El murmullo constante de mil historias cruzadas."
+            },
+            {
+                "word": "ECO",
+                "riddle": "El sonido que rebota en los callejones estrechos."
+            },
+            {
+                "word": "SON",
+                "riddle": "El ritmo metálico del metal y la piedra en danza."
+            }
+        ]
+    },
+    {
+        "level_id": 110,
+        "grid_size": 4,
+        "complexity": 1.9,
+        "category": "La Ciudad",
+        "subcategory": "Silencio",
+        "puzzles": [
+            {
+                "word": "MUDO",
+                "riddle": "El instante de quietud antes de que el sol despierte."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma que se encuentra en el patio interior."
+            },
+            {
+                "word": "ZEN",
+                "riddle": "Sentirse uno mismo en el bullicio de la multitud."
+            }
+        ]
+    },
+    {
+        "level_id": 111,
+        "grid_size": 5,
+        "complexity": 2.0,
+        "category": "La Ciudad",
+        "subcategory": "Metro",
+        "puzzles": [
+            {
+                "word": "TREN",
+                "riddle": "Gusano de metal que habita en las venas de la tierra."
+            },
+            {
+                "word": "TUNEL",
+                "riddle": "Garganta oscura que traga la luz de los vagones."
+            },
+            {
+                "word": "VIAJE",
+                "riddle": "El breve suspenso entre una estación y la siguiente."
+            },
+            {
+                "word": "VELOZ",
+                "riddle": "La sensación del viento que no vemos pero sentimos."
+            }
+        ]
+    },
+    {
+        "level_id": 112,
+        "grid_size": 5,
+        "complexity": 2.1,
+        "category": "La Ciudad",
+        "subcategory": "Estación",
+        "puzzles": [
+            {
+                "word": "HALL",
+                "riddle": "Catedral de cristal donde los destinos se cruzan."
+            },
+            {
+                "word": "RELOJ",
+                "riddle": "Juez incansable que preside las idas y vueltas."
+            },
+            {
+                "word": "VAGO",
+                "riddle": "Aquel que espera sin prisa mientras el mundo corre."
+            },
+            {
+                "word": "AVISO",
+                "riddle": "Voz metálica que anuncia un cambio de rumbo."
+            }
+        ]
+    },
+    {
+        "level_id": 113,
+        "grid_size": 5,
+        "complexity": 2.2,
+        "category": "La Ciudad",
+        "subcategory": "Museo",
+        "puzzles": [
+            {
+                "word": "LIENZO",
+                "riddle": "Ventana que nos muestra mundos que ya no existen."
+            },
+            {
+                "word": "OLEO",
+                "riddle": "Sangre de colores que da vida al sueño del artista."
+            },
+            {
+                "word": "MARCO",
+                "riddle": "Frontera de madera que encarcela un momento eterno."
+            },
+            {
+                "word": "SALA",
+                "riddle": "Templo del silencio donde el arte nos observa."
+            }
+        ]
+    },
+    {
+        "level_id": 114,
+        "grid_size": 5,
+        "complexity": 2.3,
+        "category": "La Ciudad",
+        "subcategory": "Teatro",
+        "puzzles": [
+            {
+                "word": "TELON",
+                "riddle": "Párpado de terciopelo que oculta el inicio del sueño."
+            },
+            {
+                "word": "ACTOR",
+                "riddle": "Hombre de mil caras que presta su voz al destino."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Dedo de luz que señala la verdad en la escena."
+            },
+            {
+                "word": "OBRA",
+                "riddle": "Reflejo de la vida en el espejo del escenario."
+            }
+        ]
+    },
+    {
+        "level_id": 115,
+        "grid_size": 5,
+        "complexity": 2.4,
+        "category": "La Ciudad",
+        "subcategory": "Bibliotecas",
+        "puzzles": [
+            {
+                "word": "LIBRO",
+                "riddle": "Bosque de hojas blancas donde habita la palabra."
+            },
+            {
+                "word": "TOMO",
+                "riddle": "Cuerpo de papel que guarda el alma de un sabio."
+            },
+            {
+                "word": "ESTANTE",
+                "riddle": "Peldaño de madera que sostiene el peso del saber."
+            },
+            {
+                "word": "LEER",
+                "riddle": "El acto de escuchar con los ojos en el silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 116,
+        "grid_size": 5,
+        "complexity": 2.5,
+        "category": "La Ciudad",
+        "subcategory": "Escaleras",
+        "puzzles": [
+            {
+                "word": "GRADAS",
+                "riddle": "Ritmo de piedra que nos invita a la ascensión."
+            },
+            {
+                "word": "SUBE",
+                "riddle": "Esfuerzo del cuerpo en busca de una vista nueva."
+            },
+            {
+                "word": "BAJA",
+                "riddle": "Regreso al centro después de tocar las alturas."
+            },
+            {
+                "word": "POMO",
+                "riddle": "Mano de metal que nos abre la puerta del piso."
+            }
+        ]
+    },
+    {
+        "level_id": 117,
+        "grid_size": 5,
+        "complexity": 2.6,
+        "category": "La Ciudad",
+        "subcategory": "Tejados",
+        "puzzles": [
+            {
+                "word": "TEJA",
+                "riddle": "Escama de barro que protege el sueño del hogar."
+            },
+            {
+                "word": "GATO",
+                "riddle": "Sombra ágil que camina por la frontera del cielo."
+            },
+            {
+                "word": "ANTE",
+                "riddle": "El espacio previo a la caída en el abismo urbano."
+            },
+            {
+                "word": "MIRA",
+                "riddle": "Ojo que vuela sobre el mar de chimeneas grises."
+            }
+        ]
+    },
+    {
+        "level_id": 118,
+        "grid_size": 5,
+        "complexity": 2.7,
+        "category": "La Ciudad",
+        "subcategory": "Puertos",
+        "puzzles": [
+            {
+                "word": "MUELLE",
+                "riddle": "Brazo de piedra que abraza la llegada del barco."
+            },
+            {
+                "word": "GRUA",
+                "riddle": "Gigante de hierro que levanta el peso del mañana."
+            },
+            {
+                "word": "FARO",
+                "riddle": "Luz que parpadea para guiar al navegante desvelado."
+            },
+            {
+                "word": "MAR",
+                "riddle": "El límite azul donde la ciudad se rinde al infinito."
+            }
+        ]
+    },
+    {
+        "level_id": 119,
+        "grid_size": 5,
+        "complexity": 2.8,
+        "category": "La Ciudad",
+        "subcategory": "Puentes",
+        "puzzles": [
+            {
+                "word": "VADO",
+                "riddle": "Donde el río se deja cruzar por el caminante."
+            },
+            {
+                "word": "PUENTE",
+                "riddle": "Arco de voluntad que une lo que el agua separa."
+            },
+            {
+                "word": "ORILLA",
+                "riddle": "Frontera de arena donde termina un mundo y empieza otro."
+            },
+            {
+                "word": "PASO",
+                "riddle": "Huella efímera sobre el camino de la historia."
+            }
+        ]
+    },
+    {
+        "level_id": 120,
+        "grid_size": 6,
+        "complexity": 3.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen",
+        "puzzles": [
+            {
+                "word": "QUIETO",
+                "riddle": "Ser montaña en medio del río de la multitud."
+            },
+            {
+                "word": "SERENA",
+                "riddle": "La paz que no depende de lo que sucede fuera."
+            },
+            {
+                "word": "AHORA",
+                "riddle": "El centro inmutable de todo movimiento urbano."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad interna que brilla tras el asfalto."
+            }
+        ]
+    },
+    {
+        "level_id": 121,
+        "grid_size": 4,
+        "complexity": 3.1,
+        "category": "La Ciudad",
+        "subcategory": "Tráfico",
+        "puzzles": [
+            {
+                "word": "AUTOS",
+                "riddle": "Cajas de metal que corren tras un sueño de velocidad."
+            },
+            {
+                "word": "CALLE",
+                "riddle": "Cinta de piedra que une el principio con el fin."
+            },
+            {
+                "word": "VELOZ",
+                "riddle": "El deseo de llegar antes de haber partido."
+            }
+        ]
+    },
+    {
+        "level_id": 122,
+        "grid_size": 4,
+        "complexity": 3.2,
+        "category": "La Ciudad",
+        "subcategory": "Bicicletas",
+        "puzzles": [
+            {
+                "word": "RUEDA",
+                "riddle": "Círculo perfecto que convierte el esfuerzo en camino."
+            },
+            {
+                "word": "GIRO",
+                "riddle": "El movimiento que nos mantiene en equilibrio constante."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El roce fresco del viento en la cara al pedalear."
+            }
+        ]
+    },
+    {
+        "level_id": 123,
+        "grid_size": 4,
+        "complexity": 3.3,
+        "category": "La Ciudad",
+        "subcategory": "Pasos",
+        "puzzles": [
+            {
+                "word": "ACERA",
+                "riddle": "Orilla segura para el que camina sin prisa."
+            },
+            {
+                "word": "PIE",
+                "riddle": "El motor humilde de todos nuestros viajes."
+            },
+            {
+                "word": "PASO",
+                "riddle": "La unidad de medida de nuestra presencia en el mundo."
+            }
+        ]
+    },
+    {
+        "level_id": 124,
+        "grid_size": 4,
+        "complexity": 3.4,
+        "category": "La Ciudad",
+        "subcategory": "Letreros",
+        "puzzles": [
+            {
+                "word": "AVISO",
+                "riddle": "Grito de color que busca nuestra atención fugaz."
+            },
+            {
+                "word": "LEMA",
+                "riddle": "Promesa escrita en luces sobre el techo del mundo."
+            },
+            {
+                "word": "GUIA",
+                "riddle": "Flecha que nos dice dónde está la salida del laberinto."
+            }
+        ]
+    },
+    {
+        "level_id": 125,
+        "grid_size": 4,
+        "complexity": 3.5,
+        "category": "La Ciudad",
+        "subcategory": "Rutas",
+        "puzzles": [
+            {
+                "word": "MAPA",
+                "riddle": "Dibujo abstracto que intenta atrapar la realidad."
+            },
+            {
+                "word": "RED",
+                "riddle": "Trama invisible de caminos que nos envuelve a todos."
+            },
+            {
+                "word": "DESTO",
+                "riddle": "Hacia donde nos movemos incluso sin saberlo."
+            }
+        ]
+    },
+    {
+        "level_id": 126,
+        "grid_size": 5,
+        "complexity": 3.6,
+        "category": "La Ciudad",
+        "subcategory": "Trabajo",
+        "puzzles": [
+            {
+                "word": "OFICIO",
+                "riddle": "El arte de dar utilidad a nuestras manos y mente."
+            },
+            {
+                "word": "TAREA",
+                "riddle": "Pequeño peldaño en la escalera de un gran proyecto."
+            },
+            {
+                "word": "LOGRO",
+                "riddle": "La satisfacción del deber cumplido con amor."
+            },
+            {
+                "word": "AFAN",
+                "riddle": "El motor interno que nos lleva a madrugar."
+            }
+        ]
+    },
+    {
+        "level_id": 127,
+        "grid_size": 5,
+        "complexity": 3.7,
+        "category": "La Ciudad",
+        "subcategory": "Comercio",
+        "puzzles": [
+            {
+                "word": "TIENDA",
+                "riddle": "Gruta de tesoros donde se intercambian necesidades."
+            },
+            {
+                "word": "VALOR",
+                "riddle": "Lo que una cosa es realmente más allá de su precio."
+            },
+            {
+                "word": "TRUEQUE",
+                "riddle": "Dar una parte de uno para recibir la de otro."
+            },
+            {
+                "word": "BIEN",
+                "riddle": "Aquello que satisface una sed en el mercado."
+            }
+        ]
+    },
+    {
+        "level_id": 128,
+        "grid_size": 5,
+        "complexity": 3.8,
+        "category": "La Ciudad",
+        "subcategory": "Encuentros",
+        "puzzles": [
+            {
+                "word": "CITA",
+                "riddle": "Acuerdo de dos almas para coincidir en el tiempo."
+            },
+            {
+                "word": "AZAR",
+                "riddle": "El dios que cruza los caminos de los extraños."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El hilo invisible que nos une a quien acabamos de conocer."
+            },
+            {
+                "word": "HOLA",
+                "riddle": "La palabra que abre la puerta al universo del otro."
+            }
+        ]
+    },
+    {
+        "level_id": 129,
+        "grid_size": 5,
+        "complexity": 3.9,
+        "category": "La Ciudad",
+        "subcategory": "Espera",
+        "puzzles": [
+            {
+                "word": "TURNO",
+                "riddle": "Nuestro lugar en la fila del tiempo compartido."
+            },
+            {
+                "word": "ESPERA",
+                "riddle": "El arte de estar presente sin tener que hacer nada."
+            },
+            {
+                "word": "CALMA",
+                "riddle": "La paz que habita en el que no tiene prisa por llegar."
+            },
+            {
+                "word": "FILA",
+                "riddle": "Rosario de personas que aguardan un mismo destino."
+            }
+        ]
+    },
+    {
+        "level_id": 130,
+        "grid_size": 5,
+        "complexity": 4.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen de la Calle",
+        "puzzles": [
+            {
+                "word": "SOLO",
+                "riddle": "La plenitud de estar acompañado por uno mismo."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ver la unidad en la diversidad del bullicio."
+            },
+            {
+                "word": "NADA",
+                "riddle": "El espacio vacío entre un edificio y el siguiente."
+            },
+            {
+                "word": "SER",
+                "riddle": "Nuestra esencia que permanece quieta mientras todo corre."
+            }
+        ]
+    },
+    {
+        "level_id": 131,
+        "grid_size": 4,
+        "complexity": 4.1,
+        "category": "La Ciudad",
+        "subcategory": "Estructura",
+        "puzzles": [
+            {
+                "word": "BASE",
+                "riddle": "Lo que no se ve pero sostiene todo el edificio."
+            },
+            {
+                "word": "VIGA",
+                "riddle": "Hueso de hierro que aguanta el peso de los pisos."
+            },
+            {
+                "word": "OBRA",
+                "riddle": "El proceso continuo de transformar la materia."
+            }
+        ]
+    },
+    {
+        "level_id": 132,
+        "grid_size": 4,
+        "complexity": 4.2,
+        "category": "La Ciudad",
+        "subcategory": "Sociedad",
+        "puzzles": [
+            {
+                "word": "CONO",
+                "riddle": "Pequeño faro naranja que advierte de un cambio."
+            },
+            {
+                "word": "DATO",
+                "riddle": "Fragmento de información que viaja por el aire."
+            },
+            {
+                "word": "USO",
+                "riddle": "La utilidad que le damos a las cosas en común."
+            }
+        ]
+    },
+    {
+        "level_id": 133,
+        "grid_size": 4,
+        "complexity": 4.3,
+        "category": "La Ciudad",
+        "subcategory": "Reuniones",
+        "puzzles": [
+            {
+                "word": "MESA",
+                "riddle": "Plataforma de madera para compartir ideas y café."
+            },
+            {
+                "word": "ACTA",
+                "riddle": "Memoria escrita de lo que se acordó en la voz."
+            },
+            {
+                "word": "TEMA",
+                "riddle": "El centro del diálogo que nos mantiene unidos."
+            }
+        ]
+    },
+    {
+        "level_id": 134,
+        "grid_size": 4,
+        "complexity": 4.4,
+        "category": "La Ciudad",
+        "subcategory": "Escuelas",
+        "puzzles": [
+            {
+                "word": "AULA",
+                "riddle": "Jardín de mentes donde se siembra el futuro."
+            },
+            {
+                "word": "TIZA",
+                "riddle": "Varita de polvo que dibuja el saber en el muro."
+            },
+            {
+                "word": "LEER",
+                "riddle": "El acto de viajar sin mover un solo pie."
+            }
+        ]
+    },
+    {
+        "level_id": 135,
+        "grid_size": 4,
+        "complexity": 4.5,
+        "category": "La Ciudad",
+        "subcategory": "Oficinas",
+        "puzzles": [
+            {
+                "word": "PISO",
+                "riddle": "Nuestro pequeño territorio en la torre de cristal."
+            },
+            {
+                "word": "PLAN",
+                "riddle": "El dibujo mental de lo que queremos construir."
+            },
+            {
+                "word": "META",
+                "riddle": "El horizonte al que apuntan todos nuestros esfuerzos."
+            }
+        ]
+    },
+    {
+        "level_id": 136,
+        "grid_size": 5,
+        "complexity": 4.6,
+        "category": "La Ciudad",
+        "subcategory": "Luz Nocturna",
+        "puzzles": [
+            {
+                "word": "FAROL",
+                "riddle": "Centinela de luz que vela por el sueño ajeno."
+            },
+            {
+                "word": "NEON",
+                "riddle": "Grito de gas de colores en la mejilla de la noche."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Ojo eléctrico que disuelve la negrura del rincón."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Caminante bajo la luz que su propia sombra proyecta."
+            }
+        ]
+    },
+    {
+        "level_id": 137,
+        "grid_size": 5,
+        "complexity": 4.7,
+        "category": "La Ciudad",
+        "subcategory": "Ruido Blanco",
+        "puzzles": [
+            {
+                "word": "MOTOR",
+                "riddle": "Latido metálico que nunca descansa en la avenida."
+            },
+            {
+                "word": "ZUMBIDO",
+                "riddle": "La voz cansada de la electricidad en los cables."
+            },
+            {
+                "word": "FRENOS",
+                "riddle": "Chirrido de hierro que detiene el flujo del tiempo."
+            },
+            {
+                "word": "CLAXON",
+                "riddle": "Impaciencia sonora armada en un botón de plástico."
+            }
+        ]
+    },
+    {
+        "level_id": 138,
+        "grid_size": 5,
+        "complexity": 4.8,
+        "category": "La Ciudad",
+        "subcategory": "Sombras",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "Espejo oscuro donde el sol dibuja figuras largas."
+            },
+            {
+                "word": "GATO",
+                "riddle": "Sombra ágil que se funde con la noche del tejado."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color de la ciudad cuando el sol se ha ido."
+            },
+            {
+                "word": "MUDO",
+                "riddle": "El silencio que habita tras la cortina del vecino."
+            }
+        ]
+    },
+    {
+        "level_id": 139,
+        "grid_size": 5,
+        "complexity": 4.9,
+        "category": "La Ciudad",
+        "subcategory": "Reflejos",
+        "puzzles": [
+            {
+                "word": "VIDRIO",
+                "riddle": "Agua sólida que nos muestra nuestra propia cara."
+            },
+            {
+                "word": "CHARCO",
+                "riddle": "Pequeño cielo caído en la grieta del asfalto."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "Flecha que rebota en el metal del auto que pasa."
+            },
+            {
+                "word": "VER",
+                "riddle": "El acto de reconocerse en el brillo de lo ajeno."
+            }
+        ]
+    },
+    {
+        "level_id": 140,
+        "grid_size": 5,
+        "complexity": 5.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen del Edificio",
+        "puzzles": [
+            {
+                "word": "ALMA",
+                "riddle": "Lo que queda del hogar cuando se apagan las luces."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El centro vacío de una torre que toca las nubes."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser una sola presencia en el mar de mil ventanas."
+            },
+            {
+                "word": "SER",
+                "riddle": "Nuestra esencia que permanece quieta mientras todo corre."
+            }
+        ]
+    },
+    {
+        "level_id": 141,
+        "grid_size": 4,
+        "complexity": 5.1,
+        "category": "La Ciudad",
+        "subcategory": "Energía",
+        "puzzles": [
+            {
+                "word": "RED",
+                "riddle": "Venas de cobre que llevan la fuerza del rayo."
+            },
+            {
+                "word": "VOLT",
+                "riddle": "La medida de la sed que tiene la lámpara."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El fruto invisible de la corriente que fluye."
+            }
+        ]
+    },
+    {
+        "level_id": 142,
+        "grid_size": 4,
+        "complexity": 5.2,
+        "category": "La Ciudad",
+        "subcategory": "Comunicaciones",
+        "puzzles": [
+            {
+                "word": "ONDA",
+                "riddle": "Invisible viajera que lleva la voz por el aire."
+            },
+            {
+                "word": "RADIO",
+                "riddle": "Caja que atrapa los susurros de todo el mundo."
+            },
+            {
+                "word": "TELE",
+                "riddle": "Ventana mágica que nos muestra escenas lejanas."
+            }
+        ]
+    },
+    {
+        "level_id": 143,
+        "grid_size": 4,
+        "complexity": 5.3,
+        "category": "La Ciudad",
+        "subcategory": "Laboratorios",
+        "puzzles": [
+            {
+                "word": "TUBO",
+                "riddle": "Cilindro de vidrio donde se mezcla el misterio."
+            },
+            {
+                "word": "GAS",
+                "riddle": "Espíritu invisible que alimenta la llama azul."
+            },
+            {
+                "word": "IDEA",
+                "riddle": "El primer paso de todo descubrimiento asombroso."
+            }
+        ]
+    },
+    {
+        "level_id": 144,
+        "grid_size": 4,
+        "complexity": 5.4,
+        "category": "La Ciudad",
+        "subcategory": "Máquinas",
+        "puzzles": [
+            {
+                "word": "ENGRANE",
+                "riddle": "Diente de metal que muerde el paso del tiempo."
+            },
+            {
+                "word": "MOTOR",
+                "riddle": "Corazón de hierro que late with ritmo monótono."
+            },
+            {
+                "word": "GIRA",
+                "riddle": "El destino de toda pieza dentro del mecanismo."
+            }
+        ]
+    },
+    {
+        "level_id": 145,
+        "grid_size": 4,
+        "complexity": 5.5,
+        "category": "La Ciudad",
+        "subcategory": "Transportes",
+        "puzzles": [
+            {
+                "word": "AVION",
+                "riddle": "Pájaro de plata que dibuja nubes de cristal."
+            },
+            {
+                "word": "RUTA",
+                "riddle": "Camino trazado en el mapa de las estrellas."
+            },
+            {
+                "word": "VUELO",
+                "riddle": "El acto de desafiar la atracción de la tierra."
+            }
+        ]
+    },
+    {
+        "level_id": 146,
+        "grid_size": 5,
+        "complexity": 5.6,
+        "category": "La Ciudad",
+        "subcategory": "Arquitectura Zen",
+        "puzzles": [
+            {
+                "word": "VACIO",
+                "riddle": "El espacio sagrado que permite vivir la forma."
+            },
+            {
+                "word": "PLANTA",
+                "riddle": "El dibujo en la tierra de un sueño de piedra."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El punto donde se cruzan la viga y la mirada."
+            },
+            {
+                "word": "SER",
+                "riddle": "La paz que habita en el silencio del hormigón."
+            }
+        ]
+    },
+    {
+        "level_id": 147,
+        "grid_size": 5,
+        "complexity": 5.7,
+        "category": "La Ciudad",
+        "subcategory": "Geometría",
+        "puzzles": [
+            {
+                "word": "LINEA",
+                "riddle": "La distancia más corta entre dos voluntades."
+            },
+            {
+                "word": "ARISTAS",
+                "riddle": "El filo donde se encuentra la sombra con la luz."
+            },
+            {
+                "word": "PUNTO",
+                "riddle": "El origen de donde nace toda la perspectiva."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La suma armónica de todos los ángulos del día."
+            }
+        ]
+    },
+    {
+        "level_id": 148,
+        "grid_size": 5,
+        "complexity": 5.8,
+        "category": "La Ciudad",
+        "subcategory": "Materiales",
+        "puzzles": [
+            {
+                "word": "ACERO",
+                "riddle": "Savia gris que otorga firmeza a las alturas."
+            },
+            {
+                "word": "CRISTAL",
+                "riddle": "Piel transparente que deja pasar la caricia del sol."
+            },
+            {
+                "word": "CAL",
+                "riddle": "Polvo blanco que borra las heridas del muro."
+            },
+            {
+                "word": "DURA",
+                "riddle": "La naturaleza de la piedra frente al paso del viento."
+            }
+        ]
+    },
+    {
+        "level_id": 149,
+        "grid_size": 5,
+        "complexity": 5.9,
+        "category": "La Ciudad",
+        "subcategory": "Efectos",
+        "puzzles": [
+            {
+                "word": "BRILLO",
+                "riddle": "El rastro de luz que deja el sol en el metal."
+            },
+            {
+                "word": "ECO",
+                "riddle": "La voz de la calle que resuena en el pasaje."
+            },
+            {
+                "word": "GIRO",
+                "riddle": "El baile de la grúa sobre el techo del mundo."
+            },
+            {
+                "word": "VER",
+                "riddle": "Limpiar el ojo para descubrir la belleza en el asfalto."
+            }
+        ]
+    },
+    {
+        "level_id": 150,
+        "grid_size": 5,
+        "complexity": 6.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen Tecnológico",
+        "puzzles": [
+            {
+                "word": "CHIP",
+                "riddle": "Pequeño cerebro de silicio que sueña con cálculos."
+            },
+            {
+                "word": "RED",
+                "riddle": "La unión invisible de todas las mentes urbanas."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio que se encuentra tras apagar el motor."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser un solo latido en el gran pulso de la máquina."
+            }
+        ]
+    },
+    {
+        "level_id": 151,
+        "grid_size": 4,
+        "complexity": 6.1,
+        "category": "La Ciudad",
+        "subcategory": "Vecinos",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "La frontera de piedra que nos une y nos separa."
+            },
+            {
+                "word": "VOZ",
+                "riddle": "El saludo que cruza el pasillo en la mañana."
+            },
+            {
+                "word": "CASA",
+                "riddle": "El refugio donde cada uno escribe su historia."
+            }
+        ]
+    },
+    {
+        "level_id": 152,
+        "grid_size": 4,
+        "complexity": 6.2,
+        "category": "La Ciudad",
+        "subcategory": "Amigos",
+        "puzzles": [
+            {
+                "word": "LAZO",
+                "riddle": "Nudo invisible de afecto que resiste el tiempo."
+            },
+            {
+                "word": "REIR",
+                "riddle": "La música que mejor suena en un café concurrido."
+            },
+            {
+                "word": "DAR",
+                "riddle": "El gesto de abrir el corazón a quien camina al lado."
+            }
+        ]
+    },
+    {
+        "level_id": 153,
+        "grid_size": 4,
+        "complexity": 6.3,
+        "category": "La Ciudad",
+        "subcategory": "Plazas",
+        "puzzles": [
+            {
+                "word": "CENTRO",
+                "riddle": "El corazón abierto donde todos los pasos coinciden."
+            },
+            {
+                "word": "BANCO",
+                "riddle": "Madera que invita a ver pasar el río de la vida."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El suspiro de libertad bajo el cielo de la ciudad."
+            }
+        ]
+    },
+    {
+        "level_id": 154,
+        "grid_size": 4,
+        "complexity": 6.4,
+        "category": "La Ciudad",
+        "subcategory": "Fiestas",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "Chispas de alegría que adornan la fachada gris."
+            },
+            {
+                "word": "DANCE",
+                "riddle": "El ritmo compartido que hace olvidar el asfalto."
+            },
+            {
+                "word": "GOZO",
+                "riddle": "El sentimiento de ser parte de algo más grande."
+            }
+        ]
+    },
+    {
+        "level_id": 155,
+        "grid_size": 4,
+        "complexity": 6.5,
+        "category": "La Ciudad",
+        "subcategory": "Ayuda",
+        "puzzles": [
+            {
+                "word": "MANO",
+                "riddle": "El puente de piel tendido al que ha tropezado."
+            },
+            {
+                "word": "GUIA",
+                "riddle": "El consejo amable para el que se siente perdido."
+            },
+            {
+                "word": "BIEN",
+                "riddle": "La semilla que plantamos en el jardín de la sociedad."
+            }
+        ]
+    },
+    {
+        "level_id": 156,
+        "grid_size": 5,
+        "complexity": 6.6,
+        "category": "La Ciudad",
+        "subcategory": "Parques",
+        "puzzles": [
+            {
+                "word": "VERDE",
+                "riddle": "El pulmón que respira entre las costillas de acero."
+            },
+            {
+                "word": "HOJA",
+                "riddle": "Pequeña barca de clorofila navegando en el estanque."
+            },
+            {
+                "word": "SOL",
+                "riddle": "Oro que se filtra por el tamiz de las ramas."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El tesoro que se encuentra lejos del motor."
+            }
+        ]
+    },
+    {
+        "level_id": 157,
+        "grid_size": 5,
+        "complexity": 6.7,
+        "category": "La Ciudad",
+        "subcategory": "Fuentes",
+        "puzzles": [
+            {
+                "word": "AGUA",
+                "riddle": "Voz de cristal que lava el ruido de la avenida."
+            },
+            {
+                "word": "CAIDA",
+                "riddle": "El baile descendente que nunca se cansa de jugar."
+            },
+            {
+                "word": "REFLEJO",
+                "riddle": "Cielo capturado en la palma de una taza de piedra."
+            },
+            {
+                "word": "SED",
+                "riddle": "El deseo de frescura en la tarde de verano."
+            }
+        ]
+    },
+    {
+        "level_id": 158,
+        "grid_size": 5,
+        "complexity": 6.8,
+        "category": "La Ciudad",
+        "subcategory": "Mercados",
+        "puzzles": [
+            {
+                "word": "FRUTA",
+                "riddle": "Joyas de néctar traídas de los campos lejanos."
+            },
+            {
+                "word": "VOZ",
+                "riddle": "El pregón que canta las virtudes de la cosecha."
+            },
+            {
+                "word": "OLOR",
+                "riddle": "Boda de especias y pan fresco en la esquina."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La abundancia de la tierra en el vientre urbano."
+            }
+        ]
+    },
+    {
+        "level_id": 159,
+        "grid_size": 5,
+        "complexity": 6.9,
+        "category": "La Ciudad",
+        "subcategory": "Nostalgia",
+        "puzzles": [
+            {
+                "word": "VIEJO",
+                "riddle": "El muro que ha visto pasar a mil generaciones."
+            },
+            {
+                "word": "AYER",
+                "riddle": "La sombra melancólica de lo que fuimos un día."
+            },
+            {
+                "word": "ECO",
+                "riddle": "El recuerdo de una risa en el patio abandonado."
+            },
+            {
+                "word": "VER",
+                "riddle": "Reconocer la historia en la grieta de la baldosa."
+            }
+        ]
+    },
+    {
+        "level_id": 160,
+        "grid_size": 5,
+        "complexity": 7.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen Social",
+        "puzzles": [
+            {
+                "word": "AMOR",
+                "riddle": "El pegamento invisible que sostiene el edificio."
+            },
+            {
+                "word": "NOS",
+                "riddle": "La unidad que nace de reconocernos en el otro."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Ver la red de causas que nos trajo a esta plaza."
+            },
+            {
+                "word": "SER",
+                "riddle": "Estar despierto en medio del sueño colectivo."
+            }
+        ]
+    },
+    {
+        "level_id": 161,
+        "grid_size": 5,
+        "complexity": 7.1,
+        "category": "La Ciudad",
+        "subcategory": "Patios",
+        "puzzles": [
+            {
+                "word": "CENTRO",
+                "riddle": "El rectangulo de cielo que el edificio nos regala."
+            },
+            {
+                "word": "MACETA",
+                "riddle": "Pequeño mundo de barro donde brota el milagro."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio que se guarda tras la puerta de madera."
+            },
+            {
+                "word": "VER",
+                "riddle": "Descubrir el cosmos en el dibujo de la baldosa."
+            }
+        ]
+    },
+    {
+        "level_id": 162,
+        "grid_size": 5,
+        "complexity": 7.2,
+        "category": "La Ciudad",
+        "subcategory": "Pasajes",
+        "puzzles": [
+            {
+                "word": "ATAJO",
+                "riddle": "El camino secreto que solo conoce el que no tiene prisa."
+            },
+            {
+                "word": "MURO",
+                "riddle": "La piel de la ciudad donde el tiempo escribe su nombre."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "La corriente fresca que viaja por el callejón estrecho."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Ser el único habitante de un instante de penumbra."
+            }
+        ]
+    },
+    {
+        "level_id": 163,
+        "grid_size": 5,
+        "complexity": 7.3,
+        "category": "La Ciudad",
+        "subcategory": "Miradores",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "Donde el ruido del suelo se convierte en murmullo de mar."
+            },
+            {
+                "word": "LEJOS",
+                "riddle": "El horizonte donde los edificios se funden con el aire."
+            },
+            {
+                "word": "MIRA",
+                "riddle": "El ojo que se asombra ante la inmensidad del asfalto."
+            },
+            {
+                "word": "TODO",
+                "riddle": "La sensacion de que el mundo cabe en la palma de la mano."
+            }
+        ]
+    },
+    {
+        "level_id": 164,
+        "grid_size": 5,
+        "complexity": 7.4,
+        "category": "La Ciudad",
+        "subcategory": "Faros",
+        "puzzles": [
+            {
+                "word": "GUIA",
+                "riddle": "La luz que parpadea en la cima de la torre de cristal."
+            },
+            {
+                "word": "NOCHE",
+                "riddle": "El manto oscuro que resalta el brillo de las ventanas."
+            },
+            {
+                "word": "NEXO",
+                "riddle": "El punto de contacto entre el acero y las estrellas."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La claridad que nos dice que no estamos solos."
+            }
+        ]
+    },
+    {
+        "level_id": 165,
+        "grid_size": 5,
+        "complexity": 7.5,
+        "category": "La Ciudad",
+        "subcategory": "Refugios",
+        "puzzles": [
+            {
+                "word": "CASA",
+                "riddle": "El templo personal donde el zapato deja de andar."
+            },
+            {
+                "word": "MESA",
+                "riddle": "El altar donde se comparte el pan y el silencio."
+            },
+            {
+                "word": "CALMA",
+                "riddle": "La paz que se siente al cerrar la ventana al mundo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser la unica voz que suena en la habitacion vacia."
+            }
+        ]
+    },
+    {
+        "level_id": 166,
+        "grid_size": 6,
+        "complexity": 7.6,
+        "category": "La Ciudad",
+        "subcategory": "Transeúnte",
+        "puzzles": [
+            {
+                "word": "ROZAR",
+                "riddle": "El breve contacto de hombro con hombro en el metro."
+            },
+            {
+                "word": "MIRAR",
+                "riddle": "El juego de ojos que se cruzan sin decir palabra."
+            },
+            {
+                "word": "PASAR",
+                "riddle": "Ser una sombra mas en el desfile infinito de la vida."
+            },
+            {
+                "word": "AHORA",
+                "riddle": "El unico momento real en el flujo de la ciudad."
+            }
+        ]
+    },
+    {
+        "level_id": 167,
+        "grid_size": 6,
+        "complexity": 7.7,
+        "category": "La Ciudad",
+        "subcategory": "Cimientos",
+        "puzzles": [
+            {
+                "word": "PIEDRA",
+                "riddle": "La raíz mineral sobre la que descansa el hogar."
+            },
+            {
+                "word": "TIERRA",
+                "riddle": "La madre generosa que aguanta el peso del mañana."
+            },
+            {
+                "word": "BAJO",
+                "riddle": "Lugar hondo donde se guardan los secretos del edificio."
+            },
+            {
+                "word": "SERENA",
+                "riddle": "La estabilidad de lo que no necesita mostrarse."
+            }
+        ]
+    },
+    {
+        "level_id": 168,
+        "grid_size": 6,
+        "complexity": 7.8,
+        "category": "La Ciudad",
+        "subcategory": "Cúpulas",
+        "puzzles": [
+            {
+                "word": "ARCO",
+                "riddle": "La curva perfecta que intenta abrazar al infinito."
+            },
+            {
+                "word": "CIMA",
+                "riddle": "El beso de piedra que el hombre da a las nubes."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El color que se cuela por el ojo de la boveda."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "El aliento que sube buscando la luz del zenit."
+            }
+        ]
+    },
+    {
+        "level_id": 169,
+        "grid_size": 6,
+        "complexity": 7.9,
+        "category": "La Ciudad",
+        "subcategory": "Puentes",
+        "puzzles": [
+            {
+                "word": "UNIR",
+                "riddle": "El proposito de todo brazo de hierro sobre el rio."
+            },
+            {
+                "word": "PASO",
+                "riddle": "El transito seguro entre dos orillas de cristal."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "El camino que nos lleva siempre hacia lo nuevo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La quietud de mirar el agua correr desde lo alto."
+            }
+        ]
+    },
+    {
+        "level_id": 170,
+        "grid_size": 6,
+        "complexity": 8.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen de la Ciudad",
+        "puzzles": [
+            {
+                "word": "QUIETO",
+                "riddle": "Ser el eje inmovil de una rueda que gira sin fin."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "La libertad de ser uno mismo en la muchedumbre."
+            },
+            {
+                "word": "TODO",
+                "riddle": "Comprender que la ciudad entera late en tu pecho."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir con plenitud entre el asfalto and las estrellas."
+            }
+        ]
+    },
+    {
+        "level_id": 171,
+        "grid_size": 5,
+        "complexity": 8.1,
+        "category": "La Ciudad",
+        "subcategory": "Industria",
+        "puzzles": [
+            {
+                "word": "FORJA",
+                "riddle": "El fuego que domina al hierro rebelde."
+            },
+            {
+                "word": "TALLA",
+                "riddle": "Dar forma al bloque para que el alma emerja."
+            },
+            {
+                "word": "MACER",
+                "riddle": "Golpear el metal hasta que aprenda a ser herramienta."
+            },
+            {
+                "word": "OBRA",
+                "riddle": "El sudor que se convierte en estructura eterna."
+            }
+        ]
+    },
+    {
+        "level_id": 172,
+        "grid_size": 5,
+        "complexity": 8.2,
+        "category": "La Ciudad",
+        "subcategory": "Oficinas",
+        "puzzles": [
+            {
+                "word": "PAPEL",
+                "riddle": "Rio blanco donde navegan las ideas escritas."
+            },
+            {
+                "word": "PLUMA",
+                "riddle": "El pincel que dibuja el destino de los negocios."
+            },
+            {
+                "word": "TINTA",
+                "riddle": "Sangre de la palabra que no quiere ser olvidada."
+            },
+            {
+                "word": "PLAN",
+                "riddle": "El mapa mental antes de la primera piedra."
+            }
+        ]
+    },
+    {
+        "level_id": 173,
+        "grid_size": 5,
+        "complexity": 8.3,
+        "category": "La Ciudad",
+        "subcategory": "Ritmo Urbano",
+        "puzzles": [
+            {
+                "word": "TICTAC",
+                "riddle": "El latido del tiempo en la muñeca del caminante."
+            },
+            {
+                "word": "PASO",
+                "riddle": "La nota musical en la cancion de la acera."
+            },
+            {
+                "word": "AVISO",
+                "riddle": "Luz que nos detiene para que el mundo pase."
+            },
+            {
+                "word": "SON",
+                "riddle": "La armonía caótica de mil motores al unísono."
+            }
+        ]
+    },
+    {
+        "level_id": 174,
+        "grid_size": 5,
+        "complexity": 8.4,
+        "category": "La Ciudad",
+        "subcategory": "Ventanales",
+        "puzzles": [
+            {
+                "word": "VIDRIO",
+                "riddle": "Pared que es aire y deja pasar el oro del sol."
+            },
+            {
+                "word": "MARCO",
+                "riddle": "Frontera de madera para el paisaje de asfalto."
+            },
+            {
+                "word": "VISTA",
+                "riddle": "El regalo de la altura al ojo que sabe mirar."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "La cascada transparente que baña el escritorio."
+            }
+        ]
+    },
+    {
+        "level_id": 175,
+        "grid_size": 5,
+        "complexity": 8.5,
+        "category": "La Ciudad",
+        "subcategory": "Archivos",
+        "puzzles": [
+            {
+                "word": "TOMO",
+                "riddle": "Tesoro de hojas que guardan el ayer dormido."
+            },
+            {
+                "word": "DATO",
+                "riddle": "La pequeña semilla de la cual brota el saber."
+            },
+            {
+                "word": "LECTA",
+                "riddle": "Aquello que ha sido escogido por su verdad."
+            },
+            {
+                "word": "MEMO",
+                "riddle": "Breve nota para no perder el hilo del pensamiento."
+            }
+        ]
+    },
+    {
+        "level_id": 176,
+        "grid_size": 6,
+        "complexity": 8.6,
+        "category": "La Ciudad",
+        "subcategory": "Construcción",
+        "puzzles": [
+            {
+                "word": "ANDAMIO",
+                "riddle": "Esqueleto de tubos que permite tocar la nube."
+            },
+            {
+                "word": "PLOMO",
+                "riddle": "La cuerda que enseña al muro a ser recto y fiel."
+            },
+            {
+                "word": "NIVEL",
+                "riddle": "El horizonte en miniatura para que nada caiga."
+            },
+            {
+                "word": "ALZA",
+                "riddle": "El gesto valiente de subir el peso hacia el cielo."
+            }
+        ]
+    },
+    {
+        "level_id": 177,
+        "grid_size": 6,
+        "complexity": 8.7,
+        "category": "La Ciudad",
+        "subcategory": "Galerías",
+        "puzzles": [
+            {
+                "word": "SALON",
+                "riddle": "Espacio de ecos donde el arte descansa en paz."
+            },
+            {
+                "word": "OLEO",
+                "riddle": "La piel de colores que nos cuenta un secreto."
+            },
+            {
+                "word": "MUSEO",
+                "riddle": "Cofre de piedra para los sueños de la humanidad."
+            },
+            {
+                "word": "ARTE",
+                "riddle": "La chispa divina en el centro del laberinto gris."
+            }
+        ]
+    },
+    {
+        "level_id": 178,
+        "grid_size": 6,
+        "complexity": 8.8,
+        "category": "La Ciudad",
+        "subcategory": "Librerías",
+        "puzzles": [
+            {
+                "word": "ESTANTE",
+                "riddle": "Peldaño de madera para la sabiduría del mundo."
+            },
+            {
+                "word": "LIBRO",
+                "riddle": "Amigo mudo que nos habla al oído del alma."
+            },
+            {
+                "word": "HOJA",
+                "riddle": "Ala de papel dispuesta para el vuelo interior."
+            },
+            {
+                "word": "TITU",
+                "riddle": "El nombre que abre la puerta a una nueva vida."
+            }
+        ]
+    },
+    {
+        "level_id": 179,
+        "grid_size": 6,
+        "complexity": 8.9,
+        "category": "La Ciudad",
+        "subcategory": "Relojes",
+        "puzzles": [
+            {
+                "word": "HORA",
+                "riddle": "La rebanada de vida que el sol nos entrega."
+            },
+            {
+                "word": "AGUJA",
+                "riddle": "Dedo de metal que señala el paso de lo eterno."
+            },
+            {
+                "word": "MINU",
+                "riddle": "El pequeño latido que suma la gran historia."
+            },
+            {
+                "word": "PUNTO",
+                "riddle": "El instante exacto donde el presente florece."
+            }
+        ]
+    },
+    {
+        "level_id": 180,
+        "grid_size": 6,
+        "complexity": 9.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen de la Torre",
+        "puzzles": [
+            {
+                "word": "ALTA",
+                "riddle": "La condicion de estar mas cerca del rayo que del barro."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio absoluto en el ultimo piso del mundo."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el unico testigo del sol que se apaga tras el faro."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en vertical, desde la raiz hasta el zenit."
+            }
+        ]
+    },
+    {
+        "level_id": 181,
+        "grid_size": 5,
+        "complexity": 9.1,
+        "category": "La Ciudad",
+        "subcategory": "Servicios",
+        "puzzles": [
+            {
+                "word": "AGUA",
+                "riddle": "Vida transparente que viaja por la vena de plomo."
+            },
+            {
+                "word": "RED",
+                "riddle": "Tejido invisible que alimenta la sed del barrio."
+            },
+            {
+                "word": "LLAVE",
+                "riddle": "Gesto de metal que libera el manantial domestico."
+            },
+            {
+                "word": "FLUIR",
+                "riddle": "El destino del rio que hemos atrapado en tubos."
+            }
+        ]
+    },
+    {
+        "level_id": 182,
+        "grid_size": 5,
+        "complexity": 9.2,
+        "category": "La Ciudad",
+        "subcategory": "Parques II",
+        "puzzles": [
+            {
+                "word": "BANCO",
+                "riddle": "Silla de madera para ver como el tiempo vuela."
+            },
+            {
+                "word": "RAMA",
+                "riddle": "Dedo vegetal que intenta tocar la cara del paseante."
+            },
+            {
+                "word": "HOJA",
+                "riddle": "Barca verde que naufraga en el cesped urbano."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El silencio que se encuentra bajo la sombra del pino."
+            }
+        ]
+    },
+    {
+        "level_id": 183,
+        "grid_size": 5,
+        "complexity": 9.3,
+        "category": "La Ciudad",
+        "subcategory": "Atardecer",
+        "puzzles": [
+            {
+                "word": "OCASO",
+                "riddle": "Cuando el sol se esconde tras la silueta gris."
+            },
+            {
+                "word": "ORO",
+                "riddle": "El color de las ventanas cuando el dia se rinde."
+            },
+            {
+                "word": "TINTA",
+                "riddle": "La sombra que empieza a manchar el cielo azul."
+            },
+            {
+                "word": "DORMÍ",
+                "riddle": "El mundo que cierra los ojos poco a poco."
+            }
+        ]
+    },
+    {
+        "level_id": 184,
+        "grid_size": 5,
+        "complexity": 9.4,
+        "category": "La Ciudad",
+        "subcategory": "Faroles",
+        "puzzles": [
+            {
+                "word": "LUZ",
+                "riddle": "Ojo nocturno que vigila la esquina solitaria."
+            },
+            {
+                "word": "GAS",
+                "riddle": "Aliento antiguo que aun brilla en el pasaje."
+            },
+            {
+                "word": "FOCO",
+                "riddle": "Esfera de cristal que contiene un relampago manso."
+            },
+            {
+                "word": "VELA",
+                "riddle": "Mantenerse despierto cuando todos sueñan."
+            }
+        ]
+    },
+    {
+        "level_id": 185,
+        "grid_size": 5,
+        "complexity": 9.5,
+        "category": "La Ciudad",
+        "subcategory": "Callejones",
+        "puzzles": [
+            {
+                "word": "MURO",
+                "riddle": "Pared que guarda el secreto de los gatos sabios."
+            },
+            {
+                "word": "ADOBE",
+                "riddle": "Tierra amasada que aguanta el peso de la historia."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "Camino estrecho donde el eco suena mas fuerte."
+            },
+            {
+                "word": "SOLO",
+                "riddle": "Caminar sin mas compañia que el propio miedo."
+            }
+        ]
+    },
+    {
+        "level_id": 186,
+        "grid_size": 6,
+        "complexity": 9.6,
+        "category": "La Ciudad",
+        "subcategory": "Hospitales",
+        "puzzles": [
+            {
+                "word": "CURA",
+                "riddle": "El arte de devolver la luz al cuerpo cansado."
+            },
+            {
+                "word": "PILA",
+                "riddle": "Nuestra fuerza que se renueva en el descanso."
+            },
+            {
+                "word": "GOMA",
+                "riddle": "El material que borra el dolor de la herida."
+            },
+            {
+                "word": "ALMA",
+                "riddle": "Lo que realmente necesita sanar en el silencio."
+            }
+        ]
+    },
+    {
+        "level_id": 187,
+        "grid_size": 6,
+        "complexity": 9.7,
+        "category": "La Ciudad",
+        "subcategory": "Deportes",
+        "puzzles": [
+            {
+                "word": "CORRE",
+                "riddle": "Movimiento veloz en busca de la propia sombra."
+            },
+            {
+                "word": "SALTÓ",
+                "riddle": "Gesto de desafio a la ley de la tierra."
+            },
+            {
+                "word": "META",
+                "riddle": "Cinta blanca que marca el final del esfuerzo."
+            },
+            {
+                "word": "GANO",
+                "riddle": "Vencerse a uno mismo en la pista de asfalto."
+            }
+        ]
+    },
+    {
+        "level_id": 188,
+        "grid_size": 6,
+        "complexity": 9.8,
+        "category": "La Ciudad",
+        "subcategory": "Hoteles",
+        "puzzles": [
+            {
+                "word": "CUNA",
+                "riddle": "Cama ajena que nos acoge por una noche."
+            },
+            {
+                "word": "HOLA",
+                "riddle": "Saludo del extraño en el vestibulo de marmol."
+            },
+            {
+                "word": "ALTO",
+                "riddle": "Piso donde el mundo se ve como un hormiguero."
+            },
+            {
+                "word": "DORMÍ",
+                "riddle": "Cerrar los ojos en una habitacion con numero."
+            }
+        ]
+    },
+    {
+        "level_id": 189,
+        "grid_size": 6,
+        "complexity": 9.9,
+        "category": "La Ciudad",
+        "subcategory": "Estaciones",
+        "puzzles": [
+            {
+                "word": "TREN",
+                "riddle": "Serpiente de metal que llega y se va sin avisar."
+            },
+            {
+                "word": "VÍA",
+                "riddle": "Dos railes que sueñan con encontrarse en el infinito."
+            },
+            {
+                "word": "AVISO",
+                "riddle": "Grito de hierro que dice adios a la plataforma."
+            },
+            {
+                "word": "IRSE",
+                "riddle": "El arte de dejar atras lo que ya conocemos."
+            }
+        ]
+    },
+    {
+        "level_id": 190,
+        "grid_size": 6,
+        "complexity": 10.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen del Centro",
+        "puzzles": [
+            {
+                "word": "EJE",
+                "riddle": "El punto inmovil de una ciudad que no para de rodar."
+            },
+            {
+                "word": "NOS",
+                "riddle": "La unidad que somos bajo el techo del cielo urbano."
+            },
+            {
+                "word": "ORO",
+                "riddle": "La luz interna que brilla mas que los carteles."
+            },
+            {
+                "word": "SER",
+                "riddle": "Simplemente estar aqui, respirando entre el cemento."
+            }
+        ]
+    },
+    {
+        "level_id": 191,
+        "grid_size": 5,
+        "complexity": 10.1,
+        "category": "La Ciudad",
+        "subcategory": "Luces II",
+        "puzzles": [
+            {
+                "word": "NEÓN",
+                "riddle": "Tubo de gas que sueña con colores elatricos."
+            },
+            {
+                "word": "GUIA",
+                "riddle": "Flecha brillante que nos dice donde esta la fiesta."
+            },
+            {
+                "word": "LUZ",
+                "riddle": "El alma de la noche que no quiere dormir."
+            },
+            {
+                "word": "VER",
+                "riddle": "Distinguir la forma tras el resplandor artificial."
+            }
+        ]
+    },
+    {
+        "level_id": 192,
+        "grid_size": 5,
+        "complexity": 10.2,
+        "category": "La Ciudad",
+        "subcategory": "Lluvia Nocturna",
+        "puzzles": [
+            {
+                "word": "AGUA",
+                "riddle": "Lagrimas del cielo que lavan el pecado del asfalto."
+            },
+            {
+                "word": "GRIS",
+                "riddle": "El color del mundo cuando el sol nos abandona."
+            },
+            {
+                "word": "CAER",
+                "riddle": "El destino de toda gota que busca el suelo."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "El sonido del goteo sobre el paraguas abierto."
+            }
+        ]
+    },
+    {
+        "level_id": 193,
+        "grid_size": 5,
+        "complexity": 10.3,
+        "category": "La Ciudad",
+        "subcategory": "Reflejos II",
+        "puzzles": [
+            {
+                "word": "LUNA",
+                "riddle": "Moneda de plata perdida en el charco de la calle."
+            },
+            {
+                "word": "OTRO",
+                "riddle": "Esa imagen que nos mira desde el cristal mojado."
+            },
+            {
+                "word": "ZONA",
+                "riddle": "Lugar de luces que bailan sobre el rio negro."
+            },
+            {
+                "word": "VER",
+                "riddle": "Encontrar la belleza en la distorsion del agua."
+            }
+        ]
+    },
+    {
+        "level_id": 194,
+        "grid_size": 5,
+        "complexity": 10.4,
+        "category": "La Ciudad",
+        "subcategory": "Tejados",
+        "puzzles": [
+            {
+                "word": "ALTO",
+                "riddle": "Cerca del viento y lejos de la queja del motor."
+            },
+            {
+                "word": "GATO",
+                "riddle": "Sombra con bigotes que domina el horizonte rojo."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "Lo unico que corre libre entre las chimeneas."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Sentirse el dueño del cielo por un instante."
+            }
+        ]
+    },
+    {
+        "level_id": 195,
+        "grid_size": 5,
+        "complexity": 10.5,
+        "category": "La Ciudad",
+        "subcategory": "Puertos II",
+        "puzzles": [
+            {
+                "word": "MAR",
+                "riddle": "Abismo azul que espera al final de la avenida."
+            },
+            {
+                "word": "NUDO",
+                "riddle": "Amarre de cuerda que detiene el viaje del barco."
+            },
+            {
+                "word": "SAL",
+                "riddle": "Sabor del viento que llega desde el horizonte."
+            },
+            {
+                "word": "IRSE",
+                "riddle": "El deseo de navegar hacia donde nace el sol."
+            }
+        ]
+    },
+    {
+        "level_id": 196,
+        "grid_size": 6,
+        "complexity": 10.6,
+        "category": "La Ciudad",
+        "subcategory": "Aeropuertos II",
+        "puzzles": [
+            {
+                "word": "ALA",
+                "riddle": "Brazos de metal que cargan con el peso del sueño."
+            },
+            {
+                "word": "AIRE",
+                "riddle": "El oceano invisible donde flotan las maquinas."
+            },
+            {
+                "word": "RUTA",
+                "riddle": "Linea invisible trazada entre dos ciudades."
+            },
+            {
+                "word": "AZUL",
+                "riddle": "El reino donde el ruido del suelo ya no llega."
+            }
+        ]
+    },
+    {
+        "level_id": 197,
+        "grid_size": 6,
+        "complexity": 10.7,
+        "category": "La Ciudad",
+        "subcategory": "Fábricas II",
+        "puzzles": [
+            {
+                "word": "HUMO",
+                "riddle": "Aliento gris que sube desde el pulmon de acero."
+            },
+            {
+                "word": "FUEGO",
+                "riddle": "Corazon de la fragua donde se doma el metal."
+            },
+            {
+                "word": "HORA",
+                "riddle": "El ritmo que marca el paso de la banda sin fin."
+            },
+            {
+                "word": "OBRA",
+                "riddle": "El orgullo de crear algo que servira a otros."
+            }
+        ]
+    },
+    {
+        "level_id": 198,
+        "grid_size": 6,
+        "complexity": 10.8,
+        "category": "La Ciudad",
+        "subcategory": "Rascacielos II",
+        "puzzles": [
+            {
+                "word": "VIGA",
+                "riddle": "Hueso de hierro que sostiene el peso del cielo."
+            },
+            {
+                "word": "TORRE",
+                "riddle": "Desafio de piedra que quiere besar las nubes."
+            },
+            {
+                "word": "PLAN",
+                "riddle": "El dibujo que dio vida a la montaña artificial."
+            },
+            {
+                "word": "ALZA",
+                "riddle": "Subir la mirada hasta perder el aliento."
+            }
+        ]
+    },
+    {
+        "level_id": 199,
+        "grid_size": 6,
+        "complexity": 10.9,
+        "category": "La Ciudad",
+        "subcategory": "Cierre Urbano",
+        "puzzles": [
+            {
+                "word": "TODO",
+                "riddle": "La suma de mil vidas en un solo segundo."
+            },
+            {
+                "word": "SINO",
+                "riddle": "El destino que nos une en este laberinto gris."
+            },
+            {
+                "word": "VIDA",
+                "riddle": "La fuerza que late tras cada muro de hormigon."
+            },
+            {
+                "word": "AMOR",
+                "riddle": "Lo unico que no se puede construir con cemento."
+            }
+        ]
+    },
+    {
+        "level_id": 200,
+        "grid_size": 6,
+        "complexity": 11.0,
+        "category": "La Ciudad",
+        "subcategory": "Zen Estrato",
+        "puzzles": [
+            {
+                "word": "SILVO",
+                "riddle": "El susurro del viento entre los cables de alta tension."
+            },
+            {
+                "word": "PAZ",
+                "riddle": "La calma que queda cuando la ciudad apaga el alma."
+            },
+            {
+                "word": "UNO",
+                "riddle": "Ser el unico punto de luz en la noche inmensa."
+            },
+            {
+                "word": "SER",
+                "riddle": "Existir en armonía con el hierro y la estrella."
+            }
+        ]
+    }
+]
