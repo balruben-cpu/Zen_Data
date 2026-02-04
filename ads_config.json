@@ -2,7 +2,7 @@
     "ad_frequency": 1,
     "start_ads_at_level": 1,
     "ads_enabled": true,
-    "ad_provider": "UnityAds",
+    "ad_provider": "AdMob",
     "interstitial_id": "ca-app-pub-1298264253613364/3503185481",
     "rewarded_id": "ca-app-pub-1298264253613364/9541980227",
     "banner_id": "unused",
