@@ -1,5 +1,6 @@
 {
-    "ad_frequency": 3,
+    "ad_frequency": 1,
+    "start_ads_at_level": 10,
     "ads_enabled": true,
     "ad_provider": "AdMob",
     "interstitial_id": "ca-app-pub-1298264253613364/3503185481",
