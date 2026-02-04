@@ -1,5 +1,5 @@
 {
-    "ad_frequency": 3,
+    "ad_frequency": 1,
     "start_ads_at_level": 1,
     "ads_enabled": true,
     "ad_provider": "AdMob",
