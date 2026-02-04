@@ -2,6 +2,8 @@
     "ad_frequency": 3,
     "ads_enabled": true,
     "ad_provider": "AdMob",
+    "interstitial_id": "ca-app-pub-1298264253613364/3503185481",
+    "banner_id": "unused",
     "overrides": [
         {
             "country_code": "US",
