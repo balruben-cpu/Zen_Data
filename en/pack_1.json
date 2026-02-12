@@ -94,7 +94,7 @@
                 {
                     "word": "FOG",
                     "riddle": "Nature's soft, gray blanket.",
-                    "riddle_hard": "Ground hugging cloud's nap.",
+                    "riddle_hard": "Ground hugging cloud's nap.test",
                     "is_hard": true
                 }
             ]
