@@ -96,7 +96,7 @@
                 {
                     "word": "FOG",
                     "riddle": "Nature's soft, gray blanket.",
-                    "riddle_hard": "Ground hugging cloud's nap.test",
+                    "riddle_hard": "Ground hugging cloud's nap.",
                     "is_hard": true
                 }
             ],
@@ -208,7 +208,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "FLOOD ",
+                    "word": "FLOOD",
                     "riddle": "When the river won't stand still.",
                     "riddle_hard": "",
                     "is_hard": false
@@ -232,37 +232,37 @@
                 {
                     "word": "TREE",
                     "riddle": "A nature giant with a thousand leaves.",
-                    "riddle_hard": "A wooden skyscraper for birds.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOTUS",
-                    "riddle": "A beautiful flower that floats on a pond.",
+                    "riddle": "",
                     "riddle_hard": "A beautiful flower that floats on a pond.",
                     "is_hard": false
                 },
                 {
                     "word": "WOOD",
                     "riddle": "I come from a tree and feed the fireplace.",
-                    "riddle_hard": "Lumberjack's friend, used for shelves without end.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GREEN",
                     "riddle": "Nature's favorite outfit.",
-                    "riddle_hard": "The color of a happy lawn.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUSH",
-                    "riddle": "A plant that is shorter and wider than a tree.",
-                    "riddle_hard": "A leafy hiding spot for a rabbit.",
+                    "riddle": "Often pruned, low and dense.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "DEW",
                     "riddle": "Morning water on grass.",
-                    "riddle_hard": "Nature’s glassy kiss on a blade.",
+                    "riddle_hard": "Night's soft breath makes me appear.",
                     "is_hard": true
                 }
             ],
@@ -277,20 +277,20 @@
             "puzzles": [
                 {
                     "word": "ROOT",
-                    "riddle": "A thirsty straw in the dirt.",
+                    "riddle": "",
                     "riddle_hard": "The tree's secret anchors.",
                     "is_hard": false
                 },
                 {
                     "word": "BARK",
                     "riddle": "Armor for a wooden giant.",
-                    "riddle_hard": "A rough coat that never comes off.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOG",
-                    "riddle": "A tree taking a long nap.",
-                    "riddle_hard": "A heavy cylinder of wood.",
+                    "riddle": "",
+                    "riddle_hard": "I'm a tree part, cut and dry.",
                     "is_hard": false
                 },
                 {
@@ -301,8 +301,8 @@
                 },
                 {
                     "word": "FRUIT",
-                    "riddle": "Sweet tree gift.",
-                    "riddle_hard": "The colorful prize of the branch.",
+                    "riddle": "I grow on trees and taste quite sweet.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -316,26 +316,26 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "RIDGE",
-                    "riddle": "The very top edge of a mountain chain.",
-                    "riddle_hard": "The backbone of the hills rising to the sky.",
+                    "word": "SWAMP",
+                    "riddle": "Wet, murky ground where frogs can creep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ISLAND",
-                    "riddle": "A lonely piece of earth floating in the blue.",
+                    "riddle": "",
                     "riddle_hard": "Land with water on every single side.",
                     "is_hard": false
                 },
                 {
                     "word": "VALLEY",
                     "riddle": "A low place between hills, often with a river.",
-                    "riddle_hard": "I am the trough where geography takes a bow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEACH",
-                    "riddle": "The sandy edge where the ocean meets land.",
+                    "riddle": "",
                     "riddle_hard": "A kingdom of castles made of wet sand.",
                     "is_hard": true
                 }
@@ -352,31 +352,31 @@
                 {
                     "word": "HILL",
                     "riddle": "A baby mountain.",
-                    "riddle_hard": "Small rise of earth, not mountain, yet tall enough.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAND",
-                    "riddle": "Mountains ground into gold dust.",
+                    "riddle": "",
                     "riddle_hard": "I'm ground stone that shifts with the breeze.",
                     "is_hard": false
                 },
                 {
                     "word": "SALT",
-                    "riddle": "White crystals that make food tasty.",
-                    "riddle_hard": "White crystals that make food tasty.",
+                    "riddle": "",
+                    "riddle_hard": "A crystal touch, you ask for more.",
                     "is_hard": false
                 },
                 {
                     "word": "REEF",
                     "riddle": "A rock wall under the sea where fish live.",
-                    "riddle_hard": "A jagged city built by tiny coral creatures.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COVE",
-                    "riddle": "A secret parking spot for a pirate ship.",
-                    "riddle_hard": "A curved arm of land hugging the sea.",
+                    "word": "CAVE",
+                    "riddle": "A dark hole where bats reside.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1471,7 +1471,7 @@
             "puzzles": [
                 {
                     "word": "SOAP",
-                    "riddle": "It makes bubbles and gets you clean. ",
+                    "riddle": "It makes bubbles and gets you clean.",
                     "riddle_hard": "A slippery foe for dirt.",
                     "is_hard": false
                 },
@@ -1489,8 +1489,8 @@
                 },
                 {
                     "word": "TOWEL",
-                    "riddle": "I get wet as you get dry. ",
-                    "riddle_hard": "A thirsty cloth that steals the water from your skin. ",
+                    "riddle": "I get wet as you get dry.",
+                    "riddle_hard": "A thirsty cloth that steals the water from your skin.",
                     "is_hard": false
                 },
                 {
