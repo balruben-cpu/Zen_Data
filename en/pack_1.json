@@ -3,9 +3,9 @@
         {
             "level_id": 1,
             "grid_size": 4,
-            "complexity": 1.0,
             "category": "Tutorial",
             "subcategory": "Intro",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "RIDDLE",
@@ -25,14 +25,15 @@
                     "riddle_hard": "The peak of skill in any craft.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 2,
             "grid_size": 4,
-            "complexity": 1.0,
             "category": "Nature",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BIRD",
@@ -58,14 +59,15 @@
                     "riddle_hard": "With horns I charge, a heavy smash.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 3,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Cosmos",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "MOON",
@@ -97,14 +99,15 @@
                     "riddle_hard": "Ground hugging cloud's nap.test",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 4,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Climate",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "RAIN",
@@ -136,14 +139,15 @@
                     "riddle_hard": "",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 5,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Physics (Heat)",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HEAT",
@@ -175,14 +179,15 @@
                     "riddle_hard": "",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 6,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Climate",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SNOW",
@@ -193,7 +198,7 @@
                 {
                     "word": "COLD",
                     "riddle": "I make you shiver and wear a coat.",
-                    "riddle_hard": "An invisible thief that steals the heat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -203,25 +208,26 @@
                     "is_hard": false
                 },
                 {
-                    "word": "SLEET",
-                    "riddle": "Rain that is freezing into ice as it falls.",
-                    "riddle_hard": "Tiny ice pellets that sting your cheeks.",
+                    "word": "FLOOD ",
+                    "riddle": "When the river won't stand still.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HAIL",
-                    "riddle": "Frozen rain that bounces off your umbrella.",
+                    "riddle": "",
                     "riddle_hard": "Frozen rain that bounces on the roof.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 7,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "TREE",
@@ -259,14 +265,15 @@
                     "riddle_hard": "Nature’s glassy kiss on a blade.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 8,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ROOT",
@@ -298,14 +305,15 @@
                     "riddle_hard": "The colorful prize of the branch.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 9,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Geography",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "RIDGE",
@@ -331,14 +339,15 @@
                     "riddle_hard": "A kingdom of castles made of wet sand.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 10,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Geography",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HILL",
@@ -370,14 +379,15 @@
                     "riddle_hard": "A curved arm of land hugging the sea.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 11,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Geography",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LAND",
@@ -409,14 +419,15 @@
                     "riddle_hard": "A dark hollow hidden in the earth.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 12,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Appearance",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HAIR",
@@ -442,14 +453,15 @@
                     "riddle_hard": "A luminescence borrowed from inner light.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 13,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "OVEN",
@@ -475,14 +487,15 @@
                     "riddle_hard": "My legs support the dining scene.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 14,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ROSE",
@@ -514,14 +527,15 @@
                     "riddle_hard": "Opening up to the morning sun.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 15,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ANT",
@@ -559,14 +573,15 @@
                     "riddle_hard": "A tiny critter crawling on a leaf.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 16,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CROW",
@@ -598,14 +613,15 @@
                     "riddle_hard": "A statue's best friend in the park.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 17,
             "grid_size": 8,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Character",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BRAVE",
@@ -637,14 +653,15 @@
                     "riddle_hard": "Not just a trend, but a signature you own.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 18,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Life Cycle",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ADULT",
@@ -670,14 +687,15 @@
                     "riddle_hard": "Wisdom written in wrinkles, moving at a slower pace.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 19,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Shelter",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ROOM",
@@ -709,14 +727,15 @@
                     "riddle_hard": "Warm fire, loud laughter, mugs raised in cheer.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 20,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Story/Myth",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "TALE",
@@ -742,14 +761,15 @@
                     "riddle_hard": "A hero's journey that takes a very long time to tell.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 21,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SODA",
@@ -775,14 +795,15 @@
                     "riddle_hard": "A ceramic disk for dinner.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 22,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SCIENCE",
             "subcategory": "Math/Shapes",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "AREA",
@@ -808,14 +829,15 @@
                     "riddle_hard": "The longest dimension of a measured sight.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 23,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "MUSHROOM",
@@ -847,14 +869,15 @@
                     "riddle_hard": "A cut above the rest to stay slim.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 24,
             "grid_size": 7,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Shelter",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SOFA",
@@ -886,14 +909,15 @@
                     "riddle_hard": "I wear a roof, not quite a castle, but a peaceful nest.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 25,
             "grid_size": 7,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Wardrobe",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CLOSET",
@@ -919,14 +943,15 @@
                     "riddle_hard": "A metal or plastic neck that holds your shoulder.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 26,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "Science",
             "subcategory": "Engineering",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GEAR",
@@ -958,14 +983,15 @@
                     "riddle_hard": "The architect of purpose, drawn in abstract space.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 27,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Communication",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "INK",
@@ -997,14 +1023,15 @@
                     "riddle_hard": "A graphite stick that writes in gray.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 28,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Tools/Boxes",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HAMMER",
@@ -1042,14 +1069,15 @@
                     "riddle_hard": "A portable chest where all the tools live.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 29,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Habits/Pets",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "DOG",
@@ -1081,14 +1109,15 @@
                     "riddle_hard": "A calcium snack for a canine.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 30,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Sound/Audio",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SONG",
@@ -1126,14 +1155,15 @@
                     "riddle_hard": "A wooden box that screams when you pluck it.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 31,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "PHYS. ACTS",
             "subcategory": "Conflict/Sport",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GAME",
@@ -1171,14 +1201,15 @@
                     "riddle_hard": "",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 32,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Shelter",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HUT",
@@ -1216,14 +1247,15 @@
                     "riddle_hard": "The lace of time draped over every corner.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 33,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Emotions",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LOVE",
@@ -1255,14 +1287,15 @@
                     "riddle_hard": "The gentle art of tending to a need.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 34,
             "grid_size": 7,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CAKE",
@@ -1300,14 +1333,15 @@
                     "riddle_hard": "Massaging the belly of the bread.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 35,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Visual Arts",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "PAINT",
@@ -1339,14 +1373,15 @@
                     "riddle_hard": "A pale whisper of a bright color.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 36,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Wardrobe",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "KNIT",
@@ -1378,14 +1413,15 @@
                     "riddle_hard": "A woolen snake that hugs your throat.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 37,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SOCIETY",
             "subcategory": "Education",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LEARN",
@@ -1423,14 +1459,15 @@
                     "riddle_hard": "A wooden ledge for holding stories.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 38,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Wellness",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SOAP",
@@ -1462,14 +1499,15 @@
                     "riddle_hard": "Twisting into a pretzel to find peace.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 39,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Wellness",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "DEAD",
@@ -1501,14 +1539,15 @@
                     "riddle_hard": "My single vowel can mean deep pain,",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 40,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Cognition",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LESS",
@@ -1540,14 +1579,15 @@
                     "riddle_hard": "I’m a map of the past, though I don’t always last.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 41,
             "grid_size": 7,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CORN",
@@ -1579,14 +1619,15 @@
                     "riddle_hard": "The royal herb essential for a pesto sauce.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 42,
             "grid_size": 7,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Geography",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "NATURE",
@@ -1618,14 +1659,15 @@
                     "riddle_hard": "I’m essential for life, but too much will drown you.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 43,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SOCIETY",
             "subcategory": "Professions",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CHEF",
@@ -1657,14 +1699,15 @@
                     "riddle_hard": "I heal your aches and ease your pain.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 44,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Visual (Light)",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BRIGHT",
@@ -1690,14 +1733,15 @@
                     "riddle_hard": "A glowing light shining from within.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 45,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "SOCIETY",
             "subcategory": "Professions",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "MANAGER",
@@ -1729,14 +1773,15 @@
                     "riddle_hard": "A kitchen artist, watch me go.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 46,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Screen & Stage",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "TICKET",
@@ -1762,14 +1807,15 @@
                     "riddle_hard": "Where drama lives before your eyes.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 47,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SOCIETY",
             "subcategory": "Economy",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BOUGHT",
@@ -1801,14 +1847,15 @@
                     "riddle_hard": "I make the world spin, for better or worse.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 48,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Physics",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "STRONG",
@@ -1834,14 +1881,15 @@
                     "riddle_hard": "",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 49,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SOCIETY",
             "subcategory": "Governance & War",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GUN",
@@ -1873,14 +1921,15 @@
                     "riddle_hard": "I enforce the law on the beat or in the seat.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 50,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "POT",
@@ -1912,14 +1961,15 @@
                     "riddle_hard": "",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 51,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BEE",
@@ -1957,14 +2007,15 @@
                     "riddle_hard": "Viscous liquid that refuses to flow quickly.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 52,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BLADE",
@@ -1996,14 +2047,15 @@
                     "riddle_hard": "The temperature dropping as the sun sets.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 53,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SAVOR",
@@ -2041,14 +2093,15 @@
                     "riddle_hard": "The pattern found in wood or a seed of wheat.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 54,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "YOLK",
@@ -2080,14 +2133,15 @@
                     "riddle_hard": "A wide depression in the land holding water.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 55,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GRAPE",
@@ -2119,14 +2173,15 @@
                     "riddle_hard": "The fruit of the Ficus tree, often dried.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 56,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GROVE",
@@ -2158,14 +2213,15 @@
                     "riddle_hard": "A specific instance or example of something.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 57,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "STIR",
@@ -2197,14 +2253,15 @@
                     "riddle_hard": "A list of ingredients and steps for success.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 58,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Kitchen",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SCONE",
@@ -2242,14 +2299,15 @@
                     "riddle_hard": "The liquid naturally contained in fruit.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 59,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BARN",
@@ -2281,14 +2339,15 @@
                     "riddle_hard": "Natural fiber used to knit warm sweaters.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 60,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Socializing",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SHARE",
@@ -2320,14 +2379,15 @@
                     "riddle_hard": "Untroubled and perfectly tranquil.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 61,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LION",
@@ -2359,14 +2419,15 @@
                     "riddle_hard": "The one who runs when the shadow falls.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 62,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HAWK",
@@ -2404,14 +2465,15 @@
                     "riddle_hard": "Does this azure flyer live over the rainbow?",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 63,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FANG",
@@ -2443,14 +2505,15 @@
                     "riddle_hard": "The outer layer that holds the body in.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 64,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GNAT",
@@ -2488,14 +2551,15 @@
                     "riddle_hard": "An eight-legged artist of silk.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 65,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Habits/Pets",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "KITTEN",
@@ -2533,14 +2597,15 @@
                     "riddle_hard": "An agile hunter that lands on its feet.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 66,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BEAR",
@@ -2578,14 +2643,15 @@
                     "riddle_hard": "It covers most of the Earth in blue.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 67,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ZEBRA",
@@ -2617,14 +2683,15 @@
                     "riddle_hard": "Sharp contrast, bare and desolate.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 68,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "APE",
@@ -2656,14 +2723,15 @@
                     "riddle_hard": "The stealthy jungle king who swims.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 69,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SHARK",
@@ -2701,14 +2769,15 @@
                     "riddle_hard": "A reef made of millions of tiny skeletons.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 70,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Cognition",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SOLO",
@@ -2740,14 +2809,15 @@
                     "riddle_hard": "Existing in the physical world.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 71,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "MICE",
@@ -2779,14 +2849,15 @@
                     "riddle_hard": "Almost microscopic to the eye.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 72,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GOAT",
@@ -2818,14 +2889,15 @@
                     "riddle_hard": "The highest surface of an object.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 73,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "REED",
@@ -2863,14 +2935,15 @@
                     "riddle_hard": "An ink-spraying cephalopod.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 74,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FLIER",
@@ -2908,14 +2981,15 @@
                     "riddle_hard": "The feathered sails of a bird.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 75,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FOX",
@@ -2953,14 +3027,15 @@
                     "riddle_hard": "Hunting quietly in the shadows.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 76,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FAWN",
@@ -2992,14 +3067,15 @@
                     "riddle_hard": "To conceal yourself from sight.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 77,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CAMEL",
@@ -3037,14 +3113,15 @@
                     "riddle_hard": "The dry sensation of needing hydration.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 78,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Fauna",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HORSE",
@@ -3076,14 +3153,15 @@
                     "riddle_hard": "The powerful king of the herd.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 79,
             "grid_size": 6,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Cognition",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "VIGIL",
@@ -3121,14 +3199,15 @@
                     "riddle_hard": "Sharp mental intelligence.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 80,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Life Cycle",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ASLEEP",
@@ -3166,14 +3245,15 @@
                     "riddle_hard": "Filled with busy activity and sound.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 81,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Wellness",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "DRAFT",
@@ -3211,14 +3291,15 @@
                     "riddle_hard": "The cosmic wind flowing in veins.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 82,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Visual Arts",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HOLLOW",
@@ -3256,14 +3337,15 @@
                     "riddle_hard": "Born of heat to become stone.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 83,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Sound/Audio",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BELL",
@@ -3301,14 +3383,15 @@
                     "riddle_hard": "A musical tinkling in the breeze.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 84,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Story/Myth",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LORE",
@@ -3340,14 +3423,15 @@
                     "riddle_hard": "The target at the end of effort.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 85,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Texture",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SLAB",
@@ -3379,14 +3463,15 @@
                     "riddle_hard": "Rooted strongly in place.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 86,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "QUALITIES",
             "subcategory": "Visual (Light)",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BULB",
@@ -3424,14 +3509,15 @@
                     "riddle_hard": "A triangle that breaks light apart.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 87,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Geography",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FLOAT",
@@ -3469,14 +3555,15 @@
                     "riddle_hard": "The continuous motion of a stream.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 88,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Climate",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SHOWER",
@@ -3508,14 +3595,15 @@
                     "riddle_hard": "To settle down for the night, like a bird.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 89,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "BODY",
             "subcategory": "Life Cycle",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GERM",
@@ -3553,14 +3641,15 @@
                     "riddle_hard": "A natural container for seeds.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 90,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "HOME",
             "subcategory": "Shelter",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GATE",
@@ -3598,14 +3687,15 @@
                     "riddle_hard": "The solution to a code.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 91,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SCIENCE",
             "subcategory": "Math/Shapes",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FEW",
@@ -3637,14 +3727,15 @@
                     "riddle_hard": "Transparent and free from any confusion or obstruction.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 92,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SCIENCE",
             "subcategory": "Math/Shapes",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "DOT",
@@ -3682,14 +3773,15 @@
                     "riddle_hard": "A specific location or a precise moment in time.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 93,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Sound/Audio",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HUSH",
@@ -3721,14 +3813,15 @@
                     "riddle_hard": "To soothe someone into a state of relaxation.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 94,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Socializing",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ALL",
@@ -3760,14 +3853,15 @@
                     "riddle_hard": "A supernatural being or the essence of something.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 95,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Flora",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "CORE",
@@ -3799,14 +3893,15 @@
                     "riddle_hard": "A green and lush environment.",
                     "is_hard": false
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 96,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SCIENCE",
             "subcategory": "Time/History",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ELDER",
@@ -3838,14 +3933,15 @@
                     "riddle_hard": "A mental image of what the future could be like.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 97,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "CULTURE",
             "subcategory": "Sound/Audio",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HYMN",
@@ -3883,14 +3979,15 @@
                     "riddle_hard": "To be full of activity or excitement.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 98,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "NATURE",
             "subcategory": "Cosmos",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "VOID",
@@ -3922,14 +4019,15 @@
                     "riddle_hard": "The area of influence or activity of someone.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 99,
             "grid_size": 5,
-            "complexity": 1.0,
             "category": "SCIENCE",
             "subcategory": "Time/History",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FINIS",
@@ -3967,14 +4065,15 @@
                     "riddle_hard": "The last game in a series to decide a winner.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         },
         {
             "level_id": 100,
             "grid_size": 8,
-            "complexity": 1.0,
             "category": "MENTAL/SOC",
             "subcategory": "Cognition",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "UNIFIED",
@@ -4018,7 +4117,8 @@
                     "riddle_hard": "A group of people with shared interests.",
                     "is_hard": true
                 }
-            ]
+            ],
+            "extra_words": []
         }
     ]
 }
