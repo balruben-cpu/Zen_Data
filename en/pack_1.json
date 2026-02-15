@@ -1967,44 +1967,32 @@
         {
             "level_id": 51,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "CULTURE",
+            "subcategory": "Screen & Stage",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BEE",
-                    "riddle": "I have stripes and make honey.",
-                    "riddle_hard": "A fuzzy aviator that dances to tell others where the flowers are.",
+                    "word": "FAN",
+                    "riddle": "A big supporter of a star.",
+                    "riddle_hard": "A devoted admirer or a device that blows air.",
                     "is_hard": false
                 },
                 {
-                    "word": "AMBER",
-                    "riddle": "A yellowish-orange gem made from old tree sap.",
-                    "riddle_hard": "Ancient resin that trapped time in a golden cage.",
+                    "word": "ACTION",
+                    "riddle": "A movie with stunts.",
+                    "riddle_hard": "The process of doing something or a fast genre.",
                     "is_hard": false
                 },
                 {
-                    "word": "SUGAR",
-                    "riddle": "I make your coffee sweet.",
-                    "riddle_hard": "Soluble crystals that fuel a rush of energy.",
+                    "word": "REMOTE",
+                    "riddle": "Used to change channels.",
+                    "riddle_hard": "A plastic wand that rules the screen.",
                     "is_hard": false
                 },
                 {
-                    "word": "SUNNY",
-                    "riddle": "A day with no clouds.",
-                    "riddle_hard": "When the sky is blue and the shadows are sharp.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SHINE",
-                    "riddle": "To sparkle like a polished car.",
-                    "riddle_hard": "Reflecting light back at the world.",
-                    "is_hard": true
-                },
-                {
-                    "word": "THICK",
-                    "riddle": "The opposite of thin or watery.",
-                    "riddle_hard": "Viscous liquid that refuses to flow quickly.",
+                    "word": "VIDEO",
+                    "riddle": "Digital movie format.",
+                    "riddle_hard": "Electronic recording of moving visual images.",
                     "is_hard": true
                 }
             ],
@@ -2013,38 +2001,38 @@
         {
             "level_id": 52,
             "grid_size": 5,
-            "category": "HOME",
-            "subcategory": "Kitchen",
+            "category": "CULTURE",
+            "subcategory": "Visual Arts",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BLADE",
-                    "riddle": "The sharp edge of a knife.",
-                    "riddle_hard": "A solitary leaf of grass standing tall.",
+                    "word": "GLUE",
+                    "riddle": "",
+                    "riddle_hard": "I melt into cracks and make two one.",
                     "is_hard": false
                 },
                 {
-                    "word": "BREW",
-                    "riddle": "To make coffee or tea in hot water.",
-                    "riddle_hard": "The alchemy of mixing water, heat, and leaves.",
+                    "word": "BROWN",
+                    "riddle": "The color of earth.",
+                    "riddle_hard": "A warm",
                     "is_hard": false
                 },
                 {
-                    "word": "TIME",
-                    "riddle": "What a clock reads.",
-                    "riddle_hard": "The invisible river that drags us all forward.",
+                    "word": "YELLOW",
+                    "riddle": "The color of a lemon.",
+                    "riddle_hard": "A primary hue that is the brightest in the spectrum.",
                     "is_hard": false
                 },
                 {
-                    "word": "MUGS",
-                    "riddle": "Heavy cups used for hot chocolate.",
-                    "riddle_hard": "Thick-walled vessels for a warm winter drink.",
+                    "word": "TRACE",
+                    "riddle": "To copy over lines.",
+                    "riddle_hard": "To copy a drawing by following the lines on a sheet above.",
                     "is_hard": false
                 },
                 {
-                    "word": "COOL",
-                    "riddle": "A little bit cold, but nice.",
-                    "riddle_hard": "The temperature dropping as the sun sets.",
+                    "word": "BLACK",
+                    "riddle": "The darkest color.",
+                    "riddle_hard": "The total absence of light or the color of coal.",
                     "is_hard": true
                 }
             ],
@@ -2053,44 +2041,32 @@
         {
             "level_id": 53,
             "grid_size": 5,
-            "category": "HOME",
-            "subcategory": "Kitchen",
+            "category": "SOCIETY",
+            "subcategory": "Governance & War",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SAVOR",
-                    "riddle": "To eat slowly and enjoy the taste.",
-                    "riddle_hard": "To cherish the moment on your tongue.",
+                    "word": "DUTY",
+                    "riddle": "A moral obligation.",
+                    "riddle_hard": "A task or action that someone is required to perform.",
                     "is_hard": false
                 },
                 {
-                    "word": "CLOVE",
-                    "riddle": "A dark spice stuck in a holiday ham.",
-                    "riddle_hard": "A dried flower bud with a numbing, spicy taste.",
+                    "word": "JUSTICE",
+                    "riddle": "Fairness and law.",
+                    "riddle_hard": "The administration of the law or philosophical fairness.",
                     "is_hard": false
                 },
                 {
-                    "word": "BURN",
-                    "riddle": "What happens if you touch a hot stove.",
-                    "riddle_hard": "The consuming oxidation of fuel.",
+                    "word": "VICTORY",
+                    "riddle": "Winning a battle.",
+                    "riddle_hard": "An act of defeating an enemy or opponent.",
                     "is_hard": false
                 },
                 {
-                    "word": "TANG",
-                    "riddle": "A sharp, sour flavor like orange powder.",
-                    "riddle_hard": "A distinct bite that lingers on the palate.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SPICE",
-                    "riddle": "Pepper, cinnamon, or ginger.",
-                    "riddle_hard": "Aromatic substance used to preserve or flavor.",
-                    "is_hard": true
-                },
-                {
-                    "word": "GRAIN",
-                    "riddle": "A single piece of rice or sand.",
-                    "riddle_hard": "The pattern found in wood or a seed of wheat.",
+                    "word": "FREEDOM",
+                    "riddle": "Being free from control.",
+                    "riddle_hard": "The power or right to act",
                     "is_hard": true
                 }
             ],
@@ -2098,39 +2074,33 @@
         },
         {
             "level_id": 54,
-            "grid_size": 5,
-            "category": "HOME",
-            "subcategory": "Kitchen",
+            "grid_size": 6,
+            "category": "CULTURE",
+            "subcategory": "Story & Myth",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "YOLK",
-                    "riddle": "The yellow center of an egg.",
-                    "riddle_hard": "The nutrient-rich sun suspended in albumen.",
-                    "is_hard": true
-                },
-                {
-                    "word": "OATS",
-                    "riddle": "Horses and humans eat this grain for breakfast.",
-                    "riddle_hard": "Rolled grains boiled into porridge.",
+                    "word": "MONSTER",
+                    "riddle": "A scary beast.",
+                    "riddle_hard": "A large",
                     "is_hard": false
                 },
                 {
-                    "word": "MILK",
-                    "riddle": "White drink from a cow.",
-                    "riddle_hard": "Calcium-rich liquid for cereal.",
+                    "word": "DRAGON",
+                    "riddle": "A winged fire-breather.",
+                    "riddle_hard": "A mythical monster like a giant reptile with wings.",
                     "is_hard": false
                 },
                 {
-                    "word": "FAST",
-                    "riddle": "Moving with great speed.",
-                    "riddle_hard": "To go without food for a period of time.",
+                    "word": "WISH",
+                    "riddle": "What a genie grants.",
+                    "riddle_hard": "A feel or express a strong desire or hope for.",
                     "is_hard": false
                 },
                 {
-                    "word": "BASIN",
-                    "riddle": "A bathroom sink.",
-                    "riddle_hard": "A wide depression in the land holding water.",
+                    "word": "FANTASY",
+                    "riddle": "A magical story genre.",
+                    "riddle_hard": "The faculty or activity of imagining things.",
                     "is_hard": true
                 }
             ],
@@ -2140,37 +2110,31 @@
             "level_id": 55,
             "grid_size": 5,
             "category": "NATURE",
-            "subcategory": "Flora",
+            "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "GRAPE",
-                    "riddle": "Green or purple berries in a bunch.",
-                    "riddle_hard": "Vines produce this sphere that becomes raisins.",
+                    "word": "LAMB",
+                    "riddle": "A young fluffy sheep.",
+                    "riddle_hard": "A gentle creature used as a symbol of peace.",
                     "is_hard": false
                 },
                 {
-                    "word": "KIWI",
-                    "riddle": "Fuzzy brown outside, green inside.",
-                    "riddle_hard": "A flightless bird or a tangy fruit.",
+                    "word": "PIGLET",
+                    "riddle": "A very young pig.",
+                    "riddle_hard": "A small pink baby animal found in a sty or farm.",
                     "is_hard": false
                 },
                 {
-                    "word": "PEACH",
-                    "riddle": "Soft fruit with a giant pit inside.",
-                    "riddle_hard": "Fuzzy skin protecting sweet, orange flesh.",
+                    "word": "ASS",
+                    "riddle": "A stubborn relative of the horse.",
+                    "riddle_hard": "A beast of burden also known as a donkey.",
                     "is_hard": false
                 },
                 {
-                    "word": "MIX",
-                    "riddle": "To stir two things together.",
-                    "riddle_hard": "A combination of different elements.",
-                    "is_hard": false
-                },
-                {
-                    "word": "FIG",
-                    "riddle": "A soft, tear-shaped fruit full of seeds.",
-                    "riddle_hard": "The fruit of the Ficus tree, often dried.",
+                    "word": "CHICKEN",
+                    "riddle": "A common farm bird.",
+                    "riddle_hard": "A feathered creature kept for its meat and eggs.",
                     "is_hard": true
                 }
             ],
@@ -2178,40 +2142,40 @@
         },
         {
             "level_id": 56,
-            "grid_size": 5,
+            "grid_size": 4,
             "category": "NATURE",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "GROVE",
-                    "riddle": "A group of fruit trees planted together.",
-                    "riddle_hard": "A small wooded area without undergrowth.",
+                    "word": "PEAR",
+                    "riddle": "A bell-shaped fruit.",
+                    "riddle_hard": "A sweet fruit with a gritty texture.",
                     "is_hard": false
                 },
                 {
-                    "word": "DROP",
-                    "riddle": "To let something fall from your hand.",
-                    "riddle_hard": "A small globule of liquid.",
+                    "word": "CROP",
+                    "riddle": "Plants grown for food.",
+                    "riddle_hard": "A harvest grown by a farmer.",
                     "is_hard": false
                 },
                 {
-                    "word": "PICK",
-                    "riddle": "To choose the best one.",
-                    "riddle_hard": "Removing a fruit from the branch.",
+                    "word": "RICE",
+                    "riddle": "A white grain.",
+                    "riddle_hard": "The staple food for half the world's people.",
                     "is_hard": false
                 },
                 {
-                    "word": "PACK",
-                    "riddle": "Putting clothes in a suitcase.",
-                    "riddle_hard": "A group of wolves living together.",
-                    "is_hard": false
-                },
-                {
-                    "word": "CASE",
-                    "riddle": "A box used to protect glasses.",
-                    "riddle_hard": "A specific instance or example of something.",
+                    "word": "IVY",
+                    "riddle": "A climbing green vine.",
+                    "riddle_hard": "A creeping plant that covers old college walls.",
                     "is_hard": true
+                },
+                {
+                    "word": "LEMON",
+                    "riddle": "Sour yellow citrus.",
+                    "riddle_hard": "A fruit used for lemonade and cleaning.",
+                    "is_hard": false
                 }
             ],
             "extra_words": []
@@ -2219,38 +2183,32 @@
         {
             "level_id": 57,
             "grid_size": 5,
-            "category": "HOME",
-            "subcategory": "Kitchen",
+            "category": "NATURE",
+            "subcategory": "Geography",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "STIR",
-                    "riddle": "Mixing soup with a spoon.",
-                    "riddle_hard": "To cause movement or excitement.",
+                    "word": "BAY",
+                    "riddle": "A curve in the coastline.",
+                    "riddle_hard": "A body of water partially surrounded by land.",
                     "is_hard": false
                 },
                 {
-                    "word": "PAN",
-                    "riddle": "You fry eggs in this.",
-                    "riddle_hard": "A shallow metal vessel for stove-top cooking.",
+                    "word": "NATURAL",
+                    "riddle": "Not man-made.",
+                    "riddle_hard": "Existing in or caused by nature; not made or caused by humankind.",
                     "is_hard": false
                 },
                 {
-                    "word": "OIL",
-                    "riddle": "Slippery liquid for frying.",
-                    "riddle_hard": "Lubricant derived from olives or earth.",
+                    "word": "SPRING",
+                    "riddle": "Source of water.",
+                    "riddle_hard": "A place where water or oil wells up from an underground source",
                     "is_hard": false
                 },
                 {
-                    "word": "MINE",
-                    "riddle": "A deep hole to find coal or gold.",
-                    "riddle_hard": "Belonging to me, or an explosive trap.",
-                    "is_hard": false
-                },
-                {
-                    "word": "RECIPE",
-                    "riddle": "Instructions to bake a cake.",
-                    "riddle_hard": "A list of ingredients and steps for success.",
+                    "word": "POLE",
+                    "riddle": "North or South end.",
+                    "riddle_hard": "Either of the two points at the extremities of the earth's axis.",
                     "is_hard": true
                 }
             ],
@@ -2258,45 +2216,39 @@
         },
         {
             "level_id": 58,
-            "grid_size": 6,
-            "category": "HOME",
-            "subcategory": "Kitchen",
+            "grid_size": 5,
+            "category": "NATURE",
+            "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SCONE",
-                    "riddle": "A British biscuit served with tea.",
-                    "riddle_hard": "A quick bread often containing raisins.",
+                    "word": "MONDAY",
+                    "riddle": "Day of the moon.",
+                    "riddle_hard": "The start of the work week.",
                     "is_hard": false
                 },
                 {
-                    "word": "FLAN",
-                    "riddle": "Wobbly dessert with caramel on top.",
-                    "riddle_hard": "A baked egg custard rimmed with syrup.",
+                    "word": "DATE",
+                    "riddle": "A specific day on a calendar.",
+                    "riddle_hard": "A numbered day of the month.",
                     "is_hard": false
                 },
                 {
-                    "word": "PIE",
-                    "riddle": "Apple filling in a round crust.",
-                    "riddle_hard": "A chart shape or a baked dish.",
+                    "word": "END",
+                    "riddle": "Of the world.",
+                    "riddle_hard": "A final part of something.",
                     "is_hard": false
                 },
                 {
-                    "word": "CANDY",
-                    "riddle": "Sweet treats kids get on Halloween.",
-                    "riddle_hard": "Sugar boiled down and flavored.",
+                    "word": "CLOCK",
+                    "riddle": "It tells the time.",
+                    "riddle_hard": "A device with hands and a face.",
                     "is_hard": false
                 },
                 {
-                    "word": "TREATS",
-                    "riddle": "Snacks given to a good dog.",
-                    "riddle_hard": "Small pleasures or gifts of food.",
-                    "is_hard": true
-                },
-                {
-                    "word": "JUICE",
-                    "riddle": "Drink made from squeezing oranges.",
-                    "riddle_hard": "The liquid naturally contained in fruit.",
+                    "word": "JANUARY",
+                    "riddle": "First month.",
+                    "riddle_hard": "Named after Janus the two-faced god.",
                     "is_hard": true
                 }
             ],
@@ -2304,39 +2256,33 @@
         },
         {
             "level_id": 59,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "NATURE",
-            "subcategory": "Fauna",
+            "subcategory": "Climate",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BARN",
-                    "riddle": "A red house for cows and horses.",
-                    "riddle_hard": "Large farm building for storing hay.",
+                    "word": "SEASON",
+                    "riddle": "Winter or Summer.",
+                    "riddle_hard": "One of the four divisions of the year.",
                     "is_hard": false
                 },
                 {
-                    "word": "SHEEP",
-                    "riddle": "The animal that says \"Baaa\".",
-                    "riddle_hard": "We count them to fall asleep.",
+                    "word": "APRIL",
+                    "riddle": "A rainy spring month.",
+                    "riddle_hard": "The fourth month; known for showers.",
                     "is_hard": false
                 },
                 {
-                    "word": "PIG",
-                    "riddle": "A pink animal that loves mud.",
-                    "riddle_hard": "An intelligent farm animal with a snout.",
+                    "word": "BLANKET",
+                    "riddle": "Bed warmer.",
+                    "riddle_hard": "A large piece of woolen or similar material used as a bed covering.",
                     "is_hard": false
                 },
                 {
-                    "word": "DUCK",
-                    "riddle": "It swims in the pond and quacks.",
-                    "riddle_hard": "To lower your head quickly to avoid a hit.",
-                    "is_hard": false
-                },
-                {
-                    "word": "WOOL",
-                    "riddle": "The hair cut off a sheep.",
-                    "riddle_hard": "Natural fiber used to knit warm sweaters.",
+                    "word": "AUGUST",
+                    "riddle": "Last summer month.",
+                    "riddle_hard": "The eighth month of the year.",
                     "is_hard": true
                 }
             ],
@@ -2345,38 +2291,38 @@
         {
             "level_id": 60,
             "grid_size": 5,
-            "category": "MENTAL/SOC",
-            "subcategory": "Socializing",
+            "category": "BODY",
+            "subcategory": "Anatomy",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SHARE",
-                    "riddle": "Letting your friend play with your toy.",
-                    "riddle_hard": "A portion of a larger amount.",
+                    "word": "BELLY",
+                    "riddle": "Stomach area.",
+                    "riddle_hard": "The abdomen or tummy.",
                     "is_hard": false
                 },
                 {
-                    "word": "FEAST",
-                    "riddle": "A huge dinner for a celebration.",
-                    "riddle_hard": "An elaborate meal for many guests.",
+                    "word": "LUNG",
+                    "riddle": "Organ for breathing.",
+                    "riddle_hard": "The respiratory organ that exchanges oxygen.",
                     "is_hard": false
                 },
                 {
-                    "word": "DONE",
-                    "riddle": "Finished with your work.",
-                    "riddle_hard": "When the steak is cooked all the way through.",
+                    "word": "MOLE",
+                    "riddle": "Dark spot on skin.",
+                    "riddle_hard": "A nevus or pigmented growth on the epidermis.",
                     "is_hard": false
                 },
                 {
-                    "word": "PEACE",
-                    "riddle": "No fighting, just quiet.",
-                    "riddle_hard": "Freedom from disturbance.",
+                    "word": "GUM",
+                    "riddle": "Pink tissue holding teeth.",
+                    "riddle_hard": "The gingival tissue surrounding the dental arch.",
                     "is_hard": false
                 },
                 {
-                    "word": "SERENE",
-                    "riddle": "Calm like a sleeping lake.",
-                    "riddle_hard": "Untroubled and perfectly tranquil.",
+                    "word": "BREAST",
+                    "riddle": "Upper front chest.",
+                    "riddle_hard": "The mammary region or chest area.",
                     "is_hard": true
                 }
             ],
@@ -2384,39 +2330,39 @@
         },
         {
             "level_id": 61,
-            "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "grid_size": 6,
+            "category": "BODY",
+            "subcategory": "Anatomy",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "LION",
-                    "riddle": "The big cat known as the King.",
-                    "riddle_hard": "I wear a mane of gold and rule the pride.",
+                    "word": "EYELID",
+                    "riddle": "Covers eye.",
+                    "riddle_hard": "The movable fold of skin covering the eye.",
                     "is_hard": false
                 },
                 {
-                    "word": "WOLF",
-                    "riddle": "A wild dog that howls at the moon.",
-                    "riddle_hard": "A pack hunter wandering the winter snow.",
+                    "word": "SCAR",
+                    "riddle": "Mark left by a cut.",
+                    "riddle_hard": "Fibrous tissue replacing normal skin after injury.",
                     "is_hard": false
                 },
                 {
-                    "word": "RHEA",
-                    "riddle": "A large flightless bird from South America.",
-                    "riddle_hard": "",
+                    "word": "GUT",
+                    "riddle": "The stomach or belly area.",
+                    "riddle_hard": "Visceral tissue associated with instinct.",
                     "is_hard": false
                 },
                 {
-                    "word": "QUICK",
-                    "riddle": "Done in a very short time.",
-                    "riddle_hard": "Moving faster than a blinking eye.",
+                    "word": "STOMACH",
+                    "riddle": "Digests food.",
+                    "riddle_hard": "The internal organ where food is digested.",
                     "is_hard": false
                 },
                 {
-                    "word": "PREY",
-                    "riddle": "An animal that is hunted by another.",
-                    "riddle_hard": "The one who runs when the shadow falls.",
+                    "word": "CALF",
+                    "riddle": "Back of lower leg.",
+                    "riddle_hard": "The muscle group on the posterior tibia.",
                     "is_hard": true
                 }
             ],
@@ -2425,44 +2371,38 @@
         {
             "level_id": 62,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "QUALITIES",
+            "subcategory": "Physics",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HAWK",
-                    "riddle": "A bird that dives fast to catch mice.",
-                    "riddle_hard": "A raptor with eyes that see miles away.",
+                    "word": "DEEP",
+                    "riddle": "Far down.",
+                    "riddle_hard": "Extending far below the surface.",
                     "is_hard": false
                 },
                 {
-                    "word": "RAVEN",
-                    "riddle": "A large black bird that can mimic sounds.",
-                    "riddle_hard": "The wise black shadow of legend.",
+                    "word": "SIZE",
+                    "riddle": "How big.",
+                    "riddle_hard": "The overall dimensions or extent of something.",
                     "is_hard": false
                 },
                 {
-                    "word": "PLUME",
-                    "riddle": "A large and fluffy feather.",
-                    "riddle_hard": "An elegant decoration for a hat or bird.",
+                    "word": "WEAK",
+                    "riddle": "Lacking power.",
+                    "riddle_hard": "Fragile and easily broken or defeated.",
                     "is_hard": false
                 },
                 {
-                    "word": "SOAR",
-                    "riddle": "To fly high without flapping wings.",
-                    "riddle_hard": "Riding the wind currents above the earth.",
+                    "word": "WAVE",
+                    "riddle": "Moving energy.",
+                    "riddle_hard": "A long body of water curling into an arc.",
                     "is_hard": false
                 },
                 {
-                    "word": "SWAN",
-                    "riddle": "The ugly duckling grew up to be me.",
-                    "riddle_hard": "An elegant white neck forming a heart shape.",
-                    "is_hard": true
-                },
-                {
-                    "word": "BLUEBIRD",
-                    "riddle": "A small flying symbol of happiness.",
-                    "riddle_hard": "Does this azure flyer live over the rainbow?",
+                    "word": "FLAT",
+                    "riddle": "Level surface.",
+                    "riddle_hard": "Having a smooth surface without hills.",
                     "is_hard": true
                 }
             ],
@@ -2470,85 +2410,79 @@
         },
         {
             "level_id": 63,
-            "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "grid_size": 7,
+            "category": "HOME",
+            "subcategory": "Shelter",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "FANG",
-                    "riddle": "A long sharp tooth of a snake.",
-                    "riddle_hard": "The needle that delivers the venom.",
+                    "word": "BUNGALOW",
+                    "riddle": "A house on the ground where no stairs are found.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COIL",
-                    "riddle": "To wrap around in circles.",
-                    "riddle_hard": "A spiral shape waiting to strike.",
+                    "word": "DESK",
+                    "riddle": "A table for work.",
+                    "riddle_hard": "A piece of furniture used for writing or typing.",
                     "is_hard": false
                 },
                 {
-                    "word": "HISS",
-                    "riddle": "The sound a snake makes.",
-                    "riddle_hard": "A warning whispered by a forked tongue.",
+                    "word": "HALL",
+                    "riddle": "A long walkway.",
+                    "riddle_hard": "A passage in a building that leads to other rooms.",
                     "is_hard": false
                 },
                 {
-                    "word": "SCALE",
-                    "riddle": "The skin of a fish or lizard.",
-                    "riddle_hard": "A single plate of natural armor.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SKIN",
-                    "riddle": "What snakes shed when they grow.",
-                    "riddle_hard": "The outer layer that holds the body in.",
+                    "word": "FENCE",
+                    "riddle": "Surrounds the yard.",
+                    "riddle_hard": "A barrier made of wood or metal posts.",
                     "is_hard": true
+                },
+                {
+                    "word": "SHED",
+                    "riddle": "A small garden building.",
+                    "riddle_hard": "A simple structure used for storage or as a workshop.",
+                    "is_hard": false
                 }
             ],
             "extra_words": []
         },
         {
             "level_id": 64,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "NATURE",
-            "subcategory": "Fauna",
+            "subcategory": "Geography",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "GNAT",
-                    "riddle": "A tiny bug that flies in a swarm.",
-                    "riddle_hard": "A speck of buzzing dust in your eye.",
+                    "word": "DAM",
+                    "riddle": "Holds back water.",
+                    "riddle_hard": "A barrier built across a river to stop flow.",
                     "is_hard": false
                 },
                 {
-                    "word": "WASP",
-                    "riddle": "It looks like a bee but isn't fuzzy.",
-                    "riddle_hard": "A sleek soldier with a yellow jacket.",
+                    "word": "PLACE",
+                    "riddle": "A specific location.",
+                    "riddle_hard": "A particular position or point in space.",
                     "is_hard": false
                 },
                 {
-                    "word": "JET",
-                    "riddle": "A stream of water or a fast plane.",
-                    "riddle_hard": "Propelling forward by pushing back.",
+                    "word": "SCENERY",
+                    "riddle": "Beautiful view.",
+                    "riddle_hard": "The natural features of a landscape considered in terms of their appearance",
                     "is_hard": false
                 },
                 {
-                    "word": "INSECT",
-                    "riddle": "Any bug with six legs.",
-                    "riddle_hard": "An invertebrate with three body segments.",
+                    "word": "RIVER",
+                    "riddle": "Flowing fresh water.",
+                    "riddle_hard": "A large natural stream of water flowing to the sea.",
                     "is_hard": false
                 },
                 {
-                    "word": "SNAIL",
-                    "riddle": "It carries its house on its back.",
-                    "riddle_hard": "A slow traveler leaving a silver trail.",
-                    "is_hard": true
-                },
-                {
-                    "word": "SPIDER",
-                    "riddle": "I spin webs to catch flies.",
-                    "riddle_hard": "An eight-legged artist of silk.",
+                    "word": "SYSTEM",
+                    "riddle": "Connected parts.",
+                    "riddle_hard": "A set of connected things or parts forming a complex whole.",
                     "is_hard": true
                 }
             ],
@@ -2557,44 +2491,38 @@
         {
             "level_id": 65,
             "grid_size": 5,
-            "category": "HOME",
-            "subcategory": "Habits/Pets",
+            "category": "CULTURE",
+            "subcategory": "Story & Myth",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "KITTEN",
-                    "riddle": "A baby cat.",
-                    "riddle_hard": "A tiny ball of fur that chases yarn.",
+                    "word": "CHAPTER",
+                    "riddle": "A section of a book.",
+                    "riddle_hard": "A main division of a book",
                     "is_hard": false
                 },
                 {
-                    "word": "HOUND",
-                    "riddle": "A hunting dog with floppy ears.",
-                    "riddle_hard": "A dog that sings the blues and tracks smells.",
+                    "word": "ELF",
+                    "riddle": "A small pointy-eared helper.",
+                    "riddle_hard": "A diminutive forest-dwelling being common in folklore.",
                     "is_hard": false
                 },
                 {
-                    "word": "PURR",
-                    "riddle": "The sound a happy cat makes.",
-                    "riddle_hard": "A rumbling vibration of feline love.",
+                    "word": "SWORD",
+                    "riddle": "A hero's bladed weapon.",
+                    "riddle_hard": "A weapon with a long metal blade and a hilt.",
                     "is_hard": false
                 },
                 {
-                    "word": "TAME",
-                    "riddle": "Gentle and used to humans.",
-                    "riddle_hard": "No longer wild or afraid.",
+                    "word": "NOVEL",
+                    "riddle": "A long book of fiction.",
+                    "riddle_hard": "A fictitious prose narrative of book length.",
                     "is_hard": false
                 },
                 {
-                    "word": "FUR",
-                    "riddle": "The soft coat of a bear or cat.",
-                    "riddle_hard": "Dense hair that keeps animals warm.",
-                    "is_hard": true
-                },
-                {
-                    "word": "CAT",
-                    "riddle": "A common pet that says meow.",
-                    "riddle_hard": "An agile hunter that lands on its feet.",
+                    "word": "ARMOR",
+                    "riddle": "Protective metal clothes.",
+                    "riddle_hard": "Metal coverings worn to protect the body in battle.",
                     "is_hard": true
                 }
             ],
@@ -2603,44 +2531,38 @@
         {
             "level_id": 66,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "HOME",
+            "subcategory": "Tools & Containers",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BEAR",
-                    "riddle": "A large animal that loves honey or ice.",
-                    "riddle_hard": "A heavy hibernator with sharp claws.",
+                    "word": "PICK",
+                    "riddle": "To choose the best one.",
+                    "riddle_hard": "Removing a fruit from the branch.",
                     "is_hard": false
                 },
                 {
-                    "word": "FROST",
-                    "riddle": "Thin ice on the windowpane.",
-                    "riddle_hard": "The frozen breath of a cold morning.",
+                    "word": "BAG",
+                    "riddle": "Used to carry things.",
+                    "riddle_hard": "A flexible container made of cloth",
                     "is_hard": false
                 },
                 {
-                    "word": "SEAL",
-                    "riddle": "It claps its flippers at the zoo.",
-                    "riddle_hard": "A smooth swimmer that rests on icebergs.",
+                    "word": "POCKET",
+                    "riddle": "Small bag in pants.",
+                    "riddle_hard": "A small pouch sewn into clothing for carrying items.",
                     "is_hard": false
                 },
                 {
-                    "word": "BRISK",
-                    "riddle": "Cool, fresh, and energetic weather.",
-                    "riddle_hard": "Quick and active, like a cold wind.",
+                    "word": "CAN",
+                    "riddle": "Metal food container.",
+                    "riddle_hard": "A cylindrical tin used for preserving liquids or food.",
                     "is_hard": false
                 },
                 {
-                    "word": "WHALE",
-                    "riddle": "The biggest animal in the ocean.",
-                    "riddle_hard": "A giant that sings songs underwater.",
-                    "is_hard": true
-                },
-                {
-                    "word": "OCEAN",
-                    "riddle": "A very large sea.",
-                    "riddle_hard": "It covers most of the Earth in blue.",
+                    "word": "SACK",
+                    "riddle": "Large cloth bag.",
+                    "riddle_hard": "A large bag made of coarse fabric or a football tackle.",
                     "is_hard": true
                 }
             ],
@@ -2649,38 +2571,38 @@
         {
             "level_id": 67,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "SOCIETY",
+            "subcategory": "Professions",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ZEBRA",
-                    "riddle": "A horse with black and white stripes.",
-                    "riddle_hard": "A wild equid that confuses lions with patterns.",
+                    "word": "DANCER",
+                    "riddle": "A person who moves to music.",
+                    "riddle_hard": "A performer who uses their body to express rhythm.",
                     "is_hard": false
                 },
                 {
-                    "word": "GIANT",
-                    "riddle": "Huge like an elephant.",
-                    "riddle_hard": "Standing taller than all the rest.",
+                    "word": "VET",
+                    "riddle": "A doctor for animals.",
+                    "riddle_hard": "A medical expert for pets and wildlife.",
                     "is_hard": false
                 },
                 {
-                    "word": "TURF",
-                    "riddle": "The grass and dirt held by roots.",
-                    "riddle_hard": "An animal's defended territory.",
+                    "word": "NUN",
+                    "riddle": "A woman living in a convent.",
+                    "riddle_hard": "A devoted member of a religious order.",
                     "is_hard": false
                 },
                 {
-                    "word": "FLOCK",
-                    "riddle": "A group of birds flying together.",
-                    "riddle_hard": "Many hearts beating as one crowd.",
+                    "word": "SINGER",
+                    "riddle": "A person who performs with their voice.",
+                    "riddle_hard": "A musical artist who produces vocal melodies.",
                     "is_hard": false
                 },
                 {
-                    "word": "STARK",
-                    "riddle": "Empty and plain landscape.",
-                    "riddle_hard": "Sharp contrast, bare and desolate.",
+                    "word": "SPEAKER",
+                    "riddle": "A person who gives a talk.",
+                    "riddle_hard": "One who addresses an audience or a sound device.",
                     "is_hard": true
                 }
             ],
@@ -2690,37 +2612,31 @@
             "level_id": 68,
             "grid_size": 5,
             "category": "NATURE",
-            "subcategory": "Fauna",
+            "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "APE",
-                    "riddle": "A gorilla or chimpanzee.",
-                    "riddle_hard": "A primate without a tail.",
-                    "is_hard": true
-                },
-                {
-                    "word": "VINE",
-                    "riddle": "A plant you can swing on like Tarzan.",
-                    "riddle_hard": "A climbing plant that hugs the trees.",
+                    "word": "JUNE",
+                    "riddle": "A summer month.",
+                    "riddle_hard": "Named after the goddess Juno.",
                     "is_hard": false
                 },
                 {
-                    "word": "NOISE",
-                    "riddle": "Loud sounds like screeches and roars.",
-                    "riddle_hard": "The opposite of silence.",
+                    "word": "OCTOBER",
+                    "riddle": "Halloween month.",
+                    "riddle_hard": "Originally the eighth month of Rome.",
                     "is_hard": false
                 },
                 {
-                    "word": "DENSE",
-                    "riddle": "Thick and packed tight.",
-                    "riddle_hard": "When the trees are too close to walk through.",
+                    "word": "CENTURY",
+                    "riddle": "100 years.",
+                    "riddle_hard": "A period of one hundred years.",
                     "is_hard": false
                 },
                 {
-                    "word": "TIGER",
-                    "riddle": "A big orange cat with black stripes.",
-                    "riddle_hard": "The stealthy jungle king who swims.",
+                    "word": "EVENING",
+                    "riddle": "Before night.",
+                    "riddle_hard": "The end of the day.",
                     "is_hard": true
                 }
             ],
@@ -2729,44 +2645,38 @@
         {
             "level_id": 69,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "MENTAL/SOC",
+            "subcategory": "Communication",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SHARK",
-                    "riddle": "A scary fish with a fin on its back.",
-                    "riddle_hard": "An ocean hunter that never stops swimming.",
+                    "word": "WRITE",
+                    "riddle": "To form letters.",
+                    "riddle_hard": "To record information on a surface using a pen.",
                     "is_hard": false
                 },
                 {
-                    "word": "ORCA",
-                    "riddle": "The killer whale.",
-                    "riddle_hard": "The black and white panda of the sea.",
+                    "word": "CRY",
+                    "riddle": "A loud vocal sound.",
+                    "riddle_hard": "To shed tears or shout out in distress.",
                     "is_hard": false
                 },
                 {
-                    "word": "NAVY",
-                    "riddle": "A dark blue color.",
-                    "riddle_hard": "Ships that protect the sea.",
+                    "word": "NEWS",
+                    "riddle": "Information on current events.",
+                    "riddle_hard": "Freshly received reports about recent happenings.",
                     "is_hard": false
                 },
                 {
-                    "word": "DIVE",
-                    "riddle": "Going down underwater.",
-                    "riddle_hard": "Plunging into the depths headfirst.",
+                    "word": "TAP",
+                    "riddle": "A light rhythmic touch.",
+                    "riddle_hard": "A gentle knock or a touch on a smartphone screen.",
                     "is_hard": false
                 },
                 {
-                    "word": "SOURCE",
-                    "riddle": "Where the river starts.",
-                    "riddle_hard": "The origin of the water.",
-                    "is_hard": true
-                },
-                {
-                    "word": "CORAL",
-                    "riddle": "Colorful rocks that fish live in.",
-                    "riddle_hard": "A reef made of millions of tiny skeletons.",
+                    "word": "REPLY",
+                    "riddle": "To answer.",
+                    "riddle_hard": "A response given to a question or message.",
                     "is_hard": true
                 }
             ],
@@ -2775,38 +2685,38 @@
         {
             "level_id": 70,
             "grid_size": 5,
-            "category": "MENTAL/SOC",
-            "subcategory": "Cognition",
+            "category": "QUALITIES",
+            "subcategory": "Value, Status & Price",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SOLO",
-                    "riddle": "Being all alone.",
-                    "riddle_hard": "A performance by just one person.",
+                    "word": "GEM",
+                    "riddle": "A precious stone.",
+                    "riddle_hard": "A rare and highly valued person or thing.",
                     "is_hard": false
                 },
                 {
-                    "word": "BEING",
-                    "riddle": "A living creature.",
-                    "riddle_hard": "The state of existence.",
+                    "word": "CHECK",
+                    "riddle": "A paper used for payment.",
+                    "riddle_hard": "A written order to a bank to pay value.",
                     "is_hard": false
                 },
                 {
-                    "word": "FREE",
-                    "riddle": "Costs zero dollars.",
-                    "riddle_hard": "Without chains or cages.",
+                    "word": "RAW",
+                    "riddle": "Unrefined or basic.",
+                    "riddle_hard": "In a natural state before value is added.",
                     "is_hard": false
                 },
                 {
-                    "word": "WILD",
-                    "riddle": "Animals living in nature.",
-                    "riddle_hard": "Untamed and uncontrollable.",
+                    "word": "ITEM",
+                    "riddle": "A single valued object.",
+                    "riddle_hard": "An individual article in a collection or list.",
                     "is_hard": false
                 },
                 {
-                    "word": "REAL",
-                    "riddle": "Not fake.",
-                    "riddle_hard": "Existing in the physical world.",
+                    "word": "SOLID",
+                    "riddle": "Reliable and of good quality.",
+                    "riddle_hard": "Firm and stable in value and construction.",
                     "is_hard": true
                 }
             ],
@@ -2815,38 +2725,38 @@
         {
             "level_id": 71,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "BRIDGE",
+            "subcategory": "Hidden Links",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "MICE",
-                    "riddle": "I squeak and love cheese.",
-                    "riddle_hard": "Tiny gray shadows that scurry along the wall.",
+                    "word": "TUBE",
+                    "riddle": "Long and hollow.",
+                    "riddle_hard": "A cylinder used for toothpaste or transport.",
                     "is_hard": false
                 },
                 {
-                    "word": "RAT",
-                    "riddle": "A large mouse found in cities.",
-                    "riddle_hard": "The long-tailed survivor of the sewers.",
+                    "word": "ENERGY",
+                    "riddle": "Power to work.",
+                    "riddle_hard": "The ability to do work or the force in a battery.",
                     "is_hard": false
                 },
                 {
-                    "word": "HOLE",
-                    "riddle": "An empty spot in the ground.",
-                    "riddle_hard": "You must dig this to bury a treasure.",
+                    "word": "COFFEE",
+                    "riddle": "Hot and brown.",
+                    "riddle_hard": "A dark drink made from roasted beans.",
                     "is_hard": false
                 },
                 {
-                    "word": "SMALL",
-                    "riddle": "Not big.",
-                    "riddle_hard": "Lacking in size or stature.",
+                    "word": "CLIP",
+                    "riddle": "Holds things together.",
+                    "riddle_hard": "A small fastener for paper or a short movie scene.",
                     "is_hard": false
                 },
                 {
-                    "word": "TINY",
-                    "riddle": "Even smaller than small.",
-                    "riddle_hard": "Almost microscopic to the eye.",
+                    "word": "SMOKE",
+                    "riddle": "Grey and hazy.",
+                    "riddle_hard": "The cloud of particles produced by a fire.",
                     "is_hard": true
                 }
             ],
@@ -2854,39 +2764,39 @@
         },
         {
             "level_id": 72,
-            "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "grid_size": 6,
+            "category": "CULTURE",
+            "subcategory": "Story & Myth",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "GOAT",
-                    "riddle": "A farm animal with a beard.",
-                    "riddle_hard": "The sure-footed climber of the farm.",
+                    "word": "THRONE",
+                    "riddle": "A king's royal chair.",
+                    "riddle_hard": "A ceremonial chair for a sovereign or bishop.",
                     "is_hard": false
                 },
                 {
-                    "word": "CLIFF",
-                    "riddle": "A steep drop off of rock.",
-                    "riddle_hard": "The land's abrupt and vertical end.",
+                    "word": "PLOT",
+                    "riddle": "The sequence of events.",
+                    "riddle_hard": "The main story arc or a secret plan.",
                     "is_hard": false
                 },
                 {
-                    "word": "ACME",
-                    "riddle": "The very peak of a mountain.",
-                    "riddle_hard": "The absolute highest point of perfection.",
+                    "word": "MORAL",
+                    "riddle": "The lesson of a story.",
+                    "riddle_hard": "A lesson that can be derived from a story or experience.",
                     "is_hard": false
                 },
                 {
-                    "word": "SURE",
-                    "riddle": "Not having any doubt.",
-                    "riddle_hard": "Steady, confident, and certain.",
+                    "word": "ANGEL",
+                    "riddle": "A heavenly being.",
+                    "riddle_hard": "A spiritual being believed to be a messenger of God.",
                     "is_hard": false
                 },
                 {
-                    "word": "TOP",
-                    "riddle": "The opposite of bottom.",
-                    "riddle_hard": "The highest surface of an object.",
+                    "word": "WAND",
+                    "riddle": "A wizard's wooden tool.",
+                    "riddle_hard": "A slender stick used to direct magical energy.",
                     "is_hard": true
                 }
             ],
@@ -2895,44 +2805,32 @@
         {
             "level_id": 73,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "SCIENCE",
+            "subcategory": "Math & Geometry",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "REED",
-                    "riddle": "Tall grass growing in water.",
-                    "riddle_hard": "A hollow stalk that whispers in the wind.",
+                    "word": "COUNT",
+                    "riddle": "To list numbers in order.",
+                    "riddle_hard": "To determine the total number of items in a group.",
                     "is_hard": false
                 },
                 {
-                    "word": "SHAD",
-                    "riddle": "A type of river fish.",
-                    "riddle_hard": "A silver swimmer migrating upstream.",
+                    "word": "AVERAGE",
+                    "riddle": "The typical value.",
+                    "riddle_hard": "The sum of values divided by the number of values.",
                     "is_hard": false
                 },
                 {
-                    "word": "DRIFT",
-                    "riddle": "To float along with the water.",
-                    "riddle_hard": "Wandering aimlessly on the current.",
+                    "word": "GRID",
+                    "riddle": "A pattern of squares.",
+                    "riddle_hard": "A framework of spaced bars or lines.",
                     "is_hard": false
                 },
                 {
-                    "word": "SPORT",
-                    "riddle": "A fun game like soccer or tennis.",
-                    "riddle_hard": "Physical activity for competition.",
-                    "is_hard": false
-                },
-                {
-                    "word": "AZURE",
-                    "riddle": "Bright blue sky color.",
-                    "riddle_hard": "The color of the clearest ocean waters.",
-                    "is_hard": true
-                },
-                {
-                    "word": "SQUID",
-                    "riddle": "Sea creature with ten arms.",
-                    "riddle_hard": "An ink-spraying cephalopod.",
+                    "word": "SIDE",
+                    "riddle": "A line segment of a polygon.",
+                    "riddle_hard": "A flat surface of a three-dimensional object.",
                     "is_hard": true
                 }
             ],
@@ -2941,45 +2839,39 @@
         {
             "level_id": 74,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "BRIDGE",
+            "subcategory": "Complexity (Rare Letters & Structures)",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "FLIER",
-                    "riddle": "Anything that travels in the air.",
-                    "riddle_hard": "An aviator of the skies.",
+                    "word": "QUARTER",
+                    "riddle": "One fourth.",
+                    "riddle_hard": "25 cents or 25 percent.",
                     "is_hard": false
                 },
                 {
-                    "word": "OWL",
-                    "riddle": "Bird that says \"Hoo\".",
-                    "riddle_hard": "The wise watcher of the night woods.",
+                    "word": "ZONE",
+                    "riddle": "An area or region.",
+                    "riddle_hard": "A specific sector defined by a boundary.",
                     "is_hard": false
                 },
                 {
-                    "word": "DUSK",
-                    "riddle": "When the sun goes down.",
-                    "riddle_hard": "The twilight bridge between day and night.",
+                    "word": "MIX",
+                    "riddle": "To stir two things together.",
+                    "riddle_hard": "A combination of different elements.",
                     "is_hard": false
                 },
                 {
-                    "word": "SEE",
-                    "riddle": "To use your eyes.",
-                    "riddle_hard": "To perceive with vision.",
+                    "word": "ZIPPER",
+                    "riddle": "Metal fastener.",
+                    "riddle_hard": "Device for binding the edges of an opening.",
                     "is_hard": false
                 },
                 {
-                    "word": "MOTH",
-                    "riddle": "It looks like a butterfly but loves lamps.",
-                    "riddle_hard": "A nocturnal insect drawn to the flame.",
+                    "word": "PIZZA",
+                    "riddle": "Round cheesy pie.",
+                    "riddle_hard": "Italian dish with crust and tomato sauce.",
                     "is_hard": true
-                },
-                {
-                    "word": "WINGS",
-                    "riddle": "Birds flap these to fly.",
-                    "riddle_hard": "The feathered sails of a bird.",
-                    "is_hard": false
                 }
             ],
             "extra_words": []
@@ -2987,44 +2879,38 @@
         {
             "level_id": 75,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "BODY",
+            "subcategory": "Anatomy",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "FOX",
-                    "riddle": "A red animal with a bushy tail.",
-                    "riddle_hard": "The cunning trickster of the forest.",
+                    "word": "BICEPS",
+                    "riddle": "Upper arm muscle.",
+                    "riddle_hard": "The two-headed muscle of the upper arm.",
                     "is_hard": false
                 },
                 {
-                    "word": "CLAW",
-                    "riddle": "A sharp nail on a paw.",
-                    "riddle_hard": "A predator's curved weapon.",
+                    "word": "HIP",
+                    "riddle": "Joint above the leg.",
+                    "riddle_hard": "The pelvic projection on either side of the body.",
                     "is_hard": false
                 },
                 {
-                    "word": "TOOTH",
-                    "riddle": "You use it to chew.",
-                    "riddle_hard": "A bone in the mouth used for biting.",
+                    "word": "NOSTRIL",
+                    "riddle": "Nose hole.",
+                    "riddle_hard": "Either of two external openings of the nose.",
                     "is_hard": false
                 },
                 {
-                    "word": "PAW",
-                    "riddle": "The foot of a dog or cat.",
-                    "riddle_hard": "A soft foot that leaves a track.",
+                    "word": "CELL",
+                    "riddle": "Building block of life.",
+                    "riddle_hard": "The smallest structural and functional unit of an organism.",
                     "is_hard": false
                 },
                 {
-                    "word": "RARE",
-                    "riddle": "Very hard to find.",
-                    "riddle_hard": "Something unique and scarce.",
-                    "is_hard": true
-                },
-                {
-                    "word": "PROWL",
-                    "riddle": "To sneak around like a tiger.",
-                    "riddle_hard": "Hunting quietly in the shadows.",
+                    "word": "FLESH",
+                    "riddle": "Soft body tissue.",
+                    "riddle_hard": "The muscular and fatty substance under the skin.",
                     "is_hard": true
                 }
             ],
@@ -3033,38 +2919,32 @@
         {
             "level_id": 76,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "BODY",
+            "subcategory": "Wellness",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "FAWN",
-                    "riddle": "A baby deer.",
-                    "riddle_hard": "A young forest creature with spots.",
+                    "word": "MENTAL",
+                    "riddle": "About the mind.",
+                    "riddle_hard": "Relating to thoughts and sanity.",
                     "is_hard": false
                 },
                 {
-                    "word": "RACE",
-                    "riddle": "Seeing who can run the fastest.",
-                    "riddle_hard": "A competition of speed.",
+                    "word": "FLU",
+                    "riddle": "A common winter virus.",
+                    "riddle_hard": "A seasonal bug that brings fever and chills.",
                     "is_hard": false
                 },
                 {
-                    "word": "COPSE",
-                    "riddle": "A small group of trees.",
-                    "riddle_hard": "A thicket of small trees or bushes.",
+                    "word": "SAFETY",
+                    "riddle": "No danger.",
+                    "riddle_hard": "Protection from harm.",
                     "is_hard": false
                 },
                 {
-                    "word": "DASH",
-                    "riddle": "To run very quickly.",
-                    "riddle_hard": "A sudden burst of speed.",
-                    "is_hard": false
-                },
-                {
-                    "word": "HIDE",
-                    "riddle": "To go where no one can see you.",
-                    "riddle_hard": "To conceal yourself from sight.",
+                    "word": "BLIND",
+                    "riddle": "Cannot see.",
+                    "riddle_hard": "Living without sight.",
                     "is_hard": true
                 }
             ],
@@ -3073,44 +2953,38 @@
         {
             "level_id": 77,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Fauna",
+            "category": "BODY",
+            "subcategory": "Senses",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "CAMEL",
-                    "riddle": "Animal with a hump on its back.",
-                    "riddle_hard": "The endurance walker of the sand dunes.",
+                    "word": "RUB",
+                    "riddle": "To touch with friction.",
+                    "riddle_hard": "To move a hand back and forth over a surface.",
                     "is_hard": false
                 },
                 {
-                    "word": "BLAZE",
-                    "riddle": "To burn very brightly.",
-                    "riddle_hard": "A fiercely burning fire.",
+                    "word": "ROAR",
+                    "riddle": "Lion sound.",
+                    "riddle_hard": "A full",
                     "is_hard": false
                 },
                 {
-                    "word": "TREK",
-                    "riddle": "A long, hard walk.",
-                    "riddle_hard": "A difficult journey across land.",
+                    "word": "SPICY",
+                    "riddle": "Hot flavor.",
+                    "riddle_hard": "Causing a burning feeling in the mouth.",
                     "is_hard": false
                 },
                 {
-                    "word": "ARID",
-                    "riddle": "Dry and having no rain.",
-                    "riddle_hard": "Parched land incapable of supporting life.",
+                    "word": "SOUR",
+                    "riddle": "Taste like a lemon.",
+                    "riddle_hard": "An acidic taste that makes you pucker.",
                     "is_hard": false
                 },
                 {
-                    "word": "SHADE",
-                    "riddle": "The dark spot under a tree.",
-                    "riddle_hard": "Protection from the glare of the sun.",
-                    "is_hard": true
-                },
-                {
-                    "word": "THIRSTY",
-                    "riddle": "Needing a drink of water.",
-                    "riddle_hard": "The dry sensation of needing hydration.",
+                    "word": "BROKEN",
+                    "riddle": "In pieces.",
+                    "riddle_hard": "Having been fractured or damaged.",
                     "is_hard": true
                 }
             ],
@@ -3118,39 +2992,39 @@
         },
         {
             "level_id": 78,
-            "grid_size": 6,
+            "grid_size": 5,
             "category": "NATURE",
-            "subcategory": "Fauna",
+            "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HORSE",
-                    "riddle": "A large animal you can ride.",
-                    "riddle_hard": "A galloping creature with a mane.",
+                    "word": "UFO",
+                    "riddle": "An alien spaceship.",
+                    "riddle_hard": "An Unidentified Flying Object.",
                     "is_hard": false
                 },
                 {
-                    "word": "RIDE",
-                    "riddle": "To sit on a bike or animal.",
-                    "riddle_hard": "To be carried by a vehicle or beast.",
+                    "word": "USA",
+                    "riddle": "America.",
+                    "riddle_hard": "United States of America.",
                     "is_hard": false
                 },
                 {
-                    "word": "SWIFT",
-                    "riddle": "Moving very fast.",
-                    "riddle_hard": "Happening with great speed.",
+                    "word": "OUTER",
+                    "riddle": "_____ Space.",
+                    "riddle_hard": "External or far from the center.",
                     "is_hard": false
                 },
                 {
-                    "word": "GENTLE",
-                    "riddle": "Kind and careful, not rough.",
-                    "riddle_hard": "Soft in temperament and touch.",
+                    "word": "JULY",
+                    "riddle": "A summer month.",
+                    "riddle_hard": "Named after Julius Caesar.",
                     "is_hard": false
                 },
                 {
-                    "word": "STALLION",
-                    "riddle": "A male horse.",
-                    "riddle_hard": "The powerful king of the herd.",
+                    "word": "TODAY",
+                    "riddle": "This very day.",
+                    "riddle_hard": "The present 24-hour period.",
                     "is_hard": true
                 }
             ],
@@ -3159,44 +3033,32 @@
         {
             "level_id": 79,
             "grid_size": 6,
-            "category": "MENTAL/SOC",
-            "subcategory": "Cognition",
-            "complexity": 1.0,
+            "category": "HOME",
+            "subcategory": "Shelter",
+            "complexity": 0.902999997138977,
             "puzzles": [
                 {
-                    "word": "VIGIL",
-                    "riddle": "Staying awake to watch something.",
-                    "riddle_hard": "A period of sleepless watching.",
+                    "word": "STAIRS",
+                    "riddle": "Used to go up or down.",
+                    "riddle_hard": "A set of steps leading from one level to another.",
                     "is_hard": false
                 },
                 {
-                    "word": "SEER",
-                    "riddle": "A person who predicts the future.",
-                    "riddle_hard": "One with supernatural insight.",
+                    "word": "CEILING",
+                    "riddle": "The top of the room.",
+                    "riddle_hard": "The overhead interior surface of a space.",
                     "is_hard": false
                 },
                 {
-                    "word": "WISE",
-                    "riddle": "Smart and knowing a lot.",
-                    "riddle_hard": "Having experience and good judgment.",
+                    "word": "DRAIN",
+                    "riddle": "Where water goes out.",
+                    "riddle_hard": "A pipe that carries away waste water.",
                     "is_hard": false
                 },
                 {
-                    "word": "BEAST",
-                    "riddle": "A large wild animal.",
-                    "riddle_hard": "A creature of primal nature.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SAGE",
-                    "riddle": "A very smart old person.",
-                    "riddle_hard": "A philosopher noted for wisdom.",
-                    "is_hard": true
-                },
-                {
-                    "word": "WIT",
-                    "riddle": "Being funny and smart.",
-                    "riddle_hard": "Sharp mental intelligence.",
+                    "word": "FAUCET",
+                    "riddle": "Controls water flow.",
+                    "riddle_hard": "The handle that turns the water on and off.",
                     "is_hard": true
                 }
             ],
@@ -3204,45 +3066,33 @@
         },
         {
             "level_id": 80,
-            "grid_size": 5,
-            "category": "BODY",
-            "subcategory": "Life Cycle",
+            "grid_size": 6,
+            "category": "BRIDGE",
+            "subcategory": "Compound Words",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ASLEEP",
-                    "riddle": "Not awake.",
-                    "riddle_hard": "Resting in a state of dreams.",
+                    "word": "BALL",
+                    "riddle": "A round object for play.",
+                    "riddle_hard": "A spherical toy or a formal dance event.",
                     "is_hard": false
                 },
                 {
-                    "word": "WAIT",
-                    "riddle": "To stay until something happens.",
-                    "riddle_hard": "To pause in expectation.",
+                    "word": "TOOLBOX",
+                    "riddle": "A container for hammers.",
+                    "riddle_hard": "A portable case used to store and carry equipment.",
                     "is_hard": false
                 },
                 {
-                    "word": "NEAT",
-                    "riddle": "Clean and tidy.",
-                    "riddle_hard": "Free from clutter and disorder.",
+                    "word": "SNOWMAN",
+                    "riddle": "Made of snow and carrots.",
+                    "riddle_hard": "A winter figure built with three frozen spheres.",
                     "is_hard": false
                 },
                 {
-                    "word": "BORN",
-                    "riddle": "Came into the world.",
-                    "riddle_hard": "Brought into existence by birth.",
-                    "is_hard": false
-                },
-                {
-                    "word": "FERAL",
-                    "riddle": "Used to be tame, now is wild.",
-                    "riddle_hard": "Existing in a wild, untamed state.",
-                    "is_hard": true
-                },
-                {
-                    "word": "ABUZZ",
-                    "riddle": "Full of humming noise.",
-                    "riddle_hard": "Filled with busy activity and sound.",
+                    "word": "SUNDAY",
+                    "riddle": "A day of the week.",
+                    "riddle_hard": "The first or last day of a week depending on calendars.",
                     "is_hard": true
                 }
             ],
