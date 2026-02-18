@@ -1,0 +1,3998 @@
+{
+  "Levels": [
+    {
+      "level_id": 1,
+      "grid_size": 6,
+      "category": "Paz Diaria",
+      "subcategory": "El Comienzo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ACERTIJO",
+          "riddle": "Soy un misterio para que lo resuelvas.",
+          "riddle_hard": "Un laberinto verbal que esconde la verdad.",
+          "is_hard": false
+        },
+        {
+          "word": "CAMINO",
+          "riddle": "Sígueme para encontrar el camino a casa.",
+          "riddle_hard": "Una cinta de tierra tallada por muchos pies.",
+          "is_hard": false
+        },
+        {
+          "word": "MAESTRO",
+          "riddle": "Aquel que está en lo más alto de un oficio.",
+          "riddle_hard": "La cima de la habilidad en cualquier arte.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 2,
+      "grid_size": 4,
+      "category": "Naturaleza",
+      "subcategory": "Cielo Alto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CIELO",
+          "riddle": "Techo azul sin pintar.",
+          "riddle_hard": "Un océano azul donde nadan las aves.",
+          "is_hard": false
+        },
+        {
+          "word": "SOL",
+          "riddle": "La bombilla gigante del cielo.",
+          "riddle_hard": "El ojo dorado que nunca parpadea.",
+          "is_hard": false
+        },
+        {
+          "word": "AIRE",
+          "riddle": "¡Me inhalas para vivir!",
+          "riddle_hard": "El aliento invisible del firmamento.",
+          "is_hard": false
+        },
+        {
+          "word": "AZUL",
+          "riddle": "El atuendo del cielo.",
+          "riddle_hard": "Una gota de luz en una copa clara.",
+          "is_hard": false
+        },
+        {
+          "word": "RAYO",
+          "riddle": "Un rayo láser del sol.",
+          "riddle_hard": "Un dedo dorado que toca la Tierra.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 3,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Vigilancia Nocturna",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LUNA",
+          "riddle": "Una luz nocturna que te sigue.",
+          "riddle_hard": "Una moneda de plata en un bolsillo oscuro.",
+          "is_hard": false
+        },
+        {
+          "word": "ESTRELLA",
+          "riddle": "Un agujero en la manta de la noche.",
+          "riddle_hard": "Una chispa cósmica en la oscuridad profunda.",
+          "is_hard": false
+        },
+        {
+          "word": "OSCURO",
+          "riddle": "Lo que sucede cuando la luz se esconde.",
+          "riddle_hard": "Una manta pesada sin peso.",
+          "is_hard": false
+        },
+        {
+          "word": "NOCHE",
+          "riddle": "La sombra del mundo entero.",
+          "riddle_hard": "El momento en que las estrellas despiertan.",
+          "is_hard": false
+        },
+        {
+          "word": "ROCÍO",
+          "riddle": "El sudor matutino del césped.",
+          "riddle_hard": "Diamantes de hierba encontrados al amanecer.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 4,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Tormentoso",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LLUVIA",
+          "riddle": "La forma en que el cielo lava el patio.",
+          "riddle_hard": "Nubes goteando sobre tu cabeza.",
+          "is_hard": false
+        },
+        {
+          "word": "VIENTO",
+          "riddle": "El aire con mucha prisa.",
+          "riddle_hard": "Un fantasma invisible que empuja árboles.",
+          "is_hard": false
+        },
+        {
+          "word": "GRIS",
+          "riddle": "El color de un ánimo lluvioso.",
+          "riddle_hard": "Una mezcla de sombra y nube.",
+          "is_hard": false
+        },
+        {
+          "word": "MOJADO",
+          "riddle": "Cómo quedas tras bailar bajo la lluvia.",
+          "riddle_hard": "El estado de la tierra tras un chaparrón.",
+          "is_hard": false
+        },
+        {
+          "word": "TORMENTA",
+          "riddle": "El cielo teniendo una rabieta ruidosa.",
+          "riddle_hard": "Nubes furiosas lanzando un berrinche.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 5,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Calor",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CALOR",
+          "riddle": "El abrazo cálido del sol.",
+          "riddle_hard": "El poder para derretir un cubo de hielo.",
+          "is_hard": false
+        },
+        {
+          "word": "CÁLIDO",
+          "riddle": "Un suéter para tu alma.",
+          "riddle_hard": "Ni un escalofrío ni un sudor.",
+          "is_hard": false
+        },
+        {
+          "word": "FUEGO",
+          "riddle": "Una luz hambrienta que come madera.",
+          "riddle_hard": "Un fantasma naranja que baila.",
+          "is_hard": false
+        },
+        {
+          "word": "SECO",
+          "riddle": "Lo que una esponja desea ser.",
+          "riddle_hard": "Lo opuesto a una salpicadura.",
+          "is_hard": false
+        },
+        {
+          "word": "VAPOR",
+          "riddle": "El fantasma de una tetera.",
+          "riddle_hard": "Aire caliente con abrigo blanco.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 6,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Invierno",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "NIEVE",
+          "riddle": "Manta blanca y fría del cielo.",
+          "riddle_hard": "Pequeñas estrellas congeladas que se derriten rápido.",
+          "is_hard": false
+        },
+        {
+          "word": "FRÍO",
+          "riddle": "Cuando el aire quiere morder.",
+          "riddle_hard": "Un escalofrío buscando un suéter.",
+          "is_hard": false
+        },
+        {
+          "word": "HIELO",
+          "riddle": "Agua dura y resbaladiza.",
+          "riddle_hard": "Una piedra deslizante que se derrite.",
+          "is_hard": false
+        },
+        {
+          "word": "BLANCO",
+          "riddle": "El color de una hoja limpia.",
+          "riddle_hard": "Una nube atrapada en un cubo.",
+          "is_hard": false
+        },
+        {
+          "word": "GRANIZO",
+          "riddle": "Lluvia congelada que rebota en tu paraguas.",
+          "riddle_hard": "Balas de hielo que caen del cielo gris.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 7,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Bosque",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ÁRBOL",
+          "riddle": "Gigante con mil hojas.",
+          "riddle_hard": "Un rascacielos de madera para aves.",
+          "is_hard": false
+        },
+        {
+          "word": "FRONDE",
+          "riddle": "Un brazo grande y frondoso de un helecho.",
+          "riddle_hard": "Un abanico verde saludando en la jungla.",
+          "is_hard": false
+        },
+        {
+          "word": "TRONCOS",
+          "riddle": "Cilindros pesados de madera de los árboles.",
+          "riddle_hard": "Gigantes caídos listos para la hoguera.",
+          "is_hard": false
+        },
+        {
+          "word": "VERDE",
+          "riddle": "El atuendo favorito de la naturaleza.",
+          "riddle_hard": "El color de un césped feliz.",
+          "is_hard": false
+        },
+        {
+          "word": "CIERVO",
+          "riddle": "Un tímido amigo del bosque con ramas en la cabeza.",
+          "riddle_hard": "Un corredor ágil con corona de madera.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 8,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Árboles",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "RAÍZ",
+          "riddle": "Un sorbete sediento en la tierra.",
+          "riddle_hard": "Los anclajes secretos del árbol.",
+          "is_hard": false
+        },
+        {
+          "word": "CORTEZA",
+          "riddle": "Armadura para un gigante de madera.",
+          "riddle_hard": "Un abrigo rugoso que nunca se quita.",
+          "is_hard": false
+        },
+        {
+          "word": "TRONCO",
+          "riddle": "Un árbol tomando una larga siesta.",
+          "riddle_hard": "Un cilindro pesado de madera.",
+          "is_hard": false
+        },
+        {
+          "word": "ALTO",
+          "riddle": "Alcanzando las nubes.",
+          "riddle_hard": "Viviendo la vida en los asientos elevados.",
+          "is_hard": false
+        },
+        {
+          "word": "FRUTA",
+          "riddle": "Dulce regalo del árbol.",
+          "riddle_hard": "El premio colorido de la rama.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 9,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Río",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "RÍO",
+          "riddle": "Un camino líquido que nunca se detiene.",
+          "riddle_hard": "Agua en camino hacia el mar.",
+          "is_hard": false
+        },
+        {
+          "word": "NADAR",
+          "riddle": "Volar, pero mucho más mojado.",
+          "riddle_hard": "La forma humana de ser un pez.",
+          "is_hard": false
+        },
+        {
+          "word": "PEZ",
+          "riddle": "Un animal que nunca parpadea.",
+          "riddle_hard": "Los reyes plateados del arroyo.",
+          "is_hard": false
+        },
+        {
+          "word": "EMPAPADO",
+          "riddle": "Completamente lleno de agua.",
+          "riddle_hard": "Como una esponja en el fondo de un cubo.",
+          "is_hard": false
+        },
+        {
+          "word": "BROTE",
+          "riddle": "Un repentino estallido de agua.",
+          "riddle_hard": "Siguiendo la corriente con fuerza.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 10,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Océano",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "OLA",
+          "riddle": "El océano diciendo hola.",
+          "riddle_hard": "Una colina líquida que se desploma.",
+          "is_hard": false
+        },
+        {
+          "word": "ARENA",
+          "riddle": "Montañas trituradas en polvo de oro.",
+          "riddle_hard": "Un millón de rocas diminutas en tu zapato.",
+          "is_hard": false
+        },
+        {
+          "word": "SAL",
+          "riddle": "Nieve que hace que la comida sea sabrosa.",
+          "riddle_hard": "Cristales blancos de las profundidades.",
+          "is_hard": false
+        },
+        {
+          "word": "ALGA",
+          "riddle": "Cinta verde del mar.",
+          "riddle_hard": "Vegetación ondulante bajo el azul.",
+          "is_hard": false
+        },
+        {
+          "word": "MAREA",
+          "riddle": "El latido lento del mar.",
+          "riddle_hard": "Agua que se va y regresa.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 11,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Montañas",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ALTO",
+          "riddle": "Allí arriba donde viven las aves.",
+          "riddle_hard": "Un largo camino desde el suelo.",
+          "is_hard": false
+        },
+        {
+          "word": "CIMA",
+          "riddle": "El sombrero puntiagudo de la montaña.",
+          "riddle_hard": "La punta misma del mundo.",
+          "is_hard": false
+        },
+        {
+          "word": "ROCA",
+          "riddle": "Un pesado hueso gris de montaña en el suelo.",
+          "riddle_hard": "Materia sólida que forma los picos.",
+          "is_hard": false
+        },
+        {
+          "word": "SUBIR",
+          "riddle": "Caminar hacia el cielo.",
+          "riddle_hard": "Usar las manos como si fueran pies.",
+          "is_hard": false
+        },
+        {
+          "word": "VOLAR",
+          "riddle": "Rendirse ante la gravedad.",
+          "riddle_hard": "Remar a través del azul infinito.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 12,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Desierto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "DUNAS",
+          "riddle": "Montañas de arena construidas por el viento.",
+          "riddle_hard": "Olas hechas de polvo dorado.",
+          "is_hard": false
+        },
+        {
+          "word": "CALOR",
+          "riddle": "Cuando el sol abraza demasiado fuerte.",
+          "riddle_hard": "Burbujeante como una carretera de verano.",
+          "is_hard": false
+        },
+        {
+          "word": "SECAR",
+          "riddle": "Hacer que algo tenga mucha sed.",
+          "riddle_hard": "Lo que el desierto le hace a una hoja.",
+          "is_hard": false
+        },
+        {
+          "word": "BRILLO",
+          "riddle": "Luz solar que lastima tus ojos.",
+          "riddle_hard": "Un reflejo intenso o una mirada dura.",
+          "is_hard": false
+        },
+        {
+          "word": "SACIA",
+          "riddle": "Darle de beber a una garganta seca.",
+          "riddle_hard": "Hacer que la sed desaparezca.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 13,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Campo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "PASTO",
+          "riddle": "El suave cabello verde de la tierra.",
+          "riddle_hard": "Un millón de pequeñas cuchillas verdes.",
+          "is_hard": false
+        },
+        {
+          "word": "ABIERTO",
+          "riddle": "Una habitación sin techo.",
+          "riddle_hard": "Mucho espacio para el viento.",
+          "is_hard": false
+        },
+        {
+          "word": "ANCHO",
+          "riddle": "Estirándose hasta el horizonte.",
+          "riddle_hard": "Más espacio del que puedes usar.",
+          "is_hard": false
+        },
+        {
+          "word": "CORRE",
+          "riddle": "Perseguir al viento con los pies.",
+          "riddle_hard": "Moverse más rápido que un paseo.",
+          "is_hard": false
+        },
+        {
+          "word": "SUAVE",
+          "riddle": "Blando y gentil, como una brisa.",
+          "riddle_hard": "Un lago sin ondas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 14,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Flor",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ROSA",
+          "riddle": "Una belleza con dientes afilados.",
+          "riddle_hard": "Una corona roja en el jardín.",
+          "is_hard": false
+        },
+        {
+          "word": "BOTÓN",
+          "riddle": "El paquete secreto de una flor.",
+          "riddle_hard": "Un pequeño bulto de pétalos.",
+          "is_hard": false
+        },
+        {
+          "word": "TALLO",
+          "riddle": "La escalera para la flor.",
+          "riddle_hard": "Un sorbete verde para el capullo.",
+          "is_hard": false
+        },
+        {
+          "word": "CRECE",
+          "riddle": "Alcanzando el sol.",
+          "riddle_hard": "Convirtiendo la luz en vida.",
+          "is_hard": false
+        },
+        {
+          "word": "FLORECE",
+          "riddle": "El evento principal de la flor.",
+          "riddle_hard": "Abriéndose al sol de la mañana.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 15,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Bichos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HORMIGA",
+          "riddle": "El tipo diminuto más fuerte.",
+          "riddle_hard": "Un levantador de pesas de seis patas.",
+          "is_hard": false
+        },
+        {
+          "word": "COCO",
+          "riddle": "Un bocadillo de jardín de seis patas.",
+          "riddle_hard": "A los bichos les gusta mi extensión frondosa.",
+          "is_hard": false
+        },
+        {
+          "word": "COLMENA",
+          "riddle": "Una ciudad de panal de oro.",
+          "riddle_hard": "Donde comienza el zumbido.",
+          "is_hard": false
+        },
+        {
+          "word": "ALA",
+          "riddle": "Una vela para el cielo.",
+          "riddle_hard": "Brazos delgados que atrapan el aire.",
+          "is_hard": false
+        },
+        {
+          "word": "GIRA",
+          "riddle": "Bailando en círculos para crear seda.",
+          "riddle_hard": "Haciendo una trampa desde la barriga.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 16,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Pájaros",
+      "complexity": 2.5,
+      "puzzles": [
+        {
+          "word": "NIDO",
+          "riddle": "Una taza acogedora hecha de ramitas.",
+          "riddle_hard": "Una guardería en las ramas.",
+          "is_hard": false
+        },
+        {
+          "word": "HUEVO",
+          "riddle": "Una vida en una frágil caja blanca.",
+          "riddle_hard": "Una casa de porcelana para un ave.",
+          "is_hard": false
+        },
+        {
+          "word": "PIO",
+          "riddle": "El sonido feliz de un pájaro pequeño.",
+          "riddle_hard": "La canción vespertina de un grillo.",
+          "is_hard": false
+        },
+        {
+          "word": "PLANE",
+          "riddle": "Volar sin batir las alas.",
+          "riddle_hard": "Deslizarse suavemente sobre el hielo.",
+          "is_hard": false
+        },
+        {
+          "word": "VUELO",
+          "riddle": "Un viaje sin carreteras.",
+          "riddle_hard": "El sueño de tener alas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 17,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Cueva",
+      "complexity": 2.6,
+      "puzzles": [
+        {
+          "word": "PENUMBRA",
+          "riddle": "Un sentimiento oscuro y muy triste.",
+          "riddle_hard": "Luz tenue en una cueva profunda y antigua.",
+          "is_hard": false
+        },
+        {
+          "word": "MURCI",
+          "riddle": "Un piloto peludo de la noche.",
+          "riddle_hard": "Al revés y rápido como el sonido.",
+          "is_hard": false
+        },
+        {
+          "word": "ECO",
+          "riddle": "La forma en que la pared responde.",
+          "riddle_hard": "Tu propia voz regresando a casa.",
+          "is_hard": false
+        },
+        {
+          "word": "ENTERRADO",
+          "riddle": "Escondido bajo la tierra marrón.",
+          "riddle_hard": "Un tesoro pirata muy por debajo.",
+          "is_hard": false
+        },
+        {
+          "word": "PÉTREO",
+          "riddle": "Construido de hueso sólido de montaña.",
+          "riddle_hard": "Frío, duro y gris por todas partes.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 18,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Pantano",
+      "complexity": 2.7,
+      "puzzles": [
+        {
+          "word": "LODO",
+          "riddle": "Tierra que quiere tus zapatos.",
+          "riddle_hard": "Chocolate pegajoso para los árboles.",
+          "is_hard": false
+        },
+        {
+          "word": "MOJAR",
+          "riddle": "Quedar completamente empapado.",
+          "riddle_hard": "Sumergir algo en líquido.",
+          "is_hard": false
+        },
+        {
+          "word": "RANA",
+          "riddle": "Un cantante verde en un nenúfar.",
+          "riddle_hard": "Salto-salto en un traje verde.",
+          "is_hard": false
+        },
+        {
+          "word": "MUSGO",
+          "riddle": "Una alfombra de terciopelo para las piedras.",
+          "riddle_hard": "Pelusa verde en un tronco viejo.",
+          "is_hard": false
+        },
+        {
+          "word": "CIENO",
+          "riddle": "Tierra pesada, lenta y pegajosa.",
+          "riddle_hard": "Espesor turbio en lo profundo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 19,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Volcán",
+      "complexity": 2.8,
+      "puzzles": [
+        {
+          "word": "LAVA",
+          "riddle": "Un río picante de piedra derretida.",
+          "riddle_hard": "Calor del corazón de la Tierra.",
+          "is_hard": false
+        },
+        {
+          "word": "CENIZA",
+          "riddle": "La nieve gris de un fuego.",
+          "riddle_hard": "Un fantasma gris suave de madera.",
+          "is_hard": false
+        },
+        {
+          "word": "ROJO",
+          "riddle": "El color de una manzana madura.",
+          "riddle_hard": "El tono enojado de un volcán.",
+          "is_hard": false
+        },
+        {
+          "word": "ASCUA",
+          "riddle": "Un carbón brillante en un fuego moribundo.",
+          "riddle_hard": "Una chispa cálida en la ceniza gris.",
+          "is_hard": false
+        },
+        {
+          "word": "CRÁTER",
+          "riddle": "El tazón de sopa vacío del volcán.",
+          "riddle_hard": "Un agujero gigante en la montaña.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 20,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Arcoíris",
+      "complexity": 2.9,
+      "puzzles": [
+        {
+          "word": "ARCO",
+          "riddle": "Un puente hecho de luz.",
+          "riddle_hard": "La sonrisa colorida del cielo.",
+          "is_hard": false
+        },
+        {
+          "word": "COLOR",
+          "riddle": "Luz dividida en pedazos.",
+          "riddle_hard": "Pintura del pincel del sol.",
+          "is_hard": false
+        },
+        {
+          "word": "ÉTER",
+          "riddle": "El cielo superior claro y alto.",
+          "riddle_hard": "El aire invisible de los cielos.",
+          "is_hard": false
+        },
+        {
+          "word": "ORO",
+          "riddle": "Una moneda amarilla en una olla.",
+          "riddle_hard": "Luz solar atrapada en una pepita.",
+          "is_hard": false
+        },
+        {
+          "word": "BRILLO",
+          "riddle": "El resplandor de la naturaleza.",
+          "riddle_hard": "Luz suave que emana de algo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 21,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Cocina",
+      "complexity": 3,
+      "puzzles": [
+        {
+          "word": "COCINA",
+          "riddle": "Convertir lo crudo en listo.",
+          "riddle_hard": "Magia en la olla de la cocina.",
+          "is_hard": false
+        },
+        {
+          "word": "COME",
+          "riddle": "Hacer que el hambre desaparezca.",
+          "riddle_hard": "La mejor parte del día.",
+          "is_hard": false
+        },
+        {
+          "word": "TENEDOR",
+          "riddle": "Tengo dientes pero no muerdo.",
+          "riddle_hard": "Una mano de plata con cuatro dedos.",
+          "is_hard": false
+        },
+        {
+          "word": "TAZÓN",
+          "riddle": "Un estanque diminuto para tu sopa.",
+          "riddle_hard": "Un hogar redondeado para el desayuno.",
+          "is_hard": false
+        },
+        {
+          "word": "PLATO",
+          "riddle": "Un escenario plano para tu comida.",
+          "riddle_hard": "Un disco de cerámica para la cena.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 22,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Mañana",
+      "complexity": 3.1,
+      "puzzles": [
+        {
+          "word": "DESPIERTA",
+          "riddle": "Abrir las cortinas de la vista.",
+          "riddle_hard": "Regresar del país de los sueños.",
+          "is_hard": false
+        },
+        {
+          "word": "TÉ",
+          "riddle": "Un abrazo de hierbas en una taza.",
+          "riddle_hard": "Hojas en infusión para la paz.",
+          "is_hard": false
+        },
+        {
+          "word": "TAZA",
+          "riddle": "Un hogar de cerámica para el café.",
+          "riddle_hard": "Un asa cálida en tu mano.",
+          "is_hard": false
+        },
+        {
+          "word": "SOLAR",
+          "riddle": "Poder que viene del sol.",
+          "riddle_hard": "Energía radiante.",
+          "is_hard": false
+        },
+        {
+          "word": "RAYO",
+          "riddle": "Una línea enfocada de luz.",
+          "riddle_hard": "Haz luminoso.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 23,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Jardín",
+      "complexity": 3.2,
+      "puzzles": [
+        {
+          "word": "TIERRA",
+          "riddle": "La cama marrón donde crece la vida.",
+          "riddle_hard": "Un refrigerio para una lombriz hambrienta.",
+          "is_hard": false
+        },
+        {
+          "word": "SEMILLA",
+          "riddle": "Un secreto diminuto en una cáscara.",
+          "riddle_hard": "Un árbol en una caja muy pequeña.",
+          "is_hard": false
+        },
+        {
+          "word": "SUBE",
+          "riddle": "Moverse hacia arriba como el sol.",
+          "riddle_hard": "Hacerse más alto o despertar.",
+          "is_hard": false
+        },
+        {
+          "word": "MANGUE",
+          "riddle": "Una serpiente de goma que escupe.",
+          "riddle_hard": "Lloviendo a través de una boquilla.",
+          "is_hard": false
+        },
+        {
+          "word": "PODA",
+          "riddle": "Darle al seto un corte de pelo.",
+          "riddle_hard": "Cortar los bordes salvajes.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 24,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Sala de Estar",
+      "complexity": 3.3,
+      "puzzles": [
+        {
+          "word": "SOFÁ",
+          "riddle": "Una isla suave en la habitación.",
+          "riddle_hard": "Una nube para tres personas.",
+          "is_hard": false
+        },
+        {
+          "word": "LIBRO",
+          "riddle": "Un mundo entre dos portadas.",
+          "riddle_hard": "Una voz hecha de papel.",
+          "is_hard": false
+        },
+        {
+          "word": "LEE",
+          "riddle": "Escuchar con los ojos.",
+          "riddle_hard": "Hacer un viaje dentro de una página.",
+          "is_hard": false
+        },
+        {
+          "word": "LÁMPARA",
+          "riddle": "Un sol en un palo.",
+          "riddle_hard": "Alejando las sombras.",
+          "is_hard": false
+        },
+        {
+          "word": "REPOSO",
+          "riddle": "El peso cayendo de la mente.",
+          "riddle_hard": "El silencio de una mente quieta.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 25,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Dormitorio",
+      "complexity": 3.4,
+      "puzzles": [
+        {
+          "word": "SUEÑO",
+          "riddle": "La forma en que el cuerpo se recarga.",
+          "riddle_hard": "Un parpadeo largo hasta la mañana.",
+          "is_hard": false
+        },
+        {
+          "word": "CAMA",
+          "riddle": "La orilla suave del país de los sueños.",
+          "riddle_hard": "Un parque rectangular para el descanso.",
+          "is_hard": false
+        },
+        {
+          "word": "COMODO",
+          "riddle": "Cálido y confortable.",
+          "riddle_hard": "Una nube para tus sueños.",
+          "is_hard": false
+        },
+        {
+          "word": "SUEÑA",
+          "riddle": "Una película detrás de tus ojos.",
+          "riddle_hard": "Un viaje secreto a ninguna parte.",
+          "is_hard": false
+        },
+        {
+          "word": "ALFOM",
+          "riddle": "Una alfombra suave para los pies.",
+          "riddle_hard": "Tapete acogedor.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 26,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Limpieza",
+      "complexity": 3.5,
+      "puzzles": [
+        {
+          "word": "POLVO",
+          "riddle": "Fantasmas grises del tiempo.",
+          "riddle_hard": "Diminutos trozos del pasado.",
+          "is_hard": false
+        },
+        {
+          "word": "ORDEN",
+          "riddle": "Cada cosa en su propio hogar.",
+          "riddle_hard": "Una habitación sin desorden.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCOBA",
+          "riddle": "Una cola de madera para la casa.",
+          "riddle_hard": "Bailando con el polvo.",
+          "is_hard": false
+        },
+        {
+          "word": "LIMPIO",
+          "riddle": "Como una moneda nueva.",
+          "riddle_hard": "Fresco, claro y brillante.",
+          "is_hard": false
+        },
+        {
+          "word": "ENERGÍA",
+          "riddle": "Fuerza del movimiento.",
+          "riddle_hard": "El fuego que te mantiene en marcha.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 27,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Escritura",
+      "complexity": 3.6,
+      "puzzles": [
+        {
+          "word": "PLUMA",
+          "riddle": "Más fuerte que la espada.",
+          "riddle_hard": "Un palo que gotea historias.",
+          "is_hard": false
+        },
+        {
+          "word": "TINTA",
+          "riddle": "La sangre de una historia.",
+          "riddle_hard": "Agua negra que recuerda.",
+          "is_hard": false
+        },
+        {
+          "word": "NOTA",
+          "riddle": "Un recuerdo en papel.",
+          "riddle_hard": "Una pequeña carta para ti mismo.",
+          "is_hard": false
+        },
+        {
+          "word": "PAGINA",
+          "riddle": "Una rebanada de un libro.",
+          "riddle_hard": "Un campo blanco delgado de palabras.",
+          "is_hard": false
+        },
+        {
+          "word": "GARABA",
+          "riddle": "Escritura a mano con prisa.",
+          "riddle_hard": "Tinta que olvidó las líneas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 28,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Herramientas",
+      "complexity": 3.7,
+      "puzzles": [
+        {
+          "word": "MARTI",
+          "riddle": "Tengo una garra pero no pelaje.",
+          "riddle_hard": "Una cabeza pesada en un palo.",
+          "is_hard": false
+        },
+        {
+          "word": "CLAVO",
+          "riddle": "Tengo cabeza pero no cerebro.",
+          "riddle_hard": "Un alfiler de plata para una tabla.",
+          "is_hard": false
+        },
+        {
+          "word": "REPARA",
+          "riddle": "Hacer que las cosas vuelvan a estar enteras.",
+          "riddle_hard": "Curar la enfermedad de una herramienta.",
+          "is_hard": false
+        },
+        {
+          "word": "SIERRA",
+          "riddle": "Una herramienta que muerde troncos.",
+          "riddle_hard": "Dientes de metal para la madera.",
+          "is_hard": false
+        },
+        {
+          "word": "KIT",
+          "riddle": "Un cofre portátil donde viven las herramientas.",
+          "riddle_hard": "Estuche de mantenimiento.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 29,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Mascotas",
+      "complexity": 3.8,
+      "puzzles": [
+        {
+          "word": "PERRO",
+          "riddle": "Hablo con una cola que se menea.",
+          "riddle_hard": "Un amigo que le ladra a los fantasmas.",
+          "is_hard": false
+        },
+        {
+          "word": "PASEO",
+          "riddle": "El mejor momento del día.",
+          "riddle_hard": "Explorando el mundo en cuatro pies.",
+          "is_hard": false
+        },
+        {
+          "word": "GREY",
+          "riddle": "Un grupo de animales juntos.",
+          "riddle_hard": "Moviéndose como un solo latido.",
+          "is_hard": false
+        },
+        {
+          "word": "MIMAR",
+          "riddle": "Un amigo en el suelo.",
+          "riddle_hard": "Alegría peluda con un meneo.",
+          "is_hard": false
+        },
+        {
+          "word": "DUEÑOS",
+          "riddle": "Los amigos gigantes de los peludos.",
+          "riddle_hard": "Aquellos que abren las latas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 30,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Música",
+      "complexity": 3.9,
+      "puzzles": [
+        {
+          "word": "CANTO",
+          "riddle": "Historias que escuchas pero no ves.",
+          "riddle_hard": "Un poema que aprendió a bailar.",
+          "is_hard": false
+        },
+        {
+          "word": "TOCA",
+          "riddle": "Desbloqueando el silencio.",
+          "riddle_hard": "Dejando volar las notas.",
+          "is_hard": false
+        },
+        {
+          "word": "FUERTE",
+          "riddle": "Llenando la habitación con energía.",
+          "riddle_hard": "Una voz que sacude las paredes.",
+          "is_hard": false
+        },
+        {
+          "word": "TONO",
+          "riddle": "El camino que siguen las notas.",
+          "riddle_hard": "Una línea que puedes silbar.",
+          "is_hard": false
+        },
+        {
+          "word": "RITMO",
+          "riddle": "El pulso de la melodía.",
+          "riddle_hard": "El corazón constante del tambor.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 31,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Pasatiempos",
+      "complexity": 4,
+      "puzzles": [
+        {
+          "word": "JUEGO",
+          "riddle": "Reglas que fueron hechas para divertirse.",
+          "riddle_hard": "Una serie de movimientos para un objetivo.",
+          "is_hard": false
+        },
+        {
+          "word": "DADOS",
+          "riddle": "Tengo puntos pero no puedo ver.",
+          "riddle_hard": "Números cayendo sobre una mesa.",
+          "is_hard": false
+        },
+        {
+          "word": "GANA",
+          "riddle": "El trofeo al final del camino.",
+          "riddle_hard": "El premio para el jugador.",
+          "is_hard": false
+        },
+        {
+          "word": "RETOZO",
+          "riddle": "Jugar de forma tosca y alegre.",
+          "riddle_hard": "Una carrera divertida y desordenada en el pasto.",
+          "is_hard": false
+        },
+        {
+          "word": "CARTA",
+          "riddle": "Un mazo con cincuenta y dos caras.",
+          "riddle_hard": "Naipes para la mesa.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 32,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Ático",
+      "complexity": 4.1,
+      "puzzles": [
+        {
+          "word": "VIEJO",
+          "riddle": "Una caja llena de muchos inviernos.",
+          "riddle_hard": "Lleno de muchos inviernos.",
+          "is_hard": false
+        },
+        {
+          "word": "CAJA",
+          "riddle": "Tengo lados pero no piernas.",
+          "riddle_hard": "Recipiente cuadrado.",
+          "is_hard": false
+        },
+        {
+          "word": "OCULTO",
+          "riddle": "Esperando bajo una capa de polvo.",
+          "riddle_hard": "Esperando bajo el polvo.",
+          "is_hard": false
+        },
+        {
+          "word": "MUGRE",
+          "riddle": "Hollín sucio y polvo en un rincón.",
+          "riddle_hard": "La película pegajosa de mucho tiempo.",
+          "is_hard": false
+        },
+        {
+          "word": "SEGURO",
+          "riddle": "Un abrazo cálido en un mundo tormentoso.",
+          "riddle_hard": "Un rincón cálido en un mundo tormentoso.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 33,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Familia",
+      "complexity": 4.2,
+      "puzzles": [
+        {
+          "word": "AMOR",
+          "riddle": "Un hilo invisible del corazón.",
+          "riddle_hard": "Hilo invisible entre personas.",
+          "is_hard": false
+        },
+        {
+          "word": "MAJO",
+          "riddle": "Una sonrisa que le das a un amigo.",
+          "riddle_hard": "Una sonrisa que regalas.",
+          "is_hard": false
+        },
+        {
+          "word": "DAR",
+          "riddle": "Vaciar las manos para llenar los corazones.",
+          "riddle_hard": "Vaciar tus manos para ayudar.",
+          "is_hard": false
+        },
+        {
+          "word": "AYUDA",
+          "riddle": "Un puente para alguien más.",
+          "riddle_hard": "Apoyo para el prójimo.",
+          "is_hard": false
+        },
+        {
+          "word": "CUIDA",
+          "riddle": "El latido de una familia.",
+          "riddle_hard": "El corazón de un vínculo familiar.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 34,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Repostería",
+      "complexity": 4.3,
+      "puzzles": [
+        {
+          "word": "CAKE",
+          "riddle": "El último sueño dulce de la harina.",
+          "riddle_hard": "El sueño final de la harina.",
+          "is_hard": false
+        },
+        {
+          "word": "HORNA",
+          "riddle": "Convertir la masa blanda en sólida.",
+          "riddle_hard": "Convertir lo blando en sólido.",
+          "is_hard": false
+        },
+        {
+          "word": "HARINA",
+          "riddle": "La base nevada de cada hogaza.",
+          "riddle_hard": "La base nevada del pan.",
+          "is_hard": false
+        },
+        {
+          "word": "DULCE",
+          "riddle": "El sabor de un momento feliz.",
+          "riddle_hard": "El sabor de la alegría.",
+          "is_hard": false
+        },
+        {
+          "word": "LEVADU",
+          "riddle": "La vida que hace que el pan suba.",
+          "riddle_hard": "El hongo que eleva la masa.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 35,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Pintura",
+      "complexity": 4.4,
+      "puzzles": [
+        {
+          "word": "PINTA",
+          "riddle": "Arcoíris en un cubo de metal.",
+          "riddle_hard": "Arcoíris en un cubo.",
+          "is_hard": false
+        },
+        {
+          "word": "PINCEL",
+          "riddle": "Tengo pelo pero no cabeza.",
+          "riddle_hard": "Cerdas para el lienzo.",
+          "is_hard": false
+        },
+        {
+          "word": "ARTE",
+          "riddle": "Una ventana al alma del artista.",
+          "riddle_hard": "Una ventana al alma.",
+          "is_hard": false
+        },
+        {
+          "word": "MATIZ",
+          "riddle": "Una sola nota en la canción de la luz.",
+          "riddle_hard": "Una rebanada del arcoíris.",
+          "is_hard": false
+        },
+        {
+          "word": "TINTE",
+          "riddle": "Una gota de luz en la pintura.",
+          "riddle_hard": "Una sola nota en la canción del arcoíris.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 36,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Artesanía",
+      "complexity": 4.5,
+      "puzzles": [
+        {
+          "word": "TEJE",
+          "riddle": "Convertir una cuerda en ropa.",
+          "riddle_hard": "Convertir cuerda en ropa.",
+          "is_hard": false
+        },
+        {
+          "word": "LANA",
+          "riddle": "Un hilo largo sin fin.",
+          "riddle_hard": "Cuerda larga sin fin.",
+          "is_hard": false
+        },
+        {
+          "word": "ACOGE",
+          "riddle": "Bien arropado y acogedor.",
+          "riddle_hard": "Ajustado como un guante en una mano.",
+          "is_hard": false
+        },
+        {
+          "word": "CREA",
+          "riddle": "Usar las manos para construir un sueño.",
+          "riddle_hard": "El trabajo más fino de las manos.",
+          "is_hard": false
+        },
+        {
+          "word": "PIENSA",
+          "riddle": "Usar tu cerebro.",
+          "riddle_hard": "Reflexionar profundamente.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 37,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Estudio",
+      "complexity": 4.6,
+      "puzzles": [
+        {
+          "word": "APRENDE",
+          "riddle": "Hacer crecer el mundo dentro de ti.",
+          "riddle_hard": "Expandir el mundo interior.",
+          "is_hard": false
+        },
+        {
+          "word": "TOMO",
+          "riddle": "Un libro muy grande y pesado.",
+          "riddle_hard": "Un gigante polvoriento lleno de viejos secretos.",
+          "is_hard": false
+        },
+        {
+          "word": "MUSA",
+          "riddle": "Pensar profundamente sobre algo.",
+          "riddle_hard": "Dejar que tu mente vague en un sueño.",
+          "is_hard": false
+        },
+        {
+          "word": "SABER",
+          "riddle": "El poder almacenado en la mente.",
+          "riddle_hard": "El poder de la mente.",
+          "is_hard": false
+        },
+        {
+          "word": "CALLA",
+          "riddle": "La paz dorada del silencio.",
+          "riddle_hard": "Quietud dorada.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 38,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Baño",
+      "complexity": 4.7,
+      "puzzles": [
+        {
+          "word": "JABÓN",
+          "riddle": "Me hago pequeño cuando trabajo.",
+          "riddle_hard": "Me hago pequeño cuando me usan.",
+          "is_hard": false
+        },
+        {
+          "word": "LAVA",
+          "riddle": "Quitar el día de la piel.",
+          "riddle_hard": "Quitar el día de tu piel.",
+          "is_hard": false
+        },
+        {
+          "word": "HÚMEDO",
+          "riddle": "Un poco mojado.",
+          "riddle_hard": "Casi seco.",
+          "is_hard": false
+        },
+        {
+          "word": "TOALLA",
+          "riddle": "Me mojo mientras tú te secas.",
+          "riddle_hard": "Me pongo más húmedo mientras tú te secas.",
+          "is_hard": false
+        },
+        {
+          "word": "CASA",
+          "riddle": "Donde vives.",
+          "riddle_hard": "Lugar seguro y cálido.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 39,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Descanso",
+      "complexity": 4.8,
+      "puzzles": [
+        {
+          "word": "SIESTA",
+          "riddle": "Una visita rápida al país de los sueños.",
+          "riddle_hard": "Un viaje rápido al país de los sueños.",
+          "is_hard": false
+        },
+        {
+          "word": "QUIETO",
+          "riddle": "Inmóvil como un lago profundo.",
+          "riddle_hard": "El aire antes de una tormenta.",
+          "is_hard": false
+        },
+        {
+          "word": "MUDO",
+          "riddle": "Sin sonido.",
+          "riddle_hard": "Un corazón sin ninguna onda.",
+          "is_hard": false
+        },
+        {
+          "word": "DORMIR",
+          "riddle": "Una siesta pequeña cuando los ojos pesan.",
+          "riddle_hard": "Visitar el país de los sueños un minuto.",
+          "is_hard": false
+        },
+        {
+          "word": "SUAVE",
+          "riddle": "Gentil como una pluma que cae.",
+          "riddle_hard": "El aire justo antes de un sueño.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 40,
+      "grid_size": 5,
+      "category": "Hogar y Vida",
+      "subcategory": "Vida Sencilla",
+      "complexity": 4.9,
+      "puzzles": [
+        {
+          "word": "MENOS",
+          "riddle": "El secreto para tener mucho.",
+          "riddle_hard": "El secreto para tener más.",
+          "is_hard": false
+        },
+        {
+          "word": "PURO",
+          "riddle": "No tocado por un mundo ruidoso.",
+          "riddle_hard": "No tocado por el mundo ruidoso.",
+          "is_hard": false
+        },
+        {
+          "word": "REAL",
+          "riddle": "Mirarse al espejo con justicia.",
+          "riddle_hard": "Mirarse al espejo con honestidad.",
+          "is_hard": false
+        },
+        {
+          "word": "LLENO",
+          "riddle": "Una taza que no puede contener más.",
+          "riddle_hard": "Un recipiente al límite.",
+          "is_hard": false
+        },
+        {
+          "word": "FLUJO",
+          "riddle": "Un movimiento continuo de luz o aire.",
+          "riddle_hard": "Ir a donde el viento te lleve.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 41,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Vegetales",
+      "complexity": 5,
+      "puzzles": [
+        {
+          "word": "MAÍZ",
+          "riddle": "Luz solar atrapada en cuentas de oro.",
+          "riddle_hard": "Luz solar capturada en cuentas doradas.",
+          "is_hard": false
+        },
+        {
+          "word": "GUISA",
+          "riddle": "Un diminuto mundo verde en una vaina.",
+          "riddle_hard": "Un diminuto mundo verde en una canoa.",
+          "is_hard": false
+        },
+        {
+          "word": "TUBER",
+          "riddle": "Una raíz redonda como una patata.",
+          "riddle_hard": "Un tesoro bultoso enterrado en el lodo.",
+          "is_hard": false
+        },
+        {
+          "word": "BROTE",
+          "riddle": "Una pequeña planta bebé verde.",
+          "riddle_hard": "El primer estiramiento de una semilla por la luz.",
+          "is_hard": false
+        },
+        {
+          "word": "FRESCO",
+          "riddle": "Todavía con el rocío de la mañana.",
+          "riddle_hard": "Recién cosechado.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 42,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Fruta",
+      "complexity": 5.1,
+      "puzzles": [
+        {
+          "word": "PERA",
+          "riddle": "Una lágrima en una rama.",
+          "riddle_hard": "Una lágrima de un gigante de madera.",
+          "is_hard": false
+        },
+        {
+          "word": "CIRUELA",
+          "riddle": "Un corazón violeta en un árbol.",
+          "riddle_hard": "Un corazón violeta para la rama.",
+          "is_hard": false
+        },
+        {
+          "word": "MADURO",
+          "riddle": "Endulzado por el sol del verano.",
+          "riddle_hard": "El sol dice que es hora.",
+          "is_hard": false
+        },
+        {
+          "word": "PLANTA",
+          "riddle": "Algo verde que crece en la tierra.",
+          "riddle_hard": "Un ser vivo que bebe el sol.",
+          "is_hard": false
+        },
+        {
+          "word": "ÁCIDO",
+          "riddle": "Un guiño picante de un limón.",
+          "riddle_hard": "Como el guiño picante de un limón.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 43,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Hierbas",
+      "complexity": 5.2,
+      "puzzles": [
+        {
+          "word": "MENTA",
+          "riddle": "Planta del aliento de invierno.",
+          "riddle_hard": "Un fantasma refrescante para la lengua.",
+          "is_hard": false
+        },
+        {
+          "word": "ENELDO",
+          "riddle": "Cabello frágil y verde del jardín.",
+          "riddle_hard": "Plumas frágiles del jardín.",
+          "is_hard": false
+        },
+        {
+          "word": "HERB",
+          "riddle": "Hojas pequeñas con gran aroma.",
+          "riddle_hard": "Hojas pequeñas con grandes secretos.",
+          "is_hard": false
+        },
+        {
+          "word": "VENA",
+          "riddle": "Un tubo diminuto dentro de una hoja.",
+          "riddle_hard": "Un camino para la savia en un brazo verde.",
+          "is_hard": false
+        },
+        {
+          "word": "PIZCA",
+          "riddle": "Un estallido brillante de cítricos.",
+          "riddle_hard": "Un estallido de energía cítrica.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 44,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Cosecha",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SEGAR",
+          "riddle": "Cuando el trabajo del verano termina.",
+          "riddle_hard": "Recolectar los frutos del campo.",
+          "is_hard": false
+        },
+        {
+          "word": "CARGA",
+          "riddle": "Pesadas riquezas de la tierra.",
+          "riddle_hard": "Pesadas riquezas del campo.",
+          "is_hard": false
+        },
+        {
+          "word": "AMPLIO",
+          "riddle": "Tener más que suficiente.",
+          "riddle_hard": "Una cantidad generosa en la canasta.",
+          "is_hard": false
+        },
+        {
+          "word": "OTOÑO",
+          "riddle": "Cuando el verde se vuelve oro.",
+          "riddle_hard": "Cuando el mundo se vuelve dorado.",
+          "is_hard": false
+        },
+        {
+          "word": "DORAR",
+          "riddle": "Cubrir algo con una fina capa de oro.",
+          "riddle_hard": "Pintar el atardecer en las colinas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 45,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Mercado",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "VENTA",
+          "riddle": "Menos monedas por más botín.",
+          "riddle_hard": "Menos dinero por más comida.",
+          "is_hard": false
+        },
+        {
+          "word": "MONEDA",
+          "riddle": "Un pequeño sol plano de plata.",
+          "riddle_hard": "Dinero de metal.",
+          "is_hard": false
+        },
+        {
+          "word": "COMPRA",
+          "riddle": "Intercambiar plata por verde.",
+          "riddle_hard": "Dar plata para obtener verde.",
+          "is_hard": false
+        },
+        {
+          "word": "NUEVO",
+          "riddle": "Nunca usado y muy fresco.",
+          "riddle_hard": "Aún brillante de la fábrica.",
+          "is_hard": false
+        },
+        {
+          "word": "PAGO",
+          "riddle": "Poder de papel en tu bolsillo.",
+          "riddle_hard": "Combustible de papel para la economía.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 46,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Bocadillo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "NUECES",
+          "riddle": "Cáscara de corazón de madera.",
+          "riddle_hard": "Semillas blindadas que se rompen.",
+          "is_hard": false
+        },
+        {
+          "word": "PAPITA",
+          "riddle": "Delgada, salada y muy ruidosa.",
+          "riddle_hard": "Snack crujiente.",
+          "is_hard": false
+        },
+        {
+          "word": "CRUNCH",
+          "riddle": "Romper el silencio con los dientes.",
+          "riddle_hard": "La muerte ruidosa de un bocadillo.",
+          "is_hard": false
+        },
+        {
+          "word": "SALMU",
+          "riddle": "Agua muy salada del mar.",
+          "riddle_hard": "Un baño líquido para un pepinillo agrio.",
+          "is_hard": false
+        },
+        {
+          "word": "MANÍ",
+          "riddle": "Una nuez crujiente en una cáscara.",
+          "riddle_hard": "Fruto seco que crece bajo tierra.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 47,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Jugo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "PULPA",
+          "riddle": "El corazón de fibra del cítrico.",
+          "riddle_hard": "El corazón del cítrico.",
+          "is_hard": false
+        },
+        {
+          "word": "VIERTE",
+          "riddle": "Una pequeña cascada para la sed.",
+          "riddle_hard": "Crear una cascada para la sed.",
+          "is_hard": false
+        },
+        {
+          "word": "TRAGO",
+          "riddle": "Solucionando la garganta seca.",
+          "riddle_hard": "Ruido tragado de satisfacción.",
+          "is_hard": false
+        },
+        {
+          "word": "FRÍO",
+          "riddle": "Un pequeño escalofrío en el aire.",
+          "riddle_hard": "Baja temperatura.",
+          "is_hard": false
+        },
+        {
+          "word": "LIMÓN",
+          "riddle": "Una fruta verde que es muy agria.",
+          "riddle_hard": "Cítrico ácido.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 48,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Panadería",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "PAN",
+          "riddle": "Una almohada cálida hecha de trigo.",
+          "riddle_hard": "Una almohada hecha de trigo.",
+          "is_hard": false
+        },
+        {
+          "word": "MIGA",
+          "riddle": "Crujiente antes de lo blando.",
+          "riddle_hard": "La armadura quemada del pan.",
+          "is_hard": false
+        },
+        {
+          "word": "MASA",
+          "riddle": "Arcilla suave de horno.",
+          "riddle_hard": "Vida flexible esperando el calor.",
+          "is_hard": false
+        },
+        {
+          "word": "COCIDO",
+          "riddle": "Cocinado dentro de un horno muy caliente.",
+          "riddle_hard": "Convertido de masa en un manjar.",
+          "is_hard": false
+        },
+        {
+          "word": "GLASA",
+          "riddle": "Un abrigo dulce y brillante para una dona.",
+          "riddle_hard": "Capa azucarada.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 49,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Picnic",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "PARQUE",
+          "riddle": "El comedor más grande de la ciudad.",
+          "riddle_hard": "Espacio verde urbano.",
+          "is_hard": false
+        },
+        {
+          "word": "MANTA",
+          "riddle": "Un suelo humilde para el pasto.",
+          "riddle_hard": "Un suelo para el pasto.",
+          "is_hard": false
+        },
+        {
+          "word": "DIVER",
+          "riddle": "Risas bajo el ojo del sol.",
+          "riddle_hard": "Pasarlo bien.",
+          "is_hard": false
+        },
+        {
+          "word": "TABLA",
+          "riddle": "Una tabla plana para llevar comida.",
+          "riddle_hard": "Bandeja de servicio.",
+          "is_hard": false
+        },
+        {
+          "word": "CESTA",
+          "riddle": "Un hogar tejido para tu almuerzo.",
+          "riddle_hard": "Canasta de mimbre.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 50,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Sopa Caliente",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CALDO",
+          "riddle": "Un té sabroso para vegetales.",
+          "riddle_hard": "Líquido base de sabor.",
+          "is_hard": false
+        },
+        {
+          "word": "SORBO",
+          "riddle": "Un pequeño sabor de calor.",
+          "riddle_hard": "Pequeña ingesta líquida.",
+          "is_hard": false
+        },
+        {
+          "word": "TIBIO",
+          "riddle": "Hecho acogedor por un calentador suave.",
+          "riddle_hard": "Tocado por el suave sol de la tarde.",
+          "is_hard": false
+        },
+        {
+          "word": "CALMA",
+          "riddle": "Objetivo de una comida tranquila.",
+          "riddle_hard": "El sentimiento de una barriga llena.",
+          "is_hard": false
+        },
+        {
+          "word": "HERVIR",
+          "riddle": "Las burbujas comienzan a bailar.",
+          "riddle_hard": "Cuando el agua grita de calor.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 51,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Miel",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ABEJA",
+          "riddle": "Un piloto de verano persiguiendo oro.",
+          "riddle_hard": "Un piloto de verano recolectando oro.",
+          "is_hard": false
+        },
+        {
+          "word": "ÁMBAR",
+          "riddle": "Savia amarilla y dura de un árbol.",
+          "riddle_hard": "Un brillo dorado en una gema antigua.",
+          "is_hard": false
+        },
+        {
+          "word": "AZÚCAR",
+          "riddle": "Cristales blancos que saben dulce.",
+          "riddle_hard": "La energía escondida en una caña.",
+          "is_hard": false
+        },
+        {
+          "word": "SOL",
+          "riddle": "Brillante y lleno de luz.",
+          "riddle_hard": "Cuando las nubes se van lejos.",
+          "is_hard": false
+        },
+        {
+          "word": "BRILA",
+          "riddle": "Emitir una luz brillante.",
+          "riddle_hard": "Lo que hace un diamante al sol.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 52,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Hora del Té",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HOJA",
+          "riddle": "Una sola pieza de pasto plano.",
+          "riddle_hard": "La parte afilada de una herramienta de metal.",
+          "is_hard": false
+        },
+        {
+          "word": "INFU",
+          "riddle": "Despertar el sabor del agua.",
+          "riddle_hard": "Preparar una bebida caliente.",
+          "is_hard": false
+        },
+        {
+          "word": "TIEMPO",
+          "riddle": "Ver el mundo ir más lento.",
+          "riddle_hard": "Ver el reloj ir más lento.",
+          "is_hard": false
+        },
+        {
+          "word": "TAZAS",
+          "riddle": "Hogares redondos para líquido caliente.",
+          "riddle_hard": "Recipientes para beber.",
+          "is_hard": false
+        },
+        {
+          "word": "FRESCO",
+          "riddle": "Cuando el vapor comienza a esconderse.",
+          "riddle_hard": "Temperatura agradable.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 53,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Especias",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SABOR",
+          "riddle": "Disfrutar cada bocado de comida.",
+          "riddle_hard": "Dejar que los sabores bailen en la lengua.",
+          "is_hard": false
+        },
+        {
+          "word": "CLAVO",
+          "riddle": "Una especia pequeña que parece un clavo.",
+          "riddle_hard": "Un capullo picante de un árbol tropical.",
+          "is_hard": false
+        },
+        {
+          "word": "QUEMA",
+          "riddle": "Lo que el fuego le hace a la madera seca.",
+          "riddle_hard": "Una sensación punzante en la lengua.",
+          "is_hard": false
+        },
+        {
+          "word": "PICA",
+          "riddle": "Un guiño agudo de la lengua.",
+          "riddle_hard": "Un pequeño fuego en una vaina.",
+          "is_hard": false
+        },
+        {
+          "word": "ALIÑO",
+          "riddle": "Un polvo que añade calor o sabor.",
+          "riddle_hard": "Una pizca de vida para tu cocina.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 54,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Desayuno",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HUEVOS",
+          "riddle": "El sol en una cáscara frágil.",
+          "riddle_hard": "Atardeceres servidos en un plato.",
+          "is_hard": false
+        },
+        {
+          "word": "AVENA",
+          "riddle": "Grano cálido para un nuevo día.",
+          "riddle_hard": "Un grano cálido para comenzar.",
+          "is_hard": false
+        },
+        {
+          "word": "LECHE",
+          "riddle": "Una nube líquida en un vaso.",
+          "riddle_hard": "Nubes en un vaso.",
+          "is_hard": false
+        },
+        {
+          "word": "AYUNO",
+          "riddle": "El hueco de hambre que rompemos al despertar.",
+          "riddle_hard": "Abstinencia de comer.",
+          "is_hard": false
+        },
+        {
+          "word": "CUENCO",
+          "riddle": "Un tazón ancho para lavar las manos.",
+          "riddle_hard": "Un valle poco profundo que contiene agua.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 55,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Frutero",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "UVA",
+          "riddle": "Un pequeño estallido púrpura de alegría.",
+          "riddle_hard": "La primera vida de un racimo de vino.",
+          "is_hard": false
+        },
+        {
+          "word": "KIWI",
+          "riddle": "Estrellas verdes en una caja peluda.",
+          "riddle_hard": "Verde por dentro, peludo por fuera.",
+          "is_hard": false
+        },
+        {
+          "word": "PERSI",
+          "riddle": "Un atardecer con un corazón dulce.",
+          "riddle_hard": "Una piel de terciopelo con un corazón dulce.",
+          "is_hard": false
+        },
+        {
+          "word": "MIX",
+          "riddle": "Donde muchos se vuelven uno.",
+          "riddle_hard": "Hacer de muchos uno solo.",
+          "is_hard": false
+        },
+        {
+          "word": "HIGO",
+          "riddle": "Una fruta dulce y con semillas de un árbol.",
+          "riddle_hard": "Un manjar púrpura de una tierra soleada.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 56,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Huerto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "BOSQU",
+          "riddle": "Un pequeño bosque de árboles frutales.",
+          "riddle_hard": "Una habitación sombreada hecha de ramas.",
+          "is_hard": false
+        },
+        {
+          "word": "GOTA",
+          "riddle": "Una pequeña cuenta de lluvia líquida.",
+          "riddle_hard": "Soltarse de una rama alta.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCOG",
+          "riddle": "Rescatar la dulzura.",
+          "riddle_hard": "Elegir lo mejor.",
+          "is_hard": false
+        },
+        {
+          "word": "PACK",
+          "riddle": "Una casa de madera para la cosecha.",
+          "riddle_hard": "Envase para los frutos.",
+          "is_hard": false
+        },
+        {
+          "word": "ESTUC",
+          "riddle": "Armadura para la fruta frágil.",
+          "riddle_hard": "Armadura para la cosecha.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 57,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Cocinar",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "BATE",
+          "riddle": "Dibujar círculos en la sopa.",
+          "riddle_hard": "Mezclar ingredientes.",
+          "is_hard": false
+        },
+        {
+          "word": "SARTÉ",
+          "riddle": "Un escenario de metal para el calor.",
+          "riddle_hard": "Utensilio para freír.",
+          "is_hard": false
+        },
+        {
+          "word": "ÓLEO",
+          "riddle": "Lluvia que hace saltar el fuego.",
+          "riddle_hard": "Aceite para cocinar.",
+          "is_hard": false
+        },
+        {
+          "word": "MINA",
+          "riddle": "Cavar profundo para obtener carbón brillante.",
+          "riddle_hard": "Un lugar donde se esconden los diamantes.",
+          "is_hard": false
+        },
+        {
+          "word": "RECETA",
+          "riddle": "El mapa para una comida perfecta.",
+          "riddle_hard": "Instrucciones culinarias.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 58,
+      "grid_size": 6,
+      "category": "Jardín y Comida",
+      "subcategory": "Dulces",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "BOLLO",
+          "riddle": "Un pequeño manjar horneado para la hora del té.",
+          "riddle_hard": "Un bizcocho desmenuzable con mermelada y crema.",
+          "is_hard": false
+        },
+        {
+          "word": "FLAN",
+          "riddle": "Un flan tembloroso cubierto con caramelo dorado.",
+          "riddle_hard": "La luna de natilla que sangra ámbar líquido.",
+          "is_hard": false
+        },
+        {
+          "word": "PIE",
+          "riddle": "El postre que encontrarías en un libro de texto de matemáticas.",
+          "riddle_hard": "Un argumento circular resuelto con un tenedor.",
+          "is_hard": false
+        },
+        {
+          "word": "DULCE",
+          "riddle": "Golosinas azucaradas en envoltorios brillantes.",
+          "riddle_hard": "Una dulce recompensa por una buena acción.",
+          "is_hard": false
+        },
+        {
+          "word": "POSTRE",
+          "riddle": "Recompensas dulces del estante.",
+          "riddle_hard": "El botín comestible que llevas en plástico o papel.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 59,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Granja",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ESTAB",
+          "riddle": "Una casa gigante para animales.",
+          "riddle_hard": "Granero.",
+          "is_hard": false
+        },
+        {
+          "word": "OVEJA",
+          "riddle": "Animal de granja lanudo.",
+          "riddle_hard": "Una nube caminando sobre colinas verdes.",
+          "is_hard": false
+        },
+        {
+          "word": "CERDO",
+          "riddle": "Una cola rizada en el lodo.",
+          "riddle_hard": "Animal rosado.",
+          "is_hard": false
+        },
+        {
+          "word": "PATO",
+          "riddle": "Un pájaro con zapatos naranjas.",
+          "riddle_hard": "Ave que hace cuac.",
+          "is_hard": false
+        },
+        {
+          "word": "LANA",
+          "riddle": "Una nube que puedes usar.",
+          "riddle_hard": "Fibra animal cálida.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 60,
+      "grid_size": 5,
+      "category": "Jardín y Comida",
+      "subcategory": "Cosecha Solar",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "DAR",
+          "riddle": "Dar un poco de lo tuyo a un amigo.",
+          "riddle_hard": "Dividir una cosa en dos partes.",
+          "is_hard": false
+        },
+        {
+          "word": "FESTÍN",
+          "riddle": "Cuando la mesa gime de alegría.",
+          "riddle_hard": "Banquete generoso.",
+          "is_hard": false
+        },
+        {
+          "word": "LISTO",
+          "riddle": "El final del largo camino.",
+          "riddle_hard": "Terminado.",
+          "is_hard": false
+        },
+        {
+          "word": "PAZ",
+          "riddle": "Silencio después de un corazón lleno.",
+          "riddle_hard": "Tranquilidad profunda.",
+          "is_hard": false
+        },
+        {
+          "word": "SERENO",
+          "riddle": "Tranquilo como un bosque dormido.",
+          "riddle_hard": "Tranquilo como un bosque dormido.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 61,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Depredadores",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LEÓN",
+          "riddle": "Un rugido que sacude el aire.",
+          "riddle_hard": "El rey de la selva.",
+          "is_hard": false
+        },
+        {
+          "word": "LOBO",
+          "riddle": "Una sombra gris en los pinos.",
+          "riddle_hard": "Canino salvaje que aúlla.",
+          "is_hard": false
+        },
+        {
+          "word": "CAZA",
+          "riddle": "El juego del escondite.",
+          "riddle_hard": "Perseguir para comer.",
+          "is_hard": false
+        },
+        {
+          "word": "VELOZ",
+          "riddle": "Rápido como un guiño o un latido.",
+          "riddle_hard": "Parpadea y te perderás el movimiento.",
+          "is_hard": false
+        },
+        {
+          "word": "PRESA",
+          "riddle": "El paseo silencioso antes del salto.",
+          "riddle_hard": "El objetivo del cazador.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 62,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Aves",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HALCÓ",
+          "riddle": "Una flecha hecha de plumas.",
+          "riddle_hard": "Cazador del aire.",
+          "is_hard": false
+        },
+        {
+          "word": "CUERV",
+          "riddle": "Un ave negra grande y lista.",
+          "riddle_hard": "Un mensajero oscuro en historias antiguas.",
+          "is_hard": false
+        },
+        {
+          "word": "PLUMA",
+          "riddle": "Una sola pluma grande y suave.",
+          "riddle_hard": "Una pluma de humo elevándose.",
+          "is_hard": false
+        },
+        {
+          "word": "ALZA",
+          "riddle": "Planear donde viven las nubes.",
+          "riddle_hard": "Volar muy alto.",
+          "is_hard": false
+        },
+        {
+          "word": "CISNE",
+          "riddle": "Un elegante planeador blanco en el lago.",
+          "riddle_hard": "Una belleza de cuello largo del estanque.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 63,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Reptiles",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "COLMI",
+          "riddle": "Una aguja que muerde.",
+          "riddle_hard": "Diente de serpiente.",
+          "is_hard": false
+        },
+        {
+          "word": "ROSCA",
+          "riddle": "Una cuerda que vive y se mueve.",
+          "riddle_hard": "Forma de serpiente en reposo.",
+          "is_hard": false
+        },
+        {
+          "word": "SISEO",
+          "riddle": "El sonido del aire escapando.",
+          "riddle_hard": "Voz de serpiente.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCAM",
+          "riddle": "Una pequeña pieza de armadura en la piel de una serpiente.",
+          "riddle_hard": "Piel de reptil.",
+          "is_hard": false
+        },
+        {
+          "word": "PIEL",
+          "riddle": "Un escudo en la espalda de un dragón.",
+          "riddle_hard": "Lo que la serpiente muda.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 64,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Insectos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "MOSCA",
+          "riddle": "Un bicho volador pequeño y molesto.",
+          "riddle_hard": "Una mota de vida con alitas.",
+          "is_hard": false
+        },
+        {
+          "word": "AVISP",
+          "riddle": "Un bicho a rayas con un aguijón cruel.",
+          "riddle_hard": "Un piloto amarillo en un nido de papel.",
+          "is_hard": false
+        },
+        {
+          "word": "JET",
+          "riddle": "Un avión rápido o un negro oscuro.",
+          "riddle_hard": "Lanzar agua para moverse hacia adelante.",
+          "is_hard": false
+        },
+        {
+          "word": "BICHO",
+          "riddle": "Fantasma blindado en el pasto.",
+          "riddle_hard": "Insecto pequeño.",
+          "is_hard": false
+        },
+        {
+          "word": "CARAC",
+          "riddle": "Comedor de jardín baboso.",
+          "riddle_hard": "Deja un camino plateado y resbaladizo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 65,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Mascotas",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "GATITO",
+          "riddle": "Zapatos de terciopelo y garras diminutas.",
+          "riddle_hard": "Un gato muy joven.",
+          "is_hard": false
+        },
+        {
+          "word": "CAN",
+          "riddle": "Un perro de caza inteligente que sigue un rastro.",
+          "riddle_hard": "Un canino con muy buen olfato.",
+          "is_hard": false
+        },
+        {
+          "word": "RONRO",
+          "riddle": "Un motor en un corazón satisfecho.",
+          "riddle_hard": "Vibración de gato feliz.",
+          "is_hard": false
+        },
+        {
+          "word": "MANSO",
+          "riddle": "Un amigo de la chimenea.",
+          "riddle_hard": "Animal domesticado.",
+          "is_hard": false
+        },
+        {
+          "word": "PELO",
+          "riddle": "Una manta cálida que crece.",
+          "riddle_hard": "Pelaje animal.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 66,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Ártico",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "OSO",
+          "riddle": "El rey del desierto blanco.",
+          "riddle_hard": "Gigante de la nieve.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCAR",
+          "riddle": "Cristales de hielo blanco en el pasto.",
+          "riddle_hard": "Polvo frío y brillante del invierno.",
+          "is_hard": false
+        },
+        {
+          "word": "FOCA",
+          "riddle": "Un perro que vive en el mar.",
+          "riddle_hard": "Nadador ártico de piel lisa.",
+          "is_hard": false
+        },
+        {
+          "word": "FRESCO",
+          "riddle": "Cuando el viento es frío y rápido.",
+          "riddle_hard": "Aire vigorizante.",
+          "is_hard": false
+        },
+        {
+          "word": "BALLEN",
+          "riddle": "Una montaña en el azul profundo.",
+          "riddle_hard": "Una montaña en el azul profundo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 67,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Sabana",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CEBRA",
+          "riddle": "Una pintura sobre cuatro patas.",
+          "riddle_hard": "Animal a rayas.",
+          "is_hard": false
+        },
+        {
+          "word": "GIGAN",
+          "riddle": "Muy, muy grande y fuerte.",
+          "riddle_hard": "Una persona o cosa de gran tamaño.",
+          "is_hard": false
+        },
+        {
+          "word": "TURBA",
+          "riddle": "La capa de pasto y sus raíces.",
+          "riddle_hard": "La alfombra verde del estadio.",
+          "is_hard": false
+        },
+        {
+          "word": "GREY",
+          "riddle": "Un gran grupo de aves u ovejas.",
+          "riddle_hard": "Moviéndose juntos como una multitud.",
+          "is_hard": false
+        },
+        {
+          "word": "DURO",
+          "riddle": "Simple y agudo en apariencia.",
+          "riddle_hard": "Como un árbol solitario en el desierto ancho.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 68,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Jungla",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SIMIO",
+          "riddle": "Un hombre sin camisa.",
+          "riddle_hard": "Pariente cercano del humano.",
+          "is_hard": false
+        },
+        {
+          "word": "LIANA",
+          "riddle": "Una escalera hecha por árboles.",
+          "riddle_hard": "Cuerda natural de la selva.",
+          "is_hard": false
+        },
+        {
+          "word": "RUIDO",
+          "riddle": "Cualquier sonido que no sea silencioso.",
+          "riddle_hard": "Un revoltijo de notas y voces.",
+          "is_hard": false
+        },
+        {
+          "word": "DENSO",
+          "riddle": "Muy espeso y difícil de ver a través.",
+          "riddle_hard": "Donde los árboles se amontonan cerca.",
+          "is_hard": false
+        },
+        {
+          "word": "TIGRE",
+          "riddle": "Fuego naranja en la noche negra.",
+          "riddle_hard": "Gran felino rayado.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 69,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Mar Profundo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "TIBUR",
+          "riddle": "Una sombra gris con filo.",
+          "riddle_hard": "Depredador marino con aleta.",
+          "is_hard": false
+        },
+        {
+          "word": "ORCA",
+          "riddle": "Una ballena blanca y negra del mar.",
+          "riddle_hard": "La cazadora inteligente del azul profundo.",
+          "is_hard": false
+        },
+        {
+          "word": "NAVY",
+          "riddle": "El azul más oscuro en la caja de crayones.",
+          "riddle_hard": "El color de un mar profundo a medianoche.",
+          "is_hard": false
+        },
+        {
+          "word": "BUCEA",
+          "riddle": "Saltar de cabeza al agua.",
+          "riddle_hard": "Explorar el mundo azul profundo.",
+          "is_hard": false
+        },
+        {
+          "word": "FUENTE",
+          "riddle": "Donde todo comienza.",
+          "riddle_hard": "Donde comienza el agua.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 70,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Vida Primordial",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SOLO",
+          "riddle": "Hacer algo tú mismo.",
+          "riddle_hard": "Una sola voz en la quietud.",
+          "is_hard": false
+        },
+        {
+          "word": "SER",
+          "riddle": "El estado de existir ahora mismo.",
+          "riddle_hard": "El fuego que nunca se apaga.",
+          "is_hard": false
+        },
+        {
+          "word": "LIBRE",
+          "riddle": "Vivir sin ninguna valla.",
+          "riddle_hard": "Sin ataduras.",
+          "is_hard": false
+        },
+        {
+          "word": "SALVA",
+          "riddle": "El llamado del mundo antiguo.",
+          "riddle_hard": "Naturaleza indómita.",
+          "is_hard": false
+        },
+        {
+          "word": "REAL",
+          "riddle": "Ser verdadero y no solo un sueño.",
+          "riddle_hard": "Encontrar el equilibrio interior.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 71,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Los Pequeños",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "RATÓN",
+          "riddle": "Los fantasmas grises de la cocina.",
+          "riddle_hard": "Pequeño roedor doméstico.",
+          "is_hard": false
+        },
+        {
+          "word": "RATA",
+          "riddle": "Un primo salvaje bajo la ciudad.",
+          "riddle_hard": "Roedor de alcantarilla.",
+          "is_hard": false
+        },
+        {
+          "word": "HOYO",
+          "riddle": "Una puerta sin manija.",
+          "riddle_hard": "Agujero en la pared.",
+          "is_hard": false
+        },
+        {
+          "word": "CHICO",
+          "riddle": "Diminuto y no grande.",
+          "riddle_hard": "De pequeño tamaño.",
+          "is_hard": false
+        },
+        {
+          "word": "MINI",
+          "riddle": "Casi invisible en el pasto.",
+          "riddle_hard": "Casi invisible en el pasto.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 72,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Escaladores",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CABRA",
+          "riddle": "Tengo cuernos pero no puedo pitar.",
+          "riddle_hard": "Animal de montaña que trepa.",
+          "is_hard": false
+        },
+        {
+          "word": "RISCO",
+          "riddle": "Una pared de roca alta y empinada.",
+          "riddle_hard": "Un paso gigante en el borde de la tierra.",
+          "is_hard": false
+        },
+        {
+          "word": "ACME",
+          "riddle": "El punto más alto de una colina.",
+          "riddle_hard": "La cima del éxito y la altura.",
+          "is_hard": false
+        },
+        {
+          "word": "FIJO",
+          "riddle": "Nunca temeroso de la caída.",
+          "riddle_hard": "Seguro de su posición.",
+          "is_hard": false
+        },
+        {
+          "word": "TOP",
+          "riddle": "La parte más alta de la colina.",
+          "riddle_hard": "La punta misma de una montaña.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 73,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Vida del Río",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "JUNC",
+          "riddle": "Los dedos verdes y delgados del río.",
+          "riddle_hard": "Planta de ribera.",
+          "is_hard": false
+        },
+        {
+          "word": "SABO",
+          "riddle": "Un tipo de pez en el río.",
+          "riddle_hard": "Un nadador plateado en la corriente.",
+          "is_hard": false
+        },
+        {
+          "word": "DERIV",
+          "riddle": "Moverse lentamente junto con la marea.",
+          "riddle_hard": "El camino que nunca se queda.",
+          "is_hard": false
+        },
+        {
+          "word": "DEPOR",
+          "riddle": "Jugar un juego como el fútbol.",
+          "riddle_hard": "Atletismo y competición divertida.",
+          "is_hard": false
+        },
+        {
+          "word": "AZUR",
+          "riddle": "Un azul brillante como un cielo de verano.",
+          "riddle_hard": "Un tono de gema de puro cielo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 74,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Nocturnos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ALA",
+          "riddle": "Un murciélago o un pájaro en el aire.",
+          "riddle_hard": "Cualquier piloto del cielo nocturno.",
+          "is_hard": false
+        },
+        {
+          "word": "BÚHO",
+          "riddle": "El fantasma silencioso de los robles.",
+          "riddle_hard": "Ave rapaz nocturna.",
+          "is_hard": false
+        },
+        {
+          "word": "OCASO",
+          "riddle": "El momento justo antes de que oscurezca.",
+          "riddle_hard": "Cuando el sol se esconde tras las colinas.",
+          "is_hard": false
+        },
+        {
+          "word": "VER",
+          "riddle": "Encontrar formas en la tinta.",
+          "riddle_hard": "Observar.",
+          "is_hard": false
+        },
+        {
+          "word": "POLIL",
+          "riddle": "Un volador polvoriento de las sombras nocturnas.",
+          "riddle_hard": "Insecto de luz nocturna.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 75,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Cazadores",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "GATO",
+          "riddle": "Un pequeño amigo peludo que ronronea.",
+          "riddle_hard": "Un cazador felino con garras afiladas.",
+          "is_hard": false
+        },
+        {
+          "word": "GARRA",
+          "riddle": "Diez cuchillos curvos.",
+          "riddle_hard": "Diez cuchillos curvos para trepar.",
+          "is_hard": false
+        },
+        {
+          "word": "DIEN",
+          "riddle": "Lo que usas para morder tu comida.",
+          "riddle_hard": "Una sola herramienta blanca para masticar.",
+          "is_hard": false
+        },
+        {
+          "word": "PATA",
+          "riddle": "Caminando sobre nubes silenciosas.",
+          "riddle_hard": "Caminando sobre cuatro nubes silenciosas.",
+          "is_hard": false
+        },
+        {
+          "word": "RARO",
+          "riddle": "No se encuentra muy a menudo.",
+          "riddle_hard": "Especial porque hay pocos.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 76,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Manada",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CERVA",
+          "riddle": "Un ciervo joven con manchas blancas.",
+          "riddle_hard": "Cervatillo.",
+          "is_hard": false
+        },
+        {
+          "word": "CORRE",
+          "riddle": "Dejar atrás al viento.",
+          "riddle_hard": "Velocidad pura.",
+          "is_hard": false
+        },
+        {
+          "word": "SOTO",
+          "riddle": "Un pequeño grupo de árboles amigables.",
+          "riddle_hard": "Un pequeño matorral en el prado.",
+          "is_hard": false
+        },
+        {
+          "word": "PIQUE",
+          "riddle": "Una carrera muy rápida hacia la meta.",
+          "riddle_hard": "Moverse tan rápido como un rayo.",
+          "is_hard": false
+        },
+        {
+          "word": "CALA",
+          "riddle": "Volverse uno con las sombras.",
+          "riddle_hard": "Esconderse.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 77,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Vida del Desierto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CAMEL",
+          "riddle": "El barco que navega por la arena.",
+          "riddle_hard": "Animal con jorobas.",
+          "is_hard": false
+        },
+        {
+          "word": "FUEGO",
+          "riddle": "Un fuego grande y muy caliente.",
+          "riddle_hard": "Una marca brillante en un rastro o árbol.",
+          "is_hard": false
+        },
+        {
+          "word": "RUTA",
+          "riddle": "Un viaje largo y difícil.",
+          "riddle_hard": "Caminar por las altas montañas.",
+          "is_hard": false
+        },
+        {
+          "word": "ARIDO",
+          "riddle": "Muy seco casi sin lluvia.",
+          "riddle_hard": "Donde las nubes olvidan llorar.",
+          "is_hard": false
+        },
+        {
+          "word": "SOMBR",
+          "riddle": "Donde el calor no puede encontrarte.",
+          "riddle_hard": "Refugio del sol.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 78,
+      "grid_size": 6,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Montura",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CABAL",
+          "riddle": "El trueno sobre cuatro cascos.",
+          "riddle_hard": "Caballo.",
+          "is_hard": false
+        },
+        {
+          "word": "MONTA",
+          "riddle": "Volverse uno con el galope.",
+          "riddle_hard": "Subirse al animal.",
+          "is_hard": false
+        },
+        {
+          "word": "VELOZ",
+          "riddle": "Moverse con gran velocidad y gracia.",
+          "riddle_hard": "Un pájaro rápido o un arroyo que corre.",
+          "is_hard": false
+        },
+        {
+          "word": "SUAVE",
+          "riddle": "Amable y blando, no tosco.",
+          "riddle_hard": "Como un abrazo cálido de un amigo.",
+          "is_hard": false
+        },
+        {
+          "word": "CORCEL",
+          "riddle": "El rey rápido de la manada.",
+          "riddle_hard": "Caballo fogoso.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 79,
+      "grid_size": 6,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Sabiduría",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "VIGIA",
+          "riddle": "Observar de cerca durante la noche.",
+          "riddle_hard": "Un guardia silencioso que nunca duerme.",
+          "is_hard": false
+        },
+        {
+          "word": "ORACU",
+          "riddle": "Miro hacia lo que está por ser.",
+          "riddle_hard": "Mi mente ve el desarrollo del destino.",
+          "is_hard": false
+        },
+        {
+          "word": "SABIO",
+          "riddle": "Saber qué es lo correcto hacer.",
+          "riddle_hard": "La forma de pensar de un viejo búho.",
+          "is_hard": false
+        },
+        {
+          "word": "BESTIA",
+          "riddle": "Tiene garras afiladas y un rugido fuerte y salvaje.",
+          "riddle_hard": "Hambre indómita envuelta en pelaje y miedo.",
+          "is_hard": false
+        },
+        {
+          "word": "SALVIA",
+          "riddle": "Una planta de sabiduría y sabor.",
+          "riddle_hard": "Hierba aromática.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 80,
+      "grid_size": 5,
+      "category": "Animales y Vida Silvestre",
+      "subcategory": "Animal del Bosque",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "DORMI",
+          "riddle": "Ojos cerrados y sueños profundos.",
+          "riddle_hard": "Descansar durante la larga noche.",
+          "is_hard": false
+        },
+        {
+          "word": "AGUAR",
+          "riddle": "Quedarse hasta que algo suceda.",
+          "riddle_hard": "Esperar pacientemente los minutos.",
+          "is_hard": false
+        },
+        {
+          "word": "PULCR",
+          "riddle": "Ordenado y en el lugar correcto.",
+          "riddle_hard": "Sin ningún desorden o ruido extra.",
+          "is_hard": false
+        },
+        {
+          "word": "NACE",
+          "riddle": "Despertar por primera vez.",
+          "riddle_hard": "El inicio de la vida.",
+          "is_hard": false
+        },
+        {
+          "word": "FERAL",
+          "riddle": "Un animal salvaje que solía ser una mascota.",
+          "riddle_hard": "Espíritu de la naturaleza en un gato callejero.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 81,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Aliento",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "BRISA",
+          "riddle": "Un pequeño movimiento fresco de aire.",
+          "riddle_hard": "Viento que entra por la puerta.",
+          "is_hard": false
+        },
+        {
+          "word": "LEVE",
+          "riddle": "Ligero y lleno de aire fresco.",
+          "riddle_hard": "Como una habitación con grandes ventanas.",
+          "is_hard": false
+        },
+        {
+          "word": "ALMA",
+          "riddle": "La luz silenciosa dentro de ti.",
+          "riddle_hard": "Una vela en el viento.",
+          "is_hard": false
+        },
+        {
+          "word": "AQUÍ",
+          "riddle": "Justo en este lugar.",
+          "riddle_hard": "El único punto que importa.",
+          "is_hard": false
+        },
+        {
+          "word": "AIRE",
+          "riddle": "Entrada y salida de aire.",
+          "riddle_hard": "El ritmo silencioso del ser.",
+          "is_hard": false
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 82,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "El Cuenco",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HUECO",
+          "riddle": "Vacío por dentro como un tambor.",
+          "riddle_hard": "Un espacio secreto dentro de un árbol viejo.",
+          "is_hard": false
+        },
+        {
+          "word": "BORDE",
+          "riddle": "La orilla misma de una taza.",
+          "riddle_hard": "La parte de un sombrero que da sombra.",
+          "is_hard": false
+        },
+        {
+          "word": "BEBE",
+          "riddle": "Algo que tragas cuando tienes sed.",
+          "riddle_hard": "Ingerir agua, leche o jugo.",
+          "is_hard": false
+        },
+        {
+          "word": "TENER",
+          "riddle": "Agarrar la verdad gentilmente.",
+          "riddle_hard": "Mantener la verdad en la mano.",
+          "is_hard": false
+        },
+        {
+          "word": "PLATO",
+          "riddle": "Un hogar cerámico poco profundo para tus bocadillos.",
+          "riddle_hard": "Recipiente para comida.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 83,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Campana",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "METAL",
+          "riddle": "Sonido de timbre metálico.",
+          "riddle_hard": "Una voz que llama al silencio.",
+          "is_hard": false
+        },
+        {
+          "word": "HORA",
+          "riddle": "Sesenta minutos de paso del tiempo.",
+          "riddle_hard": "Una rebanada del día en un reloj.",
+          "is_hard": false
+        },
+        {
+          "word": "LLAMA",
+          "riddle": "Señal de despertar.",
+          "riddle_hard": "Alcanzar a alguien con un sonido.",
+          "is_hard": false
+        },
+        {
+          "word": "BAJO",
+          "riddle": "No alto, cerca del suelo.",
+          "riddle_hard": "Una voz profunda o un sol que se hunde.",
+          "is_hard": false
+        },
+        {
+          "word": "SUENA",
+          "riddle": "El sonido que hace una campana.",
+          "riddle_hard": "Una nota de metal clara en el aire.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 84,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "El Camino",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SABER",
+          "riddle": "Los viejos secretos del bosque.",
+          "riddle_hard": "Sabiduría transmitida a través de las edades silenciosas.",
+          "is_hard": false
+        },
+        {
+          "word": "VAGA",
+          "riddle": "Deambular sin plan.",
+          "riddle_hard": "Explorar el mundo a pie.",
+          "is_hard": false
+        },
+        {
+          "word": "PASO",
+          "riddle": "Un movimiento hacia adelante.",
+          "riddle_hard": "El comienzo de cada viaje.",
+          "is_hard": false
+        },
+        {
+          "word": "LARGO",
+          "riddle": "Cuando el final está muy lejos.",
+          "riddle_hard": "Extenso.",
+          "is_hard": false
+        },
+        {
+          "word": "META",
+          "riddle": "Donde termina el viaje.",
+          "riddle_hard": "Donde el viaje encuentra su hogar.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 85,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Piedra",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LOSA",
+          "riddle": "Una pieza gruesa y plana de piedra.",
+          "riddle_hard": "Un bloque pesado para una acera.",
+          "is_hard": false
+        },
+        {
+          "word": "GRIS",
+          "riddle": "Pálido como fuego frío.",
+          "riddle_hard": "El color de un fantasma o del polvo.",
+          "is_hard": false
+        },
+        {
+          "word": "DURO",
+          "riddle": "Resistente como un hueso de montaña.",
+          "riddle_hard": "No puede ser doblado por las manos.",
+          "is_hard": false
+        },
+        {
+          "word": "PARAR",
+          "riddle": "Lo que te dice una señal de alto roja.",
+          "riddle_hard": "Congelarse como una estatua de jardín.",
+          "is_hard": false
+        },
+        {
+          "word": "FIRME",
+          "riddle": "El peso de la montaña.",
+          "riddle_hard": "La naturaleza de los huesos de la montaña.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 86,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Luz",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "FOCO",
+          "riddle": "La parte de vidrio que da luz.",
+          "riddle_hard": "Una semilla redonda de fuego eléctrico.",
+          "is_hard": false
+        },
+        {
+          "word": "LLAMA",
+          "riddle": "Un estallido repentino y brillante de fuego.",
+          "riddle_hard": "Una señal de fuego para la noche oscura.",
+          "is_hard": false
+        },
+        {
+          "word": "SESO",
+          "riddle": "El órgano del pensamiento.",
+          "riddle_hard": "Donde nacen las ideas.",
+          "is_hard": false
+        },
+        {
+          "word": "RECTO",
+          "riddle": "Correcto y no el lado izquierdo.",
+          "riddle_hard": "Siguiendo las reglas del camino.",
+          "is_hard": false
+        },
+        {
+          "word": "ENTRE",
+          "riddle": "Una puerta que está ligeramente abierta.",
+          "riddle_hard": "No cerrado, pero tampoco muy abierto.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 87,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "El Río",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "FLOTA",
+          "riddle": "Quedarse en la superficie del agua.",
+          "riddle_hard": "El secreto del agua para viajar.",
+          "is_hard": false
+        },
+        {
+          "word": "GOTA",
+          "riddle": "Una sola gota de agua cayendo.",
+          "riddle_hard": "Unidad mínima de lluvia.",
+          "is_hard": false
+        },
+        {
+          "word": "ABISMO",
+          "riddle": "Un agujero gigante sin fondo.",
+          "riddle_hard": "Donde la luz del sol nunca llega.",
+          "is_hard": false
+        },
+        {
+          "word": "IDO",
+          "riddle": "Donde el río encuentra el mar.",
+          "riddle_hard": "Donde el agua se va para siempre.",
+          "is_hard": false
+        },
+        {
+          "word": "ARROY",
+          "riddle": "Una cinta plateada en el bosque.",
+          "riddle_hard": "Pequeño cauce de agua.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 88,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Nube",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LLUVIA",
+          "riddle": "Una caída rápida y ligera de lluvia.",
+          "riddle_hard": "Una breve danza de agua desde arriba.",
+          "is_hard": false
+        },
+        {
+          "word": "POMPO",
+          "riddle": "Grande, suave y lleno de aire.",
+          "riddle_hard": "Como una nube blanca en el verano.",
+          "is_hard": false
+        },
+        {
+          "word": "ALTO",
+          "riddle": "Ubicado sobre la parte inferior.",
+          "riddle_hard": "Alcanzando el ático o el cielo.",
+          "is_hard": false
+        },
+        {
+          "word": "BRUMA",
+          "riddle": "Una montaña hecha de aire delgado.",
+          "riddle_hard": "Niebla fina.",
+          "is_hard": true
+        },
+        {
+          "word": "RAMA",
+          "riddle": "Un lugar donde las aves van a dormir.",
+          "riddle_hard": "Una percha alta para un ala cansada.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 89,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Semilla",
+      "complexity": 9.8,
+      "puzzles": [
+        {
+          "word": "GERM",
+          "riddle": "El comienzo diminuto de una nueva planta.",
+          "riddle_hard": "Una chispa microscópica de vida.",
+          "is_hard": false
+        },
+        {
+          "word": "SUELO",
+          "riddle": "La tierra oscura donde crecen las semillas.",
+          "riddle_hard": "Rocas desmenuzadas y hojas viejas.",
+          "is_hard": false
+        },
+        {
+          "word": "CRECE",
+          "riddle": "Hacerse más grande y redondo.",
+          "riddle_hard": "Una ola ascendente en el océano abierto.",
+          "is_hard": false
+        },
+        {
+          "word": "VITAL",
+          "riddle": "Necesario para mantenerse vivo.",
+          "riddle_hard": "Una chispa dorada en la arcilla.",
+          "is_hard": false
+        },
+        {
+          "word": "BASE",
+          "riddle": "La parte inferior de algo.",
+          "riddle_hard": "El cimiento de una montaña.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 90,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "La Puerta",
+      "complexity": 9.9,
+      "puzzles": [
+        {
+          "word": "PORTA",
+          "riddle": "Una puerta sin paredes.",
+          "riddle_hard": "Umbral al jardín.",
+          "is_hard": false
+        },
+        {
+          "word": "ENTRA",
+          "riddle": "La forma de entrar a una habitación o edificio.",
+          "riddle_hard": "El primer paso hacia un lugar nuevo.",
+          "is_hard": false
+        },
+        {
+          "word": "SUELT",
+          "riddle": "No atado ni retenido.",
+          "riddle_hard": "Como un pájaro que ha dejado la jaula.",
+          "is_hard": false
+        },
+        {
+          "word": "PASA",
+          "riddle": "Dejar un mundo por otro.",
+          "riddle_hard": "Cruzar de un lado a otro.",
+          "is_hard": false
+        },
+        {
+          "word": "SALID",
+          "riddle": "Donde el jardín se encuentra con el cielo.",
+          "riddle_hard": "El umbral de un nuevo mundo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 91,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Simplicidad",
+      "complexity": 10,
+      "puzzles": [
+        {
+          "word": "POCO",
+          "riddle": "No mucho de algo.",
+          "riddle_hard": "Una cuenta pequeña y preciosa.",
+          "is_hard": false
+        },
+        {
+          "word": "MÁS",
+          "riddle": "Peso de demasiadas cosas.",
+          "riddle_hard": "Encontrar abundancia en lo pequeño.",
+          "is_hard": false
+        },
+        {
+          "word": "UNO",
+          "riddle": "El número del todo.",
+          "riddle_hard": "El número de todo junto.",
+          "is_hard": false
+        },
+        {
+          "word": "BASE",
+          "riddle": "Muy simple y fácil de hacer.",
+          "riddle_hard": "El cimiento de una gran idea.",
+          "is_hard": false
+        },
+        {
+          "word": "CLARO",
+          "riddle": "Una ventana sin polvo.",
+          "riddle_hard": "Como mirar a través de una ventana limpia.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 92,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Enfoque",
+      "complexity": 10.1,
+      "puzzles": [
+        {
+          "word": "PUNTO",
+          "riddle": "La semilla de cada círculo.",
+          "riddle_hard": "El centro del círculo.",
+          "is_hard": false
+        },
+        {
+          "word": "MIRA",
+          "riddle": "Mirar algo por mucho tiempo.",
+          "riddle_hard": "Una mirada fija llena de asombro.",
+          "is_hard": false
+        },
+        {
+          "word": "ORDEN",
+          "riddle": "Pensamiento claro y ordenado.",
+          "riddle_hard": "Lógica pura.",
+          "is_hard": false
+        },
+        {
+          "word": "AQUÍ",
+          "riddle": "Del vecindario cercano.",
+          "riddle_hard": "Encontrado justo donde estás parado.",
+          "is_hard": false
+        },
+        {
+          "word": "CENTRO",
+          "riddle": "El centro del presente.",
+          "riddle_hard": "El corazón del objetivo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 93,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Silencio",
+      "complexity": 10.2,
+      "puzzles": [
+        {
+          "word": "SHHH",
+          "riddle": "Un dedo presionado sobre los labios.",
+          "riddle_hard": "Señal de silencio.",
+          "is_hard": false
+        },
+        {
+          "word": "MUDO",
+          "riddle": "Una canción sin necesidad de voz.",
+          "riddle_hard": "Sin sonido vocal.",
+          "is_hard": false
+        },
+        {
+          "word": "QUEDA",
+          "riddle": "Esperando a que la nieve descanse.",
+          "riddle_hard": "Permanecer.",
+          "is_hard": false
+        },
+        {
+          "word": "PAUSA",
+          "riddle": "Detenerse por un breve momento.",
+          "riddle_hard": "Un pequeño hueco en una oración larga.",
+          "is_hard": false
+        },
+        {
+          "word": "CALMA",
+          "riddle": "Un hueco entre las notas.",
+          "riddle_hard": "Un hueco temporal en la música.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 94,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Unidad",
+      "complexity": 10.3,
+      "puzzles": [
+        {
+          "word": "TODO",
+          "riddle": "La suma de cada parte diminuta.",
+          "riddle_hard": "La totalidad.",
+          "is_hard": false
+        },
+        {
+          "word": "UNO",
+          "riddle": "Una sola parte de un todo.",
+          "riddle_hard": "Un bloque de construcción de un gran equipo.",
+          "is_hard": false
+        },
+        {
+          "word": "LAZO",
+          "riddle": "El pegamento del espíritu.",
+          "riddle_hard": "Vínculo emocional.",
+          "is_hard": false
+        },
+        {
+          "word": "NUDO",
+          "riddle": "Dos hilos convirtiéndose en uno.",
+          "riddle_hard": "Dos cuerdas que se hicieron una.",
+          "is_hard": false
+        },
+        {
+          "word": "ÁNIMA",
+          "riddle": "La luz dentro de la arcilla.",
+          "riddle_hard": "El fantasma en la máquina.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 95,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Naturaleza",
+      "complexity": 10.4,
+      "puzzles": [
+        {
+          "word": "NÚCLE",
+          "riddle": "El centro mismo de todo.",
+          "riddle_hard": "Una danza que nunca se detiene.",
+          "is_hard": false
+        },
+        {
+          "word": "HUNDE",
+          "riddle": "Ido por debajo de la superficie.",
+          "riddle_hard": "Como una piedra pesada en el lodo.",
+          "is_hard": false
+        },
+        {
+          "word": "MADERA",
+          "riddle": "Madera utilizada para construir casas.",
+          "riddle_hard": "El peso pesado de los gigantes caídos.",
+          "is_hard": false
+        },
+        {
+          "word": "TRONCO",
+          "riddle": "El pilar de madera grueso que sostiene las hojas.",
+          "riddle_hard": "Cuerpo del árbol.",
+          "is_hard": true
+        },
+        {
+          "word": "VERDE",
+          "riddle": "Lleno de muchas hojas verdes.",
+          "riddle_hard": "Cubierto por una manta de naturaleza.",
+          "is_hard": false
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 96,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Sabiduría",
+      "complexity": 10.5,
+      "puzzles": [
+        {
+          "word": "VIEJO",
+          "riddle": "Alguien que ha vivido mucho tiempo.",
+          "riddle_hard": "Una persona con cabello plateado y saber.",
+          "is_hard": false
+        },
+        {
+          "word": "MENTE",
+          "riddle": "El lugar donde viven tus pensamientos.",
+          "riddle_hard": "El motor de tu imaginación.",
+          "is_hard": false
+        },
+        {
+          "word": "HECHO",
+          "riddle": "Algo que es verdaderamente real.",
+          "riddle_hard": "Una verdad que no se puede discutir.",
+          "is_hard": false
+        },
+        {
+          "word": "AÑOS",
+          "riddle": "El número de cumpleaños que has tenido.",
+          "riddle_hard": "Una medida del tiempo que hemos estado aquí.",
+          "is_hard": false
+        },
+        {
+          "word": "VISIÓN",
+          "riddle": "Ver con el corazón.",
+          "riddle_hard": "Ver con el ojo de la mente.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 97,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Vibración",
+      "complexity": 10.6,
+      "puzzles": [
+        {
+          "word": "HIMNO",
+          "riddle": "Una canción lenta y sagrada.",
+          "riddle_hard": "Un coro de espíritu y luz.",
+          "is_hard": false
+        },
+        {
+          "word": "SONID",
+          "riddle": "Cualquier cosa que puedas escuchar con tus oídos.",
+          "riddle_hard": "Una vibración que viaja a través del aire.",
+          "is_hard": false
+        },
+        {
+          "word": "GONG",
+          "riddle": "Un plato de metal gigante que golpeas.",
+          "riddle_hard": "Un anillo fuerte que vibra en el aire.",
+          "is_hard": false
+        },
+        {
+          "word": "BUM",
+          "riddle": "Un ruido muy fuerte y profundo.",
+          "riddle_hard": "El sonido de un trueno o de un tambor.",
+          "is_hard": false
+        },
+        {
+          "word": "SENTI",
+          "riddle": "Una forma de sentir el mundo a tu alrededor.",
+          "riddle_hard": "La chispa del aliento.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 98,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "Espacio",
+      "complexity": 10.7,
+      "puzzles": [
+        {
+          "word": "VACÍO",
+          "riddle": "Espacio donde comienzan las estrellas.",
+          "riddle_hard": "El espacio donde nacen las estrellas.",
+          "is_hard": false
+        },
+        {
+          "word": "VASTO",
+          "riddle": "La profundidad amplia y silenciosa.",
+          "riddle_hard": "Más grande que cualquier pensamiento.",
+          "is_hard": false
+        },
+        {
+          "word": "NADA",
+          "riddle": "Lo que queda cuando todo se ha ido.",
+          "riddle_hard": "Lo que queda después de todo.",
+          "is_hard": false
+        },
+        {
+          "word": "CERO",
+          "riddle": "Un círculo alrededor de la verdad.",
+          "riddle_hard": "Un círculo alrededor de la verdad.",
+          "is_hard": false
+        },
+        {
+          "word": "ÓRBIT",
+          "riddle": "Viajar en círculo alrededor de un planeta.",
+          "riddle_hard": "La pista invisible de una luna.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 99,
+      "grid_size": 5,
+      "category": "Conceptos Básicos",
+      "subcategory": "El Final",
+      "complexity": 10.8,
+      "puzzles": [
+        {
+          "word": "FIN",
+          "riddle": "El final mismo de una historia.",
+          "riddle_hard": "La última palabra en la página final.",
+          "is_hard": false
+        },
+        {
+          "word": "TOTAL",
+          "riddle": "La cantidad completa sumada.",
+          "riddle_hard": "Completo y sin nada de sobra.",
+          "is_hard": false
+        },
+        {
+          "word": "SOBRE",
+          "riddle": "El cielo por encima de la montaña.",
+          "riddle_hard": "El cielo por encima de la montaña.",
+          "is_hard": false
+        },
+        {
+          "word": "CESA",
+          "riddle": "Dejar de hacer lo que estás haciendo.",
+          "riddle_hard": "Cuando la música finalmente se desvanece.",
+          "is_hard": false
+        },
+        {
+          "word": "FINAL",
+          "riddle": "El final del largo camino.",
+          "riddle_hard": "El fin de la línea.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 100,
+      "grid_size": 8,
+      "category": "Serenidad Total",
+      "subcategory": "Unidad Total",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "UNIDO",
+          "riddle": "Una mano aplaudiendo con muchas.",
+          "riddle_hard": "Fuerza común.",
+          "is_hard": false
+        },
+        {
+          "word": "DICHA",
+          "riddle": "Un estado de felicidad perfecta.",
+          "riddle_hard": "Alegría pura y quietud de la mente.",
+          "is_hard": false
+        },
+        {
+          "word": "ETHOS",
+          "riddle": "El espíritu de un grupo de personas.",
+          "riddle_hard": "Los valores fundamentales que nos guían.",
+          "is_hard": false
+        },
+        {
+          "word": "EXISTE",
+          "riddle": "Parte del todo.",
+          "riddle_hard": "Encontrar tu asiento en el universo.",
+          "is_hard": true
+        },
+        {
+          "word": "ALMA",
+          "riddle": "Puente entre dos seres.",
+          "riddle_hard": "El puente entre dos almas.",
+          "is_hard": true
+        },
+        {
+          "word": "FLUJOZEN",
+          "riddle": "Paz final.",
+          "riddle_hard": "El río definitivo más allá del yo.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    }
+  ]
+}
