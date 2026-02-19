@@ -134,37 +134,31 @@
             "level_id": 5,
             "grid_size": 5,
             "category": "Բնություն",
-            "subcategory": "Ջերմություն",
+            "subcategory": "Տիեզերք",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ՋԵՐՄՈՒԹՅՈՒՆ",
-                    "riddle": "Արևի ջերմ գրկախառություն։",
-                    "riddle_hard": "Սառույցը հալեցնող զորություն։",
+                    "word": "ԱՄՊ",
+                    "riddle": "Սպիտակ բամբակ երկնքում։",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ՏԱՔ",
-                    "riddle": "Հոգու համար սվիտեր։",
-                    "riddle_hard": "Ոչ դող, ոչ քրտին։",
+                    "word": "ԵՐԿԻՆՔ",
+                    "riddle": "Կապույտ գմբեթը վերևում։",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ԿՐԱԿ",
-                    "riddle": "Ծառ ուտող ախորժակով լույս։",
-                    "riddle_hard": "Պարող նարնջագույն ուրվական։",
+                    "word": "ՏԱՐԻ",
+                    "riddle": "Երկրի մեկ պտույտը արևի շուրջ։",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ՉՈՐ",
-                    "riddle": "Ինչին ձգտում է սպունջը։",
-                    "riddle_hard": "Անապատի լավագույն բարեկամը։",
-                    "is_hard": false
-                },
-                {
-                    "word": "ՓՈՇԻ",
-                    "riddle": "Թեյնիկի ուրվականը։",
-                    "riddle_hard": "Սպիտակ զգեստով տաք օդ։",
+                    "word": "ԹԹՎԱԾԻՆ",
+                    "riddle": "Ծառերից եմ ես ծնվում, կյանքի շունչն եմ ես դառնում։",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
