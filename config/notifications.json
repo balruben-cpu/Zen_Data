@@ -1,0 +1,76 @@
+{
+    "entries": [
+        {
+            "id": "milestone_10",
+            "delayHours": 12,
+            "minLevel": 10,
+            "maxLevel": 15,
+            "priority": 100,
+            "titles": {
+                "en": "Zen Seeker",
+                "es": "Buscador Zen",
+                "ru": "Искатель Дзен"
+            },
+            "messages": {
+                "en": "You've mastered 10 puzzles! The path grows more beautiful. Come see.",
+                "es": "¡Has dominado 10 puzzles! El camino se vuelve más hermoso. Ven a verlo.",
+                "ru": "Вы освоили 10 пазлов! Путь становится все прекраснее. Приходи посмотреть."
+            }
+        },
+        {
+            "id": "daily_retention_1",
+            "delayHours": 24,
+            "minLevel": 0,
+            "maxLevel": 9999,
+            "priority": 10,
+            "titles": {
+                "en": "Your Daily Zen Awaits",
+                "es": "Tu Zen Diario Te Espera",
+                "hy": "Ձեր ամենօրյա Զենը սպասում է",
+                "ru": "Ваш ежедневный Дзен ждет",
+                "pt": "Seu Zen Diário Espera"
+            },
+            "messages": {
+                "en": "A new puzzle path is ready for your discovery. Keep your streak alive!",
+                "es": "Un nuevo camino de puzzle está listo para tu descubrimiento. ¡Mantén tu racha!",
+                "hy": "Նոր փազլի ուղին պատրաստ է ձեր բացահայտման համար: Պահպանեք ձեր հաջողությունը:",
+                "ru": "Новый путь пазла готов к вашему открытию. Поддерживайте свою серию!",
+                "pt": "Um novo camino de quebra-cabeça está pronto para sua descoberta. Mantenha sua sequência!"
+            }
+        },
+        {
+            "id": "daily_retention_2",
+            "delayHours": 24,
+            "minLevel": 0,
+            "maxLevel": 9999,
+            "priority": 10,
+            "titles": {
+                "en": "Peaceful Moment",
+                "es": "Momento de Paz",
+                "ru": "Минута покоя"
+            },
+            "messages": {
+                "en": "Take a minute for yourself. A fresh puzzle is waiting.",
+                "es": "Tómate un minuto para ti. Un nuevo puzzle te espera.",
+                "ru": "Уделите минуту себе. Новый пазл ждет вас."
+            }
+        },
+        {
+            "id": "long_absence",
+            "delayHours": 72,
+            "minLevel": 1,
+            "maxLevel": 9999,
+            "priority": 5,
+            "titles": {
+                "en": "The Silence of Zen",
+                "es": "El Silencio del Zen",
+                "ru": "Тишина Дзен"
+            },
+            "messages": {
+                "en": "The path misses your touch. Return to find your peace.",
+                "es": "El camino extraña tu toque. Regresa para encontrar tu paz.",
+                "ru": "Пути не хватает вашего прикосновения. Вернитесь, чтобы обрести покой."
+            }
+        }
+    ]
+}
