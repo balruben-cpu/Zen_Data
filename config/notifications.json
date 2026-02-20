@@ -6,15 +6,16 @@
             "minLevel": 10,
             "maxLevel": 15,
             "priority": 100,
+            "deeplink": "shop",
             "titles": {
                 "en": "Zen Seeker",
                 "es": "Buscador Zen",
                 "ru": "Искатель Дзен"
             },
             "messages": {
-                "en": "You've mastered 10 puzzles! The path grows more beautiful. Come see.",
-                "es": "¡Has dominado 10 puzzles! El camino se vuelve más hermoso. Ven a verlo.",
-                "ru": "Вы освоили 10 пазлов! Путь становится все прекраснее. Приходи посмотреть."
+                "en": "You've mastered 10 puzzles! New special offers in the shop for you.",
+                "es": "¡Has dominado 10 puzzles! Nuevas ofertas especiales para ti.",
+                "ru": "Вы освоили 10 пазлов! Специальные предложения для вас."
             }
         },
         {
@@ -23,6 +24,7 @@
             "minLevel": 0,
             "maxLevel": 9999,
             "priority": 10,
+            "deeplink": "",
             "titles": {
                 "en": "Your Daily Zen Awaits",
                 "es": "Tu Zen Diario Te Espera",
@@ -44,6 +46,7 @@
             "minLevel": 0,
             "maxLevel": 9999,
             "priority": 10,
+            "deeplink": "",
             "titles": {
                 "en": "Peaceful Moment",
                 "es": "Momento de Paz",
@@ -61,15 +64,16 @@
             "minLevel": 1,
             "maxLevel": 9999,
             "priority": 5,
+            "deeplink": "settings",
             "titles": {
                 "en": "The Silence of Zen",
                 "es": "El Silencio del Zen",
                 "ru": "Тишина Дзен"
             },
             "messages": {
-                "en": "The path misses your touch. Return to find your peace.",
-                "es": "El camino extraña tu toque. Regresa para encontrar tu paz.",
-                "ru": "Пути не хватает вашего прикосновения. Вернитесь, чтобы обрести покой."
+                "en": "The path misses your touch. Check your zen settings!",
+                "es": "El camino extraña tu toque. ¡Revisa tus ajustes zen!",
+                "ru": "Пути не хватает вашего прикосновения. Проверьте настройки!"
             }
         }
     ]
