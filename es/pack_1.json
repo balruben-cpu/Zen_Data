@@ -1,566 +1,566 @@
 {
-    "Levels": [
+  "Levels": [
+    {
+      "level_id": 1,
+      "grid_size": 6,
+      "category": "Paz Diaria",
+      "subcategory": "El Comienzo",
+      "complexity": 1,
+      "puzzles": [
         {
-            "level_id": 1,
-            "grid_size": 6,
-            "category": "Paz Diaria",
-            "subcategory": "El Comienzo",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "ACERTIJO",
-                    "riddle": "Pregunta con trampa soy, si piensas bien me resuelves hoy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "CAMINO",
-                    "riddle": "Largo o corto puedo ser, por mí puedes recorrer.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "DE",
-                    "riddle": "Dos letras soy, digo de dónde eres hoy.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
+          "word": "ACERTIJO",
+          "riddle": "Pregunta con trampa soy, si piensas bien me resuelves hoy.",
+          "riddle_hard": "",
+          "is_hard": false
         },
         {
-            "level_id": 2,
-            "grid_size": 4,
-            "category": "Naturaleza",
-            "subcategory": "Fauna",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "ABEJA",
-                    "riddle": "",
-                    "riddle_hard": "Zum zum zum, voy de flor en flor, la miel es mi mayor labor.",
-                    "is_hard": false
-                },
-                {
-                    "word": "VACA",
-                    "riddle": "",
-                    "riddle_hard": "Muu que muu, soy manchada, y mi leche es muy amada.",
-                    "is_hard": false
-                },
-                {
-                    "word": "GALLINA",
-                    "riddle": "",
-                    "riddle_hard": "Cacareo y pongo huevos, cada día traigo nuevos.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
+          "word": "CAMINO",
+          "riddle": "Largo o corto puedo ser, por mí puedes recorrer.",
+          "riddle_hard": "",
+          "is_hard": false
         },
         {
-            "level_id": 3,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Cosmos",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "LUNA",
-                    "riddle": "Salgo de noche, me veo brillar, las mareas hago cambiar.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "SOL",
-                    "riddle": "Rey del cielo, luz divina, cada mañana me ilumina.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "ESTRELLA",
-                    "riddle": "De noche brillo sin cesar, en el cielo me puedes hallar.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 4,
-            "grid_size": 4,
-            "category": "El Cuerpo Humano",
-            "subcategory": "Anatomía",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "HUESO",
-                    "riddle": "Duro y blanco me verás, al perro le gusto más.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "PULSO",
-                    "riddle": "Late que late sin parar, en tu muñeca me vas a hallar.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "CABEZA",
-                    "riddle": "Tengo pelo, ojos y boca, sin mí el cuerpo se equivoca.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 5,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Clima",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "SECO",
-                    "riddle": "Ni una gota de humedad, árido en verdad.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "DIA",
-                    "riddle": "Tras la noche llego radiante, con el sol brillante.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "CALOR",
-                    "riddle": "En verano soy intenso, te hago sudar inmenso.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "INVIERNO",
-                    "riddle": "Normalmente traigo frío, el verano ya no es mío.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 6,
-            "grid_size": 5,
-            "category": "El Cuerpo Humano",
-            "subcategory": "Sentidos",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "LABIO",
-                    "riddle": "Rojo o rosa puedo ser, te ayudo a beber y comer.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "AGRIO",
-                    "riddle": "El limón así es, tu boca frunce después.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "OLER",
-                    "riddle": "Uso la nariz sin cesar, aromas puedo detectar.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "SONIDO",
-                    "riddle": "Por el aire viajo yo, tu oído me escuchó.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 7,
-            "grid_size": 5,
-            "category": "Cualidades",
-            "subcategory": "Textura",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "LODO",
-                    "riddle": "Agua con tierra mezclé, charco marrón formé.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "MOJADO",
-                    "riddle": "Del agua estoy empapado.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "PLANO",
-                    "riddle": "Sin montañas ni bajadas, superficie bien alisada.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "GRUESO",
-                    "riddle": "No soy flaco ni delgado, soy gordo y abultado.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "CERA",
-                    "riddle": "Las abejas me producen, las velas me lucen.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 8,
-            "grid_size": 5,
-            "category": "Sociedad",
-            "subcategory": "Gobierno/Conflicto",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "VOTO",
-                    "riddle": "Papelito con decisión, tu derecho en la elección.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "REGLA",
-                    "riddle": "Sin mi hay mucho desorden.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "LUCHA",
-                    "riddle": "Peleo con valentía, combate noche y día.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "GUERRA",
-                    "riddle": "Conflicto entre naciones, armas y explosiones.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 9,
-            "grid_size": 5,
-            "category": "Sociedad",
-            "subcategory": "Economía",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "DINERO",
-                    "riddle": "Me guardas en tu cartera, compro lo que tú quiera.",
-                    "riddle_hard": "Instrumento de cambio universal.",
-                    "is_hard": false
-                },
-                {
-                    "word": "VALE",
-                    "riddle": "Papelito que redimir, descuento vas a recibir.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "NOTA",
-                    "riddle": "Escrita estoy en el papel, do-re-mi o mensaje fiel.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "AHORRO",
-                    "riddle": "Guardo el dinero sin gastar, en el futuro lo podrás usar.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 10,
-            "grid_size": 5,
-            "category": "Vida Doméstica",
-            "subcategory": "Guardarropa",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "BOTON",
-                    "riddle": "Pequeño disco para coser, tu ropa voy a prender.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "ANILLO",
-                    "riddle": "En tu dedo me colocas, joya redonda que provocas.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "TOP",
-                    "riddle": "Llevo nombre de cumbre y soy muy cortito.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "ABRIGO",
-                    "riddle": "Soy grueso y muy largo, del frío me hago cargo.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 11,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Montañas",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "ALTO",
-                    "riddle": "Arriba donde viven los pájaros.",
-                    "riddle_hard": "Un largo camino desde el suelo.",
-                    "is_hard": false
-                },
-                {
-                    "word": "CIMA",
-                    "riddle": "El sombrero puntiagudo de la montaña.",
-                    "riddle_hard": "La mismísima punta del mundo.",
-                    "is_hard": false
-                },
-                {
-                    "word": "PIEDRA",
-                    "riddle": "Soy dura, gris y me encuentro en el suelo.",
-                    "riddle_hard": "Un trozo pesado del hueso de la montaña.",
-                    "is_hard": false
-                },
-                {
-                    "word": "ESCALAR",
-                    "riddle": "Caminar hacia el cielo.",
-                    "riddle_hard": "Usar tus manos como pies.",
-                    "is_hard": false
-                },
-                {
-                    "word": "VOLAR",
-                    "riddle": "Renunciar a la gravedad.",
-                    "riddle_hard": "Renunciar a la gravedad para tocar las nubes.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 12,
-            "grid_size": 6,
-            "category": "Naturaleza",
-            "subcategory": "Desierto",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "DUNAS",
-                    "riddle": "Montañas de arena construidas por el viento.",
-                    "riddle_hard": "Olas hechas de polvo dorado.",
-                    "is_hard": false
-                },
-                {
-                    "word": "CALIENTE",
-                    "riddle": "Cuando el sol abraza demasiado fuerte.",
-                    "riddle_hard": "Burbujeante como una carretera de verano.",
-                    "is_hard": false
-                },
-                {
-                    "word": "RESECAR",
-                    "riddle": "Hacer que algo tenga mucha sed.",
-                    "riddle_hard": "Lo que el sol ardiente le hace a una garganta seca.",
-                    "is_hard": false
-                },
-                {
-                    "word": "BRILLO",
-                    "riddle": "Luz solar que lastima tus ojos.",
-                    "riddle_hard": "Una mirada desafiante o un reflejo brillante.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SACIAR",
-                    "riddle": "Dar de beber a una garganta seca.",
-                    "riddle_hard": "Hacer que la sed desaparezca.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 13,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Campo",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "HIERBA",
-                    "riddle": "El suave cabello verde de la tierra.",
-                    "riddle_hard": "Un millón de diminutas cuchillas verdes.",
-                    "is_hard": false
-                },
-                {
-                    "word": "ABIERTO",
-                    "riddle": "Una habitación sin techo.",
-                    "riddle_hard": "Mucho espacio para el viento.",
-                    "is_hard": false
-                },
-                {
-                    "word": "ANCHO",
-                    "riddle": "Estirándose hasta el horizonte.",
-                    "riddle_hard": "Más espacio del que puedes usar.",
-                    "is_hard": false
-                },
-                {
-                    "word": "CORRER",
-                    "riddle": "Perseguir el viento con los pies.",
-                    "riddle_hard": "Moverse más rápido que caminar.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SUAVE",
-                    "riddle": "Blando y gentil, como una brisa.",
-                    "riddle_hard": "Un lago sin ondas.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 14,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Flor",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "ROSA",
-                    "riddle": "Una belleza con dientes afilados.",
-                    "riddle_hard": "Una corona roja en el jardín.",
-                    "is_hard": false
-                },
-                {
-                    "word": "BROTE",
-                    "riddle": "El paquete secreto de una flor.",
-                    "riddle_hard": "Un pequeño bulto de pétalos.",
-                    "is_hard": false
-                },
-                {
-                    "word": "TALLO",
-                    "riddle": "La escalera para la flor.",
-                    "riddle_hard": "Un sorbete verde para el florecimiento.",
-                    "is_hard": false
-                },
-                {
-                    "word": "CRECER",
-                    "riddle": "Alcanzando el sol.",
-                    "riddle_hard": "Transformando la luz en vida.",
-                    "is_hard": false
-                },
-                {
-                    "word": "FLORECER",
-                    "riddle": "El evento principal de la flor.",
-                    "riddle_hard": "Abriéndose al sol de la mañana.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 15,
-            "grid_size": 5,
-            "category": "Naturaleza",
-            "subcategory": "Bichos",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "HORMIGA",
-                    "riddle": "El tipo diminuto más fuerte.",
-                    "riddle_hard": "Un levantador de pesas de seis patas.",
-                    "is_hard": false
-                },
-                {
-                    "word": "ESCARABAJO",
-                    "riddle": "Un bocadillo de jardín con seis patas.",
-                    "riddle_hard": "Los insectos podrían amar mi extensión frondosa.",
-                    "is_hard": false
-                },
-                {
-                    "word": "COLMENA",
-                    "riddle": "Una ciudad de panal de oro.",
-                    "riddle_hard": "Donde comienza el zumbido.",
-                    "is_hard": false
-                },
-                {
-                    "word": "PIOJOS",
-                    "riddle": "Plaga diminuta en el cabello.",
-                    "riddle_hard": "Recuerdo no deseado de la escuela.",
-                    "is_hard": false
-                },
-                {
-                    "word": "LARVA",
-                    "riddle": "Primera etapa del gusano.",
-                    "riddle_hard": "Come, luego duerme.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
-        },
-        {
-            "level_id": 100,
-            "grid_size": 6,
-            "category": "Naturaleza",
-            "subcategory": "Fauna",
-            "complexity": 1.0,
-            "puzzles": [
-                {
-                    "word": "CORZO",
-                    "riddle": "Ciervo pequeño.",
-                    "riddle_hard": "El duende del bosque, ágil y difícil de ver entre los árboles.",
-                    "is_hard": false
-                },
-                {
-                    "word": "TELA",
-                    "riddle": "Para limpiar la mesa.",
-                    "riddle_hard": "Del telar salí tejida, doy vestido a tu vida",
-                    "is_hard": false
-                },
-                {
-                    "word": "MÚJOL",
-                    "riddle": "Pez saltarín.",
-                    "riddle_hard": "Pez plateado que salta fuera del agua en los puertos.",
-                    "is_hard": false
-                },
-                {
-                    "word": "POTRO",
-                    "riddle": "Caballo joven.",
-                    "riddle_hard": "Un adolescente equino, lleno de energía y patas largas.",
-                    "is_hard": false
-                },
-                {
-                    "word": "PRIMATE",
-                    "riddle": "Mono o simio.",
-                    "riddle_hard": "El grupo de animales que incluye a los monos y a los humanos.",
-                    "is_hard": true
-                }
-            ],
-            "extra_words": []
+          "word": "DE",
+          "riddle": "Dos letras soy, digo de dónde eres hoy.",
+          "riddle_hard": "",
+          "is_hard": true
         }
-    ]
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 2,
+      "grid_size": 4,
+      "category": "Naturaleza",
+      "subcategory": "Fauna",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ABEJA",
+          "riddle": "",
+          "riddle_hard": "Zum zum zum, voy de flor en flor, la miel es mi mayor labor.",
+          "is_hard": false
+        },
+        {
+          "word": "VACA",
+          "riddle": "",
+          "riddle_hard": "Soy manchada, y mi leche es muy amada.",
+          "is_hard": false
+        },
+        {
+          "word": "GALLINA",
+          "riddle": "",
+          "riddle_hard": "Cacareo y pongo huevos, cada día traigo nuevos.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 3,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Cosmos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LUNA",
+          "riddle": "Salgo de noche, me veo brillar, las mareas hago cambiar.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "SOL",
+          "riddle": "Rey del cielo, luz divina, cada mañana me ilumina.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "ESTRELLA",
+          "riddle": "De noche brillo sin cesar, en el cielo me puedes hallar.",
+          "riddle_hard": "",
+          "is_hard": false
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 4,
+      "grid_size": 4,
+      "category": "El Cuerpo Humano",
+      "subcategory": "Anatomía",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HUESO",
+          "riddle": "Duro y blanco me verás, al perro le gusto más.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "PULSO",
+          "riddle": "Late que late sin parar, en tu muñeca me vas a hallar.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "CABEZA",
+          "riddle": "Tengo pelo, ojos y boca, sin mí el cuerpo se equivoca.",
+          "riddle_hard": "",
+          "is_hard": false
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 5,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Clima",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "SECO",
+          "riddle": "Ni una gota de humedad, árido en verdad.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "DIA",
+          "riddle": "Tras la noche llego radiante, con el sol brillante.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "CALOR",
+          "riddle": "En verano soy intenso, te hago sudar inmenso.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "INVIERNO",
+          "riddle": "Normalmente traigo frío, el verano ya no es mío.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 6,
+      "grid_size": 5,
+      "category": "El Cuerpo Humano",
+      "subcategory": "Sentidos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LABIO",
+          "riddle": "Rojo o rosa puedo ser, te ayudo a beber y comer.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "AGRIO",
+          "riddle": "El limón así es, tu boca frunce después.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "OLER",
+          "riddle": "Uso la nariz sin cesar, aromas puedo detectar.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "SONIDO",
+          "riddle": "Por el aire viajo yo, tu oído me escuchó.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 7,
+      "grid_size": 5,
+      "category": "Cualidades",
+      "subcategory": "Textura",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "LODO",
+          "riddle": "Agua con tierra mezclé, charco marrón formé.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "MOJADO",
+          "riddle": "Del agua estoy empapado.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "PLANO",
+          "riddle": "Sin montañas ni bajadas, superficie bien alisada.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "GRUESO",
+          "riddle": "No soy flaco ni delgado, soy gordo y abultado.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "CERA",
+          "riddle": "Las abejas me producen, las velas me lucen.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 8,
+      "grid_size": 5,
+      "category": "Sociedad",
+      "subcategory": "Gobierno/Conflicto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "VOTO",
+          "riddle": "Papelito con decisión, tu derecho en la elección.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "REGLA",
+          "riddle": "Sin mi hay mucho desorden.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "LUCHA",
+          "riddle": "Peleo con valentía, combate noche y día.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "GUERRA",
+          "riddle": "Conflicto entre naciones, armas y explosiones.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 9,
+      "grid_size": 5,
+      "category": "Sociedad",
+      "subcategory": "Economía",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "DINERO",
+          "riddle": "Me guardas en tu cartera, compro lo que tú quiera.",
+          "riddle_hard": "Instrumento de cambio universal.",
+          "is_hard": false
+        },
+        {
+          "word": "VALE",
+          "riddle": "Papelito que redimir, descuento vas a recibir.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "NOTA",
+          "riddle": "Escrita estoy en el papel, do-re-mi o mensaje fiel.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "AHORRO",
+          "riddle": "Guardo el dinero sin gastar, en el futuro lo podrás usar.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 10,
+      "grid_size": 5,
+      "category": "Vida Doméstica",
+      "subcategory": "Guardarropa",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "BOTON",
+          "riddle": "Pequeño disco para coser, tu ropa voy a prender.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "ANILLO",
+          "riddle": "En tu dedo me colocas, joya redonda que provocas.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "TOP",
+          "riddle": "Llevo nombre de cumbre y soy muy cortito.",
+          "riddle_hard": "",
+          "is_hard": false
+        },
+        {
+          "word": "ABRIGO",
+          "riddle": "Soy grueso y muy largo, del frío me hago cargo.",
+          "riddle_hard": "",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 11,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Montañas",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ALTO",
+          "riddle": "Arriba donde viven los pájaros.",
+          "riddle_hard": "Un largo camino desde el suelo.",
+          "is_hard": false
+        },
+        {
+          "word": "CIMA",
+          "riddle": "El sombrero puntiagudo de la montaña.",
+          "riddle_hard": "La mismísima punta del mundo.",
+          "is_hard": false
+        },
+        {
+          "word": "PIEDRA",
+          "riddle": "Soy dura, gris y me encuentro en el suelo.",
+          "riddle_hard": "Un trozo pesado del hueso de la montaña.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCALAR",
+          "riddle": "Caminar hacia el cielo.",
+          "riddle_hard": "Usar tus manos como pies.",
+          "is_hard": false
+        },
+        {
+          "word": "VOLAR",
+          "riddle": "Renunciar a la gravedad.",
+          "riddle_hard": "Renunciar a la gravedad para tocar las nubes.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 12,
+      "grid_size": 6,
+      "category": "Naturaleza",
+      "subcategory": "Desierto",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "DUNAS",
+          "riddle": "Montañas de arena construidas por el viento.",
+          "riddle_hard": "Olas hechas de polvo dorado.",
+          "is_hard": false
+        },
+        {
+          "word": "CALIENTE",
+          "riddle": "Cuando el sol abraza demasiado fuerte.",
+          "riddle_hard": "Burbujeante como una carretera de verano.",
+          "is_hard": false
+        },
+        {
+          "word": "RESECAR",
+          "riddle": "Hacer que algo tenga mucha sed.",
+          "riddle_hard": "Lo que el sol ardiente le hace a una garganta seca.",
+          "is_hard": false
+        },
+        {
+          "word": "BRILLO",
+          "riddle": "Luz solar que lastima tus ojos.",
+          "riddle_hard": "Una mirada desafiante o un reflejo brillante.",
+          "is_hard": false
+        },
+        {
+          "word": "SACIAR",
+          "riddle": "Dar de beber a una garganta seca.",
+          "riddle_hard": "Hacer que la sed desaparezca.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 13,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Campo",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HIERBA",
+          "riddle": "El suave cabello verde de la tierra.",
+          "riddle_hard": "Un millón de diminutas cuchillas verdes.",
+          "is_hard": false
+        },
+        {
+          "word": "ABIERTO",
+          "riddle": "Una habitación sin techo.",
+          "riddle_hard": "Mucho espacio para el viento.",
+          "is_hard": false
+        },
+        {
+          "word": "ANCHO",
+          "riddle": "Estirándose hasta el horizonte.",
+          "riddle_hard": "Más espacio del que puedes usar.",
+          "is_hard": false
+        },
+        {
+          "word": "CORRER",
+          "riddle": "Perseguir el viento con los pies.",
+          "riddle_hard": "Moverse más rápido que caminar.",
+          "is_hard": false
+        },
+        {
+          "word": "SUAVE",
+          "riddle": "Blando y gentil, como una brisa.",
+          "riddle_hard": "Un lago sin ondas.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 14,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Flor",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "ROSA",
+          "riddle": "Una belleza con dientes afilados.",
+          "riddle_hard": "Una corona roja en el jardín.",
+          "is_hard": false
+        },
+        {
+          "word": "BROTE",
+          "riddle": "El paquete secreto de una flor.",
+          "riddle_hard": "Un pequeño bulto de pétalos.",
+          "is_hard": false
+        },
+        {
+          "word": "TALLO",
+          "riddle": "La escalera para la flor.",
+          "riddle_hard": "Un sorbete verde para el florecimiento.",
+          "is_hard": false
+        },
+        {
+          "word": "CRECER",
+          "riddle": "Alcanzando el sol.",
+          "riddle_hard": "Transformando la luz en vida.",
+          "is_hard": false
+        },
+        {
+          "word": "FLORECER",
+          "riddle": "El evento principal de la flor.",
+          "riddle_hard": "Abriéndose al sol de la mañana.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 15,
+      "grid_size": 5,
+      "category": "Naturaleza",
+      "subcategory": "Bichos",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "HORMIGA",
+          "riddle": "El tipo diminuto más fuerte.",
+          "riddle_hard": "Un levantador de pesas de seis patas.",
+          "is_hard": false
+        },
+        {
+          "word": "ESCARABAJO",
+          "riddle": "Un bocadillo de jardín con seis patas.",
+          "riddle_hard": "Los insectos podrían amar mi extensión frondosa.",
+          "is_hard": false
+        },
+        {
+          "word": "COLMENA",
+          "riddle": "Una ciudad de panal de oro.",
+          "riddle_hard": "Donde comienza el zumbido.",
+          "is_hard": false
+        },
+        {
+          "word": "PIOJOS",
+          "riddle": "Plaga diminuta en el cabello.",
+          "riddle_hard": "Recuerdo no deseado de la escuela.",
+          "is_hard": false
+        },
+        {
+          "word": "LARVA",
+          "riddle": "Primera etapa del gusano.",
+          "riddle_hard": "Come, luego duerme.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    },
+    {
+      "level_id": 100,
+      "grid_size": 6,
+      "category": "Naturaleza",
+      "subcategory": "Fauna",
+      "complexity": 1,
+      "puzzles": [
+        {
+          "word": "CORZO",
+          "riddle": "Ciervo pequeño.",
+          "riddle_hard": "El duende del bosque, ágil y difícil de ver entre los árboles.",
+          "is_hard": false
+        },
+        {
+          "word": "TELA",
+          "riddle": "Para limpiar la mesa.",
+          "riddle_hard": "Del telar salí tejida, doy vestido a tu vida",
+          "is_hard": false
+        },
+        {
+          "word": "MÚJOL",
+          "riddle": "Pez saltarín.",
+          "riddle_hard": "Pez plateado que salta fuera del agua en los puertos.",
+          "is_hard": false
+        },
+        {
+          "word": "POTRO",
+          "riddle": "Caballo joven.",
+          "riddle_hard": "Un adolescente equino, lleno de energía y patas largas.",
+          "is_hard": false
+        },
+        {
+          "word": "PRIMATE",
+          "riddle": "Mono o simio.",
+          "riddle_hard": "El grupo de animales que incluye a los monos y a los humanos.",
+          "is_hard": true
+        }
+      ],
+      "extra_words": []
+    }
+  ]
 }
