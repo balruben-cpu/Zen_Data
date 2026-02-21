@@ -90,7 +90,7 @@
     },
     {
       "id": "new_notification",
-      "delayHours": 0.01,
+      "delayHours": 12,
       "minLevel": 0,
       "maxLevel": 9999,
       "priority": 999,
