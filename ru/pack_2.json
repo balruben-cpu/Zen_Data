@@ -1,47 +1,4001 @@
 {
     "Levels": [
         {
-            "level_id": 1,
-            "grid_size": 5,
-            "category": "Light",
-            "subcategory": "Radiance",
+            "level_id": 101,
+            "grid_size": 6,
+            "category": "Тело",
+            "subcategory": "Анатомия",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "GLOW",
-                    "riddle": "A soft, steady light that remains without a flame.",
-                    "riddle_hard": "The lingering warmth of a dying ember's silent smile.",
+                    "word": "ГЛОТКА",
+                    "riddle": "Полость горла.",
+                    "riddle_hard": "Перекресток дыхательных и пищевых путей.",
                     "is_hard": false
                 },
                 {
-                    "word": "BEAM",
-                    "riddle": "A concentrated line of light or radiation.",
-                    "riddle_hard": "A bridge of radiance connecting the distant star to the seeking eye.",
+                    "word": "ВАГИНА",
+                    "riddle": "Родовой канал.",
+                    "riddle_hard": "Мышечная трубка, ведущая к матке.",
                     "is_hard": false
                 },
                 {
-                    "word": "SHINE",
-                    "riddle": "To give off or reflect a bright, clear light.",
-                    "riddle_hard": "The soul's quiet attempt to mirror the midday sun.",
+                    "word": "ПОДОШВА",
+                    "riddle": "Низ ступни.",
+                    "riddle_hard": "Опорная поверхность ноги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРУДНАЯ",
+                    "riddle": "Клетка ребер.",
+                    "riddle_hard": "Полость тела, где спрятаны легкие и сердце.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПИГМЕНТ",
+                    "riddle": "Краска кожи.",
+                    "riddle_hard": "Вещество, дающее цвет коже и волосам.",
                     "is_hard": true
-                },
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 102,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Профессии",
+            "complexity": 1.0,
+            "puzzles": [
                 {
-                    "word": "RAY",
-                    "riddle": "A single narrow path of light coming from the sun.",
-                    "riddle_hard": "A golden needle sewing the vast sky to the heavy earth.",
+                    "word": "СТИЛЬ",
+                    "riddle": "Уникальная манера художника.",
+                    "riddle_hard": "Ваш особый почерк в одежде или искусстве.",
                     "is_hard": false
                 },
                 {
-                    "word": "LUMEN",
-                    "riddle": "The unit used to measure the flow of visible light.",
-                    "riddle_hard": "The silent heartbeat of a flickering candle in the dark.",
+                    "word": "СИЛУЭТ",
+                    "riddle": "Темный контур на светлом фоне.",
+                    "riddle_hard": "Тень профиля, вырезанная из черной бумаги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАКАЗ",
+                    "riddle": "Поручение художнику сделать работу.",
+                    "riddle_hard": "Договор на создание картины за деньги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОДЕЛЬ",
+                    "riddle": "Человек который позирует художнику.",
+                    "riddle_hard": "Муза, застывшая перед скульптором.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕЛОК",
+                    "riddle": "Восковая палочка для рисования.",
+                    "riddle_hard": "Инструмент, которым рисуют на асфальте.",
                     "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 103,
+            "grid_size": 6,
+            "category": "Наука",
+            "subcategory": "Техника/Цифра",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СКАЧАТЬ",
+                    "riddle": "Загрузить файл из сети.",
+                    "riddle_hard": "Забрать данные из интернета к себе на диск.",
+                    "is_hard": false
                 },
                 {
-                    "word": "HALO",
-                    "riddle": "A circle of light shown around the head of a sacred figure.",
-                    "riddle_hard": "The crown of silver mist worn by the moon in a moment of prayer.",
+                    "word": "ПЛАНШЕТ",
+                    "riddle": "Плоский сенсорный компьютер.",
+                    "riddle_hard": "Большой телефон, с которого неудобно звонить.",
                     "is_hard": false
+                },
+                {
+                    "word": "ЭЗЕРНЕТ",
+                    "riddle": "Проводной интернет.",
+                    "riddle_hard": "Стандарт подключения через толстый кабель.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАДР",
+                    "riddle": "Один снимок в видеопотоке.",
+                    "riddle_hard": "Минимальная единица фильма.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАНЕЛЬ",
+                    "riddle": "Экран управления настройками.",
+                    "riddle_hard": "Доска с приборами и кнопками.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 104,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Текстура",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЛИПКИЙ",
+                    "riddle": "Пристает к рукам, как варенье.",
+                    "riddle_hard": "Сладкий и тягучий, пачкает пальцы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БАРХАТ",
+                    "riddle": "Очень мягкая ткань королей.",
+                    "riddle_hard": "Богатая ткань с густым ворсом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАЛКА",
+                    "riddle": "Кусок ветки дерева.",
+                    "riddle_hard": "Деревяшка, которую бросают собаке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХРУСТ",
+                    "riddle": "Звук сминаемой бумаги.",
+                    "riddle_hard": "Шум шагов по сухому снегу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЕЖИЙ",
+                    "riddle": "Хрустящий и новый.",
+                    "riddle_hard": "Бодрящий, как морозное утро.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 105,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Космос",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОДИН",
+                    "riddle": "Цифра одиночества.",
+                    "riddle_hard": "Первое натуральное число.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧАСЫ",
+                    "riddle": "Тик-так, тик-так.",
+                    "riddle_hard": "Прибор для измерения времени.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУЛЬСАР",
+                    "riddle": "Мигающая звезда-маяк.",
+                    "riddle_hard": "Нейтронная звезда.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕТО",
+                    "riddle": "Жара, море, каникулы.",
+                    "riddle_hard": "Самое теплое время года.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАТТЛ",
+                    "riddle": "Космический челнок.",
+                    "riddle_hard": "Многоразовый транспортный корабль.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 106,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Гардероб",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПОНЧО",
+                    "riddle": "Плащ-одеяло с дыркой.",
+                    "riddle_hard": "Одеяло с дыркой для головы для мексиканского ковбоя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БРОШЬ",
+                    "riddle": "Украшение с булавкой.",
+                    "riddle_hard": "Ювелирный жук, который сел на лацкан пиджака.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОБУВЬ",
+                    "riddle": "То что на ногах.",
+                    "riddle_hard": "Шины для человеческих ног.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЯС",
+                    "riddle": "Держит штаны чтобы не упали.",
+                    "riddle_hard": "Он обнимает тебя за талию крепче, чем любимый человек.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОБОДОК",
+                    "riddle": "Держит волосы.",
+                    "riddle_hard": "Пластиковая дуга, чтобы челка не лезла в глаза.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 107,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "Экран/Сцена",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ФИЛЬМ",
+                    "riddle": "История, рассказанная на экране.",
+                    "riddle_hard": "Лента с записью кино.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРОБЫ",
+                    "riddle": "Экзамен для актера на роль.",
+                    "riddle_hard": "Кастинг или прослушивание.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИФЫ",
+                    "riddle": "Древние легенды о богах.",
+                    "riddle_hard": "Сказания, в которые верили греки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВИТРИНА",
+                    "riddle": "Место для показа талантов.",
+                    "riddle_hard": "Выставка достижений.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОН",
+                    "riddle": "Задник сцены.",
+                    "riddle_hard": "Декорация позади артистов.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 108,
+            "grid_size": 6,
+            "category": "Действие",
+            "subcategory": "Передвижение",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КАТИТЬ",
+                    "riddle": "Двигать что-то круглое по земле.",
+                    "riddle_hard": "Перемещать объект, вращая его.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БРЕСТИ",
+                    "riddle": "Идти медленно, тяжело переставляя ноги.",
+                    "riddle_hard": "Усталая походка путника.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПРИНТ",
+                    "riddle": "Бег на пределе сил на короткую дистанцию.",
+                    "riddle_hard": "Короткая гонка с максимальной скоростью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРЫГАТЬ",
+                    "riddle": "Отталкиваться от земли вверх.",
+                    "riddle_hard": "Временно победить притяжение силой ног.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВПЕРЕД",
+                    "riddle": "Движение туда, куда смотрят глаза.",
+                    "riddle_hard": "В направлении лица или движения.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 109,
+            "grid_size": 6,
+            "category": "Ментальное",
+            "subcategory": "Эмоции",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗАВИСТЬ",
+                    "riddle": "Грусть от чужой победы.",
+                    "riddle_hard": "Желание иметь то, что есть у другого.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХМУРЫЙ",
+                    "riddle": "Темный и грустный.",
+                    "riddle_hard": "Как небо перед грозой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОСАДА",
+                    "riddle": "Огорчение от неудачи.",
+                    "riddle_hard": "Стыд от провала.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРУСТЬ",
+                    "riddle": "Когда хочется плакать.",
+                    "riddle_hard": "Серый дождь внутри твоей души.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕСЕЛО",
+                    "riddle": "С радостью.",
+                    "riddle_hard": "С улыбкой на лице.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 110,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "География",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "АРКТИКА",
+                    "riddle": "Район Северного полюса.",
+                    "riddle_hard": "Царство вечного льда и белых медведей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЛИВ",
+                    "riddle": "Дырка в ванной куда уходит вода.",
+                    "riddle_hard": "Труба уносящая грязную воду.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РАВНИНА",
+                    "riddle": "Плоская земля без гор.",
+                    "riddle_hard": "Ровное пространство до самого горизонта.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАГУНА",
+                    "riddle": "Бассейн внутри кораллового рифа.",
+                    "riddle_hard": "Спокойная голубая вода отделенная от моря.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПИРС",
+                    "riddle": "Деревянная дорога над водой.",
+                    "riddle_hard": "Сооружение уходящее в море к которому швартуются лодки.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 111,
+            "grid_size": 6,
+            "category": "Тело",
+            "subcategory": "Чувства",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СТУЖА",
+                    "riddle": "Очень сильный холод.",
+                    "riddle_hard": "Дыхание зимы, от которого краснеет нос.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИГРЕНЬ",
+                    "riddle": "Сильная головная боль.",
+                    "riddle_hard": "Буря в черепной коробке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕРПКИЙ",
+                    "riddle": "Вяжущий вкус, как у хурмы.",
+                    "riddle_hard": "Вкус незрелой ягоды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАСКА",
+                    "riddle": "Нежное прикосновение.",
+                    "riddle_hard": "Движение маминой руки по голове.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖИРНЫЙ",
+                    "riddle": "Покрытый маслом.",
+                    "riddle_hard": "Как блинчик или пальцы после курочки.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 112,
+            "grid_size": 6,
+            "category": "Общество",
+            "subcategory": "Городские пространства",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗАМОК",
+                    "riddle": "Каменный дом короля с башнями.",
+                    "riddle_hard": "Укрепленное жилище феодала.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОРОГА",
+                    "riddle": "Полоса земли, по которой едут машины.",
+                    "riddle_hard": "Обустроенная полоса для движения транспорта.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГАВАНЬ",
+                    "riddle": "Спокойная вода для стоянки кораблей.",
+                    "riddle_hard": "Прибрежная часть водного пространства, защищенная от волн.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УЛОЧКА",
+                    "riddle": "Узкий путь между домами.",
+                    "riddle_hard": "Небольшая второстепенная улица.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАРЕК",
+                    "riddle": "Маленький уличный магазинчик.",
+                    "riddle_hard": "Легкая постройка для уличной торговли.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 113,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "Праздники",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОТПУСК",
+                    "riddle": "Освобождение от работы.",
+                    "riddle_hard": "Время для отдыха и путешествий.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕНИЕ",
+                    "riddle": "Исполнение песен.",
+                    "riddle_hard": "Искусство владения голосом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕСАХ",
+                    "riddle": "Еврейская Пасха.",
+                    "riddle_hard": "Праздник исхода из Египта.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОСЕНЬ",
+                    "riddle": "Золотое время года.",
+                    "riddle_hard": "Сезон листопада и сбора урожая.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОЛОКОЛ",
+                    "riddle": "Он висит на башне и звонит.",
+                    "riddle_hard": "У него есть язык, но он не говорит, а поет.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 114,
+            "grid_size": 7,
+            "category": "Наука",
+            "subcategory": "Математика/Формы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПУСТО",
+                    "riddle": "Ничего нет.",
+                    "riddle_hard": "Отсутствие значения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕРА",
+                    "riddle": "Единица измерения.",
+                    "riddle_hard": "Способ оценки величины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТЕПЕНЬ",
+                    "riddle": "Сила числа.",
+                    "riddle_hard": "Показатель, сколько раз число умножается само на себя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СРЕДНЕЕ",
+                    "riddle": "Ни то ни сё золотая середина.",
+                    "riddle_hard": "Сумма всех чисел, деленная на их количество.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГИГА",
+                    "riddle": "Миллиард байт.",
+                    "riddle_hard": "Множитель миллиард.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 115,
+            "grid_size": 6,
+            "category": "Дом",
+            "subcategory": "Инструменты",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КУСАЧКИ",
+                    "riddle": "Маленькие щипцы.",
+                    "riddle_hard": "Инструмент, чтобы кусать проволоку.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДРАНКА",
+                    "riddle": "Тонкая рейка.",
+                    "riddle_hard": "Узкая деревянная планка под штукатурку.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕНЧИК",
+                    "riddle": "Быстро взбивает яйца.",
+                    "riddle_hard": "Проволочный вихрь для теста и крема.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРОБКА",
+                    "riddle": "Затычка.",
+                    "riddle_hard": "Предмет, закрывающий горлышко бутылки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКРЕБОК",
+                    "riddle": "Чистит поверхность.",
+                    "riddle_hard": "Инструмент для удаления грязи с плоского.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 116,
+            "grid_size": 7,
+            "category": "Природа",
+            "subcategory": "Климат",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГРУЗОВИК",
+                    "riddle": "Машина с большим кузовом.",
+                    "riddle_hard": "Автомобиль, предназначенный для перевозки грузов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТИТАН",
+                    "riddle": "Крепкий и легкий металл.",
+                    "riddle_hard": "Легкий и прочный конструкционный металл.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЕТАЛЬ",
+                    "riddle": "Частичка машины.",
+                    "riddle_hard": "Изделие являющееся частью машины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМАЗКА",
+                    "riddle": "Масло против скрипа.",
+                    "riddle_hard": "Вещество для уменьшения трения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОРПУС",
+                    "riddle": "Железная кожа машины.",
+                    "riddle_hard": "Внешняя оболочка механизма или прибора.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 117,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Характер",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СМЕЛЫЙ",
+                    "riddle": "Я ничего не боюсь и иду вперёд!",
+                    "riddle_hard": "Решительный в действиях, отважный в душе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРОТКИЙ",
+                    "riddle": "Я тихий, скромный и всех слушаюсь.",
+                    "riddle_hard": "Покорный и мягкий, не умеющий спорить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИЛЫЙ",
+                    "riddle": "Я приятный, как конфета или котёнок.",
+                    "riddle_hard": "Очаровательный и нежный, вызывающий симпатию.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДИКИЙ",
+                    "riddle": "Я живу на воле и не знаю правил.",
+                    "riddle_hard": "Неукротимый и свободный, как зверь в лесу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕРНЫЙ",
+                    "riddle": "Я никогда не брошу друга в беде.",
+                    "riddle_hard": "Преданный до конца, на которого можно положиться.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 118,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "История/Миф",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПРОЛОГ",
+                    "riddle": "Начало книги.",
+                    "riddle_hard": "Вступление перед началом основной истории.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИСКРА",
+                    "riddle": "Маленький кусочек огня.",
+                    "riddle_hard": "Крошечный светлячок, рождающий большое пламя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖЕЗЛ",
+                    "riddle": "Палочка волшебника.",
+                    "riddle_hard": "Короткий посох для направления магической энергии.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛУПЫЙ",
+                    "riddle": "Не очень умный.",
+                    "riddle_hard": "Человек без царя в голове.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КУЛЬТ",
+                    "riddle": "Тайная группа фанатиков.",
+                    "riddle_hard": "Слепое поклонение идолу или идее.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 119,
+            "grid_size": 7,
+            "category": "Действие",
+            "subcategory": "Ручной труд",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВЯЗАТЬ",
+                    "riddle": "Соединять нити в узор.",
+                    "riddle_hard": "Создавать одежду спицами или скреплять книги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УЗЕЛ",
+                    "riddle": "Сплетение веревок.",
+                    "riddle_hard": "То, что завязывают на шнурках, чтобы они не развязались.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТАЧКА",
+                    "riddle": "Садовая тележка.",
+                    "riddle_hard": "Корыто на одном колесе для перевозки земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДРЕМАТЬ",
+                    "riddle": "Почти уснуть от скуки.",
+                    "riddle_hard": "Клевать носом, находясь на грани сна и яви.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРЯЗЬ",
+                    "riddle": "Земля после дождя.",
+                    "riddle_hard": "Липкая субстанция, пачкающая обувь и руки.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 120,
+            "grid_size": 6,
+            "category": "Ментальное",
+            "subcategory": "Общение",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "УСТНО",
+                    "riddle": "Сказано ртом не написано.",
+                    "riddle_hard": "Слова, которые исчезают в воздухе сразу после произнесения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМИ",
+                    "riddle": "Телевидение и газеты.",
+                    "riddle_hard": "Коллективный голос, формирующий мнение миллионов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЛОГ",
+                    "riddle": "Дневник в интернете.",
+                    "riddle_hard": "Веб-сайт, где кто-то пишет о своей жизни всему миру.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕЩАНИЕ",
+                    "riddle": "Трансляция.",
+                    "riddle_hard": "Передача сигнала на все телевизоры.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АДРЕС",
+                    "riddle": "Место жительства.",
+                    "riddle_hard": "Координаты твоего дома.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 121,
+            "grid_size": 7,
+            "category": "Природа",
+            "subcategory": "Фауна",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОТЁНОК",
+                    "riddle": "Малыш кошки.",
+                    "riddle_hard": "Играет с клубочком ниток.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МАНГУСТ",
+                    "riddle": "Зверек побеждающий кобру.",
+                    "riddle_hard": "Рики-Тики-Тави.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖУК",
+                    "riddle": "Маленькое насекомое с жесткими крыльями.",
+                    "riddle_hard": "Ползает по травинке и иногда жужжит.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГОЛУБЬ",
+                    "riddle": "Клюет крошки в парке.",
+                    "riddle_hard": "Любимая птица памятников.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОСЁЛ",
+                    "riddle": "Упрямый но трудолюбивый помощник.",
+                    "riddle_hard": "Друг Винни-Пуха с грустными глазами.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 122,
+            "grid_size": 6,
+            "category": "Тело",
+            "subcategory": "Благополучие",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "БЕГ",
+                    "riddle": "Быстрое движение на ногах.",
+                    "riddle_hard": "Способ обогнать ветер или убежать от своих проблем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТАБЛО",
+                    "riddle": "Экран со счетом.",
+                    "riddle_hard": "Большой экран, который радует одних и огорчает других.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЛОК",
+                    "riddle": "Защита от удара.",
+                    "riddle_hard": "Стена из рук, не дающая мячу или удару пройти.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БРОСОК",
+                    "riddle": "Кидание предмета с силой.",
+                    "riddle_hard": "Запуск снаряда в воздух силой мышц.",
+                    "is_hard": false
+                },
+                {
+                    "word": "САЛКИ",
+                    "riddle": "Детская игра: догони и коснись.",
+                    "riddle_hard": "Ты становишься «водящим», как только рука друга касается твоего плеча.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 123,
+            "grid_size": 6,
+            "category": "Дом",
+            "subcategory": "Приют",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СТЕТСОН",
+                    "riddle": "Ковбойская шляпа.",
+                    "riddle_hard": "Шляпа с широкими полями для настоящего шерифа.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТАПОЧКИ",
+                    "riddle": "Домашняя обувь.",
+                    "riddle_hard": "Мягкие друзья уставших ног.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРУЖЕВО",
+                    "riddle": "Ажурная ткань в дырочку.",
+                    "riddle_hard": "Ткань-паутинка, сквозь которую видно кожу, но это прилично.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОРОНА",
+                    "riddle": "Золотая шапка царя.",
+                    "riddle_hard": "Головной убор, от которого у королей болит голова, но они его не снимают.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕЛЬВЕТ",
+                    "riddle": "Ткань в рубчик.",
+                    "riddle_hard": "Ткань в полосочку, приятная на ощупь.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 124,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Экономика",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ТУПОЙ",
+                    "riddle": "Нож не режет, карандаш не пишет.",
+                    "riddle_hard": "Не острый край, хоть плачь, хоть лай.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЛНЫЙ",
+                    "riddle": "Места больше нет внутри, все забито, посмотри!",
+                    "riddle_hard": "До краев налит стакан, как насыщенный карман.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЛЕТ",
+                    "riddle": "Птица в небе или самолет.",
+                    "riddle_hard": "Движение в воздухе, отрыв от земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РАЗМЕР",
+                    "riddle": "Большой или малый, скажет нам бирка.",
+                    "riddle_hard": "Габариты предмета, зимой или летом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТАЯТЬ",
+                    "riddle": "Был я льдом, а стал водой, солнце сделало с бедой.",
+                    "riddle_hard": "От тепла я исчезаю, в лужу быстро превращаюсь.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 125,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "Звук/Аудио",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СПИНЕТ",
+                    "riddle": "Маленький клавесин.",
+                    "riddle_hard": "Компактный клавишный инструмент прошлого.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕНОР",
+                    "riddle": "Высокий мужской голос Паваротти.",
+                    "riddle_hard": "Певческий голос выше баритона.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КВАРТЕТ",
+                    "riddle": "Четыре музыканта.",
+                    "riddle_hard": "Ансамбль из четырех исполнителей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АЛЬБОМ",
+                    "riddle": "Сборник песен артиста.",
+                    "riddle_hard": "Коллекция треков, выпущенная на пластинке или в сети.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГАЛДЕЖ",
+                    "riddle": "Громкая и бестолковая болтовня.",
+                    "riddle_hard": "Назойливый повторяющийся шум.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 126,
+            "grid_size": 6,
+            "category": "Наука",
+            "subcategory": "Материалы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КИРПИЧ",
+                    "riddle": "Красный блок из печи.",
+                    "riddle_hard": "Искусственный камень для стен.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАТЕКС",
+                    "riddle": "Сок резинового дерева.",
+                    "riddle_hard": "Эластичный материал для перчаток.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РАКУШКА",
+                    "riddle": "Домик улитки.",
+                    "riddle_hard": "Твердая одежда моллюска.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШЕРСТЬ",
+                    "riddle": "Стрижка овечки.",
+                    "riddle_hard": "Волокно для теплых свитеров.",
+                    "is_hard": false
+                },
+                {
+                    "word": "САЖА",
+                    "riddle": "Черный налет от дыма.",
+                    "riddle_hard": "Черная пудра из печной трубы.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 127,
+            "grid_size": 6,
+            "category": "Действие",
+            "subcategory": "Конфликт/Спорт",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЛЕТА",
+                    "riddle": "Удар по мячу в воздухе.",
+                    "riddle_hard": "Удар по мячу, пока он еще не коснулся земли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕЙСБОЛ",
+                    "riddle": "Игра с битой и базами.",
+                    "riddle_hard": "Американская лапта с ловушками и хоум-ранами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТРЕК",
+                    "riddle": "Дорожка для бега.",
+                    "riddle_hard": "Кольцевая дорога, по которой бегают кругами, но не сходят с ума.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАРАТЕ",
+                    "riddle": "Японское боевое искусство.",
+                    "riddle_hard": "Искусство пустой руки и разбивания досок.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АТЛЕТ",
+                    "riddle": "Спортивный человек.",
+                    "riddle_hard": "Тот, у кого мышцы крепче, чем сила воли ленивого.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 128,
+            "grid_size": 7,
+            "category": "Ментальное",
+            "subcategory": "Воспятие",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МИГ",
+                    "riddle": "Очень короткий момент времени.",
+                    "riddle_hard": "Мгновенная вспышка или доля секунды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОМЕХИ",
+                    "riddle": "Шум и рябь на экране телевизора.",
+                    "riddle_hard": "Треск в радио или снег\" на старом ТВ.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОКУС",
+                    "riddle": "Настройка резкости изображения.",
+                    "riddle_hard": "Делать картинку четкой, концентрируя внимание.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯВИТЬСЯ",
+                    "riddle": "Вдруг стать видимым.",
+                    "riddle_hard": "Внезапно возникнуть перед наблюдателем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОН",
+                    "riddle": "Фильм который ты смотришь пока спишь.",
+                    "riddle_hard": "Череда картинок в голове во время ночного отдыха.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 129,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Визуальное (Свет)",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СПЕКТР",
+                    "riddle": "Полный диапазон цветов.",
+                    "riddle_hard": "Полоса цветов на которую распадается луч в призме.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОПТИКА",
+                    "riddle": "Наука о зрении и свете.",
+                    "riddle_hard": "Все что связано с линзами и глазами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БУРЫЙ",
+                    "riddle": "Темно-коричневый цвет земли.",
+                    "riddle_hard": "Цвет медвежьей шубы и осенней грязи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОТО",
+                    "riddle": "Снимок на память.",
+                    "riddle_hard": "Момент времени пойманный на бумагу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВИД",
+                    "riddle": "Красивая панорама.",
+                    "riddle_hard": "Широкий обзор на природу или город.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 130,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Сложность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КИОСК",
+                    "riddle": "Маленькая будка с газетами.",
+                    "riddle_hard": "Уличный домик продавца мелочей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОК",
+                    "riddle": "Вкусная вода из фруктов.",
+                    "riddle_hard": "Жидкая энергия апельсина.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАСТИСЬ",
+                    "riddle": "Кушать траву на лугу.",
+                    "riddle_hard": "Работа коровы на зеленом поле.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРЫЖОК",
+                    "riddle": "Полет вверх с места.",
+                    "riddle_hard": "Краткий миг победы над гравитацией.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВАМПИР",
+                    "riddle": "Кровопийца из легенд.",
+                    "riddle_hard": "Граф Дракула.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 131,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Флора",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОЛЮЧКА",
+                    "riddle": "Острая защита розы.",
+                    "riddle_hard": "Не огонь, а колется.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АВОКАДО",
+                    "riddle": "Зеленый маслянистый фрукт.",
+                    "riddle_hard": "Фрукт с большой косточкой заменяющий масло.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРОКУС",
+                    "riddle": "Первоцвет.",
+                    "riddle_hard": "Цветок пробивающийся сквозь снег.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДУБ",
+                    "riddle": "Могучее дерево с желудями.",
+                    "riddle_hard": "Символ силы в русском лесу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХВОЙНЫЕ",
+                    "riddle": "Деревья с иголками и шишками.",
+                    "riddle_hard": "Ели сосны и пихты.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 132,
+            "grid_size": 5,
+            "category": "Тело",
+            "subcategory": "Внешность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЯМОЧКА",
+                    "riddle": "Впадинка на щеке при улыбке.",
+                    "riddle_hard": "Милая вмятина на щеке, когда ты смеешься.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЩЕТИНА",
+                    "riddle": "Короткие волосы на лице.",
+                    "riddle_hard": "Двухдневная небритость, колет как наждак.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПЯЩИЙ",
+                    "riddle": "Не бодрствующий.",
+                    "riddle_hard": "Путешествует в стране снов с закрытыми глазами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СИНЯК",
+                    "riddle": "Синий след от удара.",
+                    "riddle_hard": "Фиолетовая память о встрече с дверным косяком.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШРАМ",
+                    "riddle": "След от пореза на коже.",
+                    "riddle_hard": "Память о старой ране, которая осталась навсегда.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 133,
+            "grid_size": 6,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "НОСИК",
+                    "riddle": "Откуда льется чай.",
+                    "riddle_hard": "\"Губа чайника.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАПУСТА",
+                    "riddle": "Круглый листовой овощ.",
+                    "riddle_hard": "\"Сто одежек и все без застежек.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОРИЦА",
+                    "riddle": "Коричневая специя для булок.",
+                    "riddle_hard": "\"Ароматная кора дерева.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЁД",
+                    "riddle": "Сладкий нектар от пчел.",
+                    "riddle_hard": "\"Золото украденное у пчел.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НАПИТОК",
+                    "riddle": "Любая жидкость для питья.",
+                    "riddle_hard": "\"То чем утоляют жажду.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 134,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Образование",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КНИГА",
+                    "riddle": "Предмет со страницами для чтения.",
+                    "riddle_hard": "Молчаливый учитель, живущий на полке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШКОЛЫ",
+                    "riddle": "Учебные заведения.",
+                    "riddle_hard": "Дома знаний в разных районах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПИСАТЬ",
+                    "riddle": "Выводить буквы ручкой.",
+                    "riddle_hard": "Оставлять мысли на бумаге.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОМАНЫ",
+                    "riddle": "Длинные книги с сюжетом.",
+                    "riddle_hard": "Толстые книги о любви и войне.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРОВАЛ",
+                    "riddle": "Не сдать экзамен.",
+                    "riddle_hard": "Горький вкус поражения перед пересдачей.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 135,
+            "grid_size": 5,
+            "category": "Культура",
+            "subcategory": "История/Миф",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "САТИРА",
+                    "riddle": "Злая насмешка в рассказе.",
+                    "riddle_hard": "Высмеивание пороков с помощью юмора.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕДЬМА",
+                    "riddle": "Колдунья летающая на метле.",
+                    "riddle_hard": "Женщина, ведающая тайны трав и заклинаний.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЦЕНА",
+                    "riddle": "Часть фильма или место в театре.",
+                    "riddle_hard": "Подмостки, где актеры проживают чужие жизни.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕСНЯ",
+                    "riddle": "Музыка со словами.",
+                    "riddle_hard": "История, рассказанная под музыку.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕДУЗА",
+                    "riddle": "Женщина со змеями вместо волос.",
+                    "riddle_hard": "Взгляд этой горгоны превращает все живое в камень.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 136,
+            "grid_size": 6,
+            "category": "Наука",
+            "subcategory": "Время/История",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КОНТУР",
+                    "riddle": "Очертание предмета.",
+                    "riddle_hard": "Внешняя линия очертания объекта.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОЛИК",
+                    "riddle": "Маленькое колесико в мебели.",
+                    "riddle_hard": "Вращающаяся деталь для уменьшения трения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТУК",
+                    "riddle": "Звук, когда кто-то пришел в гости.",
+                    "riddle_hard": "Короткий отрывистый звук от удара предмета.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯКОРЬ",
+                    "riddle": "Враг корабля, но друг мотора.",
+                    "riddle_hard": "Вращающаяся часть электродвигателя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВЯЗЬ",
+                    "riddle": "Укрепляет каркас.",
+                    "riddle_hard": "Элемент жесткости в конструкции.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 137,
+            "grid_size": 6,
+            "category": "Действие",
+            "subcategory": "Исследование",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВОЗВРАТ",
+                    "riddle": "Найти снова.",
+                    "riddle_hard": "Вернуть то, что было потеряно.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОИСКИ",
+                    "riddle": "Идти на задание.",
+                    "riddle_hard": "Активный розыск благородной цели.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭСКИЗ",
+                    "riddle": "Быстрый рисунок.",
+                    "riddle_hard": "Карандашный черновик будущей картины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАМЕРА",
+                    "riddle": "Делает снимки.",
+                    "riddle_hard": "Одноглазый художник, рисующий мгновениями.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЫЩИК",
+                    "riddle": "Детектив.",
+                    "riddle_hard": "Человек с лупой, идущий по следу преступника.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 138,
+            "grid_size": 6,
+            "category": "Ментальное",
+            "subcategory": "Познание",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СВОДКА",
+                    "riddle": "Краткий отчет.",
+                    "riddle_hard": "Короткий пересказ событий без лишней воды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОЖЬ",
+                    "riddle": "Неправда.",
+                    "riddle_hard": "Маска, скрывающая истинное лицо фактов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕРИТЬ",
+                    "riddle": "Доверять без проверки.",
+                    "riddle_hard": "Принимать за истину то, что нельзя потрогать.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЮМОР",
+                    "riddle": "Способность смешить людей.",
+                    "riddle_hard": "Оружие шута и щит мудреца, помогающие пережить трудности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРИЧИНА",
+                    "riddle": "Ответ на вопрос \"Почему?",
+                    "riddle_hard": "Фундамент, на котором строится любое событие.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 139,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Ценность/Статус",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВИДНЫЙ",
+                    "riddle": "Заметный издалека или важный человек.",
+                    "riddle_hard": "Крупный, значительный или хорошо различимый.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРАЙМ",
+                    "riddle": "Лучшее время для показа по ТВ.",
+                    "riddle_hard": "Первоклассный, лучший или основной.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОЛГ",
+                    "riddle": "Берешь чужие и на время, а отдаешь свои и навсегда.",
+                    "riddle_hard": "Деньги, которые нужно вернуть кредитору.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦЕННЫЙ",
+                    "riddle": "Важный экспонат в музее.",
+                    "riddle_hard": "Имеющий высокую цену или значение.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭЛИТА",
+                    "riddle": "Сливки общества, избранные люди.",
+                    "riddle_hard": "Лучшие представители какой-либо группы.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 140,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Климат",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЧЕК",
+                    "riddle": "Бумажка, которую дают на кассе.",
+                    "riddle_hard": "Документ, подтверждающий оплату.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭКСПЕРТ",
+                    "riddle": "Знаток, к которому идут за советом.",
+                    "riddle_hard": "Специалист высшего класса в узкой области.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЧЕТ",
+                    "riddle": "Раз, два, три, четыре, пять.",
+                    "riddle_hard": "Процесс подсчета или документ для оплаты.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТОИТ",
+                    "riddle": "Имеет цену или значение.",
+                    "riddle_hard": "Заслуживает внимания или имеет денежную оценку.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТРАТА",
+                    "riddle": "Покупка товаров за деньги.",
+                    "riddle_hard": "Расход средств или ресурсов.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 141,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Правительство/Конфликт",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПОСОЛ",
+                    "riddle": "Дипломат в чужой стране.",
+                    "riddle_hard": "Глаза и уши государства за рубежом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ИЗМЕНА",
+                    "riddle": "Удар в спину своей родине.",
+                    "riddle_hard": "Преступление, которое короли не прощают.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЕЖИМ",
+                    "riddle": "Строгий порядок управления страной.",
+                    "riddle_hard": "Система власти, которую часто не любят.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СРОК",
+                    "riddle": "Время, отведенное правителю или преступнику.",
+                    "riddle_hard": "Отрезок времени правления.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СУД",
+                    "riddle": "Здание, где молоток ставит точку в споре.",
+                    "riddle_hard": "Арена, где сражаются не мечами, а законами.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 142,
+            "grid_size": 5,
+            "category": "Тело",
+            "subcategory": "Жизненный цикл",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГРУДЬ",
+                    "riddle": "Верхняя часть туловища.",
+                    "riddle_hard": "Часть тела, которой кормят младенцев.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЕБРО",
+                    "riddle": "Кость, защищающая легкие и сердце.",
+                    "riddle_hard": "Согласно легенде, из этой кости была создана первая женщина.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГИБРИД",
+                    "riddle": "Смесь двух видов.",
+                    "riddle_hard": "Потомок разных пород.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЕСТРА",
+                    "riddle": "Дочь твоих родителей, но не ты.",
+                    "riddle_hard": "Девочка, с которой тебе приходится делить игрушки и родителей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЯДЯ",
+                    "riddle": "Брат твоего папы или мамы.",
+                    "riddle_hard": "Родственник мужского пола.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 143,
+            "grid_size": 6,
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОТДЫХ",
+                    "riddle": "Перерыв в работе.",
+                    "riddle_hard": "Время, чтобы расслабиться и набраться сил.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОРС",
+                    "riddle": "Пушистые нитки на одежде.",
+                    "riddle_hard": "Мелкие волокна, которые прилипают к свитеру.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕНА",
+                    "riddle": "Пузырьки от мыла.",
+                    "riddle_hard": "Белая шапка на воде в ванне.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛАТЬЕ",
+                    "riddle": "Женская одежда.",
+                    "riddle_hard": "Наряд принцессы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗЕРКАЛО",
+                    "riddle": "Стекло в котором ты видишь себя.",
+                    "riddle_hard": "Отражающая поверхность.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 144,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Математика/Формы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВЕС",
+                    "riddle": "Тяжесть сумки.",
+                    "riddle_hard": "Сила воздействия тела на опору.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЕКСА",
+                    "riddle": "Шесть граней.",
+                    "riddle_hard": "Составная часть слова, означающая шесть.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КИЛО",
+                    "riddle": "Тысяча грамм.",
+                    "riddle_hard": "Множитель тысяча.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОСАЯ",
+                    "riddle": "Линия под наклоном.",
+                    "riddle_hard": "Наклонная линия.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЯТЬ",
+                    "riddle": "Лучшая оценка в школе.",
+                    "riddle_hard": "Число пальцев на одной руке.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 145,
+            "grid_size": 5,
+            "category": "Действие",
+            "subcategory": "Биологическое",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЖАЖДА",
+                    "riddle": "Когда мечтаешь о стакане воды.",
+                    "riddle_hard": "Сигнал организма о нехватке жидкости.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГИБКИЙ",
+                    "riddle": "Может сесть на шпагат.",
+                    "riddle_hard": "Способный легко гнуться без боли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УДУШЬЕ",
+                    "riddle": "Когда еда застряла в горле.",
+                    "riddle_hard": "Опасное состояние, когда воздух не проходит.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХОБОТ",
+                    "riddle": "Длинный нос слона.",
+                    "riddle_hard": "Универсальный инструмент слона.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАМЕРЗ",
+                    "riddle": "Превратился в ледышку.",
+                    "riddle_hard": "Состояние, когда холод сковал тело.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 146,
+            "grid_size": 5,
+            "category": "Ментальное",
+            "subcategory": "Социализация",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ДУЭТ",
+                    "riddle": "Пара музыкантов, выступающих вместе.",
+                    "riddle_hard": "Два голоса, сплетающиеся в единую гармонию.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЮНОСТЬ",
+                    "riddle": "Золотое время молодости.",
+                    "riddle_hard": "Прекрасная пора расцвета жизни перед взрослением.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НАЦИЯ",
+                    "riddle": "Народ с общей культурой и языком.",
+                    "riddle_hard": "Большое сообщество людей, объединенных историей и территорией.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МАТЧ",
+                    "riddle": "Спортивное состязание двух команд.",
+                    "riddle_hard": "Битва на стадионе, где счет идет на секунды и голы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГОСТЬ",
+                    "riddle": "Тот, кого пригласили в дом на праздник.",
+                    "riddle_hard": "Человек, которого встречают с хлебом и солью на пороге.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 147,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Физика (Тепло)",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "БОЛТ",
+                    "riddle": "Железный стержень с головой, гайка — верный спутник мой.",
+                    "riddle_hard": "Креплю детали на века, резьба моя крепка.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕЛКИЙ",
+                    "riddle": "Река по колено, дно видно.",
+                    "riddle_hard": "Не глубокий, воды совсем чуть-чуть.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕПЛЫЙ",
+                    "riddle": "Не горячо, но и не лед, комфорт он нам несет.",
+                    "riddle_hard": "Как свитер зимой, всегда со мной.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НИЗКИЙ",
+                    "riddle": "Близко к полу я держусь, высоты я не боюсь.",
+                    "riddle_hard": "Басовый звук или этаж, такой вот мой багаж.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРУБЫЙ",
+                    "riddle": "Наждачная бумага на ощупь.",
+                    "riddle_hard": "Шершавый, не гладкий, царапает руку.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 148,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Сложность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОТЗЫВ",
+                    "riddle": "Мнение о товаре.",
+                    "riddle_hard": "Реакция клиента.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПИЦЦА",
+                    "riddle": "Круглая лепешка с сыром и томатами.",
+                    "riddle_hard": "Итальянское блюдо в квадратной коробке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПОРТ",
+                    "riddle": "Физические упражнения.",
+                    "riddle_hard": "Тренировка тела ради здоровья.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗИГЗАГ",
+                    "riddle": "Ломаная линия.",
+                    "riddle_hard": "Путь молнии или зайца.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УКСУС",
+                    "riddle": "Кислая жидкость на кухне.",
+                    "riddle_hard": "Кислота для маринада.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 149,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "География",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СРЕДА",
+                    "riddle": "Всё что нас окружает.",
+                    "riddle_hard": "Условия обитания.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОРТ",
+                    "riddle": "Парковка для кораблей.",
+                    "riddle_hard": "Место, где корабли загружают свои трюмы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАРЬЕР",
+                    "riddle": "Яма где добывают камень.",
+                    "riddle_hard": "Место открытой добычи ископаемых.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОВРАГ",
+                    "riddle": "Глубокая канава с крутыми склонами.",
+                    "riddle_hard": "Шрам на земле промытый водой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СМОЛА",
+                    "riddle": "Черная липкая жидкость.",
+                    "riddle_hard": "Вязкая субстанция застывшая кровь деревьев.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 150,
+            "grid_size": 6,
+            "category": "Тело",
+            "subcategory": "Анатомия",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЭМАЛЬ",
+                    "riddle": "Покрытие зуба.",
+                    "riddle_hard": "Самая твердая ткань в организме, покрывающая зубы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОБ",
+                    "riddle": "Над глазами.",
+                    "riddle_hard": "Место, куда ставят щелбан или целуют мамы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУЗЫРЬ",
+                    "riddle": "Мочевой мешок.",
+                    "riddle_hard": "Орган, который заставляет просыпаться ночью в туалет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БИОПСИЯ",
+                    "riddle": "Анализ кусочка ткани.",
+                    "riddle_hard": "Взятие образца ткани для медицинского исследования.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗИГОТА",
+                    "riddle": "Оплодотворенная клетка.",
+                    "riddle_hard": "Первая клетка будущего организма.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 151,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ФРУКТ",
+                    "riddle": "Сладкий и растет на дереве.",
+                    "riddle_hard": "\"Витаминная бомба с ветки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОДА",
+                    "riddle": "Ты пьешь это каждый день.",
+                    "riddle_hard": "\"Основа жизни прозрачная и чистая.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УЖИН",
+                    "riddle": "Вечерняя еда.",
+                    "riddle_hard": "\"Последняя еда перед сном.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УТВАРЬ",
+                    "riddle": "Кухонные инструменты.",
+                    "riddle_hard": "\"Ложки вилки и поварешки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТОРТ",
+                    "riddle": "Сладкий пирог со свечами.",
+                    "riddle_hard": "\"Король дня рождения с кремовой короной.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 152,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Экономика",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПРИВЕТ",
+                    "riddle": "Слово при встрече.",
+                    "riddle_hard": "Короткое дружеское приветствие.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФЛАГ",
+                    "riddle": "Ткань с цветами страны.",
+                    "riddle_hard": "Символ государства, реющий на ветру.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДУХ",
+                    "riddle": "Бестелесное существо.",
+                    "riddle_hard": "Внутренняя сила человека.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТРАНС",
+                    "riddle": "Состояние гипноза.",
+                    "riddle_hard": "Глубокая задумчивость или измененное сознание.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕЧЕР",
+                    "riddle": "Время заката.",
+                    "riddle_hard": "Конец дня перед сном.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 153,
+            "grid_size": 5,
+            "category": "Культура",
+            "subcategory": "История/Миф",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГОЛИАФ",
+                    "riddle": "Великан проигравший Давиду.",
+                    "riddle_hard": "Библейский гигант, поверженный камнем из пращи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РУНА",
+                    "riddle": "Магический древний знак.",
+                    "riddle_hard": "Символ на камне, хранящий старую магию.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЕРМЕС",
+                    "riddle": "Бог-посланник с крылышками на сандалиях.",
+                    "riddle_hard": "Быстроногий вестник олимпийских богов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БАСНЯ",
+                    "riddle": "Короткий рассказ с моралью.",
+                    "riddle_hard": "История про зверей, которая учит людей жить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭЛЬФ",
+                    "riddle": "Остроухий житель волшебного леса.",
+                    "riddle_hard": "Древнее существо, стреляющее без промаха и ступающее без звука.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 154,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Материалы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ФОСФОР",
+                    "riddle": "Светится в темноте.",
+                    "riddle_hard": "Элемент спичечной головки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАРТОН",
+                    "riddle": "Толстая бумага.",
+                    "riddle_hard": "Материал коробок.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШИФЕР",
+                    "riddle": "Серая плитка для крыши.",
+                    "riddle_hard": "Слоистый камень для кровли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КЛЕЙ",
+                    "riddle": "Держит две вещи вместе.",
+                    "riddle_hard": "Жидкий, но высыхает и скрепляет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖЕЛЕЗО",
+                    "riddle": "Крепкий серый металл.",
+                    "riddle_hard": "Материал для тяжелых инструментов.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 155,
+            "grid_size": 5,
+            "category": "Действие",
+            "subcategory": "Передвижение",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОТСКОК",
+                    "riddle": "Прыжок мяча от пола.",
+                    "riddle_hard": "Движение вверх после удара о поверхность.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАДАТЬ",
+                    "riddle": "Лететь вниз, потеряв равновесие.",
+                    "riddle_hard": "Двигаться к земле под действием гравитации.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКОК",
+                    "riddle": "Маленький прыжок, часто на одной ноге.",
+                    "riddle_hard": "Быстрое отрывистое движение вверх-вниз.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЛЗТИ",
+                    "riddle": "Передвигаться на четвереньках или животе.",
+                    "riddle_hard": "Медленное движение, касаясь земли телом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАГАТЬ",
+                    "riddle": "Идти широкими, уверенными шагами.",
+                    "riddle_hard": "Решительная походка.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 156,
+            "grid_size": 5,
+            "category": "Ментальное",
+            "subcategory": "Эмоции",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МОРАЛЬ",
+                    "riddle": "Урок из истории.",
+                    "riddle_hard": "Вывод, который учит добру.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУГАТЬ",
+                    "riddle": "Заставлять бояться.",
+                    "riddle_hard": "Делать внезапное 'Бу!",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕЧАЛЬ",
+                    "riddle": "Грусть после потери.",
+                    "riddle_hard": "Тяжесть на сердце после утраты.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВИНА",
+                    "riddle": "Чувство после ошибки.",
+                    "riddle_hard": "Тяжелый груз на совести.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛОХО",
+                    "riddle": "Нехорошо.",
+                    "riddle_hard": "Состояние болезни или неудачи.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 157,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Текстура",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШЁЛК",
+                    "riddle": "Мягкая блестящая ткань от гусениц.",
+                    "riddle_hard": "Нежная ткань, рожденная коконом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОКРЫЙ",
+                    "riddle": "Покрытый водой или попавший под дождь.",
+                    "riddle_hard": "Состояние того, кто не взял зонт.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУШИСТ",
+                    "riddle": "Покрытый мехом, как котенок.",
+                    "riddle_hard": "Мягкий комок, который хочется погладить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛАДКИЙ",
+                    "riddle": "Поверхность без бугров.",
+                    "riddle_hard": "Ровный, как лед на катке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕХ",
+                    "riddle": "Мягкая шуба медведя или кота.",
+                    "riddle_hard": "Густой покров, что греет зверя зимой.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 158,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Сложность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СИЛА",
+                    "riddle": "Мощь и энергия.",
+                    "riddle_hard": "Физическая способность поднимать тяжести.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОСОЙ",
+                    "riddle": "Наклонный.",
+                    "riddle_hard": "Не прямой угол.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШЕСТЬ",
+                    "riddle": "Число, половина дюжины.",
+                    "riddle_hard": "Количество лапок у жука.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕРНЫЙ",
+                    "riddle": "Имеющий определенный размер.",
+                    "riddle_hard": "Сделанный точно по мерке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧУДНОЙ",
+                    "riddle": "Странный и необычный.",
+                    "riddle_hard": "Выходящий за рамки нормального.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 159,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Космос",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОБЛАКО",
+                    "riddle": "Белая вата в небе.",
+                    "riddle_hard": "Скопление пара в атмосфере.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЗРЫВ",
+                    "riddle": "Большой Бум.",
+                    "riddle_hard": "Мгновенное разрушение с грохотом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "США",
+                    "riddle": "Америка (аббр).",
+                    "riddle_hard": "Соединенные Штаты Америки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПС",
+                    "riddle": "Короткое спасибо в чате.",
+                    "riddle_hard": "Благодарность (сленг).",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЕСЯТЬ",
+                    "riddle": "Число пальцев на двух руках.",
+                    "riddle_hard": "Число после девяти.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 160,
+            "grid_size": 6,
+            "category": "Общество",
+            "subcategory": "Профессии",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ДРОЖАТЬ",
+                    "riddle": "Трястись от холода или страха.",
+                    "riddle_hard": "Мелкая вибрация тела.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАГ",
+                    "riddle": "Одно движение ногой при ходьбе.",
+                    "riddle_hard": "Часть прогулки или единица измерения пути.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДРЕЙФ",
+                    "riddle": "Пассивное движение по воде или воздуху.",
+                    "riddle_hard": "Медленное смещение без двигателя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОДНЯТЬ",
+                    "riddle": "Переместить что-то вверх.",
+                    "riddle_hard": "Изменить положение объекта на более высокое.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОВОРОТ",
+                    "riddle": "Смена направления движения.",
+                    "riddle_hard": "Движение по кругу или изменение курса.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 161,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "Визуальное искусство",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ДЕРЕВО",
+                    "riddle": "Материал из ствола для резьбы.",
+                    "riddle_hard": "Я кормлю камин и становлюсь мебелью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕНЬ",
+                    "riddle": "Темное пятно от солнца.",
+                    "riddle_hard": "Место, куда не попадает свет.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗЕЛЕНЫЙ",
+                    "riddle": "Цвет травы и листьев.",
+                    "riddle_hard": "Цвет природы и сигнала «иди».",
+                    "is_hard": false
+                },
+                {
+                    "word": "КАРКАС",
+                    "riddle": "Внутренняя структура.",
+                    "riddle_hard": "Скелет скульптуры или здания.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОПИЯ",
+                    "riddle": "Точное повторение оригинала.",
+                    "riddle_hard": "Дубликат шедевра.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 162,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Фауна",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СОБАКА",
+                    "riddle": "Лучший друг человека.",
+                    "riddle_hard": "Виляет хвостом от радости и охраняет дом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕЛИКАН",
+                    "riddle": "Птица с мешком для рыбы под клювом.",
+                    "riddle_hard": "Ловит рыбу как сачком.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧЕРВЯК",
+                    "riddle": "Длинный и розовый живет в земле.",
+                    "riddle_hard": "Рыбаки насаживают его на крючок.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕГЕМОТ",
+                    "riddle": "Толстый житель африканских рек.",
+                    "riddle_hard": "Огромная пасть и маленькие ушки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОВА",
+                    "riddle": "Мудрая птица которая не спит ночью.",
+                    "riddle_hard": "У меня большие глаза, и я говорю «У-ху».",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 163,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Гардероб",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ФЛИС",
+                    "riddle": "Синтетическая шерсть.",
+                    "riddle_hard": "Искусственный мех, который греет туристов в горах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СВИТЕР",
+                    "riddle": "Вязаная кофта.",
+                    "riddle_hard": "Шерстяные объятия, которые мама заставляет надеть.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФЕДОРА",
+                    "riddle": "Шляпа гангстера.",
+                    "riddle_hard": "Мягкая шляпа, которую носил Индиана Джонс.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАРКА",
+                    "riddle": "Длинная тёплая куртка.",
+                    "riddle_hard": "Куртка полярника, в которой не страшен мороз.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МАСКА",
+                    "riddle": "Скрывает лицо на карнавале.",
+                    "riddle_hard": "Она позволяет тебе быть кем угодно, пока часы не пробьют двенадцать.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 164,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Инженерия",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗУБ",
+                    "riddle": "Живет во рту, но также есть у шестеренки.",
+                    "riddle_hard": "Единичный выступ на колесе для передачи движения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВАЛ",
+                    "riddle": "Крутящаяся ось двигателя.",
+                    "riddle_hard": "Деталь машины для передачи крутящего момента.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРОВОД",
+                    "riddle": "Тонкая дорога для электричества.",
+                    "riddle_hard": "Металлический проводник, соединяющий источники тока.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШУРУП",
+                    "riddle": "Винт, который вкручивают отверткой.",
+                    "riddle_hard": "Крепежное изделие в виде стержня с винтовой нарезкой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УТИЛЬ",
+                    "riddle": "Мусор, ставший полезным.",
+                    "riddle_hard": "Отходы пригодные для переработки.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 165,
+            "grid_size": 6,
+            "category": "Действие",
+            "subcategory": "Ручной труд",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "БОСС",
+                    "riddle": "Человек, который всем командует.",
+                    "riddle_hard": "Главный начальник в офисе или на стройке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАЯТЬ",
+                    "riddle": "Соединять провода оловом.",
+                    "riddle_hard": "Плавить мягкий металл, чтобы починить электронику.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УДАР",
+                    "riddle": "Резкое столкновение.",
+                    "riddle_hard": "Звук и действие при попадании молотка по пальцу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКАЛА",
+                    "riddle": "Твердая горная порода.",
+                    "riddle_hard": "Огромный природный камень, часть горы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЦЕМЕНТ",
+                    "riddle": "Порошок для бетона.",
+                    "riddle_hard": "Серая пыль, которая при смешивании с водой становится камнем.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 166,
+            "grid_size": 5,
+            "category": "Ментальное",
+            "subcategory": "Воспятие",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СИРЕНА",
+                    "riddle": "Громкий звук \"виу-виу\".",
+                    "riddle_hard": "Тревожный сигнал скорой помощи или полиции.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОННЫЙ",
+                    "riddle": "Зевающий человек.",
+                    "riddle_hard": "Состояние, когда глаза слипаются от усталости.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШПИОН",
+                    "riddle": "Тот кто следит за людьми в секрете.",
+                    "riddle_hard": "Агент, добывающий скрытую информацию под прикрытием.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НАМЕК",
+                    "riddle": "Маленькая подсказка которая помогает.",
+                    "riddle_hard": "Косвенное указание на правильный ответ.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БОЛЬ",
+                    "riddle": "Неприятное чувство когда ударишься.",
+                    "riddle_hard": "Сигнал организма о том, что что-то пошло не так.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 167,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Характер",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "УМНЫЙ",
+                    "riddle": "Я быстро решаю задачи и учу уроки.",
+                    "riddle_hard": "Обладающий интеллектом и сообразительностью.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШУСТРЫЙ",
+                    "riddle": "Я быстрый, как молния!",
+                    "riddle_hard": "Подвижный и лёгкий на подъём.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТРОГИЙ",
+                    "riddle": "Я не люблю шуток и требую порядка.",
+                    "riddle_hard": "Серьёзный и требовательный, не дающий поблажек.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКУПОЙ",
+                    "riddle": "Зимой снега не выпросишь — это про меня.",
+                    "riddle_hard": "Чрезмерно жадный, не желающий тратить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТОЙКИЙ",
+                    "riddle": "Я верен и крепок как сталь.",
+                    "riddle_hard": "Надёжный защитник и друг.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 168,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Сложность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ДЖУНГЛИ",
+                    "riddle": "Тропический густой лес.",
+                    "riddle_hard": "Зеленый дом для обезьян и лиан.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРИМЕР",
+                    "riddle": "Образец для подражания.",
+                    "riddle_hard": "Задача в учебнике математики.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОРМУЛА",
+                    "riddle": "Математическое правило.",
+                    "riddle_hard": "Рецепт в науке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОБЪЕКТ",
+                    "riddle": "Предмет или вещь.",
+                    "riddle_hard": "Цель внимания или наблюдения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕЧЕТЬ",
+                    "riddle": "Мусульманский храм.",
+                    "riddle_hard": "Здание с куполом и минаретом.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 169,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Городские пространства",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СТЕНА",
+                    "riddle": "Она держит крышу и делит комнаты.",
+                    "riddle_hard": "Вертикальная конструкция, ограждающая пространство.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАВОД",
+                    "riddle": "Здание с трубами, где делают вещи.",
+                    "riddle_hard": "Промышленное предприятие с механизированным производством.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖИЛЬЕ",
+                    "riddle": "Квартиры и дома для людей.",
+                    "riddle_hard": "Помещения, предназначенные для проживания граждан.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МУЗЕЙ",
+                    "riddle": "Дом, где хранят историю и древности.",
+                    "riddle_hard": "Учреждение, собирающее и выставляющее памятники искусства.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БАШНЯ",
+                    "riddle": "Высокий дом, где живет принцесса.",
+                    "riddle_hard": "Высокое и узкое инженерное сооружение.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 170,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Климат",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РИЗА",
+                    "riddle": "Одежда священника.",
+                    "riddle_hard": "Торжественная мантия для службы в храме.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕНТА",
+                    "riddle": "Полоска ткани для декора.",
+                    "riddle_hard": "Шелковая змея, которой перевязывают подарки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШИК",
+                    "riddle": "Высшая степень моды и блеска.",
+                    "riddle_hard": "Когда ты выглядишь так, будто сошел с обложки журнала миллионеров.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛОФЕРЫ",
+                    "riddle": "Туфли без шнурков.",
+                    "riddle_hard": "Туфли для ленивых: вставил ногу и пошел.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НЕРЯХА",
+                    "riddle": "Грязно одетый человек.",
+                    "riddle_hard": "Тот, кто считает, что пятно от супа — это узор на рубашке.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 171,
+            "grid_size": 5,
+            "category": "Природа",
+            "subcategory": "Флора",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "САХАР",
+                    "riddle": "Сладкий песок.",
+                    "riddle_hard": "Белый яд и белая радость.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КИВИ",
+                    "riddle": "Снаружи волосатый, внутри зеленый.",
+                    "riddle_hard": "Птица без крыльев или фрукт.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СОРНЯК",
+                    "riddle": "Ненужное растение на грядке.",
+                    "riddle_hard": "Враг огородника растущий слишком быстро.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕТКА",
+                    "riddle": "Рука дерева.",
+                    "riddle_hard": "Отросток от ствола.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОВЕС",
+                    "riddle": "Завтрак для лошади и человека.",
+                    "riddle_hard": "Зерно для каши \"Геркулес\".",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 172,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МОЙКА",
+                    "riddle": "Там моют грязную посуду.",
+                    "riddle_hard": "\"Бассейн для грязных тарелок.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВИНО",
+                    "riddle": "Алкоголь из винограда.",
+                    "riddle_hard": "\"Напиток истины стареющий в бочках.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗЕРНО",
+                    "riddle": "Одно семечко риса или пшеницы.",
+                    "riddle_hard": "\"Маленькое семя из которого растет еда.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАЛФЕЙ",
+                    "riddle": "Мудрая трава с бархатными листьями.",
+                    "riddle_hard": "\"Полезна для горла и для мяса.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЕЗКА",
+                    "riddle": "Нарезать кубиками.",
+                    "riddle_hard": "\"Превращать овощи в маленькие квадраты.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 173,
+            "grid_size": 6,
+            "category": "Культура",
+            "subcategory": "История/Миф",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МАГ",
+                    "riddle": "Человек творящий чудеса.",
+                    "riddle_hard": "Мудрец, подчинивший себе стихии силой слова.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХИМЕРА",
+                    "riddle": "Монстр из частей разных животных.",
+                    "riddle_hard": "Чудовище с головой льва и хвостом змеи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОБРАЗ",
+                    "riddle": "Внешний вид героя.",
+                    "riddle_hard": "То, как мы видим или представляем себе кого-то.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЕНИЙ",
+                    "riddle": "Очень умный человек.",
+                    "riddle_hard": "Человек с выдающимся умом и талантом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕС",
+                    "riddle": "Маленький проказливый демон.",
+                    "riddle_hard": "Рогатый дух, толкающий людей на мелкие пакости.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 174,
+            "grid_size": 5,
+            "category": "Действие",
+            "subcategory": "Передвижение",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГУЛЯТЬ",
+                    "riddle": "Ходить не спеша, наслаждаясь погодой.",
+                    "riddle_hard": "Расслабленная прогулка по парку.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВСТАТЬ",
+                    "riddle": "Подняться со стула или кровати.",
+                    "riddle_hard": "Перейти из положения лежа в положение стоя.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОХОД",
+                    "riddle": "Долгая прогулка с рюкзаком на природе.",
+                    "riddle_hard": "Путешествие пешком по горам или лесам.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЫТЬ",
+                    "riddle": "Делать яму в земле лопатой.",
+                    "riddle_hard": "Углубляться в почву в поисках клада или корней.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛЕЗТЬ",
+                    "riddle": "Взбираться вверх, цепляясь руками.",
+                    "riddle_hard": "Подниматься на дерево или гору.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 175,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Экономика",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ОЛЕНЬ",
+                    "riddle": "Благородный зверь с ветвистыми рогами.",
+                    "riddle_hard": "Помощник Санта-Клауса в упряжке.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АСПИД",
+                    "riddle": "Ядовитая змея из древних легенд.",
+                    "riddle_hard": "Коварный змей, упоминаемый в мифах и сказках.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧАЙКА",
+                    "riddle": "Белая птица над морем.",
+                    "riddle_hard": "Кричит на пляже и ворует еду у туристов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УТКА",
+                    "riddle": "Птица которая крякает.",
+                    "riddle_hard": "Плавает в пруду и ныряет хвостиком вверх.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПАНДА",
+                    "riddle": "Черно-белый медведь который ест бамбук.",
+                    "riddle_hard": "Символ Китая с темными кругами вокруг глаз.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 176,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Климат",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПОДПИСЬ",
+                    "riddle": "Автограф.",
+                    "riddle_hard": "Уникальный росчерк пера, подтверждающий личность.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧЕРНИЛА",
+                    "riddle": "Кровь шариковой ручки.",
+                    "riddle_hard": "Темная вода, которая помнит всё, что вы написали.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЕРЕВОД",
+                    "riddle": "Смена языка.",
+                    "riddle_hard": "Превращение английского в русский.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗВОНОК",
+                    "riddle": "Разговор по телефону с другом.",
+                    "riddle_hard": "Способ быть рядом, находясь далеко.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЖАРГОН",
+                    "riddle": "Профессиональные слова.",
+                    "riddle_hard": "Секретный язык врачей или инженеров.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 177,
+            "grid_size": 5,
+            "category": "Тело",
+            "subcategory": "Анатомия",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ГАМЕТА",
+                    "riddle": "Половая клетка.",
+                    "riddle_hard": "Клетка, готовая к оплодотворению.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРОТОК",
+                    "riddle": "Трубка для жидкостей тела.",
+                    "riddle_hard": "Канал, по которому текут слезы или желчь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯИЧКО",
+                    "riddle": "Мужская железа.",
+                    "riddle_hard": "Мужской половой орган, производящий клетки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФАСЦИЯ",
+                    "riddle": "Оболочка мышц.",
+                    "riddle_hard": "Пленка, покрывающая мышцы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОЗГ",
+                    "riddle": "Орган для мышления.",
+                    "riddle_hard": "Главный компьютер организма внутри черепа.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 178,
+            "grid_size": 6,
+            "category": "Дом",
+            "subcategory": "Инструменты",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "НОЖНИЦЫ",
+                    "riddle": "Режущий инструмент.",
+                    "riddle_hard": "Два лезвия с кольцами для резки ткани.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШАЙБА",
+                    "riddle": "Металлическое кольцо.",
+                    "riddle_hard": "Плоское кольцо под болтом или спортивный снаряд.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СЕЙФ",
+                    "riddle": "Запертый ящик.",
+                    "riddle_hard": "Защищенный ящик с замком для ценностей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПИЛА",
+                    "riddle": "Этим режут древесину.",
+                    "riddle_hard": "Зубастая хищница, что перегрызает бревна.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОЗЕТКА",
+                    "riddle": "Источник тока.",
+                    "riddle_hard": "Дырки в стене, где живет электричество.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 179,
+            "grid_size": 6,
+            "category": "Ментальное",
+            "subcategory": "Эмоции",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РОБКИЙ",
+                    "riddle": "Стесняющийся других людей.",
+                    "riddle_hard": "Тот, кто хочет стать невидимкой в толпе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЕСТЬ",
+                    "riddle": "Ответный удар.",
+                    "riddle_hard": "Желание отплатить злом за зло.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШОК",
+                    "riddle": "Реакция на внезапность.",
+                    "riddle_hard": "Когда теряешь дар речи от удивления.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОМФОРТ",
+                    "riddle": "Удобство.",
+                    "riddle_hard": "Мягкое кресло для души.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГОРЕЧЬ",
+                    "riddle": "Острая обида.",
+                    "riddle_hard": "Вкус разочарования.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 180,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Математика/Формы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СЧЕТЫ",
+                    "riddle": "Древний калькулятор с костяшками.",
+                    "riddle_hard": "Приспособление для арифметических вычислений.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРИКАЗ",
+                    "riddle": "Команда командира.",
+                    "riddle_hard": "Распоряжение, обязательное для исполнения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЕЛИТЬ",
+                    "riddle": "Резать пополам.",
+                    "riddle_hard": "Разбивать на части.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧЕТЫРЕ",
+                    "riddle": "Ножки у стола или стула.",
+                    "riddle_hard": "Квадрат числа два.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛИНИЯ",
+                    "riddle": "След от карандаша по линейке.",
+                    "riddle_hard": "Прямая, соединяющая две точки.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 181,
+            "grid_size": 5,
+            "category": "Культура",
+            "subcategory": "Звук/Аудио",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПОВТОР",
+                    "riddle": "Прослушивание записи.",
+                    "riddle_hard": "Воспроизведение записанного материала.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРОМКО",
+                    "riddle": "Так слушают музыку соседи, когда вызывают полицию.",
+                    "riddle_hard": "Высокий уровень децибел.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РВЕНИЕ",
+                    "riddle": "Играть с большой страстью (муз. термин Zeloso).",
+                    "riddle_hard": "Музыкальная ремарка: исполнять с усердием и огнем.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТОН",
+                    "riddle": "Оттенок звука или цвета.",
+                    "riddle_hard": "Качество звучания голоса или настроения.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФЛЕЙТА",
+                    "riddle": "Тонкая трубочка, которая поет как птица.",
+                    "riddle_hard": "Духовой инструмент, который держат поперек.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 182,
+            "grid_size": 6,
+            "category": "Природа",
+            "subcategory": "Фауна",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ХОМЯК",
+                    "riddle": "Щекастый грызун.",
+                    "riddle_hard": "Прячет еду за щеки и бегает в колесе.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПУМА",
+                    "riddle": "Горный лев.",
+                    "riddle_hard": "Дикая кошка которую называют кугуаром.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НОРКА",
+                    "riddle": "Зверек с ценным мехом.",
+                    "riddle_hard": "Водоплавающий родственник хорька.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БЕКАС",
+                    "riddle": "Болотная птица с длинным носом.",
+                    "riddle_hard": "Трудно подстрелить на охоте.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОЛИБРИ",
+                    "riddle": "Самая маленькая птичка в мире.",
+                    "riddle_hard": "Пьет нектар и умеет летать задом наперед.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 183,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Городские пространства",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ВЪЕЗД",
+                    "riddle": "Главные ворота в город.",
+                    "riddle_hard": "Место доступа или прохода.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОРОТА",
+                    "riddle": "Большая дверь в заборе.",
+                    "riddle_hard": "Проезд в стене или ограде, запираемый створками.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХИЖИНА",
+                    "riddle": "Деревянный домик в лесу.",
+                    "riddle_hard": "Небольшой жилой дом в сельской или дикой местности.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЛАВКА",
+                    "riddle": "Место, где меняют деньги на вещи.",
+                    "riddle_hard": "Небольшое торговое заведение.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЯМА",
+                    "riddle": "Глубокая дыра в земле.",
+                    "riddle_hard": "Углубление в грунте, темное и опасное.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 184,
+            "grid_size": 5,
+            "category": "Ментальное",
+            "subcategory": "Общение",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "АПДЕЙТ",
+                    "riddle": "Обновление.",
+                    "riddle_hard": "Свежая версия программы или новостей.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭХО",
+                    "riddle": "Повторяющийся звук.",
+                    "riddle_hard": "У меня нет рта, но я всегда отвечаю. У меня нет тела, но меня слышно.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПОР",
+                    "riddle": "Словесная битва.",
+                    "riddle_hard": "Когда два мнения сталкиваются лбами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КУРЬЕР",
+                    "riddle": "Доставщик.",
+                    "riddle_hard": "Человек-ноги, приносящий посылки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФАКС",
+                    "riddle": "Старый способ отправки бумаг по телефону.",
+                    "riddle_hard": "Я пищал в телефонную трубку, передавая документы, пока не появился email.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 185,
+            "grid_size": 6,
+            "category": "Наука",
+            "subcategory": "Материалы",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "САПФИР",
+                    "riddle": "Синий драгоценный камень.",
+                    "riddle_hard": "Камень цвета глубокого океана.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВОДОРОД",
+                    "riddle": "Самый легкий газ.",
+                    "riddle_hard": "Элемент №1 во Вселенной.",
+                    "is_hard": false
+                },
+                {
+                    "word": "БИВЕНЬ",
+                    "riddle": "Зуб слона.",
+                    "riddle_hard": "Белая кость гиганта.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МРАМОР",
+                    "riddle": "Камень для статуй.",
+                    "riddle_hard": "Полированный известняк дворцов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОЛОВО",
+                    "riddle": "Металл для консервных банок.",
+                    "riddle_hard": "Мягкий металл, не боящийся ржавчины.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 186,
+            "grid_size": 5,
+            "category": "Наука",
+            "subcategory": "Время/История",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КЕШ",
+                    "riddle": "Временное хранилище для ускорения.",
+                    "riddle_hard": "Заначка данных, чтобы не скачивать их дважды.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ФОРМАТ",
+                    "riddle": "Тип файла.",
+                    "riddle_hard": "Способ организации данных (например, MP3 или JPG).",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДВИЖОК",
+                    "riddle": "Сердце игры или программы.",
+                    "riddle_hard": "Код, заставляющий виртуальный мир вращаться.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТЕЛ",
+                    "riddle": "Сокращение от телефона.",
+                    "riddle_hard": "Устройство в кармане для звонков.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СКАНЕР",
+                    "riddle": "Переводит бумагу в цифру.",
+                    "riddle_hard": "Глаз компьютера, читающий документы.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 187,
+            "grid_size": 6,
+            "category": "Действие",
+            "subcategory": "Биологическое",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЖЕВАТЬ",
+                    "riddle": "Работать зубами как мельницей.",
+                    "riddle_hard": "Измельчать еду во рту перед тем, как проглотить.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УМЕРЕТЬ",
+                    "riddle": "Конец жизненного пути.",
+                    "riddle_hard": "Остановка сердца и всех биологических часов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СПЯЧКА",
+                    "riddle": "Зимний сон медведя.",
+                    "riddle_hard": "Способ животных пережить холодную зиму.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЗАРЯДКА",
+                    "riddle": "Утренние упражнения.",
+                    "riddle_hard": "Движения для укрепления здоровья.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЯНУТЬ",
+                    "riddle": "Засыхать без воды (о цветке).",
+                    "riddle_hard": "Терять жизненную силу и сморщиваться.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 188,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Визуальное (Свет)",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "РАДУГИ",
+                    "riddle": "Разноцветные дуги в небе.",
+                    "riddle_hard": "Небесные мосты после грозы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОГОНЬ",
+                    "riddle": "Горячее пламя сжигающее дрова.",
+                    "riddle_hard": "Живая теплота которая танцует и кусается.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПОЛОСА",
+                    "riddle": "Длинная линия цвета.",
+                    "riddle_hard": "След от кометы или кисти.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АЛЫЙ",
+                    "riddle": "Очень яркий красный.",
+                    "riddle_hard": "Цвет пионерского галстука или крови.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УМБРА",
+                    "riddle": "Темно-коричневый пигмент земли.",
+                    "riddle_hard": "Глубокая тень на картине художника.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 189,
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Характер",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МУДРЫЙ",
+                    "riddle": "Я много знаю и даю хорошие советы.",
+                    "riddle_hard": "Опыт и знания делают меня похожим на старца.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРУТОЙ",
+                    "riddle": "Я сильный, меня не сломать.",
+                    "riddle_hard": "Выносливый и крепкий, как скала.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПЛОХОЙ",
+                    "riddle": "Я делаю гадости и обижаю других.",
+                    "riddle_hard": "Я — антоним слова хороший, и поступки мои черны.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭГОИСТ",
+                    "riddle": "Я думаю только о себе любимом.",
+                    "riddle_hard": "Человек, зацикленный на своей персоне.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НАГЛЫЙ",
+                    "riddle": "Я дерзю и не уважаю никого.",
+                    "riddle_hard": "Проявляющий грубое неуважение.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 190,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Сложность",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗОМБИ",
+                    "riddle": "Живой мертвец.",
+                    "riddle_hard": "Ходячий труп из фильмов ужасов.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КЛАВИШИ",
+                    "riddle": "Кнопки на пианино или компьютере.",
+                    "riddle_hard": "Инструмент для набора текста.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РОСКОШЬ",
+                    "riddle": "Богатство и шик.",
+                    "riddle_hard": "Жизнь на самую широкую ногу.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭКВАТОР",
+                    "riddle": "Пояс Земли.",
+                    "riddle_hard": "Линия, делящая мир на север и юг.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЫХОД",
+                    "riddle": "Дверь, чтобы покинуть здание.",
+                    "riddle_hard": "Светящаяся табличка над дверью в кинотеатре.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 191,
+            "grid_size": 5,
+            "category": "Тело",
+            "subcategory": "Анатомия",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЗРЕНИЕ",
+                    "riddle": "Способность видеть.",
+                    "riddle_hard": "Одно из пяти чувств, работающее через глаза.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДОЛЯ",
+                    "riddle": "Часть мозга или печени.",
+                    "riddle_hard": "Сектор органа (например, мозга).",
+                    "is_hard": false
+                },
+                {
+                    "word": "АОРТА",
+                    "riddle": "Главная артерия.",
+                    "riddle_hard": "Самая большая магистраль для крови, выходящая из сердца.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОРГАН",
+                    "riddle": "Часть тела с функцией.",
+                    "riddle_hard": "Сердце, печень или почка как рабочая единица тела.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОЛЯР",
+                    "riddle": "Коренной зуб.",
+                    "riddle_hard": "Крупный жевательный зуб в глубине рта.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 192,
+            "grid_size": 5,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СТЕЙК",
+                    "riddle": "Толстый кусок говядины.",
+                    "riddle_hard": "\"Элитный кусок мяса для гриля.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЫНЯ",
+                    "riddle": "Большой желтый сладкий плод.",
+                    "riddle_hard": "\"Сладкая подруга арбуза.",
+                    "is_hard": false
+                },
+                {
+                    "word": "УКРОП",
+                    "riddle": "Зелень для соленых огурцов.",
+                    "riddle_hard": "\"Ароматная трава с тонкими веточками.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧАЙНИК",
+                    "riddle": "В нем кипятят воду.",
+                    "riddle_hard": "\"Металлический горшок который свистит.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СУФЛЕ",
+                    "riddle": "Воздушный десерт.",
+                    "riddle_hard": "\"Легкое блюдо из взбитых яиц.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 193,
+            "grid_size": 5,
+            "category": "Культура",
+            "subcategory": "Экран/Сцена",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "КАБАРЕ",
+                    "riddle": "Шоу с танцами и песнями в ресторане.",
+                    "riddle_hard": "Развлекательное заведение с эстрадой.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ШОУ",
+                    "riddle": "Яркое представление для публики.",
+                    "riddle_hard": "Развлекательная программа на ТВ.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ПРЕВЬЮ",
+                    "riddle": "Предварительный просмотр.",
+                    "riddle_hard": "Картинка-заставка видео.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭПОС",
+                    "riddle": "Грандиозная история о героях.",
+                    "riddle_hard": "Длинное повествование о великих подвигах.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТОНИ",
+                    "riddle": "Премия для театралов Бродвея.",
+                    "riddle_hard": "Театральный аналог Оскара.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 194,
+            "grid_size": 5,
+            "category": "Тело",
+            "subcategory": "Чувства",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ШУМ",
+                    "riddle": "Громкие беспорядочные звуки.",
+                    "riddle_hard": "Враг тишины.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КРИК",
+                    "riddle": "Громкий возглас страха.",
+                    "riddle_hard": "Сирена человеческого горла.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ХВАТКА",
+                    "riddle": "Крепкое удержание рукой.",
+                    "riddle_hard": "Рукопожатие бульдога.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОЖОГ",
+                    "riddle": "Болячка от горячего утюга.",
+                    "riddle_hard": "Поцелуй огня, оставляющий след.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДЫМНЫЙ",
+                    "riddle": "Пахнущий костром.",
+                    "riddle_hard": "Атмосфера прокуренной комнаты.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 195,
+            "grid_size": 5,
+            "category": "Общество",
+            "subcategory": "Правительство/Конфликт",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ФЕМИДА",
+                    "riddle": "Богиня честности в суде.",
+                    "riddle_hard": "Слепая дама с весами и мечом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МИССИЯ",
+                    "riddle": "Важное задание для агента.",
+                    "riddle_hard": "Цель, которая оправдывает средства.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КЛИКА",
+                    "riddle": "Тайная банда политиков.",
+                    "riddle_hard": "Группа заговорщиков, дергающая за нитки.",
+                    "is_hard": false
+                },
+                {
+                    "word": "АТАКА",
+                    "riddle": "Резкое нападение.",
+                    "riddle_hard": "Лучшая защита — это она.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЗЯТКА",
+                    "riddle": "Деньги в конверте нечестному чиновнику.",
+                    "riddle_hard": "Ржавчина, разъедающая закон.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 196,
+            "grid_size": 6,
+            "category": "Общество",
+            "subcategory": "Профессии",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МГЛА",
+                    "riddle": "Густой туман или темнота, скрывающая всё.",
+                    "riddle_hard": "Непрозрачный воздух, насыщенный влагой или дымом.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛИНА",
+                    "riddle": "Мягкая земля, из которой лепят горшки.",
+                    "riddle_hard": "Природный пластилин, твердеющий в печи.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ОДЕЯЛО",
+                    "riddle": "Теплое покрывало для сна.",
+                    "riddle_hard": "То, чем укрываются в кровати.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВЕТЕР",
+                    "riddle": "Он гуляет без ног, воет без голоса и гонит облака.",
+                    "riddle_hard": "Движение воздуха, которое крутит мельницы.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РТУТЬ",
+                    "riddle": "Жидкий металл из градусника.",
+                    "riddle_hard": "Серебристый ядовитый металл, текучий как вода.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 197,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Физика (Тепло)",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "МАКСИ",
+                    "riddle": "Самый большой размер, юбка до пола, например.",
+                    "riddle_hard": "Предел величины, для всей страны.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТУСКЛЫЙ",
+                    "riddle": "Света даю совсем чуть-чуть, едва освещаю путь.",
+                    "riddle_hard": "Я почти темнота, мрачная пустота.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЭНЕРГИЯ",
+                    "riddle": "Сила батарейки, что движет игрушку.",
+                    "riddle_hard": "Способность работать и лампочки жечь.",
+                    "is_hard": false
+                },
+                {
+                    "word": "СТАТИКА",
+                    "riddle": "Когда волосы встают дыбом от шарика.",
+                    "riddle_hard": "Электричество, что стоит на месте.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТОЧНЫЙ",
+                    "riddle": "Без ошибок, прямо в цель.",
+                    "riddle_hard": "Как часы швейцарские, верный расчет.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 198,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Текстура",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ЧУМАЗЫЙ",
+                    "riddle": "Грязный и пыльный.",
+                    "riddle_hard": "Покрытый слоем уличной пыли.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГРАВИЙ",
+                    "riddle": "Грубые мелкие камни.",
+                    "riddle_hard": "Каменная крошка для дороги.",
+                    "is_hard": false
+                },
+                {
+                    "word": "КОЛЮЧИЙ",
+                    "riddle": "С шипами, как роза.",
+                    "riddle_hard": "Острый, как ёжик.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ТВЕРДЬ",
+                    "riddle": "Что-то прочное и устойчивое.",
+                    "riddle_hard": "Незыблемая опора под ногами.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГАЗ",
+                    "riddle": "Воздушный и невидимый.",
+                    "riddle_hard": "Летучее вещество, стремящееся заполнить всё вокруг.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 199,
+            "grid_size": 6,
+            "category": "Качества",
+            "subcategory": "Ценность/Статус",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ПЕРЛ",
+                    "riddle": "Драгоценность со дна моря.",
+                    "riddle_hard": "Редкая вещь или очень метко сказанное слово.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ЧИСТ",
+                    "riddle": "Без пятен и грязи.",
+                    "riddle_hard": "Не имеющий примесей; стопроцентный.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ВИП",
+                    "riddle": "Очень важная персона с лучшим местом в зале.",
+                    "riddle_hard": "Человек с особым статусом и привилегиями.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МОДНО",
+                    "riddle": "Так одеваются все стильные люди сейчас.",
+                    "riddle_hard": "Соответствует последним тенденциям стиля.",
+                    "is_hard": false
+                },
+                {
+                    "word": "РЕДКО",
+                    "riddle": "То, что трудно найти даже с огнем.",
+                    "riddle_hard": "Уникальное явление, случающееся нечасто.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 200,
+            "grid_size": 5,
+            "category": "Ментальное",
+            "subcategory": "Познание",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "СТОП",
+                    "riddle": "Команда остановиться.",
+                    "riddle_hard": "Сигнал опасности, включающий тормоза.",
+                    "is_hard": false
+                },
+                {
+                    "word": "МЫСЛЬ",
+                    "riddle": "Идея в голове.",
+                    "riddle_hard": "Самая быстрая вещь во вселенной.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ДУША",
+                    "riddle": "Внутренний мир человека.",
+                    "riddle_hard": "Невидимая сущность, которая болит от грусти.",
+                    "is_hard": false
+                },
+                {
+                    "word": "НАВЫК",
+                    "riddle": "Умение что-то делать.",
+                    "riddle_hard": "Талант, отшлифованный тысячами повторений.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ГЛУПЕЦ",
+                    "riddle": "Тот, кто делает глупости.",
+                    "riddle_hard": "Человек без царя в голове.",
+                    "is_hard": true
                 }
             ],
             "extra_words": []

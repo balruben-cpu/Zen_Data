@@ -9,20 +9,20 @@
             "puzzles": [
                 {
                     "word": "RIDDLE",
-                    "riddle": "I am a mystery for you to solve.",
-                    "riddle_hard": "A verbal maze that hides the truth.",
+                    "riddle": "Think a bit and say my name, I am just a verbal game.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PATH",
-                    "riddle": "Follow me to find your way home.",
-                    "riddle_hard": "A dirt ribbon carved by many feet.",
+                    "riddle": "Walk on me to find your way, I won't let you go astray.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MASTER",
-                    "riddle": "An expert who is the best at their craft.",
-                    "riddle_hard": "The peak of skill in any craft.",
+                    "riddle": "Practice hard to learn the art, I know every single part.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -37,26 +37,26 @@
             "puzzles": [
                 {
                     "word": "BIRD",
-                    "riddle": "Wings I use to swiftly fly.",
+                    "riddle": "Wake you with a morning song, in the sky I do belong.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FISH",
-                    "riddle": "",
-                    "riddle_hard": "A silent swimmer in the deep blue realm.",
-                    "is_hard": false
-                },
-                {
-                    "word": "BEAR",
-                    "riddle": "Big, furry, and loves a sweet snack.",
+                    "riddle": "Hook my mouth to pull me out, I am just a little trout.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BULL",
-                    "riddle": "",
-                    "riddle_hard": "With horns I charge, a heavy smash.",
+                    "word": "BEAR",
+                    "riddle": "Wake me from my winter sleep, I will make you run and weep.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "FROG",
+                    "riddle": "Hear me croak and watch me jump, I sit on a muddy stump.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -71,32 +71,32 @@
             "puzzles": [
                 {
                     "word": "MOON",
-                    "riddle": "A nightlight that follows you.",
-                    "riddle_hard": "A stony face in a sea of stars.",
+                    "riddle": "Watch me glow up in the night, I reflect the solar light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STAR",
-                    "riddle": "A hole in the blanket of night.",
-                    "riddle_hard": "A cosmic spark in the deep dark.",
+                    "riddle": "See me twinkle in the night, just a tiny speck of light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DARK",
-                    "riddle": "What happens when light hides.",
-                    "riddle_hard": "I am the absence of the light.",
+                    "word": "DUSK",
+                    "riddle": "I replace the fading light, just before I bring the night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NIGHT",
-                    "riddle": "The shadow of the whole world.",
-                    "riddle_hard": "The time when stars wake up.",
+                    "riddle": "When the sun goes down to rest, I will put you to the test.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FOG",
-                    "riddle": "",
-                    "riddle_hard": "Low cloud that makes the morning gray.",
+                    "riddle": "Hide the world in heavy grey, till the sun burns me away.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -111,31 +111,31 @@
             "puzzles": [
                 {
                     "word": "RAIN",
-                    "riddle": "A wet surprise the sky often brings.",
+                    "riddle": "Bring your raincoat when I fall, or I'll surely soak you all.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WIND",
-                    "riddle": "",
-                    "riddle_hard": "An invisible ghost pushing trees.",
+                    "riddle": "Open sails to catch my breeze, pushing you across the seas.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COOL",
-                    "riddle": "",
-                    "riddle_hard": "Not quite frozen, but far from heat.",
+                    "riddle": "Drop an ice cube in your tea, you will quickly notice me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WET",
-                    "riddle": "What you become after dancing in the rain.",
+                    "riddle": "Rub a towel to get dry, I will quickly say goodbye.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STORM",
-                    "riddle": "I bring the rain and a loud sound.",
+                    "riddle": "Hear my thunder, run inside, from my rain you have to hide.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -150,32 +150,32 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HEAT",
-                    "riddle": "",
-                    "riddle_hard": "I turn ice into water and water into steam.",
+                    "word": "HUGE",
+                    "riddle": "I am bigger than the rest, stretching wide my giant chest.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WARM",
-                    "riddle": "",
-                    "riddle_hard": "I am what you become when you stand near a fire.",
+                    "riddle": "Sit beside the burning fire, I'm the feeling you desire.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIRE",
-                    "riddle": "",
-                    "riddle_hard": "A dancing orange ghost.",
+                    "riddle": "Feed me wood to watch me grow, I will melt the winter snow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASH",
-                    "riddle": "The gray powder left after a fire.",
+                    "riddle": "When the fire burns away, I am all that's left to stay.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STEAM",
-                    "riddle": "I rise when things get hot.",
+                    "riddle": "Boil the water in the pot, watch me rise when it gets hot.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -191,32 +191,26 @@
             "puzzles": [
                 {
                     "word": "SNOW",
-                    "riddle": "White blanket that falls from the sky.",
+                    "riddle": "Roll me up into a ball, I become a man so tall.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COLD",
-                    "riddle": "I nip your nose and freeze your toes!",
+                    "word": "MORNING",
+                    "riddle": "Wake up early to my light, I will chase away the night.",
                     "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "ICE",
-                    "riddle": "Slippery hard water.",
-                    "riddle_hard": "A slippery stone that melts.",
                     "is_hard": false
                 },
                 {
                     "word": "FLOOD",
-                    "riddle": "When the river decides to visit the street.",
+                    "riddle": "When the river starts to break, I will make the town a lake.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HAIL",
-                    "riddle": "",
-                    "riddle_hard": "Frozen rain that bounces on the roof.",
+                    "riddle": "I fall down like stones of ice, denting cars is not so nice.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -231,38 +225,26 @@
             "puzzles": [
                 {
                     "word": "TREE",
-                    "riddle": "A nature giant with a thousand leaves.",
+                    "riddle": "Climb my branches to the sky, I give shade to passersby.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOTUS",
-                    "riddle": "",
-                    "riddle_hard": "A beautiful flower that floats on a pond.",
+                    "riddle": "Cross your legs to sit like me, find your inner harmony.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WOOD",
-                    "riddle": "I come from a tree and feed the fireplace.",
+                    "riddle": "Chop me up and stack me high, watch me as the embers fly.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GREEN",
-                    "riddle": "Nature's favorite outfit.",
+                    "word": "HARVEST",
+                    "riddle": "Pick the apples from the tree, winter comes right after me.",
                     "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "BUSH",
-                    "riddle": "Often pruned, low and dense.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                },
-                {
-                    "word": "DEW",
-                    "riddle": "Morning water on grass.",
-                    "riddle_hard": "Night's soft breath makes me appear.",
                     "is_hard": true
                 }
             ],
@@ -271,37 +253,31 @@
         {
             "level_id": 8,
             "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Flora",
+            "category": "SOCIETY",
+            "subcategory": "Professions",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ROOT",
-                    "riddle": "",
-                    "riddle_hard": "The tree's secret anchors.",
-                    "is_hard": false
-                },
-                {
-                    "word": "BARK",
-                    "riddle": "Armor for a wooden giant.",
+                    "word": "PRINCE",
+                    "riddle": "Stand beside the royal throne, one day it will be my own.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LOG",
-                    "riddle": "",
-                    "riddle_hard": "I'm a tree part, cut and dry.",
+                    "word": "POET",
+                    "riddle": "Read my clever rhyming line, I make every word combine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LEAF",
-                    "riddle": "It turns orange and falls in October.",
-                    "riddle_hard": "A solar panel made of green veins.",
+                    "word": "CASHIER",
+                    "riddle": "Scan your items one by one, I take cash when you are done.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FRUIT",
-                    "riddle": "I grow on trees and taste quite sweet.",
+                    "word": "DIRECTOR",
+                    "riddle": "Shout out action on the set, I ensure the goals are met.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -317,26 +293,32 @@
             "puzzles": [
                 {
                     "word": "SWAMP",
-                    "riddle": "Wet, murky ground where frogs can creep.",
+                    "riddle": "Find the gators in my mud, I will swallow up the flood.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ISLAND",
-                    "riddle": "",
-                    "riddle_hard": "Land with water on every single side.",
+                    "riddle": "Find me floating in the sea, bring a boat to visit me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VALLEY",
-                    "riddle": "A low place between hills, often with a river.",
+                    "riddle": "Hide me deep between the hills, where the quiet river spills.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEA",
+                    "riddle": "Crash my waves upon the shore, holding secrets on the floor.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEACH",
-                    "riddle": "",
-                    "riddle_hard": "Where waves write secrets in the sand.",
+                    "riddle": "Walk upon my golden sand, I connect the sea and land.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -344,38 +326,32 @@
         },
         {
             "level_id": 10,
-            "grid_size": 5,
-            "category": "NATURE",
-            "subcategory": "Geography",
+            "grid_size": 4,
+            "category": "HOME",
+            "subcategory": "Wardrobe",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HILL",
-                    "riddle": "A baby mountain.",
+                    "word": "BOXERS",
+                    "riddle": "Wear me hidden near your waist, I am comfy and well-placed.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SAND",
-                    "riddle": "",
-                    "riddle_hard": "I'm ground stone that shifts with the breeze.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SALT",
-                    "riddle": "",
-                    "riddle_hard": "A crystal touch, you ask for more.",
-                    "is_hard": false
-                },
-                {
-                    "word": "REEF",
-                    "riddle": "Ocean's garden made of coral dreams.",
+                    "word": "ROBE",
+                    "riddle": "Tie me up when you are cold, I am soft and nice to hold.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CAVE",
-                    "riddle": "A dark hole where bats reside.",
+                    "word": "SOCK",
+                    "riddle": "Slip me in your running shoe, I will keep feet warm for you.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "OUTFIT",
+                    "riddle": "Put together shirt and shoes, showing off the real you.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -391,32 +367,32 @@
             "puzzles": [
                 {
                     "word": "LAND",
-                    "riddle": "Where farmers plant their seeds to grow.",
-                    "riddle_hard": "Solid ground beneath your feet, not sea.",
+                    "riddle": "Hold the roots of every tree, I will stop to meet the sea.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PEAK",
-                    "riddle": "The mountain's pointed hat.",
-                    "riddle_hard": "The very tip of the world.",
+                    "riddle": "Climb me high above the cloud, I make every mountain proud.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROCK",
-                    "riddle": "I am hard, gray, and found on the ground.",
-                    "riddle_hard": "A heavy piece of the mountain's bone.",
+                    "riddle": "Find me on the riverbed, heavy as a lump of lead.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STONE",
-                    "riddle": "A small piece of rock.",
-                    "riddle_hard": "The mountain's smallest building block.",
+                    "riddle": "Skip across the water clear, making ripples when I'm near.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIT",
-                    "riddle": "A deep hole in the ground.",
-                    "riddle_hard": "A hole so deep where darkness sleeps.",
+                    "riddle": "Look below the solid ground, I hold darkness all around.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -431,26 +407,26 @@
             "puzzles": [
                 {
                     "word": "HAIR",
-                    "riddle": "It grows on your head and needs a comb.",
-                    "riddle_hard": "Fibers crowning the thinker's space.",
+                    "riddle": "Snip me short or let me grow, brush me well before you go.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIPS",
-                    "riddle": "The gateway for smiles and soft speech.",
-                    "riddle_hard": "A crimson border where whispers meet.",
+                    "riddle": "Use me when you sip some tea, I form words for all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PALE",
-                    "riddle": "When your cheeks lose their pink.",
-                    "riddle_hard": "The color of milk mixed with fear's chill.",
+                    "riddle": "I turn faces white as snow, when a sudden fear you know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLOWING",
-                    "riddle": "Radiant skin, healthy and bright.",
-                    "riddle_hard": "Shining bright without a flame in sight.",
+                    "riddle": "I release a happy light, making every corner bright.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -465,26 +441,26 @@
             "puzzles": [
                 {
                     "word": "OVEN",
-                    "riddle": "I get hot to make things tasty.",
-                    "riddle_hard": "A metal cave where transformation occurs via heat.",
+                    "riddle": "Turn me on to bake a treat, I will give you things to eat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPATULA",
-                    "riddle": "I help you flip pancakes.",
-                    "riddle_hard": "A flat hero used for gentle inversion.",
+                    "riddle": "Slide beneath the frying egg, standing on a single leg.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KNOB",
-                    "riddle": "The small handle you turn.",
-                    "riddle_hard": "A tiny round dictator of flow.",
+                    "riddle": "Twist me left or twist me right, turning on the stovetop light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TABLE",
-                    "riddle": "I have four legs but cannot walk.",
-                    "riddle_hard": "My legs support the dining scene.",
+                    "riddle": "Pull a chair up to my seat, I give you a place to eat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -499,32 +475,32 @@
             "puzzles": [
                 {
                     "word": "ROSE",
-                    "riddle": "A beauty with sharp teeth.",
-                    "riddle_hard": "A red crown in the garden.",
+                    "riddle": "Open petals red and grand, hiding thorns to prick your hand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUD",
-                    "riddle": "A flower's secret package.",
-                    "riddle_hard": "A tiny bundle of petals.",
+                    "riddle": "Keep my petals folded tight, waiting for the morning light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STEM",
-                    "riddle": "The ladder for the flower.",
-                    "riddle_hard": "A green straw for the bloom.",
+                    "riddle": "Stand up tall to hold the flower, growing higher by the hour.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LILY",
-                    "riddle": "A white flower that can float on a pad.",
-                    "riddle_hard": "A trumpet-shaped bloom often found at Easter.",
+                    "riddle": "Float upon the water calm, resting like an open palm.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLOOM",
-                    "riddle": "",
-                    "riddle_hard": "A flower's yawn when day has come.",
+                    "riddle": "Open wide to show my face, bringing color to the place.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -539,38 +515,38 @@
             "puzzles": [
                 {
                     "word": "ANT",
-                    "riddle": "The strongest tiny guy.",
-                    "riddle_hard": "A six-legged weightlifter.",
+                    "riddle": "Lift a crumb upon my back, walking in a tiny track.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEETLE",
-                    "riddle": "A hard-shelled bug that scurries in the dirt.",
-                    "riddle_hard": "I share my name with a famous band.",
+                    "riddle": "Wear a shell of shiny green, crawling where I can't be seen.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WORM",
-                    "riddle": "A pink wiggler in the dirt.",
-                    "riddle_hard": "A tube of life that loves the rain.",
+                    "riddle": "Wiggle through the muddy ground, moving without any sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LICE",
-                    "riddle": "Tiny pest on hair.",
-                    "riddle_hard": "School's unwelcome souvenir.",
+                    "riddle": "Hide inside a head of hair, crawling when you aren't aware.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LARVA",
-                    "riddle": "",
-                    "riddle_hard": "A worm with wings hiding inside.",
+                    "riddle": "Eat a leaf and grow in size, readying for the open skies.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "BUG",
-                    "riddle": "A small creature with six legs.",
-                    "riddle_hard": "A tiny critter crawling on a leaf.",
+                    "riddle": "I crawl on my six small feet, looking for a leaf to eat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -585,32 +561,32 @@
             "puzzles": [
                 {
                     "word": "CROW",
-                    "riddle": "A smart black bird that says \"Caw\".",
-                    "riddle_hard": "A cornfield thief dressed in black mourning.",
+                    "riddle": "I wear coats of shiny black, stealing snacks behind your back.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EGG",
-                    "riddle": "A shell that holds a future flight.",
-                    "riddle_hard": "A fragile vault where new life hides.",
+                    "riddle": "I keep baby birds inside, giving them a place to hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHIRP",
-                    "riddle": "The happy sound of a small bird.",
-                    "riddle_hard": "A tiny cricket’s evening song.",
+                    "riddle": "I am just a sudden note, bursting from a robin's throat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOVE",
-                    "riddle": "A white bird of peace.",
-                    "riddle_hard": "I carry olive branches.",
+                    "riddle": "I wear coats of snowy white, showing peace is always right.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIGEON",
-                    "riddle": "A city bird that bobs its head.",
-                    "riddle_hard": "A statue's best friend in the park.",
+                    "riddle": "Watch me walking down the street, looking for a crumb to eat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -625,32 +601,32 @@
             "puzzles": [
                 {
                     "word": "BRAVE",
-                    "riddle": "Faces danger with a strong heart.",
-                    "riddle_hard": "A lion's spirit without the roar.",
+                    "riddle": "Face the dragon, fight the night, I will always do what's right.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAITH",
-                    "riddle": "Trust in what you cannot see.",
-                    "riddle_hard": "The anchor for the unseen hope.",
+                    "riddle": "Trust in what you cannot see, when you put your hope in me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HUMAN",
-                    "riddle": "The smartest creature on Earth (usually).",
-                    "riddle_hard": "A creature capable of both error and grace.",
+                    "riddle": "Walk on two legs, use my mind, I am smartest of my kind.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MERRY",
-                    "riddle": "Full of cheer and jollity.",
-                    "riddle_hard": "A joyful spirit that refuses to frown.",
+                    "riddle": "I bring smiles to every face, leaving joy around the place.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STYLE",
-                    "riddle": "",
-                    "riddle_hard": "Your special way of dressing shown.",
+                    "riddle": "See me walking looking grand, setting trends across the land.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -665,26 +641,26 @@
             "puzzles": [
                 {
                     "word": "ADULT",
-                    "riddle": "The stage where you reach full size.",
-                    "riddle_hard": "I've shed my baby clothes, now I pay the bills.",
+                    "riddle": "I grew up and left the nest, working hard to do my best.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "INFANT",
-                    "riddle": "Brand new, very little.",
-                    "riddle_hard": "Wrapped tight, fed often, the beginning sprint.",
+                    "riddle": "I drink milk and sleep all day, learning how to walk and play.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHILD",
-                    "riddle": "No longer a baby, but not yet a teen.",
-                    "riddle_hard": "Full of questions, fueled by snacks, avoiding the chores.",
+                    "riddle": "I play games and carry books, giving parents funny looks.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ELDERLY",
-                    "riddle": "",
-                    "riddle_hard": "Years have bent them, but made them wise.",
+                    "riddle": "I move rather slow and wise, looking out with knowing eyes.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -699,32 +675,32 @@
             "puzzles": [
                 {
                     "word": "ROOM",
-                    "riddle": "A space inside a house.",
-                    "riddle_hard": "A place to rest, to dream, or to hide.",
+                    "riddle": "I give space to sleep or eat, hiding from the busy street.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WALL",
-                    "riddle": "Stands between you and the outside.",
-                    "riddle_hard": "Vertical guard dividing here from there.",
+                    "riddle": "I block wind from coming in, stopping where the doors begin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOOR",
-                    "riddle": "Lets you in or out.",
-                    "riddle_hard": "A movable barrier granting passage.",
+                    "riddle": "Swing on hinges open wide, letting people step inside.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROOF",
-                    "riddle": "Keeps the rain off your head.",
-                    "riddle_hard": "The house's hat that shields from rain.",
+                    "riddle": "Sit upon the house so high, catching water from the sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAVERN",
-                    "riddle": "",
-                    "riddle_hard": "Where warriors drink and stories grow near.",
+                    "riddle": "I serve pints for thirsty folk, sharing laughter and a joke.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -739,26 +715,26 @@
             "puzzles": [
                 {
                     "word": "TALE",
-                    "riddle": "A story spun, for old and young.",
-                    "riddle_hard": "A short narrative, but never glum.",
+                    "riddle": "I'm a yarn for you to hear, keeping sleepy children near.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEGEND",
-                    "riddle": "A very famous, perhaps exaggerated, tale.",
-                    "riddle_hard": "A story that sticks around long after the hero fades.",
+                    "riddle": "I keep mighty heroes known, carved upon a standing stone.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FABLE",
-                    "riddle": "",
-                    "riddle_hard": "A brief narrative where creatures often give life advice.",
+                    "riddle": "I make talking animals teach, bringing lessons into reach.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EPIC",
-                    "riddle": "A hero's quest told in endless verses.",
-                    "riddle_hard": "A hero's journey that takes a very long time to tell.",
+                    "riddle": "I tell of a massive quest, putting heroes to the test.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -773,26 +749,26 @@
             "puzzles": [
                 {
                     "word": "SODA",
-                    "riddle": "I fizz and pop, but have no air pump.",
-                    "riddle_hard": "I'm sweet refreshment when the day is hot.",
+                    "riddle": "Bubble up inside the glass, fizzing with a lively sass.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KITCHEN",
-                    "riddle": "Where spoons and spatulas meet their match.",
-                    "riddle_hard": "A room of counter-culture and culinary creation.",
+                    "riddle": "I cook dinners nice and hot, boiling water in a pot.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FORK",
-                    "riddle": "I have teeth but cannot bite.",
-                    "riddle_hard": "A silver hand with four fingers.",
+                    "riddle": "Stab the meat upon your plate, eat before it gets too late.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLATE",
-                    "riddle": "",
-                    "riddle_hard": "Round stage where food performs tonight.",
+                    "riddle": "Hold your dinner warm and round, where the tasty meal is found.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -807,26 +783,26 @@
             "puzzles": [
                 {
                     "word": "AREA",
-                    "riddle": "How much floor space you cover.",
-                    "riddle_hard": "I measure the inside surface, two dimensions you pursue.",
+                    "riddle": "I stretch on the open floor, measuring from door to door.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUBE",
-                    "riddle": "A box shape where every side is a perfect square.",
-                    "riddle_hard": "Six square siblings, bound by twelve edges strong.",
+                    "riddle": "Roll my faces like a die, stacked up solid, neat and high.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIUS",
-                    "riddle": "",
-                    "riddle_hard": "Half a circle's heart, from edge to core.",
+                    "riddle": "Walk from center to the edge, standing on the circle's ledge.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "LENGTH",
-                    "riddle": "How long something stretches.",
-                    "riddle_hard": "The longest dimension of a measured sight.",
+                    "riddle": "Stretch a ribbon long and thin, measure where my ends begin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -841,32 +817,32 @@
             "puzzles": [
                 {
                     "word": "MUSHROOM",
-                    "riddle": "I pop up after the rain, a tasty treat.",
-                    "riddle_hard": "I have a cap but no head, and a stem but no flower.",
+                    "riddle": "Pop up quickly from the dirt, wearing just a tiny skirt.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SEED",
-                    "riddle": "Plant me in dirt and give me a drink!",
-                    "riddle_hard": "The only thing you bury to keep alive.",
+                    "riddle": "Hide inside the muddy ground, sleeping silently and sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHRUB",
-                    "riddle": "I am a small, woody plant, not quite a tree.",
-                    "riddle_hard": "I am a miniature forest, compact and quite dense.",
+                    "riddle": "I grow branches low and wide, giving birds a place to hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THORN",
-                    "riddle": "Sharp point on a rose stem.",
-                    "riddle_hard": "What protects the berry's sweet success?",
+                    "riddle": "Poke a finger with my spine, keeping all the roses fine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRIM",
-                    "riddle": "",
-                    "riddle_hard": "A snip to keep things neat and prim.",
+                    "riddle": "I clip hedges short and neat, making every garden sweet.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -881,32 +857,32 @@
             "puzzles": [
                 {
                     "word": "SOFA",
-                    "riddle": "The softest spot for a movie night.",
-                    "riddle_hard": "I eat your coins and hide the remote.",
+                    "riddle": "Sink into my cushions deep, I will give you room to sleep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BOOK",
-                    "riddle": "A world between two covers.",
-                    "riddle_hard": "A voice made of paper.",
+                    "riddle": "Open up my paper door, find a world you can explore.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TENT",
-                    "riddle": "I'm a temporary house, small and neat.",
-                    "riddle_hard": "A portable peak, home to happy campers.",
+                    "riddle": "Pitch me up and zip me tight, I keep bugs away at night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LAMP",
-                    "riddle": "A sun on a stick.",
-                    "riddle_hard": "I'm a silent sentinel, often beside a chair.",
+                    "riddle": "Turn my button shining bright, chasing out the deepest night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COTTAGE",
-                    "riddle": "A tiny home in the country, sweet and small.",
-                    "riddle_hard": "I wear a roof, not quite a castle, but a peaceful nest.",
+                    "riddle": "I sit by the quiet stream, living in a peaceful dream.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -921,26 +897,26 @@
             "puzzles": [
                 {
                     "word": "CLOSET",
-                    "riddle": "A room within a room for garments.",
-                    "riddle_hard": "Where fashion goes to hibernate.",
+                    "riddle": "Hang your jackets on my rack, find them when you wander back.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRAWER",
-                    "riddle": "A sliding tray for smaller items.",
-                    "riddle_hard": "It slides to hide your folded thoughts.",
+                    "riddle": "Slide me open nice and slow, seeing all your socks below.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHIRT",
-                    "riddle": "Sleeves and buttons, worn on top.",
-                    "riddle_hard": "It covers the torso, usually with sleeves.",
+                    "riddle": "Button up and tuck me in, I will cover up your skin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HANGER",
-                    "riddle": "",
-                    "riddle_hard": "Shaped like shoulders, holds clothes bolder.",
+                    "riddle": "Hook me on the closet pole, keeping wrinkly jackets whole.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -955,32 +931,32 @@
             "puzzles": [
                 {
                     "word": "GEAR",
-                    "riddle": "I have teeth and spin around.",
-                    "riddle_hard": "We mesh to change speed or direction.",
+                    "riddle": "Turn around and interlock, ticking like a metal clock.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WELD",
-                    "riddle": "Joining metal with intense heat.",
-                    "riddle_hard": "A fusion that makes two pieces one.",
+                    "riddle": "I spark up a blinding light, joining heavy metal tight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AXLE",
-                    "riddle": "The rod that makes the wheels spin.",
-                    "riddle_hard": "The invisible spine of a rolling object.",
+                    "riddle": "Hold the wheels so they can spin, making sure the drivers win.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLAN",
-                    "riddle": "The blueprint before construction starts.",
-                    "riddle_hard": "The thinking stage before the first brick.",
+                    "riddle": "Draw my lines upon a sheet, making every room complete.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DESIGN",
-                    "riddle": "",
-                    "riddle_hard": "A plan drawn out before you make the thing.",
+                    "riddle": "Sketch out every little part, I turn metal into art.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -995,32 +971,32 @@
             "puzzles": [
                 {
                     "word": "INK",
-                    "riddle": "The blood of a story.",
-                    "riddle_hard": "Black water that remembers.",
+                    "riddle": "I spill on the empty page, leaving words through every age.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOTE",
-                    "riddle": "A memory on paper.",
-                    "riddle_hard": "A tiny letter to yourself.",
+                    "riddle": "Write my message fast and small, stick me up upon the wall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PAGE",
-                    "riddle": "One slice of a book.",
-                    "riddle_hard": "A thin white field of words.",
+                    "riddle": "Turn me over one by one, reading till the story's done.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VOICE",
-                    "riddle": "I have a mouth but never eat, I let your thoughts take flight.",
-                    "riddle_hard": "I can be loud or just a hush, the messenger that starts the rush.",
+                    "riddle": "I sing lyrics loud and clear, finding every willing ear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PENCIL",
-                    "riddle": "A tool with an eraser on the end.",
-                    "riddle_hard": "A graphite stick that writes in gray.",
+                    "riddle": "I draw pictures dark and gray, wipe my lead mistakes away.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1035,38 +1011,38 @@
             "puzzles": [
                 {
                     "word": "HAMMER",
-                    "riddle": "I have a claw but no fur.",
-                    "riddle_hard": "A heavy head on a stick.",
+                    "riddle": "Swing my head and drive the nail, I will build and never fail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NAIL",
-                    "riddle": "Tap my head to keep the shelf steady.",
-                    "riddle_hard": "I get hammered just to stay in place.",
+                    "riddle": "Hold the wooden boards in place, keeping walls inside their space.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIX",
-                    "riddle": "Making things whole again.",
-                    "riddle_hard": "Curing a tool's sickness.",
+                    "riddle": "Put the broken pieces back, I mend every hole and crack.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAW",
-                    "riddle": "A tool that bites into logs.",
-                    "riddle_hard": "My sharp edge divides the timber.",
+                    "riddle": "Drag my teeth across the wood, cutting every piece I should.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRILL",
-                    "riddle": "I spin fast to make a perfect hole.",
-                    "riddle_hard": "I find my entire life quite boring.",
+                    "riddle": "Spin me fast into the wall, making holes both big and small.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KIT",
-                    "riddle": "",
-                    "riddle_hard": "Tools packed tight where they all fit.",
+                    "riddle": "I hold tools you need to use, making sure you never lose.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1081,32 +1057,32 @@
             "puzzles": [
                 {
                     "word": "DOG",
-                    "riddle": "I talk with a wagging tail.",
-                    "riddle_hard": "A friend who barks at ghosts.",
+                    "riddle": "Wag my tail and give a bark, running with you in the park.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PET",
-                    "riddle": "A friend on the floor.",
-                    "riddle_hard": "Furry joy with a wag.",
+                    "riddle": "Sleep upon your cozy bed, waiting while you scratch my head.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KIBBLE",
-                    "riddle": "Crunchy little nuggets served in a bowl.",
-                    "riddle_hard": "Dry rain falling into a ceramic dish.",
+                    "riddle": "I crunch in your feeding bowl, keeping hungry puppies whole.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COLLAR",
-                    "riddle": "I circle your neck and hold your ID tag.",
-                    "riddle_hard": "A necklace for a beast, held by a leash.",
+                    "riddle": "Wrap me on a furry neck, keeping every dog in check.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "BONE",
-                    "riddle": "A dog's favorite treat to bury.",
-                    "riddle_hard": "A calcium snack for a canine.",
+                    "riddle": "Bury me beneath the ground, dig me up when you come 'round.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -1114,45 +1090,39 @@
         },
         {
             "level_id": 30,
-            "grid_size": 6,
+            "grid_size": 5,
             "category": "CULTURE",
             "subcategory": "Sound/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "SONG",
-                    "riddle": "Add me to your playlist and hit repeat!",
-                    "riddle_hard": "I'm a hit that never needs to touch you.",
-                    "is_hard": false
-                },
-                {
-                    "word": "SING",
-                    "riddle": "Using your voice as an instrument.",
-                    "riddle_hard": "Making melody with only your breath.",
+                    "riddle": "Play my music loud and clear, bringing joy to every ear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOUD",
-                    "riddle": "What music becomes when turned to ten.",
-                    "riddle_hard": "Your neighbors' favorite reason to knock.",
+                    "riddle": "I make such a sudden noise, scaring all the girls and boys.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TUNE",
-                    "riddle": "Fix the pitch to sing it right.",
-                    "riddle_hard": "A melody bends, it falls apart. Set it straight, restore its heart.",
+                    "riddle": "Hum my melody so sweet, making people tap their feet.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
-                    "word": "BEAT",
-                    "riddle": "",
-                    "riddle_hard": "Rhythm's pulse beneath your feet.",
+                    "word": "LULLABY",
+                    "riddle": "A song to help sleep.",
+                    "riddle_hard": "Sing me sweet to close your eyes, I replace the baby's cries.",
                     "is_hard": true
                 },
                 {
                     "word": "GUITAR",
-                    "riddle": "An instrument with six strings and a neck.",
-                    "riddle_hard": "A wooden box that screams when you pluck it.",
+                    "riddle": "Slide a pick across my wire, I will set the stage on fire.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -1160,44 +1130,38 @@
         },
         {
             "level_id": 31,
-            "grid_size": 6,
+            "grid_size": 5,
             "category": "PHYS. ACTS",
             "subcategory": "Conflict/Sport",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "GAME",
-                    "riddle": "Something you play for fun.",
-                    "riddle_hard": "Rules and fun rolled into play the same.",
+                    "riddle": "Play me on a rainy day, chasing all your cares away.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "JUMP",
-                    "riddle": "A sudden upward motion, a high, quick beam.",
-                    "riddle_hard": "Leave the floor, up you soar.",
+                    "riddle": "Leap up with a sudden spring, like a bird upon the wing.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WIN",
-                    "riddle": "The trophy at the end of path.",
-                    "riddle_hard": "The prize for the player.",
-                    "is_hard": false
-                },
-                {
-                    "word": "ROMP",
-                    "riddle": "To play roughly and happily.",
-                    "riddle_hard": "A messy fun run in the grass.",
+                    "riddle": "Reach the end and take the prize, see the fire in my eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BATTLE",
-                    "riddle": "Armies meet on a field of war.",
-                    "riddle_hard": "Where diplomacy dies and iron speaks.",
+                    "riddle": "Swing the heavy iron sword, I fight for the mighty lord.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CATCH",
-                    "riddle": "Grab the ball before it hits the dirt!",
+                    "riddle": "Grab the moving flying ball, making sure it doesn't fall.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1213,38 +1177,38 @@
             "puzzles": [
                 {
                     "word": "HUT",
-                    "riddle": "A tiny home, often made of wood.",
-                    "riddle_hard": "My roof is peaked, my walls are thin, a simple shelter to begin.",
+                    "riddle": "Build my walls of mud and pine, I keep all the weather fine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BOX",
-                    "riddle": "",
-                    "riddle_hard": "I have cardboard walls and four folding flaps.",
+                    "riddle": "Fold my cardboard flaps in place, I will pack your heavy case.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "HOSTEL",
-                    "riddle": "Budget home for backpackers on a tour.",
-                    "riddle_hard": "Half a hotel's price, twice the social.",
+                    "riddle": "Rent a bunk for very cheap, giving backpackers some sleep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRIME",
-                    "riddle": "Dirty soot and dust in a corner.",
-                    "riddle_hard": "The sticky film of a long time.",
+                    "riddle": "I hide on the window frame, giving cleaning chores a name.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAFE",
-                    "riddle": "Spin my dial to open my heavy door.",
-                    "riddle_hard": "My dial turns, but time doesn't move.",
+                    "riddle": "Spin my dial and lock my door, hiding gold beneath the floor.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "COBWEB",
-                    "riddle": "A sticky net left behind by old guests.",
-                    "riddle_hard": "The lace of time draped over every corner.",
+                    "riddle": "I spin out a silver net, catching every bug I get.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -1259,32 +1223,32 @@
             "puzzles": [
                 {
                     "word": "LOVE",
-                    "riddle": "It warms the heart and makes us whole.",
+                    "riddle": "Hold your hand and squeeze it tight, making every worry right.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KIND",
-                    "riddle": "Being nice to your sibs is it.",
-                    "riddle_hard": "Gentle actions that heal a hurt.",
+                    "riddle": "Share a cookie with a friend, making sure their troubles end.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENVY",
-                    "riddle": "I wish I had what you possess.",
-                    "riddle_hard": "A corrosive desire that burns from within.",
+                    "riddle": "I want the prize in your hand, craving everything you planned.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HELP",
-                    "riddle": "What you shout when you are in trouble!",
-                    "riddle_hard": "To lend a hand when things get hard.",
+                    "riddle": "Lend a hand to pull you out, I rush when you give a shout.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARE",
-                    "riddle": "To look after someone who is sick.",
-                    "riddle_hard": "The gentle art of tending to a need.",
+                    "riddle": "I nurse sickness till you mend, acting like a loyal friend.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1299,38 +1263,38 @@
             "puzzles": [
                 {
                     "word": "CAKE",
-                    "riddle": "A sweet tower for a birthday wish.",
-                    "riddle_hard": "Layers of joy wearing a sugary coat.",
+                    "riddle": "I bake as a tower tall, serving slices to them all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAKE",
-                    "riddle": "To cook a treat using a hot oven.",
-                    "riddle_hard": "Transforming dough with invisible heat.",
+                    "riddle": "Push the tray into the heat, I turn dough into a treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLOUR",
-                    "riddle": "White powder that makes up the dough.",
-                    "riddle_hard": "Ground grains that look like indoor snow.",
+                    "riddle": "Dust my white upon the board, kneading me with one accord.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SWEET",
-                    "riddle": "The flavor of sugar, honey, or candy.",
-                    "riddle_hard": "A sugary kiss for your taste buds.",
+                    "riddle": "Taste my sugar drop by drop, melting in the candy shop.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YEAST",
-                    "riddle": "I am the magic that makes bread grow big.",
-                    "riddle_hard": "Tiny organisms that breathe bubbles into the bun.",
+                    "riddle": "Bubble up and make the bread, I rise till the folks are fed.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "KNEAD",
-                    "riddle": "To push and fold dough.",
-                    "riddle_hard": "Massaging the belly of the bread.",
+                    "riddle": "Push the sticky heavy dough, helping all the bread to grow.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1345,32 +1309,32 @@
             "puzzles": [
                 {
                     "word": "PAINT",
-                    "riddle": "Rainbows in a metal bucket.",
-                    "riddle_hard": "Liquid rainbows waiting for a wall.",
+                    "riddle": "Splash a rainbow on the wall, rolling over every hall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRUSH",
-                    "riddle": "I have hair but no head.",
-                    "riddle_hard": "A wooden handle with a soft, hairy tail.",
+                    "riddle": "Slide me on the canvas sheet, I will make the art complete.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ART",
-                    "riddle": "A window to the artist's soul.",
-                    "riddle_hard": "A dream that someone decided to share.",
+                    "riddle": "Hang my picture on the wall, showing beauty to them all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HUE",
-                    "riddle": "A single note in light's song.",
-                    "riddle_hard": "One single note in the song of light.",
+                    "riddle": "I shine as a beam of light, coloring the deepest night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TINT",
-                    "riddle": "A drop of light in the paint.",
-                    "riddle_hard": "A pale whisper of a bright color.",
+                    "riddle": "Mix a little drop of blue, I bring out a brighter hue.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1385,32 +1349,32 @@
             "puzzles": [
                 {
                     "word": "KNIT",
-                    "riddle": "Turning a string into clothes.",
-                    "riddle_hard": "Clicking needles turning string into warmth.",
+                    "riddle": "Click the needles fast and light, making sweaters very bright.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YARN",
-                    "riddle": "A soft ball of string.",
-                    "riddle_hard": "A long, fuzzy path to a blanket.",
+                    "riddle": "Spin a fuzzy ball of wool, I make sure the thread is full.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SNUG",
-                    "riddle": "Tight and cozy in bed.",
-                    "riddle_hard": "Fitting like a secret in a box.",
+                    "riddle": "Wrap me tight and feel the heat, making every nap a treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAKE",
-                    "riddle": "To build something new.",
-                    "riddle_hard": "Bringing an idea into the world.",
+                    "riddle": "Use your hands to build the new, I show what the heart can do.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SCARF",
-                    "riddle": "",
-                    "riddle_hard": "A woolen snake that hugs your throat.",
+                    "riddle": "Wrap around your freezing skin, keeping all the warmth within.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1418,45 +1382,45 @@
         },
         {
             "level_id": 37,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "SOCIETY",
             "subcategory": "Education",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "LEARN",
-                    "riddle": "Growing the world inside you.",
-                    "riddle_hard": "Planting seeds of wisdom in the mind.",
+                    "riddle": "I fill heads with something new, showing all that you can do.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOME",
-                    "riddle": "A very large and heavy book.",
-                    "riddle_hard": "A dusty giant full of old secrets.",
+                    "riddle": "I open up my heavy spine, where the ancient secrets shine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSE",
-                    "riddle": "Silent whisper guiding the creator.",
-                    "riddle_hard": "To let your mind wander in a dream.",
+                    "riddle": "Whisper secrets in your ear, making inspiration clear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KNOW",
-                    "riddle": "The power stored in the mind.",
-                    "riddle_hard": "To have the answer in your head.",
+                    "riddle": "Hold the answer in your mind, I am what you want to find.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SILENT",
-                    "riddle": "No talking in the library.",
-                    "riddle_hard": "The space where words go to rest.",
+                    "riddle": "I bring a hush over the room, chasing out the heavy gloom.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "SHELF",
-                    "riddle": "Where you store your library.",
-                    "riddle_hard": "A wooden ledge for holding stories.",
+                    "riddle": "I hold stories in a row, lined up where the readers go.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -1471,32 +1435,32 @@
             "puzzles": [
                 {
                     "word": "SOAP",
-                    "riddle": "It makes bubbles and gets you clean.",
-                    "riddle_hard": "A slippery foe for dirt.",
+                    "riddle": "Rub me on the dirty skin, where the bubbles will begin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WASH",
-                    "riddle": "Rub with water to get clean.",
-                    "riddle_hard": "A liquid reset for the body.",
+                    "riddle": "I rinse muddy grime away, after all the morning play.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DAMP",
-                    "riddle": "Not dry, but not soaking wet.",
-                    "riddle_hard": "Holding the memory of a recent rain.",
+                    "riddle": "I leave water on the wall, where the morning dewdrops fall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOWEL",
-                    "riddle": "I get wet as you get dry.",
-                    "riddle_hard": "A thirsty cloth that steals the water from your skin.",
+                    "riddle": "Wipe the water from your hair, hanging softly on the chair.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YOGA",
-                    "riddle": "Stretching your body into poses.",
-                    "riddle_hard": "Twisting into a pretzel to find peace.",
+                    "riddle": "Stretch the body on the mat, sitting quiet as a cat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1511,32 +1475,32 @@
             "puzzles": [
                 {
                     "word": "DEAD",
-                    "riddle": "I stop the heart and end the breath.",
-                    "riddle_hard": "Pulse stops, soul takes flight; I am the end of light.",
+                    "riddle": "I stop up the beating heart, tearing every soul apart.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STILL",
-                    "riddle": "Without moving at all.",
-                    "riddle_hard": "Like a mirror on a windless lake.",
+                    "riddle": "I breathe without any sound, standing on the silent ground.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "QUIET",
-                    "riddle": "Not making any loud noises.",
-                    "riddle_hard": "A soft blanket for the ears.",
+                    "riddle": "I hush voices in the hall, where no echoes wake at all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOZE",
-                    "riddle": "To start falling asleep accidentally.",
-                    "riddle_hard": "Hovering on the edge of a dream.",
+                    "riddle": "Sink a little, drop your chin, letting all the dreams begin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACHE",
-                    "riddle": "I cause a pounding in your head.",
-                    "riddle_hard": "My single vowel can mean deep pain,",
+                    "riddle": "I pound in your weary head, trapping you inside the bed.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1551,32 +1515,32 @@
             "puzzles": [
                 {
                     "word": "LESS",
-                    "riddle": "A smaller amount of something.",
-                    "riddle_hard": "Subtracting the noise to find the song.",
+                    "riddle": "Take me away until I'm small, leaving nearly none at all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PURE",
-                    "riddle": "Clean and not mixed with anything.",
-                    "riddle_hard": "Untouched by the shadows of the world.",
+                    "riddle": "Wash away the muddy stain, I am clean like morning rain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRUE",
-                    "riddle": "What is the opposite of false?",
-                    "riddle_hard": "I hold no doubt when I am spoken.",
+                    "riddle": "Speak the word that doesn't lie, watching all the shadows die.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FULL",
-                    "riddle": "Containing as much as possible.",
-                    "riddle_hard": "The limit where nothing more fits.",
+                    "riddle": "Fill the bucket to the top, till the heavy waters drop.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MEMORY",
-                    "riddle": "Without me, you'd forget your own name.",
-                    "riddle_hard": "I’m a map of the past, though I don’t always last.",
+                    "riddle": "Keep the past inside your head, long after the days have fled.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1591,32 +1555,32 @@
             "puzzles": [
                 {
                     "word": "CORN",
-                    "riddle": "Yellow kernels on a cob.",
-                    "riddle_hard": "Golden teeth hiding behind a leafy beard.",
+                    "riddle": "I wear a green and leafy gown, turning golden brown in town.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PEA",
-                    "riddle": "A small green ball in a pod.",
-                    "riddle_hard": "A tiny emerald sphere living in a leafy canoe.",
+                    "riddle": "Hide inside a narrow pod, planted early in the sod.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "APPLE",
-                    "riddle": "",
-                    "riddle_hard": "From Eden's tree, my lineage is traced.",
+                    "riddle": "I fall from branches big and tall, making cider every fall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPROUT",
-                    "riddle": "A baby plant starting to grow.",
-                    "riddle_hard": "The first green victory over the heavy soil.",
+                    "riddle": "Push above the muddy ground, looking green and fully round.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BASIL",
-                    "riddle": "A green leaf for pizza.",
-                    "riddle_hard": "The royal herb essential for a pesto sauce.",
+                    "riddle": "Chop me up to top the meat, making pizza taste so sweet.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1631,32 +1595,32 @@
             "puzzles": [
                 {
                     "word": "NATURE",
-                    "riddle": "I have mountains, rivers, and trees.",
-                    "riddle_hard": "I am all around you, from sky to sea.",
+                    "riddle": "I grow all the ancient trees, blowing with a gentle breeze.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOUTH",
-                    "riddle": "The bottom direction, can you guess that?",
+                    "riddle": "Point your compass far away, I'm where the penguins play.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POND",
-                    "riddle": "Small body of water in a park.",
-                    "riddle_hard": "A little circle where a frog rests.",
+                    "riddle": "I hold a school of swimming fish, granting every angler's wish.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLEN",
-                    "riddle": "A narrow place where a stream flows.",
-                    "riddle_hard": "A deep, grassy stretch between high earth.",
+                    "riddle": "I hide a river small and deep, where the sleeping mountains weep.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "WATER",
-                    "riddle": "You drink me every day.",
-                    "riddle_hard": "I’m essential for life, but too much will drown you.",
+                    "riddle": "I flow down every twisting stream, shining like a silver dream.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -1671,32 +1635,32 @@
             "puzzles": [
                 {
                     "word": "CHEF",
-                    "riddle": "What am I in the kitchen land?",
-                    "riddle_hard": "A culinary artist, measured by taste.",
+                    "riddle": "I chop onions in the pan, cooking dinner for the clan.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUDGE",
-                    "riddle": "I weigh the facts and speak the law.",
-                    "riddle_hard": "The unbiased arbiter who settles a flaw.",
+                    "riddle": "I strike my gavel made of wood, picking what is right and good.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PILOT",
-                    "riddle": "I guide the great birds through the clouds.",
-                    "riddle_hard": "Navigator aloft, defying the shrouds.",
+                    "riddle": "I fly the plane across the sky, soaring where the eagles fly.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLERK",
-                    "riddle": "I keep the scrolls, a record's keeper.",
+                    "riddle": "I sort papers on the shelf, leaving nothing for yourself.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOCTOR",
-                    "riddle": "",
-                    "riddle_hard": "I heal your aches and ease your pain.",
+                    "riddle": "Heal the broken aching bone, so you never cry alone.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1711,26 +1675,26 @@
             "puzzles": [
                 {
                     "word": "BRIGHT",
-                    "riddle": "Filled with lots of light.",
-                    "riddle_hard": "Brains that sparkle, stars that flame, one word fits both.",
+                    "riddle": "I shine so clear into your eyes, bringing summer to the skies.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLEAM",
-                    "riddle": "A brief flash of light.",
-                    "riddle_hard": "A sudden, quick wink from a distant mirror.",
+                    "riddle": "I sparkle like a diamond ring, shining when the angels sing.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAINT",
-                    "riddle": "Barely visible light.",
-                    "riddle_hard": "So subtle, you might miss my gentle visit.",
+                    "riddle": "I fade until I nearly go, turning every shadow low.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIANCE",
-                    "riddle": "Overflowing, joyful light.",
-                    "riddle_hard": "A glowing light shining from within.",
+                    "riddle": "I glow with a blinding gleam, shining like a golden beam.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1745,32 +1709,32 @@
             "puzzles": [
                 {
                     "word": "MANAGER",
-                    "riddle": "I guide a team and run the show.",
-                    "riddle_hard": "My decisions set the work's whole track.",
+                    "riddle": "I tell the workers what to do, watching over all the crew.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAID",
-                    "riddle": "Who serves the house with all their might?",
+                    "riddle": "I sweep the dusty wooden floor, cleaning up behind the door.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WAITER",
-                    "riddle": "I bring your food and take your plate.",
+                    "riddle": "I bring dinner to your plate, making sure it isn't late.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COP",
-                    "riddle": "I wear a badge and keep the peace.",
-                    "riddle_hard": "I write tickets when the rules are broken.",
+                    "riddle": "I wear a shiny silver badge, turning every lawless page.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COOK",
-                    "riddle": "A person who prepares meals.",
-                    "riddle_hard": "A kitchen artist, watch me go.",
+                    "riddle": "I bake the golden bread and pie, keeping ovens hot and high.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1785,26 +1749,26 @@
             "puzzles": [
                 {
                     "word": "TICKET",
-                    "riddle": "Entry pass for shows and plays.",
-                    "riddle_hard": "Must present this for entry, see?",
+                    "riddle": "Tear me at the entrance door, granting access to the floor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMERA",
-                    "riddle": "I capture light for memory's sake.",
-                    "riddle_hard": "I frame the action for all to see.",
+                    "riddle": "I flash a sudden beaming light, capturing the darkest night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACT",
-                    "riddle": "",
-                    "riddle_hard": "To take a role and play a part.",
+                    "riddle": "I play the hero on the stage, stepping from the written page.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THEATER",
-                    "riddle": "A place for plays, lights, and scenes.",
-                    "riddle_hard": "Where drama lives before your eyes.",
+                    "riddle": "Sit and watch the magic play, as the actors save the day.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1819,32 +1783,32 @@
             "puzzles": [
                 {
                     "word": "BOUGHT",
-                    "riddle": "Paid for an item at the store.",
-                    "riddle_hard": "Transaction complete; I now own it.",
+                    "riddle": "I gave money to the clerk, finishing the shopping work.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUY",
-                    "riddle": "To purchase something.",
-                    "riddle_hard": "To acquire possession of an item by paying a price.",
+                    "riddle": "I spend pennies at the store, coming back to find some more.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAVE",
-                    "riddle": "",
-                    "riddle_hard": "To keep your earnings for a rainy day.",
+                    "riddle": "I tuck coins behind the door, putting by a little more.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMPANY",
-                    "riddle": "A group of folks with a business name.",
+                    "riddle": "I hire workers day and night, making sure they do it right.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MONEY",
-                    "riddle": "I pay for stuff, what am I?",
-                    "riddle_hard": "I make the world spin, for better or worse.",
+                    "riddle": "Fill the heavy wooden chest, letting greedy rulers rest.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1859,25 +1823,25 @@
             "puzzles": [
                 {
                     "word": "STRONG",
-                    "riddle": "Not weak, but very much bold.",
-                    "riddle_hard": "I measure power without a scale.",
+                    "riddle": "I lift boulders from the ground, tossing heavy weight around.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WIDE",
-                    "riddle": "",
-                    "riddle_hard": "Stretching far from side to side.",
+                    "riddle": "Stretch my edges far apart, making room for every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LARGE",
-                    "riddle": "Vast size is my command.",
-                    "riddle_hard": "Much bigger than small.",
+                    "riddle": "I grow bigger than the bear, making every person stare.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLOW",
-                    "riddle": "Fluid movement, don't delay.",
+                    "riddle": "Rush like water down the stream, slipping softly like a dream.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1893,32 +1857,32 @@
             "puzzles": [
                 {
                     "word": "GUN",
-                    "riddle": "",
-                    "riddle_hard": "Man's sharp extension in a fight.",
+                    "riddle": "Fire bullets through the air, giving robbers such a scare.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NATION",
-                    "riddle": "",
-                    "riddle_hard": "Borders drawn on a world map's face.",
+                    "riddle": "I draw borders round the land, where the mighty castles stand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RULE",
-                    "riddle": "",
-                    "riddle_hard": "Without my lines, chaos reigns.",
+                    "riddle": "I sit upon the golden throne, giving orders all alone.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORDER",
-                    "riddle": "",
-                    "riddle_hard": "The King's command, the soldier's plea.",
+                    "riddle": "I speak commands loud and firm, making every soldier squirm.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OFFICER",
-                    "riddle": "",
-                    "riddle_hard": "I enforce the law on the beat or in the seat.",
+                    "riddle": "Wear a badge upon your chest, putting robbers to the test.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1933,31 +1897,31 @@
             "puzzles": [
                 {
                     "word": "POT",
-                    "riddle": "",
-                    "riddle_hard": "A deep metal vessel for boiling stew.",
+                    "riddle": "Boil the water on the stove, smelling like a spicy clove.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LID",
-                    "riddle": "",
-                    "riddle_hard": "What sits atop the pickle jar?",
+                    "riddle": "Cover up the boiling stew, making sure no heat gets through.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DESSERT",
-                    "riddle": "",
-                    "riddle_hard": "The final course, a sugary delight.",
+                    "riddle": "I am a sweet and tasty treat, for the hungry kids to eat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRINDER",
-                    "riddle": "Turns whole beans into fine dust.",
+                    "riddle": "Crush the roasted coffee bean, turning handles, crisp and clean.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIXER",
-                    "riddle": "I blend drinks that you make.",
+                    "riddle": "Spin the sticky baking dough, watch the fluffy icing grow.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1973,26 +1937,26 @@
             "puzzles": [
                 {
                     "word": "FAN",
-                    "riddle": "A big supporter of a star.",
-                    "riddle_hard": "A devoted admirer or a device that blows air.",
+                    "riddle": "I cheer the hero loud and clear, showing everyone I'm near.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACTION",
-                    "riddle": "A movie with stunts.",
-                    "riddle_hard": "The process of doing something or a fast genre.",
+                    "riddle": "I leap across the rooftop high, chasing every villain by.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REMOTE",
-                    "riddle": "Used to change channels.",
-                    "riddle_hard": "A plastic wand that rules the screen.",
+                    "riddle": "Point me at the glowing screen, changing every movie scene.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIDEO",
-                    "riddle": "Moving pictures dancing on a screen.",
-                    "riddle_hard": "Electronic recording of moving visual images.",
+                    "riddle": "I film the movie moving fast, keeping memories of the past.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2007,32 +1971,32 @@
             "puzzles": [
                 {
                     "word": "GLUE",
-                    "riddle": "",
-                    "riddle_hard": "I melt into cracks and make two one.",
+                    "riddle": "Stick the paper to the wood, holding better than it should.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BROWN",
-                    "riddle": "The color of earth.",
-                    "riddle_hard": "A warm",
+                    "riddle": "Paint the faded wooden door, I match safely with the floor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YELLOW",
-                    "riddle": "The color of a lemon.",
-                    "riddle_hard": "A primary hue that is the brightest in the spectrum.",
+                    "riddle": "Shine into the morning sky, floating where the birdies fly.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRACE",
-                    "riddle": "To copy over lines.",
-                    "riddle_hard": "To copy a drawing by following the lines on a sheet above.",
+                    "riddle": "Draw directly on the line, I make all the borders fine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLACK",
-                    "riddle": "The darkest color.",
-                    "riddle_hard": "The total absence of light or the color of coal.",
+                    "riddle": "I hide shadows in the night, stealing every ray of light.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2047,26 +2011,26 @@
             "puzzles": [
                 {
                     "word": "DUTY",
-                    "riddle": "A moral obligation.",
-                    "riddle_hard": "A task or action that someone is required to perform.",
+                    "riddle": "I stand upon the castle wall, answering the mighty call.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUSTICE",
-                    "riddle": "Fairness and law.",
-                    "riddle_hard": "The administration of the law or philosophical fairness.",
+                    "riddle": "Swing the gavel on the block, opening the prison lock.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VICTORY",
-                    "riddle": "Winning a battle.",
-                    "riddle_hard": "An act of defeating an enemy or opponent.",
+                    "riddle": "Win the long and bitter game, I bring glory to your name.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FREEDOM",
-                    "riddle": "Being free from control.",
-                    "riddle_hard": "The power or right to act",
+                    "riddle": "Break the heavy iron chain, walking safely in the rain.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2081,26 +2045,26 @@
             "puzzles": [
                 {
                     "word": "MONSTER",
-                    "riddle": "A scary beast.",
-                    "riddle_hard": "A large",
+                    "riddle": "I hide beneath the wooden bed, filling every dream with dread.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRAGON",
-                    "riddle": "A winged fire-breather.",
-                    "riddle_hard": "A mythical monster like a giant reptile with wings.",
+                    "riddle": "I breathe fire on the ground, flying with a mighty sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WISH",
-                    "riddle": "What a genie grants.",
-                    "riddle_hard": "A feel or express a strong desire or hope for.",
+                    "riddle": "Rub the lamp and speak your mind, take the treasure you can find.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FANTASY",
-                    "riddle": "A magical story genre.",
-                    "riddle_hard": "The faculty or activity of imagining things.",
+                    "riddle": "Write a happy magic tale, where the heroes never fail.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2115,26 +2079,26 @@
             "puzzles": [
                 {
                     "word": "LAMB",
-                    "riddle": "A young fluffy sheep.",
-                    "riddle_hard": "A gentle creature used as a symbol of peace.",
+                    "riddle": "I grow a coat of fuzzy wool, skipping where the meadows pull.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIGLET",
-                    "riddle": "A very young pig.",
-                    "riddle_hard": "A small pink baby animal found in a sty or farm.",
+                    "riddle": "I roll inside the sticky mud, chewing on a tasty spud.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASS",
-                    "riddle": "A stubborn relative of the horse.",
-                    "riddle_hard": "A beast of burden also known as a donkey.",
+                    "riddle": "I carry baskets on my back, walking slowly up the track.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHICKEN",
-                    "riddle": "A common farm bird.",
-                    "riddle_hard": "A feathered creature kept for its meat and eggs.",
+                    "riddle": "I peck the corn upon the farm, acting softly without harm.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2142,39 +2106,39 @@
         },
         {
             "level_id": 56,
-            "grid_size": 4,
+            "grid_size": 5,
             "category": "NATURE",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "PEAR",
-                    "riddle": "A bell-shaped fruit.",
-                    "riddle_hard": "A sweet fruit with a gritty texture.",
+                    "riddle": "Shaped just like a heavy bell, tasting sweeter than I smell.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CROP",
-                    "riddle": "Plants grown for food.",
-                    "riddle_hard": "A harvest grown by a farmer.",
+                    "riddle": "I grow for the harvest time, reaching up in summer prime.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RICE",
-                    "riddle": "A white grain.",
-                    "riddle_hard": "The staple food for half the world's people.",
+                    "riddle": "I grow in the flooded field, giving up a golden yield.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "IVY",
-                    "riddle": "A climbing green vine.",
-                    "riddle_hard": "A creeping plant that covers old college walls.",
+                    "riddle": "Creep along the ancient wall, climbing higher, never fall.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "LEMON",
-                    "riddle": "Sour yellow citrus.",
-                    "riddle_hard": "A fruit used for lemonade and cleaning.",
+                    "riddle": "Squeeze my juice upon the plate, sour and sharp from first to late.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -2189,26 +2153,26 @@
             "puzzles": [
                 {
                     "word": "BAY",
-                    "riddle": "A curve in the coastline.",
-                    "riddle_hard": "A body of water partially surrounded by land.",
+                    "riddle": "I curve between the rocky lands, where the gentle water stands.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NATURAL",
-                    "riddle": "Not man-made.",
-                    "riddle_hard": "Existing in or caused by nature; not made or caused by humankind.",
+                    "riddle": "I grow without a human hand, wild and pure across the land.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPRING",
-                    "riddle": "Source of water.",
-                    "riddle_hard": "A place where water or oil wells up from an underground source",
+                    "riddle": "I bubble from the frozen ground, where the icy streams are found.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POLE",
-                    "riddle": "North or South end.",
-                    "riddle_hard": "Either of the two points at the extremities of the earth's axis.",
+                    "riddle": "Find me at the freezing end, where the frozen compass bends.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2223,32 +2187,32 @@
             "puzzles": [
                 {
                     "word": "MONDAY",
-                    "riddle": "Day of the moon.",
-                    "riddle_hard": "The start of the work week.",
+                    "riddle": "Start the long and working week, finding all the goals you seek.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DATE",
-                    "riddle": "A specific day on a calendar.",
-                    "riddle_hard": "A numbered day of the month.",
+                    "riddle": "Mark my square inside the year, keeping every number clear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "END",
-                    "riddle": "Of the world.",
-                    "riddle_hard": "A final part of something.",
+                    "riddle": "Stop the long and winding road, setting down the final load.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLOCK",
-                    "riddle": "It tells the time.",
-                    "riddle_hard": "A device with hands and a face.",
+                    "riddle": "Watch my hands go round and round, I make such a ticking sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JANUARY",
-                    "riddle": "First month.",
-                    "riddle_hard": "Named after Janus the two-faced god.",
+                    "riddle": "Start the frozen winter year, when the heavy snows appear.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2263,26 +2227,26 @@
             "puzzles": [
                 {
                     "word": "SEASON",
-                    "riddle": "Winter or Summer.",
-                    "riddle_hard": "One of the four divisions of the year.",
+                    "riddle": "Change the colors of the tree, bringing every year to me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "APRIL",
-                    "riddle": "A rainy spring month.",
-                    "riddle_hard": "The fourth month; known for showers.",
-                    "is_hard": false
-                },
-                {
-                    "word": "BLANKET",
-                    "riddle": "Bed warmer.",
-                    "riddle_hard": "A large piece of woolen or similar material used as a bed covering.",
+                    "riddle": "Bring my showers every day, washing winter's cold away.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AUGUST",
-                    "riddle": "Last summer month.",
-                    "riddle_hard": "The eighth month of the year.",
+                    "riddle": "Feel the sun upon the sand, heating up the summer land.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "WINDY",
+                    "riddle": "I blow leaves across the street, making every garden sweet.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2297,26 +2261,26 @@
             "puzzles": [
                 {
                     "word": "PORE",
-                    "riddle": "Tiny hole in the skin.",
-                    "riddle_hard": "A minute opening for sweat and oil.",
+                    "riddle": "I am a tiny hole on skin, letting all the moisture in.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANATOMY",
-                    "riddle": "Study of body structure.",
-                    "riddle_hard": "The branch of science concerned with bodily structure.",
-                    "is_hard": false
-                },
-                {
-                    "word": "MANE",
-                    "riddle": "Long hair on neck.",
-                    "riddle_hard": "Thick hair growth usually associated with lions or horses.",
+                    "riddle": "Study all the bones inside, where each muscle likes to hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EYELASH",
-                    "riddle": "Hair on lid.",
-                    "riddle_hard": "The hair growing on the edge of the eyelid.",
+                    "riddle": "Flutter on the eyelid's edge, keeping dust from off the ledge.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "MANE",
+                    "riddle": "Flow around the lion's face, wild and proud with royal grace.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2331,32 +2295,32 @@
             "puzzles": [
                 {
                     "word": "EYELID",
-                    "riddle": "Covers eye.",
-                    "riddle_hard": "The movable fold of skin covering the eye.",
+                    "riddle": "Close the skin across your eye, while you rest beneath the sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SCAR",
-                    "riddle": "Mark left by a cut.",
-                    "riddle_hard": "Fibrous tissue replacing normal skin after injury.",
+                    "riddle": "Left behind when skin repairs, marking all your past affairs.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GUT",
-                    "riddle": "The stomach or belly area.",
-                    "riddle_hard": "Visceral tissue associated with instinct.",
+                    "riddle": "Rumble deep inside the belly, turning wobbly legs to jelly.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STOMACH",
-                    "riddle": "Digests food.",
-                    "riddle_hard": "The internal organ where food is digested.",
+                    "riddle": "I rumble when you skip a meal, growling for a proper deal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALF",
-                    "riddle": "Back of lower leg.",
-                    "riddle_hard": "The muscle group on the posterior tibia.",
+                    "riddle": "Flex the muscle on your leg, standing steady as a peg.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2371,32 +2335,32 @@
             "puzzles": [
                 {
                     "word": "DEEP",
-                    "riddle": "Far down.",
-                    "riddle_hard": "Extending far below the surface.",
-                    "is_hard": false
+                    "riddle": "Drop a stone and count the sound, far below the echo's found.",
+                    "riddle_hard": "",
+                    "is_hard": true
                 },
                 {
                     "word": "SIZE",
-                    "riddle": "How big.",
-                    "riddle_hard": "The overall dimensions or extent of something.",
+                    "riddle": "Measure me from here to there, finding how much space I wear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WEAK",
-                    "riddle": "Lacking power.",
-                    "riddle_hard": "Fragile and easily broken or defeated.",
+                    "riddle": "I lose the power in your hand, falling early on the sand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WAVE",
-                    "riddle": "Moving energy.",
-                    "riddle_hard": "A long body of water curling into an arc.",
+                    "riddle": "I rise up from the open sea, crashing on the shore for free.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLAT",
-                    "riddle": "Level surface.",
-                    "riddle_hard": "Having a smooth surface without hills.",
+                    "riddle": "Walk across the level ground, where no rolling hills are found.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2411,32 +2375,32 @@
             "puzzles": [
                 {
                     "word": "BUNGALOW",
-                    "riddle": "A house on the ground where no stairs are found.",
+                    "riddle": "Live inside a little house, quiet as a garden mouse.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DESK",
-                    "riddle": "A table for work.",
-                    "riddle_hard": "Four legs, no feet—where papers and pencils meet.",
+                    "riddle": "I hold your papers flat and wide, with a drawer on the side.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HALL",
-                    "riddle": "A long walkway.",
-                    "riddle_hard": "A passage in a building that leads to other rooms.",
+                    "riddle": "Stretch between the bedroom doors, echoing across the floors.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FENCE",
-                    "riddle": "",
-                    "riddle_hard": "I stand in rows but never walk, dividing yards without a talk.",
+                    "riddle": "I stand in rows around the yard, keeping every neighbor barred.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "SHED",
-                    "riddle": "A small garden building.",
-                    "riddle_hard": "Not a house but has a door, garden's keeper, nothing more.",
+                    "riddle": "I store the tools behind the gate, making every garden great.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -2451,32 +2415,32 @@
             "puzzles": [
                 {
                     "word": "CHEESE",
-                    "riddle": "Yellow and tasty.",
-                    "riddle_hard": "A dairy food made from the pressed curds of milk.",
+                    "riddle": "Slice the yellow block of gold, smelling sour when it's old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WEB",
-                    "riddle": "Sticky insect trap.",
-                    "riddle_hard": "A silken net spun by an eight-legged crawler.",
+                    "riddle": "I'm spun out between the trees, catching insects in the breeze.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STRING",
-                    "riddle": "Thin and twisted.",
-                    "riddle_hard": "A thin cord used to tie things or in a violin.",
+                    "riddle": "Tie my looping knot so tight, holding everything in sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WAX",
-                    "riddle": "Melts in a candle.",
-                    "riddle_hard": "A sticky substance made by bees or used for polish.",
+                    "riddle": "Melt the candle in the dark, shining with a tiny spark.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "SHIP",
-                    "riddle": "",
-                    "riddle_hard": "I have a deck, but no cards to play.",
+                    "riddle": "I sail the wide and open deck, keeping every wave in check.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -2491,32 +2455,32 @@
             "puzzles": [
                 {
                     "word": "CHAPTER",
-                    "riddle": "A section of a book.",
-                    "riddle_hard": "A main division of a book",
+                    "riddle": "I am a part of every tale, helping heroes to prevail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ELF",
-                    "riddle": "A small pointy-eared helper.",
-                    "riddle_hard": "A diminutive forest-dwelling being common in folklore.",
+                    "riddle": "I hide among the forest trees, small and light upon the breeze.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SWORD",
-                    "riddle": "A hero's bladed weapon.",
-                    "riddle_hard": "A weapon with a long metal blade and a hilt.",
+                    "riddle": "Draw my blade of heavy steel, making every robber kneel.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOVEL",
-                    "riddle": "A long book of fiction.",
-                    "riddle_hard": "A fictitious prose narrative of book length.",
+                    "riddle": "Write a long and winding tale, making sure you never fail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARMOR",
-                    "riddle": "Protective metal clothes.",
-                    "riddle_hard": "Metal coverings worn to protect the body in battle.",
+                    "riddle": "Wear the heavy metal suit, looking like a brave recruit.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2531,32 +2495,32 @@
             "puzzles": [
                 {
                     "word": "PICK",
-                    "riddle": "To choose the best one.",
-                    "riddle_hard": "Removing a fruit from the branch.",
+                    "riddle": "Strike me on the rocky spot, mining everything you got.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAG",
-                    "riddle": "Used to carry things.",
-                    "riddle_hard": "A flexible container made of cloth",
+                    "riddle": "I carry everything inside, where all your belongings hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POCKET",
-                    "riddle": "Small bag in pants.",
-                    "riddle_hard": "A small pouch sewn into clothing for carrying items.",
+                    "riddle": "I nestle in the jeans you wear, keeping small things safely there.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAN",
-                    "riddle": "Metal food container.",
-                    "riddle_hard": "A cylindrical tin used for preserving liquids or food.",
+                    "riddle": "Seal me tight and stack me high, I keep food from going by.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SACK",
-                    "riddle": "Large cloth bag.",
-                    "riddle_hard": "A large bag made of coarse fabric or a football tackle.",
+                    "riddle": "Fill me up with grain and wheat, I hide every harvest treat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2571,32 +2535,32 @@
             "puzzles": [
                 {
                     "word": "DANCER",
-                    "riddle": "A person who moves to music.",
-                    "riddle_hard": "A performer who uses their body to express rhythm.",
+                    "riddle": "I move my body to the beat, never let me rest my feet.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VET",
-                    "riddle": "A doctor for animals.",
-                    "riddle_hard": "A medical expert for pets and wildlife.",
+                    "riddle": "I heal the creatures, big and small, answering a patient's call.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NUN",
-                    "riddle": "A woman living in a convent.",
-                    "riddle_hard": "A devoted member of a religious order.",
+                    "riddle": "I pray inside the quiet hall, answering the holy call.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SINGER",
-                    "riddle": "A person who performs with their voice.",
-                    "riddle_hard": "A musical artist who produces vocal melodies.",
+                    "riddle": "I lift my voice into the air, singing songs for all to share.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPEAKER",
-                    "riddle": "A person who gives a talk.",
-                    "riddle_hard": "One who addresses an audience or a sound device.",
+                    "riddle": "I tell the crowd your secret news, sharing all the strongest views.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2611,26 +2575,26 @@
             "puzzles": [
                 {
                     "word": "JUNE",
-                    "riddle": "A summer month.",
-                    "riddle_hard": "Named after the goddess Juno.",
+                    "riddle": "Bring the longest light of year, when the summer days are near.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OCTOBER",
-                    "riddle": "Halloween month.",
-                    "riddle_hard": "Originally the eighth month of Rome.",
+                    "riddle": "Watch the golden leaves fall down, turning everything to brown.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CENTURY",
-                    "riddle": "100 years.",
-                    "riddle_hard": "A period of one hundred years.",
+                    "riddle": "I wait a hundred passing years, through the laughter and the tears.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EVENING",
-                    "riddle": "Before night.",
-                    "riddle_hard": "The end of the day.",
+                    "riddle": "Chase the day below the hill, when the world grows soft and still.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2645,32 +2609,32 @@
             "puzzles": [
                 {
                     "word": "WRITE",
-                    "riddle": "To form letters.",
-                    "riddle_hard": "To record information on a surface using a pen.",
+                    "riddle": "I ink the paper with your pen, starting all the stories then.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CRY",
-                    "riddle": "A loud vocal sound.",
-                    "riddle_hard": "To shed tears or shout out in distress.",
+                    "riddle": "Roll the tears down either cheek, when the weary heart is weak.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NEWS",
-                    "riddle": "Information on current events.",
-                    "riddle_hard": "Freshly received reports about recent happenings.",
+                    "riddle": "Tell the world what happened today, sending every word away.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAP",
-                    "riddle": "A light rhythmic touch.",
-                    "riddle_hard": "A gentle knock or a touch on a smartphone screen.",
+                    "riddle": "I knock beside the wooden door, hearing echoes on the floor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REPLY",
-                    "riddle": "To answer.",
-                    "riddle_hard": "A response given to a question or message.",
+                    "riddle": "I answer every secret note, sending messages afloat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2685,32 +2649,32 @@
             "puzzles": [
                 {
                     "word": "GEM",
-                    "riddle": "A precious stone.",
-                    "riddle_hard": "A rare and highly valued person or thing.",
+                    "riddle": "Dig me out from deep below, watch my happy golden glow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHECK",
-                    "riddle": "A paper used for payment.",
-                    "riddle_hard": "A written order to a bank to pay value.",
+                    "riddle": "Sign your name across my face, paying up with paper grace.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAW",
-                    "riddle": "Unrefined or basic.",
-                    "riddle_hard": "In a natural state before value is added.",
+                    "riddle": "I leave the polish far behind, taking only what you find.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ITEM",
-                    "riddle": "A single valued object.",
-                    "riddle_hard": "An individual article in a collection or list.",
+                    "riddle": "Check me off the list you made, I am every deal and trade.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOLID",
-                    "riddle": "Reliable and of good quality.",
-                    "riddle_hard": "Firm and stable in value and construction.",
+                    "riddle": "I stand up tall and I won't fall, strongest answer to your call.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2725,32 +2689,32 @@
             "puzzles": [
                 {
                     "word": "TUBE",
-                    "riddle": "Long and hollow.",
-                    "riddle_hard": "A cylinder used for toothpaste or transport.",
+                    "riddle": "Slide inside the hollow pipe, long and narrow, round and tight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENERGY",
-                    "riddle": "Power to work.",
-                    "riddle_hard": "The ability to do work or the force in a battery.",
+                    "riddle": "Feel the power in your soul, making sure you reach the goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COFFEE",
-                    "riddle": "Hot and brown.",
-                    "riddle_hard": "A dark drink made from roasted beans.",
+                    "riddle": "I brew the roasted berry bean, keeping everyone so keen.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLIP",
-                    "riddle": "Holds things together.",
-                    "riddle_hard": "A small fastener for paper or a short movie scene.",
+                    "riddle": "I pinch the papers tight in place, holding every page with grace.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SMOKE",
-                    "riddle": "Grey and hazy.",
-                    "riddle_hard": "The cloud of particles produced by a fire.",
+                    "riddle": "Rise above the burning flame, wild and grey without a name.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2765,32 +2729,32 @@
             "puzzles": [
                 {
                     "word": "THRONE",
-                    "riddle": "A king's royal chair.",
-                    "riddle_hard": "A ceremonial chair for a sovereign or bishop.",
+                    "riddle": "I sit upon the royal chair, with a heavy crown to wear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLOT",
-                    "riddle": "The sequence of events.",
-                    "riddle_hard": "The main story arc or a secret plan.",
+                    "riddle": "I string the story end to end, following each twist and bend.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MORAL",
-                    "riddle": "The lesson of a story.",
-                    "riddle_hard": "A lesson that can be derived from a story or experience.",
+                    "riddle": "I hide inside the final page, wisdom left behind by sage.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANGEL",
-                    "riddle": "A heavenly being.",
-                    "riddle_hard": "A spiritual being believed to be a messenger of God.",
+                    "riddle": "I shine with wings of glowing white, I protect you in the night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WAND",
-                    "riddle": "A wizard's wooden tool.",
-                    "riddle_hard": "A slender stick used to direct magical energy.",
+                    "riddle": "Wave the slim and magic stick, I make every wizard trick.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2805,26 +2769,26 @@
             "puzzles": [
                 {
                     "word": "COUNT",
-                    "riddle": "To list numbers in order.",
-                    "riddle_hard": "To determine the total number of items in a group.",
+                    "riddle": "I point at every single one, stopping when the last is done.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AVERAGE",
-                    "riddle": "The typical value.",
-                    "riddle_hard": "The sum of values divided by the number of values.",
+                    "riddle": "Find the middle of the pack, I will keep the math on track.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRID",
-                    "riddle": "A pattern of squares.",
-                    "riddle_hard": "A framework of spaced bars or lines.",
+                    "riddle": "I draw my squares across the page, mapping out each secret stage.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SIDE",
-                    "riddle": "A line segment of a polygon.",
-                    "riddle_hard": "A flat surface of a three-dimensional object.",
+                    "riddle": "Walk along the outer line, I keep every border fine.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2839,32 +2803,32 @@
             "puzzles": [
                 {
                     "word": "QUARTER",
-                    "riddle": "One fourth.",
-                    "riddle_hard": "25 cents or 25 percent.",
+                    "riddle": "I am a part of every one, four of me and I am done.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZONE",
-                    "riddle": "An area or region.",
-                    "riddle_hard": "A specific sector defined by a boundary.",
+                    "riddle": "I mark the circle on the map, where the coastal waters lap.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIX",
-                    "riddle": "To stir two things together.",
-                    "riddle_hard": "A combination of different elements.",
+                    "riddle": "I stir my pieces round and round, till a brand new thing is found.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZIPPER",
-                    "riddle": "Metal fastener.",
-                    "riddle_hard": "Device for binding the edges of an opening.",
+                    "riddle": "Pull me up to close the gap, I keep cold out with a snap.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIZZA",
-                    "riddle": "Round cheesy pie.",
-                    "riddle_hard": "Italian dish with crust and tomato sauce.",
+                    "riddle": "Spin my dough and toss me wide, mozzarella baked inside.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2879,32 +2843,32 @@
             "puzzles": [
                 {
                     "word": "BICEPS",
-                    "riddle": "Upper arm muscle.",
-                    "riddle_hard": "The two-headed muscle of the upper arm.",
+                    "riddle": "Curl the weight and watch me grow, flexing on a mighty show.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HIP",
-                    "riddle": "Joint above the leg.",
-                    "riddle_hard": "The pelvic projection on either side of the body.",
+                    "riddle": "I connect your leg and waist, helping you to walk in haste.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOSTRIL",
-                    "riddle": "Nose hole.",
-                    "riddle_hard": "Either of two external openings of the nose.",
+                    "riddle": "Breathe me in, smell every flower, working every waking hour.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CELL",
-                    "riddle": "Building block of life.",
-                    "riddle_hard": "The smallest structural and functional unit of an organism.",
+                    "riddle": "Divide and grow and split in two, making every part of you.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLESH",
-                    "riddle": "Soft body tissue.",
-                    "riddle_hard": "The muscular and fatty substance under the skin.",
+                    "riddle": "Touch the soft and living skin, where the life begins within.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2919,26 +2883,26 @@
             "puzzles": [
                 {
                     "word": "MENTAL",
-                    "riddle": "About the mind.",
-                    "riddle_hard": "Relating to thoughts and sanity.",
+                    "riddle": "Think of every hidden thought, finding all the wisdom bought.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLU",
-                    "riddle": "A common winter virus.",
-                    "riddle_hard": "A seasonal bug that brings fever and chills.",
+                    "riddle": "Stay in bed and blow your nose, sneezing till the fever goes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAFETY",
-                    "riddle": "No danger.",
-                    "riddle_hard": "Protection from harm.",
+                    "riddle": "I keep the danger far away, making sure you're safe to stay.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLIND",
-                    "riddle": "Cannot see.",
-                    "riddle_hard": "Living without sight.",
+                    "riddle": "Steal the vision from your eye, leaving just the blackest sky.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2953,32 +2917,32 @@
             "puzzles": [
                 {
                     "word": "RUB",
-                    "riddle": "To touch with friction.",
-                    "riddle_hard": "To move a hand back and forth over a surface.",
+                    "riddle": "Move your hand across the skin, I make the warmth begin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROAR",
-                    "riddle": "Lion sound.",
-                    "riddle_hard": "A full",
+                    "riddle": "Shake the ground with just one note, bursting from a lion's throat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPICY",
-                    "riddle": "Hot flavor.",
-                    "riddle_hard": "Causing a burning feeling in the mouth.",
+                    "riddle": "I burn your tongue with fiery heat, making every dinner sweet.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOUR",
-                    "riddle": "Taste like a lemon.",
-                    "riddle_hard": "An acidic taste that makes you pucker.",
+                    "riddle": "I twist your mouth from left to right, tasting sharp and bright.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BROKEN",
-                    "riddle": "In pieces.",
-                    "riddle_hard": "Having been fractured or damaged.",
+                    "riddle": "Fall in pieces on the floor, knowing you can use no more.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2993,32 +2957,32 @@
             "puzzles": [
                 {
                     "word": "UFO",
-                    "riddle": "An alien spaceship.",
-                    "riddle_hard": "An Unidentified Flying Object.",
+                    "riddle": "Fly within the silver disk, taking every daring risk.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "USA",
-                    "riddle": "America.",
-                    "riddle_hard": "United States of America.",
+                    "riddle": "Stand beneath the striped flag, where the freedom doesn't lag.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OUTER",
-                    "riddle": "_____ Space.",
-                    "riddle_hard": "External or far from the center.",
+                    "riddle": "I reach into the deepest space, finding every hidden place.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JULY",
-                    "riddle": "A summer month.",
-                    "riddle_hard": "Named after Julius Caesar.",
+                    "riddle": "Celebrate the summer heat, with a firework garden treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TODAY",
-                    "riddle": "This very day.",
-                    "riddle_hard": "The present 24-hour period.",
+                    "riddle": "I live within the present hour, blooming like a morning flower.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3033,26 +2997,26 @@
             "puzzles": [
                 {
                     "word": "STAIRS",
-                    "riddle": "Used to go up or down.",
-                    "riddle_hard": "A set of steps leading from one level to another.",
+                    "riddle": "Climb me up to reach the top, never wanting you to stop.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CEILING",
-                    "riddle": "The top of the room.",
-                    "riddle_hard": "The overhead interior surface of a space.",
+                    "riddle": "Look above the bedroom floor, where the painted patterns soar.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRAIN",
-                    "riddle": "Where water goes out.",
-                    "riddle_hard": "A pipe that carries away waste water.",
+                    "riddle": "Swallow up the soapy flow, pulling water deep below.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAUCET",
-                    "riddle": "Controls water flow.",
-                    "riddle_hard": "The handle that turns the water on and off.",
+                    "riddle": "Turn the handle for the flow, where my rushing waters go.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3067,26 +3031,26 @@
             "puzzles": [
                 {
                     "word": "BALL",
-                    "riddle": "A round object for play.",
-                    "riddle_hard": "A spherical toy or a formal dance event.",
+                    "riddle": "Bounce across the greeny grass, letting every player pass.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOOLBOX",
-                    "riddle": "A container for hammers.",
-                    "riddle_hard": "A portable case used to store and carry equipment.",
+                    "riddle": "I keep the tools all neat and safe, finding each one in its place.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SNOWMAN",
-                    "riddle": "Made of snow and carrots.",
-                    "riddle_hard": "A winter figure built with three frozen spheres.",
+                    "riddle": "Build me as a frozen man, working on a winter plan.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SUNDAY",
-                    "riddle": "A day of the week.",
-                    "riddle_hard": "The first or last day of a week depending on calendars.",
+                    "riddle": "Rest the body, rest the mind, leaving all the week behind.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3094,45 +3058,45 @@
         },
         {
             "level_id": 81,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "BODY",
             "subcategory": "Wellness",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "DRAFT",
-                    "riddle": "A cold breeze coming through a crack.",
-                    "riddle_hard": "Invisible fingers slipping under the door.",
+                    "riddle": "Feel the chilly wind so cold, through the cracks of something old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AIRY",
-                    "riddle": "Open and breezy, not stuffy.",
-                    "riddle_hard": "Filled with the lightness of the sky.",
+                    "riddle": "Float upon the mountain breeze, dancing through the swaying trees.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOUL",
-                    "riddle": "The spirit inside a person.",
-                    "riddle_hard": "The eternal spark within the shell.",
+                    "riddle": "Shine the light inside your chest, finding all the quiet rest.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HERE",
-                    "riddle": "Not there, but in this spot.",
-                    "riddle_hard": "The only moment that truly exists.",
+                    "riddle": "Not out there or far away, I am where you are today.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BREATH",
-                    "riddle": "Air you take into your lungs.",
-                    "riddle_hard": "The invisible tide of life.",
+                    "riddle": "I take the air into your lungs, speaking with the silver tongues.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRANA",
-                    "riddle": "Ancient word for life energy.",
-                    "riddle_hard": "The cosmic wind flowing in veins.",
+                    "riddle": "I am life inside your chest, filling you with breathing rest.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3140,45 +3104,45 @@
         },
         {
             "level_id": 82,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "CULTURE",
             "subcategory": "Visual Arts",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HOLLOW",
-                    "riddle": "Having an empty space inside.",
-                    "riddle_hard": "A cave or a drum shares this trait.",
+                    "riddle": "Feel the empty space inside, where the spooky echoes hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRIM",
-                    "riddle": "The top edge of a hat or cup.",
-                    "riddle_hard": "The limit before spilling over.",
+                    "riddle": "Fill the cup up to my edge, teetering upon the ledge.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRINK",
-                    "riddle": "To swallow liquid.",
-                    "riddle_hard": "Quenching thirst with a gulp.",
+                    "riddle": "I am every liquid treat, making every dinner sweet.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOLD",
-                    "riddle": "To keep something in your hands.",
-                    "riddle_hard": "To contain without letting go.",
+                    "riddle": "I keep the treasure in your hand, standing on the golden sand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DISH",
-                    "riddle": "A plate used for serving food.",
-                    "riddle_hard": "A vessel for the evening meal.",
+                    "riddle": "Hold my dinner warm and round, resting on the table's ground.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "FIRED",
-                    "riddle": "How clay is hardened in a kiln.",
-                    "riddle_hard": "Born of heat to become stone.",
+                    "riddle": "Bake me in the kiln's heat, making every tile complete.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3193,38 +3157,38 @@
             "puzzles": [
                 {
                     "word": "BELL",
-                    "riddle": "It swings and rings in a tower.",
-                    "riddle_hard": "A metal tongue inside a metal mouth.",
+                    "riddle": "I swing the metal tongue, where the morning songs are sung.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOUR",
-                    "riddle": "Sixty minutes long.",
-                    "riddle_hard": "One twenty-fourth of a day.",
+                    "riddle": "I'm the long hand traveling round, measuring every ticking sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALL",
-                    "riddle": "To shout someone's name.",
-                    "riddle_hard": "A summons sent through the air.",
+                    "riddle": "Shout my name across the hill, I'm echoing and ringing still.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOW",
-                    "riddle": "Deep sound, or close to the floor.",
-                    "riddle_hard": "The bass notes of the world.",
+                    "riddle": "I sink beneath the level floor, where the deep bass echoes soar.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RING",
-                    "riddle": "The sound a telephone makes.",
-                    "riddle_hard": "A vibration that announces a guest.",
+                    "riddle": "Echo out across the hall, answering the morning call.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "CHIME",
-                    "riddle": "Wind blowing through metal pipes creates this.",
-                    "riddle_hard": "A musical tinkling in the breeze.",
+                    "riddle": "Tinkle in the summer breeze, hanging from the garden trees.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3239,32 +3203,32 @@
             "puzzles": [
                 {
                     "word": "LORE",
-                    "riddle": "Traditions and stories taught by elders.",
-                    "riddle_hard": "Wisdom preserved in memory.",
+                    "riddle": "I'm the story of the past, making every legend last.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROAM",
-                    "riddle": "To walk around without a destination.",
-                    "riddle_hard": "To wander freely across the land.",
+                    "riddle": "I wander through the ancient wood, going everywhere I should.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STEP",
-                    "riddle": "Lifting one foot and putting it down.",
-                    "riddle_hard": "A single unit of walking.",
+                    "riddle": "Lift your foot to walk around, place me softly on the ground.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LONG",
-                    "riddle": "Measuring a great distance.",
-                    "riddle_hard": "Extended in time or space.",
+                    "riddle": "I measure every winding mile, stretching on for quite a while.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GOAL",
-                    "riddle": "What you aim to achieve.",
-                    "riddle_hard": "The target at the end of effort.",
+                    "riddle": "Reach the treasure at the end, driving every journey's bend.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3279,32 +3243,32 @@
             "puzzles": [
                 {
                     "word": "SLAB",
-                    "riddle": "A heavy, flat block of concrete.",
-                    "riddle_hard": "A table made of raw stone.",
+                    "riddle": "I'm the heavy stone so flat, where the little kittens sat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASHEN",
-                    "riddle": "Pale gray color, like after a fire.",
-                    "riddle_hard": "Drained of all color, like dust.",
+                    "riddle": "I am grey as winter dust, left behind in ash and rust.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HARD",
-                    "riddle": "Solid, not soft like a pillow.",
-                    "riddle_hard": "Resisting pressure, unyielding.",
+                    "riddle": "I'm solid as a heavy wall, making sure you never fall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HALT",
-                    "riddle": "Another word for stop.",
-                    "riddle_hard": "To bring movement to a sudden end.",
+                    "word": "ROUGH",
+                    "riddle": "I scratch your hand upon my face, leaving marks in every place.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIRM",
-                    "riddle": "Solid and steady, not shaking.",
-                    "riddle_hard": "Rooted strongly in place.",
+                    "riddle": "Stand as steady as a rock, solid when the others knock.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3312,45 +3276,45 @@
         },
         {
             "level_id": 86,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "QUALITIES",
             "subcategory": "Visual (Light)",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "BULB",
-                    "riddle": "It screws into a lamp.",
-                    "riddle_hard": "A glass globe containing electric light.",
+                    "riddle": "Screw my glass into the socket, I'm small enough to fit a pocket.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLARE",
-                    "riddle": "To burn brightly for a short time.",
-                    "riddle_hard": "A distress signal sent into the sky.",
+                    "riddle": "I burn into the winter sky, watching every shadow die.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BRAIN",
-                    "riddle": "It lives inside your skull.",
-                    "riddle_hard": "The commander of the body.",
+                    "word": "BEAM",
+                    "riddle": "I shine a light into the sky, where the drifting clouds fly by.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "RIGHT",
-                    "riddle": "The opposite of left.",
-                    "riddle_hard": "Correct, or the direction of the rising sun if facing North.",
+                    "word": "GLINT",
+                    "riddle": "I sparkle with a tiny light, catching every passing sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AJAR",
-                    "riddle": "Neither open nor closed.",
-                    "riddle_hard": "Cracked open just a tiny bit.",
+                    "riddle": "I'm the door open a bit, where the light and shadows sit.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "PRISM",
-                    "riddle": "Glass that makes a rainbow.",
-                    "riddle_hard": "A triangle that breaks light apart.",
+                    "riddle": "I break the light into the hue, showing every shade to you.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3358,45 +3322,45 @@
         },
         {
             "level_id": 87,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "NATURE",
             "subcategory": "Geography",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "FLOAT",
-                    "riddle": "To rest on top of water.",
-                    "riddle_hard": "Defying gravity using liquid.",
+                    "riddle": "I rest upon the open lake, bobbing with each ripple wake.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRIP",
-                    "riddle": "A leaky faucet does this.",
-                    "riddle_hard": "Falling in small liquid beads.",
+                    "riddle": "I fall in tiny liquid beads, meeting all the garden needs.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ABYSS",
-                    "riddle": "A deep, bottomless pit.",
-                    "riddle_hard": "The dark void beneath the sea.",
+                    "riddle": "I am the deepest hole, losing every wandering soul.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GONE",
-                    "riddle": "No longer here.",
-                    "riddle_hard": "Departed into the past.",
+                    "word": "COVE",
+                    "riddle": "I hide inside the rocky bay, where the sheltered waters play.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CREEK",
-                    "riddle": "A stream smaller than a river.",
-                    "riddle_hard": "Bubbling water in the backyard woods.",
+                    "riddle": "I bubble through the quiet wood, going right where water should.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "FLOWS",
-                    "riddle": "Moves like water down a hill.",
-                    "riddle_hard": "The continuous motion of a stream.",
+                    "riddle": "Move like water down the hill, I can turn the grinding mill.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3411,32 +3375,32 @@
             "puzzles": [
                 {
                     "word": "SHOWER",
-                    "riddle": "Brief rain or a way to get clean.",
-                    "riddle_hard": "Water falling to wash the earth.",
+                    "riddle": "I wash the summer dust away, ending every sweltering day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUFFY",
-                    "riddle": "Swollen and soft like a marshmallow.",
-                    "riddle_hard": "Inflated with air or cotton.",
+                    "riddle": "I inflate like a marshmallow treat, making every cloud complete.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "UPPER",
-                    "riddle": "Higher than the bottom.",
-                    "riddle_hard": "The top shelf or layer.",
+                    "riddle": "I'm above the lower floor, closer to the ceiling's core.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIST",
-                    "riddle": "Fog that wets your face.",
-                    "riddle_hard": "A cloud sitting on the ground.",
+                    "riddle": "I wet the face with gentle cloud, standing in the morning shroud.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
-                    "word": "ROOST",
-                    "riddle": "A branch where chickens sleep.",
-                    "riddle_hard": "To settle down for the night, like a bird.",
+                    "word": "FOGGY",
+                    "riddle": "I blur the world with silver grey, hiding all the light away.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3451,38 +3415,38 @@
             "puzzles": [
                 {
                     "word": "GERM",
-                    "riddle": "The tiny living part of a seed.",
-                    "riddle_hard": "A microscopic start to life.",
+                    "riddle": "I start the life within the seed, giving everything you need.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOIL",
-                    "riddle": "Dirt used for planting.",
-                    "riddle_hard": "The rich blanket of the earth.",
+                    "riddle": "Hide the seeds inside my row, I will help the flowers grow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SWELL",
-                    "riddle": "To get bigger, like a soaking sponge.",
-                    "riddle_hard": "Expanding from the inside out.",
+                    "riddle": "I grow as big as sponges do, getting bigger through and through.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VITAL",
-                    "riddle": "Absolutely needed to live.",
-                    "riddle_hard": "Essential for survival.",
+                    "riddle": "I breathe the air to stay alive, making sure you will survive.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BASE",
-                    "riddle": "The bottom support of a statue.",
-                    "riddle_hard": "The foundation upon which things stand.",
+                    "riddle": "I'm beneath the tallest weight, holding up the statue great.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "POD",
-                    "riddle": "Shell holding peas or beans.",
-                    "riddle_hard": "A natural container for seeds.",
+                    "riddle": "Carry all my seeds inside, keeping tiny life supplied.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -3497,38 +3461,38 @@
             "puzzles": [
                 {
                     "word": "GATE",
-                    "riddle": "A swinging door in a fence.",
-                    "riddle_hard": "The entrance to the garden.",
+                    "riddle": "I swing my door into the yard, keeping every neighbor barred.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENTRY",
-                    "riddle": "The act of coming in.",
-                    "riddle_hard": "Writing a note in a diary.",
+                    "riddle": "I am the opening to the hall, making sure you heed the call.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOOSE",
-                    "riddle": "Not tight; ready to fall off.",
-                    "riddle_hard": "Unshackled and free to move.",
+                    "riddle": "I'm the shaking chain that falls, breaking free from all the walls.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASS",
-                    "riddle": "To go by something.",
-                    "riddle_hard": "To succeed in a test.",
+                    "riddle": "I succeed in every single test, doing only what is best.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXIT",
-                    "riddle": "The way out.",
-                    "riddle_hard": "The sign over the door leaving the theater.",
+                    "riddle": "I leave the final theater stage, turning every closing page.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "KEY",
-                    "riddle": "Small metal object that opens doors.",
-                    "riddle_hard": "The solution to a code.",
+                    "riddle": "Twist my metal in the lock, opening the wooden block.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3543,32 +3507,32 @@
             "puzzles": [
                 {
                     "word": "FEW",
-                    "riddle": "Not many, just a small amount.",
-                    "riddle_hard": "A sparse gathering that values quality over quantity.",
+                    "riddle": "I'm a tiny little bit, counting all that seem to fit.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MORE",
-                    "riddle": "An extra amount, beyond what is currently there.",
-                    "riddle_hard": "The desire for abundance that never seems satisfied.",
+                    "riddle": "I add an extra golden prize, hiding from the greedy eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ONE",
-                    "riddle": "A single person or thing.",
-                    "riddle_hard": "The loneliest number that stands by itself.",
+                    "riddle": "I stand solo, quite alone, first to sit upon the throne.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BASIC",
-                    "riddle": "Simple and important, forming a foundation.",
-                    "riddle_hard": "The essential elements that everything else is built upon.",
+                    "riddle": "I'm the simplest of them all, nothing fancy, nothing tall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLEAR",
-                    "riddle": "Easy to see through or understand.",
-                    "riddle_hard": "Transparent and free from any confusion or obstruction.",
+                    "riddle": "Look through every silver glass, letting all the colors pass.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3583,32 +3547,32 @@
             "puzzles": [
                 {
                     "word": "LETTER",
-                    "riddle": "A written message.",
-                    "riddle_hard": "A character of the alphabet or a mailed document.",
+                    "riddle": "I'm the envelope sealed tight, sending words through day and night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAY",
-                    "riddle": "To speak words.",
-                    "riddle_hard": "To express a thought or opinion aloud.",
+                    "riddle": "I speak the words into the air, letting every thought take care.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIST",
-                    "riddle": "Words written in order.",
-                    "riddle_hard": "A series of items written down one after another.",
+                    "riddle": "I'm the words in ordered rows, writing down what everyone knows.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPEAK",
-                    "riddle": "To use your voice.",
-                    "riddle_hard": "To convey thoughts and feelings through speech.",
+                    "riddle": "I open up and let words fly, filling every room nearby.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMMENT",
-                    "riddle": "A spoken or written remark.",
-                    "riddle_hard": "An expression of opinion or a note on a post.",
+                    "riddle": "I am the note beneath the post, saying what you want the most.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3623,32 +3587,32 @@
             "puzzles": [
                 {
                     "word": "SAD",
-                    "riddle": "A mournful tone.",
-                    "riddle_hard": "The emotional quality of a song in a minor key.",
+                    "riddle": "Play me in a minor key, fill the room with misery.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIOLIN",
-                    "riddle": "A small stringed instrument.",
-                    "riddle_hard": "A wooden box played with a bow and held at the chin.",
+                    "riddle": "Play my strings with wooden bow, where the sweetest melodies go.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRUMMER",
-                    "riddle": "One who hits the drums.",
-                    "riddle_hard": "The musician responsible for the rhythm in a band.",
+                    "riddle": "I hit the stretched and hollow drum, making every heartbeat hum.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SLAM",
-                    "riddle": "A loud banging noise.",
-                    "riddle_hard": "The sound of a door closing with great force.",
+                    "riddle": "I will shut the heavy door, shaking up the wooden floor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHOIR",
-                    "riddle": "A group of singers.",
-                    "riddle_hard": "An ensemble that performs vocal music in harmony.",
+                    "riddle": "We sing in harmony so grand, voices blending, soft and planned.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3663,26 +3627,26 @@
             "puzzles": [
                 {
                     "word": "SPOTTY",
-                    "riddle": "Having many small dots.",
-                    "riddle_hard": "A pattern of irregular marks on a surface.",
+                    "riddle": "I'm the dots across the skin, scattered where you least have been.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIGHTS",
-                    "riddle": "Sources of brightness.",
-                    "riddle_hard": "The lamps or stars that allow us to see.",
+                    "riddle": "We shine the lamps into the room, chasing out the evening gloom.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WHITE",
-                    "riddle": "The color of fresh snow.",
-                    "riddle_hard": "The presence of all colors in the light spectrum.",
+                    "riddle": "I'm as bright as frozen snow, pure as anything you know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRIMARY",
-                    "riddle": "A basic starting color.",
-                    "riddle_hard": "Red",
+                    "riddle": "I am the first and most of all, standing steady, standing tall.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3697,26 +3661,26 @@
             "puzzles": [
                 {
                     "word": "RAINBOW",
-                    "riddle": "Colors in the sky.",
-                    "riddle_hard": "A multicolored arc formed by light in raindrops.",
+                    "riddle": "I shine with colors in the arc, arching over hill and park.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DAYTIME",
-                    "riddle": "When the sun is up.",
-                    "riddle_hard": "The period between sunrise and sunset.",
+                    "riddle": "I wake you with the rising sun, lasting till the day is done.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SUNBURN",
-                    "riddle": "Skin pain from sun.",
-                    "riddle_hard": "Redness caused by too much exposure to the sky.",
+                    "riddle": "I leave the skin all bright and red, wishing you had stayed in bed.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SEAFOOD",
-                    "riddle": "Ocean treats on your plate, claws and fins you ate.",
-                    "riddle_hard": "Edible creatures from the sea.",
+                    "riddle": "I'm the treasures of the deep, where the ocean creatures sleep.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3731,26 +3695,26 @@
             "puzzles": [
                 {
                     "word": "CARPET",
-                    "riddle": "Soft floor covering.",
-                    "riddle_hard": "Soft sea under your feet, makes your walking sweet.",
+                    "riddle": "Lay me down beneath your feet, I make every room complete.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHELTER",
-                    "riddle": "A place of safety.",
-                    "riddle_hard": "Four walls and roof to keep you dry.",
+                    "riddle": "I'm the sturdy roof to hide, keeping rain and wind outside.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STAIR",
-                    "riddle": "A single step.",
-                    "riddle_hard": "A way to move from one floor to another.",
+                    "riddle": "I'm a single climbing step, going up without a rest.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOUNGE",
-                    "riddle": "A room for relaxing.",
-                    "riddle_hard": "A comfortable public room for waiting or sitting.",
+                    "riddle": "I am the resting cushioned chair, breathing in the easy air.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3765,26 +3729,26 @@
             "puzzles": [
                 {
                     "word": "ODD",
-                    "riddle": "Strange or unusual.",
-                    "riddle_hard": "Not quite normal or the same, peculiar is my name.",
+                    "riddle": "Not quite normal or the same, and peculiar is my name.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRUMPY",
-                    "riddle": "Bad-tempered.",
-                    "riddle_hard": "Frowning face, cranky mood, not polite or good.",
+                    "riddle": "Frown across my cranky face, feeling out of time and space.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURIOUS",
-                    "riddle": "Wanting to know things.",
-                    "riddle_hard": "Eager to know or learn something.",
+                    "riddle": "Poke my nose in every door, always wanting to know more.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WILD",
-                    "riddle": "Animals living in nature.",
-                    "riddle_hard": "Untamed, free, and rough, nature made me tough.",
+                    "riddle": "Untamed, free, and fairly rough, nature made me very tough.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3799,32 +3763,32 @@
             "puzzles": [
                 {
                     "word": "WEIGHT",
-                    "riddle": "",
-                    "riddle_hard": "Gravity's pull on you, what the scale shows is true.",
+                    "riddle": "I'm the heavy pull of earth, from the moment of your birth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MOTION",
-                    "riddle": "Act of moving.",
-                    "riddle_hard": "The action or process of moving or being moved.",
+                    "riddle": "Set me spinning, watch me go, I never stop, both fast and slow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MINI",
-                    "riddle": "Small version.",
-                    "riddle_hard": "Denoting a miniature version of something.",
+                    "riddle": "I'm a tiny little world, smaller than a flag unfurled.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BOLD",
-                    "riddle": "Standing out.",
-                    "riddle_hard": "Strong and distinct in appearance or action.",
+                    "riddle": "Shout my letters big and wide, impossible to push aside.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TINY",
-                    "riddle": "Even smaller than small.",
-                    "riddle_hard": "Four letters to say what's small every day.",
+                    "riddle": "I fit a dozen on your nail, even smaller than a snail.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3839,32 +3803,32 @@
             "puzzles": [
                 {
                     "word": "MARKER",
-                    "riddle": "Shows a position.",
-                    "riddle_hard": "An object used to indicate a position or a path.",
+                    "riddle": "I leave a sign upon the trail, helping you to never fail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GROUND",
-                    "riddle": "The solid surface.",
-                    "riddle_hard": "The solid part of the earth's surface.",
+                    "riddle": "I'm firm beneath your feet, where the soil and bedrock meet.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EAST",
-                    "riddle": "Right on a map.",
-                    "riddle_hard": "The direction toward which the sun rises.",
+                    "riddle": "Face me every single morn, I'm where the golden sun is born.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OK",
-                    "riddle": "All correct.",
-                    "riddle_hard": "Two letters mean agree, everything's fine you see.",
+                    "riddle": "Say my name when you agree, I mean yes for you and me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MISSION",
-                    "riddle": "Goal to reach.",
-                    "riddle_hard": "An important assignment given to a person.",
+                    "riddle": "I reach the target at the end, driving every goal's bend.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3879,32 +3843,32 @@
             "puzzles": [
                 {
                     "word": "CREW",
-                    "riddle": "The people working behind the scenes.",
-                    "riddle_hard": "A group of workers on a ship or a film set.",
+                    "riddle": "We work behind lights and stage, writing every final page.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLOWN",
-                    "riddle": "A circus performer.",
-                    "riddle_hard": "A painted comedian who performs slapstick.",
+                    "riddle": "I'm the face with spots of red, honking horns and falling dead.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXTRA",
-                    "riddle": "A person with no lines.",
-                    "riddle_hard": "An additional element or a background actor.",
+                    "riddle": "I am added when you need more, overflowing from the store.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROLE",
-                    "riddle": "The character an actor plays.",
-                    "riddle_hard": "The part you play upon the stage.",
+                    "riddle": "Play my part upon the stage, stepping from the written page.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURTAIN",
-                    "riddle": "The final closing.",
-                    "riddle_hard": "Stage's heavy drape that falls, ending theater's calls.",
+                    "riddle": "I'm the heavy drape that falls, ending all the theater's calls.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],

@@ -9,26 +9,26 @@
             "puzzles": [
                 {
                     "word": "PANGOLIN",
-                    "riddle": "I wear scales but I'm not a fish. I love ants!",
-                    "riddle_hard": "My name sounds like a long, scaly meal, but I'm a creature.",
+                    "riddle": "I am the beast of armor scale, a sticky tongue and heavy tail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FALCON",
-                    "riddle": "A bird that dives at high speed",
-                    "riddle_hard": "The fastest raptor in the open sky",
+                    "riddle": "I am the wing of high and fast, a sharp and steady for the last.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEAVER",
-                    "riddle": "Builds a dam across a forest stream",
-                    "riddle_hard": "Nature’s engineer with a flat tail",
+                    "riddle": "I build the house with mud and stick, a flat and heavy tail so quick.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COBRA",
-                    "riddle": "A hooded snake that strikes fast",
-                    "riddle_hard": "Venomous crawler with a wide neck",
+                    "riddle": "I wear a hood of scary dance, a sudden strike of every chance.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -43,26 +43,26 @@
             "puzzles": [
                 {
                     "word": "VIOLET",
-                    "riddle": "Small purple flower in the grass",
-                    "riddle_hard": "A modest bloom of deep indigo hue",
+                    "riddle": "I am the bloom of purple small, a hidden beauty for the all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WILLOW",
-                    "riddle": "A tree that weeps near the water",
-                    "riddle_hard": "Slender branches bowing to the bank",
+                    "riddle": "I am the tree of weeping hair, a bowing shadow for the air.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HEATHER",
-                    "riddle": "Purple shrubs on a misty moor",
-                    "riddle_hard": "Wild plants covering the highlands",
+                    "riddle": "I am the shrub of misty moor, a purple carpet for the poor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUNGUS",
-                    "riddle": "Grows in the dark on rotting logs",
-                    "riddle_hard": "Spore bearer found in damp shadows",
+                    "riddle": "I grow in dark of rotting log, a silent ghost within the fog.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -77,26 +77,26 @@
             "puzzles": [
                 {
                     "word": "GEYSER",
-                    "riddle": "Shoots hot water into the air",
-                    "riddle_hard": "A steaming vent in the rocky earth",
+                    "riddle": "I shoot the steam from heavy deep, a boiling secret that I keep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAVINE",
-                    "riddle": "A deep narrow valley with rocks",
-                    "riddle_hard": "Steep walls carved by a small river",
+                    "riddle": "I am the gap of rocky wall, a narrow path for every fall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLATEAU",
-                    "riddle": "A high mountain with a flat top",
-                    "riddle_hard": "Elevated land with a level surface",
+                    "riddle": "I am the mount of flat and high, a level table for the sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COVE",
-                    "riddle": "A small bay shaped like a circle",
-                    "riddle_hard": "Quiet water tucked behind the rocks",
+                    "word": "LEA",
+                    "riddle": "I am the field of grass and green, a poetic for the every scene.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -111,26 +111,26 @@
             "puzzles": [
                 {
                     "word": "NEBULA",
-                    "riddle": "A giant cloud of gas and dust",
-                    "riddle_hard": "The colorful cradle of new stars",
+                    "riddle": "I am the cloud of gas and star, a dusty cradle near and far.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZODIAC",
-                    "riddle": "A belt of twelve space symbols",
-                    "riddle_hard": "The path of planets through the sky",
+                    "riddle": "I am the ring of twelve and sign, a solar path of every line.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "QUASAR",
-                    "riddle": "A very bright distant light source",
-                    "riddle_hard": "An active center of a far galaxy",
+                    "riddle": "I am the light of distant home, a heavy beam for those who roam.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "METEOR",
-                    "riddle": "A falling rock that burns bright",
-                    "riddle_hard": "A streak of fire across the night",
+                    "word": "AM",
+                    "riddle": "I am the state of being here, a present world for every fear.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -145,26 +145,26 @@
             "puzzles": [
                 {
                     "word": "MONSOON",
-                    "riddle": "A season of very heavy rainfall",
-                    "riddle_hard": "Winds that bring the summer floods",
+                    "riddle": "I am the wind of heavy rain, a flood of water for the plain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DREARY",
-                    "riddle": "A day that is dark and very gray",
-                    "riddle_hard": "The mood of a long and rainy week",
+                    "riddle": "I am the mood of gray and slow, a rainy day for all you know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TYPHOON",
-                    "riddle": "A massive storm over the ocean",
-                    "riddle_hard": "A spinning giant of wind and rain",
+                    "word": "FLY",
+                    "riddle": "I am the wing of buzzing pest, I never take a quiet rest.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEW",
-                    "riddle": "Morning water drops on the grass",
-                    "riddle_hard": "The liquid breath of the early dawn",
+                    "riddle": "I am the drop of early dawn, a liquid pearl upon the lawn.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -179,26 +179,26 @@
             "puzzles": [
                 {
                     "word": "SPLEEN",
-                    "riddle": "An organ that cleans your blood",
-                    "riddle_hard": "A hidden part of the immune system",
+                    "riddle": "I clean the blood of every man, a hidden part since time began.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARTERY",
-                    "riddle": "A tube that carries red blood",
-                    "riddle_hard": "A main highway from the heart",
+                    "riddle": "I am the pipe of red and fast, I carry life that must to last.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NEURON",
-                    "riddle": "A cell that sends brain signals",
-                    "riddle_hard": "The tiny wire of the nervous system",
+                    "riddle": "I am the wire of tiny spark, I carry thought within the dark.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TENDON",
-                    "riddle": "Connects your muscle to a bone",
-                    "riddle_hard": "Tough tissue that allows for motion",
+                    "riddle": "I hold the muscle to the bone, a steady pull for me alone.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -212,33 +212,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "TICKLE",
-                    "riddle": "A touch that makes you laugh",
-                    "riddle_hard": "A light graze that causes a giggle",
+                    "word": "POP",
+                    "riddle": "I am the sound of sudden burst, a tiny bubble for the thirst.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SAVOR",
-                    "riddle": "To enjoy the taste of good food",
-                    "riddle_hard": "To linger on a delicious flavor",
+                    "word": "BANG",
+                    "riddle": "I am the noise of heavy hit, a loud alarm for every bit.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GLARE",
-                    "riddle": "To look at someone very angrily",
-                    "riddle_hard": "A harsh and steady stare of light",
+                    "word": "BARK",
+                    "riddle": "I am the skin of every tree, a loud and happy dog for me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SCENT",
-                    "riddle": "The smell of a flower in bloom",
-                    "riddle_hard": "A lingering aroma in the fresh air",
+                    "word": "BENT",
+                    "riddle": "I am the shape of not a straight, a curvy path for every state.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINCH",
-                    "riddle": "A sharp squeeze with two fingers",
-                    "riddle_hard": "A quick nip of the skin with force",
+                    "riddle": "I squeeze the skin with tiny nip, a sudden pain for every trip.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -253,26 +253,26 @@
             "puzzles": [
                 {
                     "word": "POWDER",
-                    "riddle": "Crushed dust used for medicine",
-                    "riddle_hard": "Fine dry grains for a soft surface",
+                    "riddle": "I am the dust of tiny grain, a soft and steady for the pain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THERAPY",
-                    "riddle": "Talking to help your tired mind",
-                    "riddle_hard": "A process used to heal the spirit",
+                    "riddle": "I heal the mind of heavy stress, a quiet path for every less.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REMEDY",
-                    "riddle": "A cure for a cough or a cold",
-                    "riddle_hard": "The solution for a physical ailment",
+                    "riddle": "I am the cure for every ill, a healing potion for the will.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "VITAL",
-                    "riddle": "Something needed for your life",
-                    "riddle_hard": "The most important part of health",
+                    "word": "ZEN",
+                    "riddle": "I am the state of quiet peace, a happy mind for all release.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -287,32 +287,32 @@
             "puzzles": [
                 {
                     "word": "EMBRYO",
-                    "riddle": "The very start of a new life",
-                    "riddle_hard": "A tiny being before it is born",
+                    "riddle": "I am the spark of tiny seed, the very start of every deed.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KID",
-                    "riddle": "A young person who likes to play",
-                    "riddle_hard": "A human in the early years of life",
+                    "riddle": "I am the one of small and play, a happy child for every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ADULT",
-                    "riddle": "Someone who has finished growing",
-                    "riddle_hard": "A person who has reached maturity",
+                    "word": "BOY",
+                    "riddle": "I am the male of young and small, a little hero for the all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ELDER",
-                    "riddle": "A person who has lived many years",
-                    "riddle_hard": "A senior member of the community",
+                    "word": "BRO",
+                    "riddle": "I am the friend of brother soul, a casual for every whole.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEGACY",
-                    "riddle": "What you leave behind for others",
-                    "riddle_hard": "A gift passed down through time",
+                    "riddle": "I am the gift of passing time, a steady story of the climb.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -327,26 +327,26 @@
             "puzzles": [
                 {
                     "word": "FRECKLE",
-                    "riddle": "A small brown spot on the skin",
-                    "riddle_hard": "A sun kissed dot upon the cheek",
+                    "riddle": "I am the dot of sun and skin, a brown and happy for within.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIMPLE",
-                    "riddle": "A small dent when you smile",
-                    "riddle_hard": "A cute hollow in the facial flesh",
+                    "riddle": "I am the dent of happy smile, a cute and tiny for the while.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STOUT",
-                    "riddle": "A person who is wide and strong",
-                    "riddle_hard": "A thick and sturdy body frame",
+                    "riddle": "I am the frame of wide and strong, a sturdy body for the long.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GAUNT",
-                    "riddle": "Looking very thin and quite tired",
-                    "riddle_hard": "A boney face from lack of hunger",
+                    "riddle": "I am the face of thin and pale, a tired story and a frail.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -360,27 +360,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SPATULA",
-                    "riddle": "Used to flip eggs in a flat pan",
-                    "riddle_hard": "A wide tool for lifting hot food",
+                    "word": "PORK",
+                    "riddle": "I am the meat of field and pig, a hearty meal and very big.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRATER",
-                    "riddle": "Used to shred a block of cheese",
-                    "riddle_hard": "Metal holes that slice into bits",
+                    "riddle": "I shred the block of yellow cheese, tiny bits with every ease.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SAUCER",
-                    "riddle": "A small plate for a coffee cup",
-                    "riddle_hard": "A tiny dish that sits under glass",
+                    "riddle": "I am the dish for coffee cup, I hold the spill and drink it up.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NAPKIN",
-                    "riddle": "Paper used to wipe your mouth",
-                    "riddle_hard": "A cloth for cleaning messy hands",
+                    "riddle": "I am the cloth for messy hand, a clean and steady for the land.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -395,26 +395,26 @@
             "puzzles": [
                 {
                     "word": "JERSEY",
-                    "riddle": "A soft shirt worn for sports",
-                    "riddle_hard": "A knitted top for a team player",
+                    "riddle": "I am the shirt of sports and play, a colorful for every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLAZER",
-                    "riddle": "A fancy jacket for a meeting",
-                    "riddle_hard": "A formal coat with silver buttons",
+                    "riddle": "I am the coat of fancy night, a formal layer for the light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FEDORA",
-                    "riddle": "A felt hat with a wide brim",
-                    "riddle_hard": "Classic headwear for a detective",
+                    "riddle": "I am the hat of brim and felt, a stylish shadow for the belt.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MITTEN",
-                    "riddle": "A glove with no finger holes",
-                    "riddle_hard": "Warm wool for a hand in the snow",
+                    "riddle": "I am the glove of wool and warm, a cozy hand for every storm.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -429,26 +429,26 @@
             "puzzles": [
                 {
                     "word": "PALACE",
-                    "riddle": "A very large house for a king",
-                    "riddle_hard": "A grand home with many gold rooms",
+                    "riddle": "I am the house of gold and king, a royal hall for everything.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DUPLEX",
-                    "riddle": "A house that is split in two",
-                    "riddle_hard": "A single building for two families",
+                    "riddle": "I am the home of split and two, a building shared for me and you.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ATTIC",
-                    "riddle": "The room at the top of a house",
-                    "riddle_hard": "A dusty space under the roof line",
+                    "riddle": "I am the room of high and dust, a wooden chest and silver rust.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CELLAR",
-                    "riddle": "A cold room under the ground",
-                    "riddle_hard": "A dark place for storing the wine",
+                    "riddle": "I am the room of cold and deep, a secret spot for you to keep.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -462,27 +462,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "WRENCH",
-                    "riddle": "Used to turn a heavy metal bolt",
-                    "riddle_hard": "A tool for fixing a leaky pipe",
+                    "word": "LARD",
+                    "riddle": "I am the fat of heavy white, a flaky crust for every bite.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CHISEL",
-                    "riddle": "Used to carve shapes into wood",
-                    "riddle_hard": "A sharp blade for cutting stone",
+                    "word": "MENU",
+                    "riddle": "I am the list of tasty dish, a kitchen choice for every wish.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUNNEL",
-                    "riddle": "Used to pour liquid into a jar",
-                    "riddle_hard": "A wide cone for a narrow opening",
+                    "riddle": "I pour the drink to narrow jar, a wide and steady for the star.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PULLEY",
-                    "riddle": "A wheel used to lift heavy loads",
-                    "riddle_hard": "A simple machine for raising weight",
+                    "word": "WINCH",
+                    "riddle": "I turn the handle and the rope, a heavy lift for every hope.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -496,27 +496,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HAMSTER",
-                    "riddle": "A small furry pet in a cage",
-                    "riddle_hard": "A rodent that runs on a loud wheel",
+                    "word": "PEEL",
+                    "riddle": "I remove the skin of every fruit, a naked sun from leaf to root.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANARY",
-                    "riddle": "A small yellow bird that sings",
-                    "riddle_hard": "A bright pet that lives in a cage",
+                    "riddle": "I am the bird of yellow song, a happy cage for all day long.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POODLE",
-                    "riddle": "A dog with very curly hair",
-                    "riddle_hard": "A fancy canine with a fluffy coat",
+                    "riddle": "I am the dog of curly hair, a fuzzy friend for every air.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COLLAR",
-                    "riddle": "Worn around the neck of a dog",
-                    "riddle_hard": "The strap where the leash is kept",
+                    "word": "DICE",
+                    "riddle": "I cut the food to tiny box, a culinary for the rocks.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -530,27 +530,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PLUMBER",
-                    "riddle": "A person who fixes your pipes",
-                    "riddle_hard": "The worker who stops the leaks",
+                    "word": "FITTER",
+                    "riddle": "I fix the pipe and heavy leak, a metal work for every week.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DENTIST",
-                    "riddle": "A doctor who cleans your teeth",
-                    "riddle_hard": "The person who fills the cavities",
+                    "riddle": "I clean the tooth of every child, a pearly white and very mild.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SURGEON",
-                    "riddle": "A doctor who performs surgery",
-                    "riddle_hard": "One who cuts to heal the body",
+                    "word": "DOCTOR",
+                    "riddle": "I heal the sick and every ill, a steady hand and very still.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACTOR",
-                    "riddle": "A person who plays a character",
-                    "riddle_hard": "One who performs upon the stage",
+                    "riddle": "I am the face of every play, I am a hero for a day.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -565,26 +565,26 @@
             "puzzles": [
                 {
                     "word": "BUDGET",
-                    "riddle": "A plan for how to spend money",
-                    "riddle_hard": "The limit for the monthly costs",
+                    "riddle": "I am the plan for every gold, a steady limit that is told.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "WALLET",
-                    "riddle": "Used to hold your cash and cards",
-                    "riddle_hard": "A leather pocket for your money",
+                    "word": "HOLDER",
+                    "riddle": "I keep the money and the card, a leather work for every yard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "REBATE",
-                    "riddle": "Money given back after a sale",
-                    "riddle_hard": "A partial refund for a purchase",
+                    "word": "REFUND",
+                    "riddle": "I give the money back to you, a partial pay for every few.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TARIFF",
-                    "riddle": "A tax on goods from far away",
-                    "riddle_hard": "A fee paid for items from abroad",
+                    "word": "CUSTOM",
+                    "riddle": "I am the tax for goods from far, a heavy cost for every car.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -598,27 +598,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "MUSEUM",
-                    "riddle": "A place to see old history",
-                    "riddle_hard": "A building for art and artifacts",
+                    "word": "GALLERY",
+                    "riddle": "I have a hall of many art, a happy house for every heart.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRIDGE",
-                    "riddle": "A path that goes over a river",
-                    "riddle_hard": "A stone span between two banks",
+                    "riddle": "I am the path of stone and river, a arch of cold for every shiver.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARKET",
-                    "riddle": "A place to buy fresh fruit",
-                    "riddle_hard": "A busy street for selling goods",
+                    "riddle": "I buy the fruit of fresh and sweet, a busy stall upon the street.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STATUE",
-                    "riddle": "A stone person in the park",
-                    "riddle_hard": "A carved figure of a famous hero",
+                    "word": "FIGURE",
+                    "riddle": "I am the man of carved and stone, a silent hero all alone.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -632,27 +632,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SENATE",
-                    "riddle": "A group that makes the laws",
-                    "riddle_hard": "The high council of the nation",
+                    "word": "COUNCIL",
+                    "riddle": "I am the house of making law, a national and every flaw.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TYRANT",
-                    "riddle": "A ruler who is very mean",
-                    "riddle_hard": "A leader who uses power cruelly",
+                    "riddle": "I am the ruler mean and bad, a heavy hand for all the sad.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEBATE",
-                    "riddle": "A formal talk about a topic",
-                    "riddle_hard": "A verbal battle over an opinion",
+                    "riddle": "I am the war of every word, a loud opinion to be heard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TREATY",
-                    "riddle": "A signed paper to end a war",
-                    "riddle_hard": "A formal agreement for peace",
+                    "word": "ACCORD",
+                    "riddle": "I am the paper of the peace, a final word for all release.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -667,38 +667,38 @@
             "puzzles": [
                 {
                     "word": "CAMPUS",
-                    "riddle": "The grounds of a university",
-                    "riddle_hard": "The land where the students live",
+                    "riddle": "I am the land of student life, a university from strife.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LECTURE",
-                    "riddle": "A long talk given by a teacher",
-                    "riddle_hard": "A lesson delivered to a class",
+                    "riddle": "I am the talk of long and wise, a teaching word for every eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POEM",
-                    "riddle": "A short writing that rhymes",
-                    "riddle_hard": "Words that flow with a rhythm",
+                    "riddle": "I am the word of rhyme and meter, a literary and a sweeter.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "THESIS",
-                    "riddle": "A long paper for a degree",
-                    "riddle_hard": "A major project for a graduate",
+                    "word": "ESSAY",
+                    "riddle": "I am the paper that you write, a story for the morning light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CAMPUS",
-                    "riddle": "The grounds of a university",
-                    "riddle_hard": "The land where the students live",
+                    "word": "SCHOOL",
+                    "riddle": "I am the building for the class, I watch the many students pass.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRADER",
-                    "riddle": "One who marks the test papers",
-                    "riddle_hard": "A person who checks the scores",
+                    "riddle": "I check the score of every test, I find the better and the best.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -712,27 +712,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "CHORUS",
-                    "riddle": "A group of people singing",
-                    "riddle_hard": "The part of the song that repeats",
+                    "word": "ANTHEM",
+                    "riddle": "I am the song of noble pride, a melody from deep inside.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SONATA",
-                    "riddle": "A long piece of piano music",
-                    "riddle_hard": "A formal work for an instrument",
+                    "word": "SONG",
+                    "riddle": "I am the music in the hall, a happy tune for one and all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TEMPO",
-                    "riddle": "The speed of a music beat",
-                    "riddle_hard": "The fast or slow pace of a song",
+                    "word": "SPEED",
+                    "riddle": "I am the fastness of the race, a winner of the every space.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BALLAD",
-                    "riddle": "A slow song that tells a story",
-                    "riddle_hard": "A poetic tune of love and loss",
+                    "riddle": "I tell the tale of love and loss, a slow and steady for every cross.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -746,33 +746,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "STATUE",
-                    "riddle": "A person carved from stone",
-                    "riddle_hard": "A figure made by a sculptor",
+                    "word": "RELIEF",
+                    "riddle": "I am a carving on the wall, a hollow work for one and all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MOSAIC",
-                    "riddle": "A picture made of tiny tiles",
-                    "riddle_hard": "Small pieces that form an image",
+                    "word": "TILES",
+                    "riddle": "I am the square of tiny clay, a colorful for every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FRESCO",
-                    "riddle": "A painting made on a wet wall",
-                    "riddle_hard": "Art applied to the damp plaster",
+                    "riddle": "I am the paint of wet and wall, a hidden art for the every hall.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ETCH",
-                    "riddle": "To carve a design into metal",
-                    "riddle_hard": "To scratch a mark upon a surface",
+                    "riddle": "I scratch the mark of deep and steady, a silver plate for the artist ready.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SKETCH",
-                    "riddle": "A quick drawing with a pencil",
-                    "riddle_hard": "A rough draft of a future work",
+                    "riddle": "I am the draft of pencil quick, a rough and ready for every trick.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -786,27 +786,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "OPERA",
-                    "riddle": "A play where everyone sings",
-                    "riddle_hard": "Drama told through high notes",
+                    "word": "ACTING",
+                    "riddle": "I am the craft of movie play, a hero for a busy day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRAGEDY",
-                    "riddle": "A story with a very sad ending",
-                    "riddle_hard": "A tale of great loss and woe",
+                    "riddle": "I am the tale of sad and end, a heavy heart for every friend.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMEDY",
-                    "riddle": "A story that makes people laugh",
-                    "riddle_hard": "A funny play with a happy end",
+                    "riddle": "I make the laugh of every funny, a happy ending for the money.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "IMPROV",
-                    "riddle": "Acting without a written script",
-                    "riddle_hard": "Making up the scene as you go",
+                    "riddle": "I act the scene without a plan, I am the hero of \"I can\".",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -821,26 +821,26 @@
             "puzzles": [
                 {
                     "word": "WIZARD",
-                    "riddle": "A man who can do magic spells",
-                    "riddle_hard": "A master of the ancient arts",
+                    "riddle": "I am the man of magic spell, a ancient secret that I tell.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PHOENIX",
-                    "riddle": "A bird that rises from ashes",
-                    "riddle_hard": "A mythical creature born of fire",
+                    "riddle": "I rise from fire of every ash, a golden wing in a sudden flash.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GOLEM",
-                    "riddle": "A giant man made out of clay",
-                    "riddle_hard": "A statue brought to life by magic",
+                    "riddle": "I am the man of heavy clay, a silent worker of the day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FABLE",
-                    "riddle": "A story with a moral lesson",
-                    "riddle_hard": "A short tale featuring animals",
+                    "riddle": "I am the tale of lesson learned, a moral story that is earned.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -855,26 +855,26 @@
             "puzzles": [
                 {
                     "word": "CARNIVAL",
-                    "riddle": "A big party with rides and food",
-                    "riddle_hard": "A traveling fair of pure joy",
+                    "riddle": "I am the fair of ride and food, a happy party for every mood.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANQUET",
-                    "riddle": "A very large and fancy dinner",
-                    "riddle_hard": "A grand feast for many guests",
+                    "riddle": "I am the meal of grand and table, a feast of plenty for the able.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PARADE",
-                    "riddle": "A line of people in the street",
-                    "riddle_hard": "A public march with loud music",
+                    "riddle": "I am the line of float and crowd, a city street and very loud.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COSTUME",
-                    "riddle": "Clothes worn to look like a hero",
-                    "riddle_hard": "An outfit for a masquerade",
+                    "riddle": "I wear the face of someone new, a hidden hero for the few.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -889,26 +889,26 @@
             "puzzles": [
                 {
                     "word": "HEXAGON",
-                    "riddle": "A shape that has six sides",
-                    "riddle_hard": "The pattern of a honey comb",
+                    "riddle": "I am the shape of edges six, a honeycomb for the every mix.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPIRAL",
-                    "riddle": "A shape that curls like a shell",
-                    "riddle_hard": "A line that winds around a core",
+                    "riddle": "I am the line of wind and round, a shell of ocean on the ground.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIUS",
-                    "riddle": "The distance to the center",
-                    "riddle_hard": "The length of half of a circle",
+                    "riddle": "I am the path of half and wide, a circle center for the ride.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANGLE",
-                    "riddle": "The corner where two lines meet",
-                    "riddle_hard": "The space between two rays",
+                    "riddle": "I am the gap of meeting line, a corner point for every sign.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -923,26 +923,26 @@
             "puzzles": [
                 {
                     "word": "GADGET",
-                    "riddle": "A small and clever machine",
-                    "riddle_hard": "A handy device for a new task",
+                    "riddle": "I am the tool of small and smart, a clever piece for every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOCKET",
-                    "riddle": "Where you plug in the power",
-                    "riddle_hard": "The hole for an electric cord",
+                    "riddle": "I am the hole of power cord, a electric for the heavy board.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BINARY",
-                    "riddle": "A code made of ones and zeros",
-                    "riddle_hard": "The basic language of a computer",
+                    "riddle": "I am the code of one and zero, a digital for every hero.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURSOR",
-                    "riddle": "The arrow on a computer screen",
-                    "riddle_hard": "The marker that follows the mouse",
+                    "riddle": "I am the mark of screen and mouse, I chase the arrow in the house.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -957,26 +957,26 @@
             "puzzles": [
                 {
                     "word": "QUARTZ",
-                    "riddle": "A hard and shiny clear stone",
-                    "riddle_hard": "A crystal used in a wall clock",
+                    "riddle": "I am the stone of clear and hard, a crystal shine for every yard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUBBER",
-                    "riddle": "Stretchy stuff made from trees",
-                    "riddle_hard": "Flexible material for a tire",
+                    "riddle": "I am the skin of bouncy ball, I jump the higher for the all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARBON",
-                    "riddle": "The stuff that makes a diamond",
-                    "riddle_hard": "The basic element of all life",
+                    "riddle": "I am the heart of diamond bright, a basic atom for the light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COTTON",
-                    "riddle": "Soft white fluff from a plant",
-                    "riddle_hard": "The natural fiber of a t",
+                    "riddle": "I am the pick of white and soft, a fuzzy cloud for the way aloft.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -991,26 +991,26 @@
             "puzzles": [
                 {
                     "word": "ENGINE",
-                    "riddle": "The machine that moves a car",
-                    "riddle_hard": "The powerful heart of a truck",
+                    "riddle": "I am the heart of motor power, I burn the fuel for every hour.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TURBINE",
-                    "riddle": "A wheel that spins for power",
-                    "riddle_hard": "A fan driven by steam or wind",
+                    "riddle": "I am the wheel of spin and wind, a energy for every kind.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SENSORS",
-                    "riddle": "Tools that detect heat or light",
-                    "riddle_hard": "Devices that feel the world",
+                    "riddle": "I feel the world of heat and light, I am the eyes of every night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIRCUIT",
-                    "riddle": "The path of an electric current",
-                    "riddle_hard": "A loop of wires for the power",
+                    "riddle": "I am the path of steady spark, I light the wire in the dark.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1025,32 +1025,32 @@
             "puzzles": [
                 {
                     "word": "ANNUAL",
-                    "riddle": "Something that happens once a year",
-                    "riddle_hard": "An event on a yearly cycle",
+                    "riddle": "I happen once in every year, a cycle steady and very clear.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ERA",
-                    "riddle": "A long period of history",
-                    "riddle_hard": "A specific segment of time",
+                    "riddle": "I am the span of history long, a age of time for every song.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MODERN",
-                    "riddle": "Something that is from today",
-                    "riddle_hard": "Belonging to the present time",
+                    "riddle": "I am the world of here and now, a present day for every vow.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUTURE",
-                    "riddle": "The time that has not come yet",
-                    "riddle_hard": "What will happen in the days ahead",
+                    "riddle": "I am the time of yet to be, a hidden world for you to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RECENT",
-                    "riddle": "Something that just happened",
-                    "riddle_hard": "Occurring in the very near past",
+                    "riddle": "I happened in the near and past, a memory that is sure to last.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1065,26 +1065,26 @@
             "puzzles": [
                 {
                     "word": "GALLOP",
-                    "riddle": "How a horse runs very fast",
-                    "riddle_hard": "The rhythmic pace of a stallion",
+                    "riddle": "I am the run of horse and fast, a rhythmic pace that's built to last.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HURTLE",
-                    "riddle": "To move with great speed",
-                    "riddle_hard": "To fly forward out of control",
+                    "riddle": "I fly the fast out of control, a sudden rush for every goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MEANDER",
-                    "riddle": "To walk in a slow curvy path",
-                    "riddle_hard": "To wander without a destination",
+                    "riddle": "I walk the slow and curvy way, a aimless path for every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SLITHER",
-                    "riddle": "How a snake moves on the grass",
-                    "riddle_hard": "To slide along with no legs",
+                    "word": "HOOK",
+                    "riddle": "I am the bend of metal wire, a hanging point for your desire.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1099,26 +1099,26 @@
             "puzzles": [
                 {
                     "word": "POLISH",
-                    "riddle": "To rub a surface until it shines",
-                    "riddle_hard": "To make a dull metal bright",
+                    "riddle": "I rub the metal until bright, a shiny beam for every light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HAMMER",
-                    "riddle": "To hit a nail into some wood",
-                    "riddle_hard": "To strike with a heavy tool",
+                    "word": "INCH",
+                    "riddle": "I am the small of ruler measure, a tiny length for every treasure.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SHOVEL",
-                    "riddle": "To move dirt out of a hole",
-                    "riddle_hard": "To dig into the earth with a blade",
+                    "word": "JACK",
+                    "riddle": "I lift the car of heavy weight, a steady tool for every state.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WEAVE",
-                    "riddle": "To cross threads to make a rug",
-                    "riddle_hard": "To knit a pattern into cloth",
+                    "riddle": "I cross the thread for cloth and rug, a pattern knit for every hug.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1133,26 +1133,26 @@
             "puzzles": [
                 {
                     "word": "FENCING",
-                    "riddle": "A sport using long thin swords",
-                    "riddle_hard": "The art of the graceful blade",
+                    "riddle": "I use the sword of thin and long, a graceful blade for every song.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARCHERY",
-                    "riddle": "Shooting a bow and an arrow",
-                    "riddle_hard": "The skill of the steady aim",
+                    "riddle": "I shoot the bow and arrow straight, a steady aim for every state.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOCKEY",
-                    "riddle": "A game played on the cold ice",
-                    "riddle_hard": "A sport with sticks and a puck",
+                    "riddle": "I play the game on ice and cold, a puck and stick for every bold.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SOCCER",
-                    "riddle": "A game where you kick a ball",
-                    "riddle_hard": "The sport played on a pitch",
+                    "word": "HIT",
+                    "riddle": "I strike the ball with sudden force, a winning drive for every course.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1166,33 +1166,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PANT",
-                    "riddle": "To breathe fast after a run",
-                    "riddle_hard": "A short breath when you are hot",
+                    "word": "BITE",
+                    "riddle": "I cut the food with teeth and jaw, a sudden snap of every law.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SNEEZE",
-                    "riddle": "A sudden blast from the nose",
-                    "riddle_hard": "A reflex caused by some dust",
+                    "word": "CHEW",
+                    "riddle": "I grind the meal of slow and steady, a broken bit for the belly ready.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIGEST",
-                    "riddle": "How the belly breaks down food",
-                    "riddle_hard": "The process of eating a meal",
+                    "riddle": "I break the food for life and power, a inner work for every hour.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SWEAT",
-                    "riddle": "Liquid on skin when you are hot",
-                    "riddle_hard": "Moisture from hard physical work",
+                    "word": "HEAL",
+                    "riddle": "I mend the wound of every skin, a body fix from deep within.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BLINK",
-                    "riddle": "To close your eyes very quickly",
-                    "riddle_hard": "A rapid shutter of the lids",
+                    "word": "WAKE",
+                    "riddle": "I stop the sleep in early light, I open eyes to end the night.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1206,27 +1206,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "VOYAGE",
-                    "riddle": "A long trip across the sea",
-                    "riddle_hard": "A journey to a distant land",
+                    "word": "KNOT",
+                    "riddle": "I tie the string of heavy rope, a tangled end of every hope.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIONEER",
-                    "riddle": "The first person to go somewhere",
-                    "riddle_hard": "One who leads the way forward",
+                    "riddle": "I am the first of every way, I lead the path for all the day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMPASS",
-                    "riddle": "A tool that points to the north",
-                    "riddle_hard": "A needle for finding the way",
+                    "riddle": "I point the needle always North, a steady guide for going forth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SUMMIT",
-                    "riddle": "The very top of a mountain",
-                    "riddle_hard": "The highest point of a climb",
+                    "riddle": "I am the top of mountain high, the final peak for the every sky.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1241,26 +1241,26 @@
             "puzzles": [
                 {
                     "word": "PUZZLE",
-                    "riddle": "A game that is hard to solve",
-                    "riddle_hard": "A task that tests your brain",
+                    "riddle": "I am the game of brain and thought, a clever solve that must be sought.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GENIUS",
-                    "riddle": "A person who is very smart",
-                    "riddle_hard": "One with an amazing intellect",
+                    "riddle": "I am the mind of smart and wise, a brilliant spark for every eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LOGIC",
-                    "riddle": "Using facts to find an answer",
-                    "riddle_hard": "Reasoning that makes sense",
+                    "word": "DREAM",
+                    "riddle": "I see the world of sleep and night, a hidden scene of every light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DOUBT",
-                    "riddle": "Not being sure about a fact",
-                    "riddle_hard": "The feeling of being uncertain",
+                    "word": "TRUTH",
+                    "riddle": "I am the fact of real and wise, a honest world without the lies.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1275,26 +1275,26 @@
             "puzzles": [
                 {
                     "word": "WHISPER",
-                    "riddle": "To speak in a very quiet voice",
-                    "riddle_hard": "A soft sound for a secret",
+                    "riddle": "I say the secret quiet low, a tiny breath for all to know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GOSSIP",
-                    "riddle": "Talking about other people",
-                    "riddle_hard": "Sharing rumors behind a back",
+                    "riddle": "I tell the tale of other lives, a rumor told between the wives.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORATOR",
-                    "riddle": "A person who gives a speech",
-                    "riddle_hard": "A public speaker with power",
+                    "riddle": "I give the speech of power word, a public voice that must be heard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SIGNAL",
-                    "riddle": "A sign used to send a message",
-                    "riddle_hard": "A light or hand move for info",
+                    "word": "DOT",
+                    "riddle": "I am the point of small and round, a tiny mark upon the ground.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1309,26 +1309,26 @@
             "puzzles": [
                 {
                     "word": "REGRET",
-                    "riddle": "Feeling sad about the past",
-                    "riddle_hard": "The pain of a wrong choice",
+                    "riddle": "I feel the sad of wrong and past, a heavy heart that's built to last.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ELATED",
-                    "riddle": "Feeling very happy and proud",
-                    "riddle_hard": "Overjoyed by a great success",
+                    "riddle": "I feel the joy of happy news, a pride of soul in all the hues.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HORROR",
-                    "riddle": "A feeling of very great fear",
-                    "riddle_hard": "The shock of a scary sight",
+                    "riddle": "I feel the fear of scary sight, a sudden shock of every night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SORROW",
-                    "riddle": "Deep sadness after a loss",
-                    "riddle_hard": "The heavy weight of a grief",
+                    "riddle": "I feel the grief of heavy loss, a broken bridge for the every cross.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1343,26 +1343,26 @@
             "puzzles": [
                 {
                     "word": "GATHER",
-                    "riddle": "To bring people together",
-                    "riddle_hard": "To meet up in a single place",
+                    "riddle": "I bring the people to the hall, a meeting point for one and all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MINGLE",
-                    "riddle": "To talk to many new people",
-                    "riddle_hard": "To move around at a big party",
+                    "riddle": "I talk the new at every party, a social friend and very hearty.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOST",
-                    "riddle": "The person who has the party",
-                    "riddle_hard": "One who welcomes the guests",
+                    "riddle": "I welcome guest of high and low, I am the face of every show.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANTER",
-                    "riddle": "Light and very funny talk",
-                    "riddle_hard": "Playful teasing between friends",
+                    "riddle": "I am the talk of funny tease, a playful word for all the ease.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1377,26 +1377,26 @@
             "puzzles": [
                 {
                     "word": "MIRAGE",
-                    "riddle": "Seeing water in a dry desert",
-                    "riddle_hard": "An illusion of the hot air",
+                    "riddle": "I am the fake of desert sand, a water scene across the land.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOTICE",
-                    "riddle": "To see something with your eyes",
-                    "riddle_hard": "To become aware of a detail",
+                    "riddle": "I see the small and hidden clue, I find the one of every few.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "INSIGHT",
-                    "riddle": "A deep understanding of a fact",
-                    "riddle_hard": "The ability to see the truth",
+                    "riddle": "I see the truth of deep and wise, a honest light for every eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GLIMPSE",
-                    "riddle": "A very quick and short look",
-                    "riddle_hard": "A brief view of a passing item",
+                    "word": "GAZE",
+                    "riddle": "I look the steady for the long, a focused stare for every song.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1411,26 +1411,26 @@
             "puzzles": [
                 {
                     "word": "GLOOMY",
-                    "riddle": "Dark and lacking any light",
-                    "riddle_hard": "A dim and very sad atmosphere",
+                    "riddle": "I am the place of dark and sad, a dim and gray of every bad.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LUCID",
-                    "riddle": "Something very clear and bright",
-                    "riddle_hard": "Easy to see and understand",
+                    "word": "DRAB",
+                    "riddle": "I am the dull of every hue, a boring scene for every view.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHIMMER",
-                    "riddle": "To shine with a soft light",
-                    "riddle_hard": "A flickering glow on water",
+                    "riddle": "I am the soft of moving light, a flicker scene of every night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OPAQUE",
-                    "riddle": "Something you cannot see through",
-                    "riddle_hard": "A surface that blocks the light",
+                    "riddle": "I am the thick of blocked and light, a solid wall for every sight.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1444,27 +1444,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SCORCH",
-                    "riddle": "To burn the surface with heat",
-                    "riddle_hard": "To dry out with a high flame",
+                    "word": "MAXI",
+                    "riddle": "I am the large of every size, a maximum for every eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FRIGID",
-                    "riddle": "Something that is very cold",
-                    "riddle_hard": "The temperature of deep ice",
+                    "riddle": "I am the cold of arctic ice, a frozen world for every price.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MILD",
-                    "riddle": "Neither too hot nor too cold",
-                    "riddle_hard": "A gentle and pleasant warmth",
+                    "riddle": "I am the warm of gentle air, a pleasant day for every pair.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SIZZLE",
-                    "riddle": "The sound of food in a hot pan",
-                    "riddle_hard": "Hissing heat from a kitchen fire",
+                    "word": "THIN",
+                    "riddle": "I am the narrow lean and light, a skinny shape for every sight.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1479,26 +1479,26 @@
             "puzzles": [
                 {
                     "word": "JAGGED",
-                    "riddle": "Having a very sharp edge",
-                    "riddle_hard": "Uneven and pointed to the touch",
+                    "riddle": "I am the edge of sharp and rough, a rocky point of heavy stuff.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLASSY",
-                    "riddle": "Smooth and shiny like a mirror",
-                    "riddle_hard": "A surface that is very slick",
+                    "riddle": "I am the smooth of window shine, a polished lake for every line.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLEECY",
-                    "riddle": "Soft and warm like sheep wool",
-                    "riddle_hard": "A fluffy and cozy material",
+                    "riddle": "I am the soft of sheep and wool, a fluffy warm for every pull.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THREAD",
-                    "riddle": "A thin string of soft cloth",
-                    "riddle_hard": "A tiny strand used for sewing",
+                    "riddle": "I am the strand of sewing fine, a tiny cord for every line.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1513,26 +1513,26 @@
             "puzzles": [
                 {
                     "word": "STUBBORN",
-                    "riddle": "Refusing to change your mind",
-                    "riddle_hard": "Set in your ways like a mule",
+                    "riddle": "I am the mind of \"no\" and \"stay\", I refuse to change the every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANDID",
-                    "riddle": "Being very honest and open",
-                    "riddle_hard": "Speaking the truth with no fear",
+                    "riddle": "I am the voice of open truth, a honest word of every youth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WITTY",
-                    "riddle": "Being very clever and funny",
-                    "riddle_hard": "Quick to make a smart joke",
+                    "riddle": "I am the spark of clever joke, a smart and funny for every folk.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "VAGUE",
-                    "riddle": "Not being very clear or direct",
-                    "riddle_hard": "A cloudy and uncertain idea",
+                    "word": "LAX",
+                    "riddle": "I am the way of loose and free, a easy rule for you and me.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1547,32 +1547,32 @@
             "puzzles": [
                 {
                     "word": "SCARCE",
-                    "riddle": "Hard to find and very rare",
-                    "riddle_hard": "Not enough of a good thing",
+                    "riddle": "I am the rare of hard to find, a missing piece of every kind.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "EXPERT",
-                    "riddle": "Someone who knows a lot",
-                    "riddle_hard": "A master of a specific skill",
+                    "word": "FINE",
+                    "riddle": "I am the small of tiny part, a delicate for every art.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLAW",
-                    "riddle": "A small mistake in something",
-                    "riddle_hard": "A tiny crack in a perfect item",
+                    "riddle": "I am the crack of broken item, a hidden fault for all despite them.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRIME",
-                    "riddle": "The very best part of something",
-                    "riddle_hard": "The highest quality or time",
+                    "riddle": "I am the best of top and peak, the highest glory that you seek.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LEGEND",
-                    "riddle": "A very famous person or story",
-                    "riddle_hard": "A hero from the distant past",
+                    "word": "MAIN",
+                    "riddle": "I am the heart of every part, the primary for every heart.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1586,33 +1586,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BARK",
-                    "riddle": "The skin of a tree or a dog cry",
-                    "riddle_hard": "A rough outer layer or a sound",
+                    "word": "RAILROAD",
+                    "riddle": "I am the track of train and steel, a iron road for every wheel.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MATCH",
-                    "riddle": "To be the same or a small fire",
-                    "riddle_hard": "A pair of items or a light",
+                    "word": "SHIPWRECK",
+                    "riddle": "I am the boat of sunken deep, a treasure chest for waves to keep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SCALE",
-                    "riddle": "To climb or a way to weigh",
-                    "riddle_hard": "To go up high or check mass",
+                    "word": "MOONLIGHT",
+                    "riddle": "I am the silver night and glow, a lunar beam for all to know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "RING",
-                    "riddle": "A circle for a finger or a bell",
-                    "riddle_hard": "Jewelry or a loud chime sound",
+                    "word": "DOORKNOB",
+                    "riddle": "I am the turn of handle round, a way to enter what is found.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRUNK",
-                    "riddle": "A car box or an elephant nose",
-                    "riddle_hard": "A storage chest or a snout",
+                    "riddle": "I am the box of car and gear, or a nose that's long and very near.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1627,32 +1627,32 @@
             "puzzles": [
                 {
                     "word": "PEARL",
-                    "riddle": "Found in a shell or a white gem",
-                    "riddle_hard": "A jewel from under the sea",
+                    "riddle": "I am the gem of oyster white, a ocean jewel for every light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AMBER",
-                    "riddle": "A yellow color or an old bug",
-                    "riddle_hard": "Fossil resin or a warm hue",
+                    "riddle": "I am the stone of fossil gold, a ancient resin and very old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "IVORY",
-                    "riddle": "A white color or a piano key",
-                    "riddle_hard": "The bone of a giant tusker",
+                    "riddle": "I am the white of tusk and key, a bone of giant for all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EBONY",
-                    "riddle": "A black color or a dark wood",
-                    "riddle_hard": "A very deep and dark timber",
+                    "riddle": "I am the wood of dark and black, a deep and heavy with no lack.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORAL",
-                    "riddle": "A sea reef or a pink color",
-                    "riddle_hard": "A rock made of tiny ocean life",
+                    "riddle": "I am the reef of pink and sea, a ocean rock for you and me.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1666,27 +1666,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "AIRPORT",
-                    "riddle": "A place where planes take off",
-                    "riddle_hard": "The gate for a flight in the sky",
+                    "word": "BIRTHDAY",
+                    "riddle": "I am the day of special birth, a yearly party for your worth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "KEYBOARD",
-                    "riddle": "Used to type on a computer",
-                    "riddle_hard": "A board of letters and numbers",
+                    "word": "SUITCASE",
+                    "riddle": "I am the bag of clothes and travel, a case for trails that must unravel.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SUNSET",
-                    "riddle": "When the sun goes down at night",
-                    "riddle_hard": "The end of the light in the day",
+                    "word": "FIREMAN",
+                    "riddle": "I fight the flame of fire and light, a hero worker of the night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BACKPACK",
-                    "riddle": "A bag you wear on your spine",
-                    "riddle_hard": "A pouch for carrying your gear",
+                    "word": "GOLDMINE",
+                    "riddle": "I am the deep of buried wealth, a source of gold for every health.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1701,26 +1701,26 @@
             "puzzles": [
                 {
                     "word": "NORTH",
-                    "riddle": "The opposite of the south",
-                    "riddle_hard": "The direction of the top pole",
+                    "riddle": "I am the way of arctic pole, a needle guide for every soul.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEYOND",
-                    "riddle": "On the other side of a wall",
-                    "riddle_hard": "Further than the eye can see",
+                    "riddle": "I am the side of further wall, a distant place for one and all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "UPWARD",
-                    "riddle": "Moving toward the high sky",
-                    "riddle_hard": "The direction of a rising bird",
+                    "riddle": "I am the way of rising high, a path for birds across the sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AWAKE",
-                    "riddle": "The opposite of being asleep",
-                    "riddle_hard": "Eyes open and ready for the day",
+                    "riddle": "I am the state of open eyes, I ready for the every sunrise.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1735,26 +1735,26 @@
             "puzzles": [
                 {
                     "word": "SIMPLE",
-                    "riddle": "Something very easy to do",
-                    "riddle_hard": "Basic and clear with no frills",
+                    "riddle": "I am the easy way to do, a basic path for every youth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PUZZLE",
-                    "riddle": "A thing that is hard to solve",
-                    "riddle_hard": "A task that makes you think",
+                    "word": "HANDMADE",
+                    "riddle": "I am the craft of human hand, a skillful piece across the land.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAZE",
-                    "riddle": "A path that is hard to follow",
-                    "riddle_hard": "A garden of many wrong turns",
+                    "riddle": "I am the path of wrong and turn, a garden walk for all to learn.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENIGMA",
-                    "riddle": "A person that is a mystery",
-                    "riddle_hard": "Something that is hard to know",
+                    "riddle": "I am the secret hard to find, a hidden puzzle of the mind.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1768,27 +1768,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "COYOTE",
-                    "riddle": "A wild dog that howls at night",
-                    "riddle_hard": "A clever hunter of the desert",
+                    "word": "FOX",
+                    "riddle": "I am the red and bushy tail, a forest trick for every trail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "WALRUS",
-                    "riddle": "A sea beast with two long tusks",
-                    "riddle_hard": "A large mammal on the arctic ice",
+                    "word": "HEN",
+                    "riddle": "I am the bird of farm and egg, a feathered for a grain to beg.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TURTLE",
-                    "riddle": "A reptile with a hard shell",
-                    "riddle_hard": "A slow walker on the beach sand",
+                    "word": "JAY",
+                    "riddle": "I am the bird of noisy blue, a bold and mimic for the few.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALMON",
-                    "riddle": "A fish that swims up the river",
-                    "riddle_hard": "A pink swimmer of the cold sea",
+                    "riddle": "I swim the river up and fast, a pink and silver to the last.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1802,27 +1802,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "CACTUS",
-                    "riddle": "A plant with many sharp spines",
-                    "riddle_hard": "A prickly growth in the desert",
+                    "word": "KOI",
+                    "riddle": "I am the fish of garden pond, a colorful and very fond.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BAMBOO",
-                    "riddle": "A tall grass that pandas eat",
-                    "riddle_hard": "A strong green stalk of the east",
+                    "word": "OWL",
+                    "riddle": "I am the bird of night and wise, a silent wing for every eyes.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ORCHID",
-                    "riddle": "A very pretty exotic flower",
-                    "riddle_hard": "A rare bloom of many colors",
+                    "word": "PIG",
+                    "riddle": "I am the pink of farm and mud, a happy roll for every bud.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CLOVER",
-                    "riddle": "A small plant with three leaves",
-                    "riddle_hard": "A green herb found in the lawn",
+                    "word": "RAM",
+                    "riddle": "I am the sheep of horn and head, a mountain for a rival dread.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1836,27 +1836,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "MUSCLE",
-                    "riddle": "Used to lift heavy things",
-                    "riddle_hard": "The engine that moves the limbs",
+                    "word": "BUM",
+                    "riddle": "I am the part for sitting down, a rounded end for every town.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "THROAT",
-                    "riddle": "The part of the neck for food",
-                    "riddle_hard": "The tube that helps you speak",
+                    "word": "GUM",
+                    "riddle": "I am the tissue pink and hold, a grip for teeth of every old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "KIDNEY",
-                    "riddle": "An organ that cleans the body",
-                    "riddle_hard": "A bean shaped part of the side",
+                    "word": "JAW",
+                    "riddle": "I am the bone of chew and bite, a steady snap for every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PELVIS",
-                    "riddle": "The large bone in your hips",
-                    "riddle_hard": "The center frame of the lower body",
+                    "riddle": "I am the frame of hip and bone, a center for the lower zone.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1870,33 +1870,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "KETTLE",
-                    "riddle": "Used to boil water for tea",
-                    "riddle_hard": "A metal pot that makes a whistle",
+                    "word": "BREAD",
+                    "riddle": "I am the staff of life and flour, a baked and steady for the hour.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LADLE",
-                    "riddle": "A large spoon for serving soup",
-                    "riddle_hard": "A deep bowl on a long handle",
+                    "word": "PASTA",
+                    "riddle": "I am the noodle of the wheat, a Italian for a lucky treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PANTRY",
-                    "riddle": "A room where food is kept",
-                    "riddle_hard": "A closet full of cans and jars",
+                    "word": "FRUIT",
+                    "riddle": "I am the sweet of tree and vine, a healthy snack and very fine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TOAST",
-                    "riddle": "Bread that has been made brown",
-                    "riddle_hard": "A crispy slice of baked grain",
+                    "word": "SUGAR",
+                    "riddle": "I am the crystal of the sweet, a energy for every treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "WHISK",
-                    "riddle": "Used to mix eggs very fast",
-                    "riddle_hard": "A wire tool for baking a cake",
+                    "word": "SPICE",
+                    "riddle": "I am the taste of ginger heat, a flavor for the every meat.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1911,32 +1911,32 @@
             "puzzles": [
                 {
                     "word": "AUTHOR",
-                    "riddle": "A person who writes a book",
-                    "riddle_hard": "The creator of a famous story",
+                    "riddle": "I am the pen of story long, a creator for every song.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COACH",
-                    "riddle": "A person who leads a team",
-                    "riddle_hard": "A mentor for a group of players",
+                    "riddle": "I lead the team of sports and play, I train the hero for the day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MAYOR",
-                    "riddle": "The leader of a small town",
-                    "riddle_hard": "The person in charge of a city",
+                    "word": "REEVE",
+                    "riddle": "I lead the town of city street, a face for all the crowd to meet.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PILOT",
-                    "riddle": "A person who flies a plane",
-                    "riddle_hard": "The driver of a jet in the sky",
+                    "word": "AVIATOR",
+                    "riddle": "I sit inside the cockpit high, to fly a plane across the sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAILOR",
-                    "riddle": "A person who fixes your clothes",
-                    "riddle_hard": "One who sews a suit to fit",
+                    "riddle": "I fix the cloth of thread and line, I make the outfit very fine.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1951,32 +1951,32 @@
             "puzzles": [
                 {
                     "word": "RHYTHM",
-                    "riddle": "The steady beat of a drum",
-                    "riddle_hard": "The pattern of sound in time",
+                    "riddle": "I am the beat of drum and heart, a steady pace for every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LYRIC",
-                    "riddle": "The words of a popular song",
-                    "riddle_hard": "A poetic line set to a melody",
+                    "riddle": "I am the word of melody, a poetic for the all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANJO",
-                    "riddle": "A round guitar with a twang",
-                    "riddle_hard": "A stringed box for folk music",
+                    "riddle": "I am the string of body round, a happy plucking on the ground.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HARP",
-                    "riddle": "A large frame with many strings",
-                    "riddle_hard": "An angelic instrument of gold",
+                    "riddle": "I am the frame of gold and string, a angelic for the soul to sing.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHIME",
-                    "riddle": "The sound of a small bell",
-                    "riddle_hard": "A light ring in the gentle wind",
+                    "riddle": "I am the bell of ringing clear, a melodious for all to hear.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1991,26 +1991,26 @@
             "puzzles": [
                 {
                     "word": "BRONZE",
-                    "riddle": "A metal made of copper and tin",
-                    "riddle_hard": "The medal for third place win",
+                    "riddle": "I am the medal third and win, a copper of the heavy tin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SILVER",
-                    "riddle": "A shiny metal used for coins",
-                    "riddle_hard": "The second place prize of value",
+                    "riddle": "I am the coin of shiny light, a second prize for every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VELVET",
-                    "riddle": "A very soft and thick fabric",
-                    "riddle_hard": "A rich cloth that feels smooth",
+                    "riddle": "I am the cloth of soft and thick, a smooth and rich for every trick.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANVAS",
-                    "riddle": "A thick cloth for painting",
-                    "riddle_hard": "Heavy fabric used for a tent",
+                    "riddle": "I am the cloth of oil and paint, a surface for the sinner saint.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2024,27 +2024,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SPRINT",
-                    "riddle": "To run as fast as you can",
-                    "riddle_hard": "A short race of extreme speed",
+                    "word": "LIFT",
+                    "riddle": "I move the weight of heavy up, a rising for the every cup.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STROLL",
-                    "riddle": "To walk in a slow easy way",
-                    "riddle_hard": "A relaxed path through the park",
+                    "word": "LOAD",
+                    "riddle": "I fill the truck of data light, a heavy for the every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLIDE",
-                    "riddle": "To move smoothly through air",
-                    "riddle_hard": "To fly without moving wings",
+                    "riddle": "I fly the smooth of without wing, a steady for the all to sing.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARCH",
-                    "riddle": "To walk with a steady beat",
-                    "riddle_hard": "A rhythmic step of a soldier",
+                    "riddle": "I am the step of third and year, a spring for all the world to cheer.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2058,33 +2058,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "MUSE",
-                    "riddle": "To think deeply about an idea",
-                    "riddle_hard": "To wonder about the world",
+                    "word": "SENSE",
+                    "riddle": "I feel the world of every part, a judgment for the human heart.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "QUERY",
-                    "riddle": "To ask a question for info",
-                    "riddle_hard": "An inquiry into a specific fact",
+                    "word": "BRIEF",
+                    "riddle": "I am the short of concise fact, a summary for every act.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SOLVE",
-                    "riddle": "To find the answer to a task",
-                    "riddle_hard": "To fix a problem with the mind",
+                    "word": "SKILL",
+                    "riddle": "I am the gift of talent heart, a expertise for every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BELIEF",
-                    "riddle": "Something you think is true",
-                    "riddle_hard": "A strong trust in an idea",
+                    "word": "CRAFT",
+                    "riddle": "I am the hand of skillful make, a sneaky for the every cake.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LEARN",
-                    "riddle": "To gain new skills or facts",
-                    "riddle_hard": "To study and grow the brain",
+                    "word": "GHOST",
+                    "riddle": "I am the spirit pale and white, a haunted for the every night.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2098,33 +2098,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "WEALTH",
-                    "riddle": "Having a lot of money or gold",
-                    "riddle_hard": "Great riches and many assets",
+                    "word": "FREE",
+                    "riddle": "I am the cost of zero cent, a unchained for the every spent.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GRAND",
-                    "riddle": "Something very large and noble",
-                    "riddle_hard": "A fancy and impressive sight",
+                    "word": "GAIN",
+                    "riddle": "I am the plus of wealth and win, a positive for every pin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CHEAP",
-                    "riddle": "Something that costs little",
-                    "riddle_hard": "An item of very low value",
+                    "word": "LOSS",
+                    "riddle": "I am the down of lost and game, a defeat for the every name.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ELITE",
-                    "riddle": "The very best of a group",
-                    "riddle_hard": "The top tier of a social class",
+                    "word": "FAIR",
+                    "riddle": "I am the rule of just and right, a average for every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "NOBLE",
-                    "riddle": "A person of high royal rank",
-                    "riddle_hard": "Someone with a very good heart",
+                    "word": "HOLY",
+                    "riddle": "I am the sign of divine power, a spiritual for every hour.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2139,26 +2139,26 @@
             "puzzles": [
                 {
                     "word": "CANYON",
-                    "riddle": "A deep valley carved by water",
-                    "riddle_hard": "A huge crack in the red earth",
+                    "riddle": "I am the crack of red and rock, a valley deep for river shock.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ISLAND",
-                    "riddle": "Land with water on all sides",
-                    "riddle_hard": "A small piece of earth in sea",
+                    "word": "MAP",
+                    "riddle": "I am the paper city land, a drawing guide for every hand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DESERT",
-                    "riddle": "A dry land with very little rain",
-                    "riddle_hard": "A sandy place that is very hot",
+                    "word": "ORE",
+                    "riddle": "I am the rock of metal heart, a raw and mined for every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FOREST",
-                    "riddle": "A large area with many trees",
-                    "riddle_hard": "A green woods for wild animals",
+                    "riddle": "I am the woods of green and tree, a wild and home for all to see.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2172,33 +2172,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "VIGOR",
-                    "riddle": "Having a lot of energy",
-                    "riddle_hard": "Great strength and active life",
+                    "word": "HUG",
+                    "riddle": "I am the arm of warm and hold, a comfort for the young and old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "RELAX",
-                    "riddle": "To rest and be very calm",
-                    "riddle_hard": "To let go of all the daily stress",
+                    "word": "CURE",
+                    "riddle": "I am the end of sick and pain, a health for the every body gain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HEALTH",
-                    "riddle": "Being well in body and mind",
-                    "riddle_hard": "A state of being fit and strong",
+                    "word": "PILL",
+                    "riddle": "I am the round of tablet small, a swallow for the every all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SLEEP",
-                    "riddle": "To rest your eyes at night",
-                    "riddle_hard": "The time of dreams and silence",
+                    "word": "SICK",
+                    "riddle": "I am the feel of bad and ill, a nausea for the every will.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TONIC",
-                    "riddle": "A drink used for medicine",
-                    "riddle_hard": "A liquid that gives you energy",
+                    "riddle": "I am the drink of power heal, a liquid for the every feel.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2212,33 +2212,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "VILLA",
-                    "riddle": "A large house in the country",
-                    "riddle_hard": "A fancy home with a nice view",
+                    "word": "SALAD",
+                    "riddle": "I am the mix of veggie cold, a healthy for the young and old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CABIN",
-                    "riddle": "A small house made of wood",
-                    "riddle_hard": "A cozy home in the deep forest",
+                    "word": "ONION",
+                    "riddle": "I am the bulb of many layer, a cry for every veggie prayer.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LOFT",
-                    "riddle": "A room at the top of a shop",
-                    "riddle_hard": "A high space with a large window",
+                    "word": "GRAPE",
+                    "riddle": "I am the bunch of purple vine, a raisin for the every line.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SHACK",
-                    "riddle": "A very small and poor house",
-                    "riddle_hard": "A simple hut made of old wood",
+                    "word": "PEACH",
+                    "riddle": "I am the skin of fuzzy sweet, a orange for the every treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MANOR",
-                    "riddle": "A very grand and old house",
-                    "riddle_hard": "The large home of a rich family",
+                    "word": "MELON",
+                    "riddle": "I am the gourd of water large, a summer for the every barge.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2253,32 +2253,32 @@
             "puzzles": [
                 {
                     "word": "PRICE",
-                    "riddle": "What you pay for an item",
-                    "riddle_hard": "The cost of a thing at a store",
+                    "riddle": "I am the cost of every toy, a value for the every boy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STOCK",
-                    "riddle": "A share in a big company",
-                    "riddle_hard": "A piece of a business to own",
+                    "riddle": "I am the piece of company, a buy and sell for you and me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASSET",
-                    "riddle": "Something of great value",
-                    "riddle_hard": "A thing that you own for money",
+                    "riddle": "I am the thing of money worth, a value for the all of earth.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOAN",
-                    "riddle": "Money you borrow from a bank",
-                    "riddle_hard": "Cash given that must be paid back",
+                    "riddle": "I am the sum of pay you back, a borrow for the every lack.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PROFIT",
-                    "riddle": "The money a business makes",
-                    "riddle_hard": "The gain after all costs are paid",
+                    "word": "GAINS",
+                    "riddle": "I am the sum of business make, a surplus for the every cake.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2293,32 +2293,32 @@
             "puzzles": [
                 {
                     "word": "MURAL",
-                    "riddle": "A large painting on a wall",
-                    "riddle_hard": "Art that covers a whole building",
+                    "riddle": "I am the art of wall and direct, a giant scene for all respect.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANVAS",
-                    "riddle": "A cloth used for an oil painting",
-                    "riddle_hard": "The white sheet for an artist",
+                    "riddle": "I am the fabric for the paint, a surface for the sinner saint.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EASEL",
-                    "riddle": "The stand that holds a frame",
-                    "riddle_hard": "A wooden rack for a painting",
+                    "riddle": "I am the frame of wooden stand, a artist for the every hand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HUE",
-                    "riddle": "Another word for a color",
-                    "riddle_hard": "A specific shade of a bright tint",
+                    "riddle": "I am the shade of rainbow bright, a color for the every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PALETTE",
-                    "riddle": "A board for mixing colors",
-                    "riddle_hard": "The tray used by a painter",
+                    "riddle": "I am the tray of mixing paint, a board for every sinner saint.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2333,32 +2333,32 @@
             "puzzles": [
                 {
                     "word": "SPHERE",
-                    "riddle": "A shape like a round ball",
-                    "riddle_hard": "A perfect circle in three sides",
+                    "riddle": "I am the shape of round and ball, a perfect for the every all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUBE",
-                    "riddle": "A shape like a square box",
-                    "riddle_hard": "A solid block with six flat faces",
+                    "riddle": "I am the box of edges six, a solid for the every mix.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OVAL",
-                    "riddle": "A shape like a long egg",
-                    "riddle_hard": "A circle that is stretched out",
+                    "riddle": "I am the circle stretched and long, a egg for every happy song.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WIDTH",
-                    "riddle": "The distance from side to side",
-                    "riddle_hard": "How wide an object is measured",
+                    "riddle": "I am the side of measure wide, a distance for the every ride.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIUS",
-                    "riddle": "Line from center to the edge",
-                    "riddle_hard": "Half the distance of a circle",
+                    "riddle": "I am the path of half and wide, a circle center for the ride.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2372,33 +2372,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "YAWN",
-                    "riddle": "To open mouth when tired",
-                    "riddle_hard": "A sign that you need some sleep",
+                    "word": "GASP",
+                    "riddle": "I take the breath of sudden air, a shock for every person there.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "COUGH",
-                    "riddle": "A sharp noise from the throat",
-                    "riddle_hard": "A blast of air from the lungs",
+                    "word": "ITCH",
+                    "riddle": "I am the skin of tingle feel, a scratch for every body heal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SNORE",
-                    "riddle": "A loud noise during sleep",
-                    "riddle_hard": "A sound made while breathing deep",
+                    "word": "WEEP",
+                    "riddle": "I shed the tear of heavy cry, a sorrow for the every eye.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SWEAT",
-                    "riddle": "Liquid on skin from heat",
-                    "riddle_hard": "Moisture from a long hard run",
+                    "word": "TICK",
+                    "riddle": "I am the bug of blood and small, a parasite for every all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BLINK",
-                    "riddle": "To close eyes very quickly",
-                    "riddle_hard": "A fast move of the eye lids",
+                    "word": "STUN",
+                    "riddle": "I am the daze of sudden shock, a knock for every body block.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2412,33 +2412,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PRIDE",
-                    "riddle": "Feeling good about yourself",
-                    "riddle_hard": "The joy of a job well done",
+                    "word": "ZEAL",
+                    "riddle": "I am the energy of heart, a passion for the every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GRIEF",
-                    "riddle": "Great sadness after a loss",
-                    "riddle_hard": "The pain of losing someone dear",
+                    "word": "GRIN",
+                    "riddle": "I am the smile of happy wide, a secret that I cannot hide.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PANIC",
-                    "riddle": "A sudden and very great fear",
-                    "riddle_hard": "A wild feeling of being trapped",
+                    "word": "RAGE",
+                    "riddle": "I am the fire of anger loud, a violent for the every crowd.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BLISS",
-                    "riddle": "A state of perfect happiness",
-                    "riddle_hard": "Complete joy and quiet peace",
+                    "word": "SORE",
+                    "riddle": "I am the pain of upset soul, a hurt for every person goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GUILT",
-                    "riddle": "Feeling bad about a mistake",
-                    "riddle_hard": "The weight of a wrong action",
+                    "word": "WARY",
+                    "riddle": "I am the feel of caution near, a watch for every sudden fear.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2452,27 +2452,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SMOOTH",
-                    "riddle": "A surface with no bumps",
-                    "riddle_hard": "Slick and even to the touch",
+                    "word": "FOAM",
+                    "riddle": "I am the mass of bubble air, a light for every person there.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ROUGH",
-                    "riddle": "Having many small bumps",
-                    "riddle_hard": "Uneven and scratchy surface",
+                    "word": "FUZZ",
+                    "riddle": "I am the hair of fine and soft, a fuzzy for the way aloft.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SILKY",
-                    "riddle": "Feeling very soft and fine",
-                    "riddle_hard": "Smooth like the thread of a worm",
+                    "word": "GRIT",
+                    "riddle": "I am the stone of rough and sand, a tough for every human hand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STICKY",
-                    "riddle": "Like glue or sweet honey",
-                    "riddle_hard": "A surface that clings to hands",
+                    "word": "LEAD",
+                    "riddle": "I am the metal heavy dull, a weight for every person hull.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2486,39 +2486,39 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ABOVE",
-                    "riddle": "The opposite of below",
-                    "riddle_hard": "Being over something else",
+                    "word": "LIFETIME",
+                    "riddle": "I am the span of being born, a age for every life to mourn.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BELOW",
-                    "riddle": "The opposite of above",
-                    "riddle_hard": "Being under something else",
+                    "word": "HEADACHE",
+                    "riddle": "I am the pain of throb and head, a nuisance for the every bed.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FIRST",
-                    "riddle": "The start of a long line",
-                    "riddle_hard": "The beginning of an event",
+                    "word": "EARTHQUAKE",
+                    "riddle": "I am the shake of rocky ground, a tremors for the every sound.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LAST",
-                    "riddle": "The end of a long line",
-                    "riddle_hard": "The final part of an event",
+                    "word": "BUTTERFLY",
+                    "riddle": "I am the wing of color bright, a crawler for the every light.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "NEXT",
-                    "riddle": "The one that comes after",
-                    "riddle_hard": "Following the current person",
+                    "word": "WATERFALL",
+                    "riddle": "I am the river falling deep, a cascade for the rocks to keep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EARLY",
-                    "riddle": "The opposite of being late",
-                    "riddle_hard": "Arriving before the set time",
+                    "riddle": "I am the state of before time, a morning for the early climb.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2533,26 +2533,26 @@
             "puzzles": [
                 {
                     "word": "JAGUAR",
-                    "riddle": "A big cat with black spots",
-                    "riddle_hard": "A powerful hunter of the jungle",
+                    "riddle": "I am the cat of jungle dark, a spotted hunter for the park.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "IGUANA",
-                    "riddle": "A large green lizard pet",
-                    "riddle_hard": "A scaly reptile with a long tail",
+                    "riddle": "I am the pet of lizard green, a scaly for the every scene.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PARROT",
-                    "riddle": "A bird that can talk back",
-                    "riddle_hard": "A colorful flier of the tropics",
+                    "word": "RAT",
+                    "riddle": "I am the tail of sewer deep, a survivor for the city sleep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHARK",
-                    "riddle": "A large predator of the sea",
-                    "riddle_hard": "A fish with many sharp teeth",
+                    "riddle": "I am the tooth of ocean sea, a predator for you and me.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2566,27 +2566,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PLANET",
-                    "riddle": "A large rock in the sky",
-                    "riddle_hard": "A world that moves around a star",
+                    "word": "AN",
+                    "riddle": "I am the one of single thing, a article for all to sing.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "METEOR",
-                    "riddle": "A rock that falls to earth",
-                    "riddle_hard": "A streak of light in the night",
+                    "word": "AS",
+                    "riddle": "I am the role of like and be, a function for the you and me.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GALAXY",
-                    "riddle": "A huge group of many stars",
-                    "riddle_hard": "A giant swirl in deep space",
+                    "word": "AT",
+                    "riddle": "I am the marker of the home, a location for the all to roam.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ORBIT",
-                    "riddle": "To move around a planet",
-                    "riddle_hard": "The path of a moon in the sky",
+                    "word": "BC",
+                    "riddle": "I am the era before Christ, a history of the ancient light.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2600,33 +2600,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "SKULL",
-                    "riddle": "The bone that protects brain",
-                    "riddle_hard": "The hard frame of the head",
+                    "word": "LAP",
+                    "riddle": "I am the seat of knee and sit, a temporary for every bit.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SPINE",
-                    "riddle": "The long bone in your back",
-                    "riddle_hard": "The main support of the body",
+                    "word": "LEG",
+                    "riddle": "I am the limb of walk and run, a biological for every fun.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ELBOW",
-                    "riddle": "The joint in the middle of arm",
-                    "riddle_hard": "The part that lets the arm bend",
+                    "word": "RIB",
+                    "riddle": "I am the bone of chest and heart, a curved for every body part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "WRIST",
-                    "riddle": "Connects the hand to the arm",
-                    "riddle_hard": "The joint below the palm",
+                    "word": "TOE",
+                    "riddle": "I am the digit of the foot, a physical for where you put.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ANKLE",
-                    "riddle": "Connects the foot to the leg",
-                    "riddle_hard": "The joint above the heel",
+                    "word": "ARCH",
+                    "riddle": "I am the curve of posture tall, a plantar for the every all.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2641,32 +2641,32 @@
             "puzzles": [
                 {
                     "word": "JACKET",
-                    "riddle": "Worn to keep the body warm",
-                    "riddle_hard": "A coat for a chilly autumn day",
+                    "riddle": "I am the coat of autumn chill, a warm for every body will.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PANTS",
-                    "riddle": "Clothes worn on the legs",
-                    "riddle_hard": "A pair of denim or cotton garbs",
+                    "word": "BERRY",
+                    "riddle": "I am the fruit of pulp and small, a sweet for every person all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SCARF",
-                    "riddle": "Worn around a cold neck",
-                    "riddle_hard": "A long piece of knitted wool",
+                    "word": "GRAIN",
+                    "riddle": "I am the seed of wood and rice, a single for the every price.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BOOTS",
-                    "riddle": "Shoes worn in the deep snow",
-                    "riddle_hard": "Heavy footwear for a long hike",
+                    "word": "HONEY",
+                    "riddle": "I am the thick of nectar sweet, a golden for the every treat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GLOVE",
-                    "riddle": "Worn to keep the hand warm",
-                    "riddle_hard": "A cover for the five fingers",
+                    "word": "SYRUP",
+                    "riddle": "I am the liquid sugar pour, a pancake for the every more.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2681,32 +2681,32 @@
             "puzzles": [
                 {
                     "word": "DEGREE",
-                    "riddle": "What you get after college",
-                    "riddle_hard": "The rank of a graduate student",
+                    "riddle": "I am the paper college gain, a finish for the every brain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUPIL",
-                    "riddle": "A person who is learning",
-                    "riddle_hard": "A young student in a classroom",
+                    "riddle": "I am the student classroom learning, a young for every wisdom yearning.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ESSAY",
-                    "riddle": "A long piece of writing",
-                    "riddle_hard": "A paper on a specific topic",
+                    "riddle": "I am the piece of writing short, a summary for every court.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXAM",
-                    "riddle": "A hard test of your skills",
-                    "riddle_hard": "A final check of what you know",
+                    "riddle": "I am the test of wisdom large, a measure for the every charge.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SCHOOL",
-                    "riddle": "A place where kids learn",
-                    "riddle_hard": "A building full of many books",
+                    "riddle": "I am the house of book and learn, a building for the every yearn.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2721,32 +2721,32 @@
             "puzzles": [
                 {
                     "word": "GHOST",
-                    "riddle": "The spirit of a dead person",
-                    "riddle_hard": "A pale figure in a haunted house",
+                    "riddle": "I am the spirit pale and white, a haunted for the every night.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TROLL",
-                    "riddle": "A monster under a bridge",
-                    "riddle_hard": "A grumpy beast of the mountains",
+                    "riddle": "I am the grumpy bridge and hide, a monster for the every ride.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KNIGHT",
-                    "riddle": "A hero in metal armor",
-                    "riddle_hard": "A brave soldier for the king",
+                    "riddle": "I am the hero armor bright, a warrior for the every knight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "WITCH",
-                    "riddle": "A woman who does magic",
-                    "riddle_hard": "A person with a broom and hat",
+                    "riddle": "I fly the broom of magic sky, a sorcerer for the every high.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAIRY",
-                    "riddle": "A tiny person with wings",
-                    "riddle_hard": "A magical being of the woods",
+                    "riddle": "I am the wing of magic small, a spirit for the every all.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2761,32 +2761,32 @@
             "puzzles": [
                 {
                     "word": "MODEM",
-                    "riddle": "Used to connect to the net",
-                    "riddle_hard": "A box for the internet signal",
+                    "riddle": "I am the box of signal net, a connection for the every set.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PIXEL",
-                    "riddle": "A tiny dot on a screen",
-                    "riddle_hard": "The smallest part of a picture",
+                    "riddle": "I am the dot of screen and light, a digital for every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SERVER",
-                    "riddle": "A computer that holds data",
-                    "riddle_hard": "A machine that runs a network",
+                    "riddle": "I am the machine data hold, a network for the every old.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FILE",
-                    "riddle": "A folder on a computer",
-                    "riddle_hard": "A set of data with a specific name",
+                    "riddle": "I am the folder data name, a document for every game.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROUTER",
-                    "riddle": "Sends wifi around the house",
-                    "riddle_hard": "A device for a home network",
+                    "riddle": "I send the wifi house and home, a network for the all to roam.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2801,32 +2801,32 @@
             "puzzles": [
                 {
                     "word": "DUEL",
-                    "riddle": "A fight between two people",
-                    "riddle_hard": "A formal battle of honor",
+                    "riddle": "I am the fight of honor two, a battle for the me and you.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BATTLE",
-                    "riddle": "A large fight between armies",
-                    "riddle_hard": "A violent clash in a war",
+                    "word": "TAG",
+                    "riddle": "I am the game of chase and run, a playground for the every fun.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STRIKE",
-                    "riddle": "To hit something with force",
-                    "riddle_hard": "To swing a fist or a weapon",
+                    "riddle": "I am the hit of sudden force, a swing for every body course.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHIELD",
-                    "riddle": "Used to block a sword hit",
-                    "riddle_hard": "A metal plate for protection",
+                    "riddle": "I am the block of hits and blow, a broadly for the all to know.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GUARD",
-                    "riddle": "To protect a person or place",
-                    "riddle_hard": "To stand watch over a gate",
+                    "word": "JAB",
+                    "riddle": "I am the punch of boxer quick, a straight for every body trick.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2840,33 +2840,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PARTY",
-                    "riddle": "A fun time with friends",
-                    "riddle_hard": "A celebration with music",
+                    "word": "REASON",
+                    "riddle": "I am the mind of think and why, a judgment for the every fly.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DANCE",
-                    "riddle": "To move your body to music",
-                    "riddle_hard": "A rhythmic motion of the feet",
+                    "word": "VISION",
+                    "riddle": "I am the view of color bright, a mental for the every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GREET",
-                    "riddle": "To say hello to someone",
-                    "riddle_hard": "To welcome a person with a smile",
+                    "word": "PONDER",
+                    "riddle": "I am the thought of careful deep, a consider for the all to keep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "VISIT",
-                    "riddle": "To go see a friend at home",
-                    "riddle_hard": "To spend time in a new place",
+                    "word": "WONDER",
+                    "riddle": "I am the feel of curious dream, a amazement for the every beam.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CROWD",
-                    "riddle": "A large group of people",
-                    "riddle_hard": "A mass of humans in one spot",
+                    "word": "FORGET",
+                    "riddle": "I fail to keep the memory tight, a missing for the every light.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2880,33 +2880,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BOIL",
-                    "riddle": "To make water very hot",
-                    "riddle_hard": "To heat a liquid until it bubbles",
+                    "word": "VAST",
+                    "riddle": "I am the great of size and far, a immense for the every star.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MELT",
-                    "riddle": "To turn ice into water",
-                    "riddle_hard": "To soften a solid with heat",
+                    "word": "VOID",
+                    "riddle": "I am the space of empty heart, a cancel for the every part.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STEAM",
-                    "riddle": "The mist from hot water",
-                    "riddle_hard": "The vapor of a boiling pot",
+                    "word": "ZERO",
+                    "riddle": "I am the start of nothing scale, a null for every human trail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FROST",
-                    "riddle": "Ice that forms on a window",
-                    "riddle_hard": "A thin white layer of cold",
+                    "riddle": "I am the white of cold and glass, a thin for the every window pass.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHILL",
-                    "riddle": "A feeling of being cold",
-                    "riddle_hard": "A slight drop in temperature",
+                    "riddle": "I am the drop of temperature, a slight for every winter pure.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2920,33 +2920,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BREEZE",
-                    "riddle": "A light and gentle wind",
-                    "riddle_hard": "A soft breath of the summer air",
+                    "word": "ROE",
+                    "riddle": "I am the egg of ocean sea, a caviar for the all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HUMID",
-                    "riddle": "When the air is very wet",
-                    "riddle_hard": "A damp feeling on a hot day",
+                    "word": "SOW",
+                    "riddle": "I am the pig of mother farm, a planter for the every charm.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STORM",
-                    "riddle": "Rain with wind and thunder",
-                    "riddle_hard": "A dark sky with heavy clouds",
+                    "word": "TIT",
+                    "riddle": "I am the bird of song and small, a energetic for the all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MISTY",
-                    "riddle": "When the air is full of fog",
-                    "riddle_hard": "A cloudy view of the morning",
+                    "word": "YAK",
+                    "riddle": "I am the ox of mountain shaggy, a heavy for the every baggie.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLOUDY",
-                    "riddle": "When the sun is hidden",
-                    "riddle_hard": "A sky full of white and gray",
+                    "riddle": "I am the sky of hide and gray, a shadow for the every day.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2960,39 +2960,39 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "CHEEK",
-                    "riddle": "The soft side of the face",
-                    "riddle_hard": "The part that turns red in cold",
+                    "word": "BILE",
+                    "riddle": "I am the fluid bitter green, a digestive for the every scene.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CHIN",
-                    "riddle": "The bone under the mouth",
-                    "riddle_hard": "The very bottom of the face",
+                    "word": "CYST",
+                    "riddle": "I am the sac of tissue fluid, a pocket for the every druid.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BROW",
-                    "riddle": "The hair above the eye",
-                    "riddle_hard": "The part that moves when worried",
+                    "word": "DENT",
+                    "riddle": "I am the mark of hollow thin, a dimple for the every skin.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "NOSE",
-                    "riddle": "Used to smell a flower",
-                    "riddle_hard": "The part in the middle of a face",
+                    "word": "DUCT",
+                    "riddle": "I am the tube of tear and bile, a channel for the every mile.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MOUTH",
-                    "riddle": "Used to eat and to speak",
-                    "riddle_hard": "The opening for food and words",
+                    "riddle": "I am the hole of food and word, a opening for the every heard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BEARD",
-                    "riddle": "The hair on a man’s chin",
-                    "riddle_hard": "A fuzzy growth on the lower face",
+                    "riddle": "I am the hair of chin and face, a growth for every human race.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3007,32 +3007,32 @@
             "puzzles": [
                 {
                     "word": "CHAIR",
-                    "riddle": "Something to sit upon",
-                    "riddle_hard": "A seat with four legs and a back",
+                    "riddle": "I am the seat of leg and back, a resting for the every lack.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TABLE",
-                    "riddle": "Where you eat your dinner",
-                    "riddle_hard": "A flat surface for many plates",
+                    "word": "JUICE",
+                    "riddle": "I am the liquid fruit and squeeze, a drink for every winter freeze.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SHELF",
-                    "riddle": "A board used to hold books",
-                    "riddle_hard": "A flat rack on a wooden wall",
+                    "word": "FRIED",
+                    "riddle": "I am the sizzle oil and fat, a crispy for the every cat.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BENCH",
-                    "riddle": "A long seat for many people",
-                    "riddle_hard": "A wooden chair found in a park",
+                    "riddle": "I am the seat of park and wood, a long for every person good.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COUCH",
-                    "riddle": "A long soft seat for a room",
-                    "riddle_hard": "A sofa for resting in the house",
+                    "riddle": "I am the sofa soft and long, a resting for the every song.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3047,32 +3047,32 @@
             "puzzles": [
                 {
                     "word": "PLAZA",
-                    "riddle": "An open space in a city",
-                    "riddle_hard": "A town square with a fountain",
+                    "riddle": "I am the square of city open, a fountain for the all to hop in.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOWER",
-                    "riddle": "A very tall building",
-                    "riddle_hard": "A high structure in the skyline",
+                    "riddle": "I am the build of tall and sky, a reach for every person high.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STREET",
-                    "riddle": "A road for cars and people",
-                    "riddle_hard": "A paved path through the town",
+                    "riddle": "I am the path of car and town, a paved for every person down.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "METRO",
-                    "riddle": "A train under the ground",
-                    "riddle_hard": "The fast transit of a city",
+                    "riddle": "I am the train of tunnel deep, a urban for the city sleep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRIDGE",
-                    "riddle": "A path over a river or road",
-                    "riddle_hard": "A stone link between two sides",
+                    "riddle": "I am the link of river stone, a path for every person zone.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3087,32 +3087,32 @@
             "puzzles": [
                 {
                     "word": "GIFT",
-                    "riddle": "A present for a birthday",
-                    "riddle_hard": "Something given out of love",
+                    "riddle": "I am the present give and friend, a birthday for the every end.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GALA",
-                    "riddle": "A very big and fancy party",
-                    "riddle_hard": "A formal night of celebration",
+                    "riddle": "I am the party big and grand, a special for the every land.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FEAST",
-                    "riddle": "A large meal for a holiday",
-                    "riddle_hard": "A grand dinner with much food",
+                    "riddle": "I am the meal of holiday, a dinner for the every stay.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAKE",
-                    "riddle": "A sweet food for a party",
-                    "riddle_hard": "A baked treat with some icing",
+                    "riddle": "I am the treat of icing baked, a sweet for every hunger slaked.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BALLOON",
-                    "riddle": "A bag of air on a string",
-                    "riddle_hard": "A colorful floating decoration",
+                    "riddle": "I am the bag of air and string, a floating for the all to sing.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3127,32 +3127,32 @@
             "puzzles": [
                 {
                     "word": "ROBOT",
-                    "riddle": "A machine that can talk",
-                    "riddle_hard": "A metal man with a computer",
+                    "riddle": "I am the machine human act, a metal for the every fact.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LASER",
-                    "riddle": "A very thin beam of light",
-                    "riddle_hard": "A focused ray of high energy",
+                    "riddle": "I am the beam of color light, a powerful for every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIO",
-                    "riddle": "Used to listen to music",
-                    "riddle_hard": "A box that catches sound waves",
+                    "riddle": "I am the box of wave and sound, a music for the all around.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PHONE",
-                    "riddle": "Used to call a friend",
-                    "riddle_hard": "A device for talking far away",
+                    "riddle": "I am the device talk and far, a calling for the every star.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DRONE",
-                    "riddle": "A small flying machine",
-                    "riddle_hard": "A remote aircraft in the sky",
+                    "riddle": "I am the fly of remote sky, a aircraft for the every high.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3166,33 +3166,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BUILD",
-                    "riddle": "To make a new house",
-                    "riddle_hard": "To put many parts together",
+                    "word": "MEND",
+                    "riddle": "I fix the hole of soft and sock, a repair for the every block.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PAINT",
-                    "riddle": "To put color on a wall",
-                    "riddle_hard": "To use a brush and some ink",
+                    "word": "MILE",
+                    "riddle": "I am the length of long and feet, a distance for the every street.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SWEEP",
-                    "riddle": "To clean a floor with a broom",
-                    "riddle_hard": "To push the dust into a pile",
+                    "word": "MILL",
+                    "riddle": "I am the building grain and grind, a industry of every kind.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FIX",
-                    "riddle": "To repair a broken item",
-                    "riddle_hard": "To make something work again",
+                    "word": "PAVE",
+                    "riddle": "I cover surface stone and road, a path for every heavy load.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SCRUB",
-                    "riddle": "To clean with a lot of force",
-                    "riddle_hard": "To rub a surface until it is new",
+                    "word": "PIPE",
+                    "riddle": "I am the tube of water gas, a cylinder for the all to pass.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3206,33 +3206,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HAPPY",
-                    "riddle": "Feeling very good and glad",
-                    "riddle_hard": "A state of joy and a big smile",
+                    "word": "STIR",
+                    "riddle": "I mix the circle spoon and pot, a move for every liquid hot.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANGRY",
-                    "riddle": "Feeling very mad at someone",
-                    "riddle_hard": "A state of rage and a loud voice",
+                    "riddle": "I am the madness rage and loud, a voice for every person crowd.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SADNESS",
-                    "riddle": "A feeling of being unhappy",
-                    "riddle_hard": "The mood of a rainy lonely day",
+                    "word": "SORRY",
+                    "riddle": "I feel the shame of mistake made, a regret for the every shade.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FEAR",
-                    "riddle": "A feeling of being scared",
-                    "riddle_hard": "The shock of a sudden danger",
+                    "word": "UPSET",
+                    "riddle": "I am the state of worry blue, a disturbed for the me and you.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PROUD",
-                    "riddle": "Feeling good about a win",
-                    "riddle_hard": "The joy of a great achievement",
+                    "word": "ALARM",
+                    "riddle": "I am the fear of danger near, a warning for the all to hear.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3246,39 +3246,39 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "RICH",
-                    "riddle": "Having a lot of money",
-                    "riddle_hard": "The state of being very wealthy",
+                    "word": "VILE",
+                    "riddle": "I am the low of moral bad, a evil for the every sad.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "POOR",
-                    "riddle": "Having very little money",
-                    "riddle_hard": "The state of lacking any assets",
+                    "word": "DUKE",
+                    "riddle": "I am the peer of noble rank, a high and royal for the bank.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GRAND",
-                    "riddle": "Something very big and nice",
-                    "riddle_hard": "A noble and impressive sight",
+                    "word": "EARL",
+                    "riddle": "I am the title viscount high, a British for the every sky.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BEST",
-                    "riddle": "The top one of a group",
-                    "riddle_hard": "The most perfect of all items",
+                    "word": "HEIR",
+                    "riddle": "I am the one of legacy, a legal for the all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FAMOUS",
-                    "riddle": "Known by many people",
-                    "riddle_hard": "A person with a well known name",
+                    "word": "WORTH",
+                    "riddle": "I am the price of important, a value for the every heart.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BASIC",
-                    "riddle": "The most simple version",
-                    "riddle_hard": "A thing with no extra features",
+                    "word": "ROYAL",
+                    "riddle": "I am the family of the queen, a monarch for the every scene.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3292,27 +3292,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "AIRMAIL",
-                    "riddle": "A letter sent by a plane",
-                    "riddle_hard": "A fast way to send a message",
+                    "word": "DRAGONFLY",
+                    "riddle": "I am the wing of hover pond, a four and flyer for the fond.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "BEDBUG",
-                    "riddle": "A tiny insect in a mattress",
-                    "riddle_hard": "A small pest that bites at night",
+                    "word": "POSTCARD",
+                    "riddle": "I am the card of picture mail, a brief and message for the trail.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SUNHAT",
-                    "riddle": "A hat worn in the hot sun",
-                    "riddle_hard": "Headwear for a day at the beach",
+                    "word": "STARFISH",
+                    "riddle": "I am the arm of ocean five, a regrow for the all alive.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DOGTAG",
-                    "riddle": "A metal tag for a pet",
-                    "riddle_hard": "A label on a collar for a canine",
+                    "word": "TOOTHBRUSH",
+                    "riddle": "I am the tool of dental clean, a bristled for the every scene.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3326,27 +3326,27 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "HAMSTER",
-                    "riddle": "Small furry pet on a wheel",
-                    "riddle_hard": "A rodent that lives in a cage",
+                    "word": "BASS",
+                    "riddle": "I am the fish of ocean deep, a music for the every sleep.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GECKO",
-                    "riddle": "A small lizard on a wall",
-                    "riddle_hard": "A reptile that can climb glass",
+                    "riddle": "I am the lizard of the wall, a climbing for the every all.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BADGER",
-                    "riddle": "Strong mammal in a hole",
-                    "riddle_hard": "A striped digger of the forest",
+                    "riddle": "I am the forest digger claws, a dweller for the every laws.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FALCON",
-                    "riddle": "A bird with a sharp beak",
-                    "riddle_hard": "A fast hunter of the high sky",
+                    "word": "BUCK",
+                    "riddle": "I am the deer of antler stag, a dollar for the every bag.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3360,33 +3360,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "VIGOR",
-                    "riddle": "Having a lot of strength",
-                    "riddle_hard": "Great energy for a long day",
+                    "word": "PAIN",
+                    "riddle": "I am the hurt of body soul, a suffering for the every goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "RELAX",
-                    "riddle": "To be very calm and still",
-                    "riddle_hard": "To rest after a lot of work",
+                    "word": "XRAY",
+                    "riddle": "I am the bone of picture light, a inside for the every sight.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HEALTH",
-                    "riddle": "Being fit in your body",
-                    "riddle_hard": "The state of being very well",
+                    "word": "SHOT",
+                    "riddle": "I am the strike of goal and aim, a launch for every person game.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SLEEP",
-                    "riddle": "To rest at the end of day",
-                    "riddle_hard": "To close eyes and have dreams",
+                    "word": "DOSE",
+                    "riddle": "I am the measure drug and heal, a medicine for the every feel.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "TONIC",
-                    "riddle": "A drink used to heal you",
-                    "riddle_hard": "A liquid that gives you power",
+                    "word": "HURT",
+                    "riddle": "I cause the pain of body mind, a injured for the every kind.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3400,33 +3400,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "PLATE",
-                    "riddle": "A round dish for your food",
-                    "riddle_hard": "A ceramic circle for a meal",
+                    "word": "SQUID",
+                    "riddle": "I am the ink of ocean ten, a sprayer for the every pen.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FORK",
-                    "riddle": "A tool with four metal prongs",
-                    "riddle_hard": "Used to pick up a piece of meat",
+                    "word": "CHILLI",
+                    "riddle": "I am the heat of spicy pod, a pepper for the every god.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SPOON",
-                    "riddle": "A round tool for some soup",
-                    "riddle_hard": "Used to eat a bowl of cereal",
+                    "word": "CREAM",
+                    "riddle": "I am the fat of liquid top, a milky for the every drop.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "KNIFE",
-                    "riddle": "A sharp tool for cutting",
-                    "riddle_hard": "Used to slice a piece of bread",
+                    "word": "STEAK",
+                    "riddle": "I am the meat of quality, a beefy for the all to see.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SAUCER",
-                    "riddle": "Small plate for a cup",
-                    "riddle_hard": "A tiny dish for a coffee glass",
+                    "word": "CANDY",
+                    "riddle": "I am the treat of Halloween, a sugar for the every queen.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3441,32 +3441,32 @@
             "puzzles": [
                 {
                     "word": "NURSE",
-                    "riddle": "A person who helps a doctor",
-                    "riddle_hard": "One who cares for the sick",
+                    "riddle": "I am the care of sick and well, a helper for the every bell.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLERK",
-                    "riddle": "A person who works in a shop",
-                    "riddle_hard": "One who sells items to guests",
+                    "riddle": "I am the files of counter desk, a folder for the every task.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GUARD",
-                    "riddle": "A person who watches a gate",
-                    "riddle_hard": "One who protects a building",
+                    "riddle": "I am the watch of gate and door, a protect for the every floor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PILOT",
-                    "riddle": "A person who flies a jet",
-                    "riddle_hard": "The driver of a plane in sky",
+                    "word": "FLYER",
+                    "riddle": "I fly the bus of cloud and sky, a driver for the every high.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COACH",
-                    "riddle": "One who trains a sports team",
-                    "riddle_hard": "A leader of a group of players",
+                    "riddle": "I am the leader sports and team, a trainer for the every dream.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3481,32 +3481,32 @@
             "puzzles": [
                 {
                     "word": "MOVIE",
-                    "riddle": "A story shown on a screen",
-                    "riddle_hard": "A film with actors and sound",
+                    "riddle": "I am the light of wall and story, a picture for the every glory.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STAGE",
-                    "riddle": "The floor for a play or show",
-                    "riddle_hard": "The place where actors stand",
+                    "riddle": "I am the floor of actor play, a standing for the every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACTOR",
-                    "riddle": "A person in a play or film",
-                    "riddle_hard": "One who plays a famous part",
+                    "riddle": "I am the role of pretend life, a living for the every strife.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SCENE",
-                    "riddle": "A small part of a movie",
-                    "riddle_hard": "A single moment in a large play",
+                    "riddle": "I am the moment part and play, a single for the every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SCRIPT",
-                    "riddle": "The book with all the lines",
-                    "riddle_hard": "The written words for a play",
+                    "riddle": "I am the book of word and stage, a drama for the every page.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3521,32 +3521,32 @@
             "puzzles": [
                 {
                     "word": "STEEL",
-                    "riddle": "A very strong gray metal",
-                    "riddle_hard": "A material used for big ships",
+                    "riddle": "I am the metal iron coal, a strong for every body goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GLASS",
-                    "riddle": "Something you can see through",
-                    "riddle_hard": "Material used for a window",
+                    "riddle": "I am the clear of window pane, a see for every person brain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRICK",
-                    "riddle": "A hard red block for walls",
-                    "riddle_hard": "A heavy clay piece for a house",
+                    "riddle": "I am the block of clay and red, a wall for every body bed.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "STONE",
-                    "riddle": "A hard rock from the earth",
-                    "riddle_hard": "Material used for a castle",
+                    "riddle": "I am the rock of earth and castle, a hard for every body tassel.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUBBER",
-                    "riddle": "Stretchy stuff for a tire",
-                    "riddle_hard": "Soft material that can bounce",
+                    "riddle": "I erase the mistake made, a bouncy for the every shade.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3561,26 +3561,26 @@
             "puzzles": [
                 {
                     "word": "SLIDE",
-                    "riddle": "To move smoothly on ice",
-                    "riddle_hard": "To glide down a metal playground",
+                    "riddle": "I am the glide of ice and metal, a smooth for every person settle.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MARCH",
-                    "riddle": "To walk like a soldier",
-                    "riddle_hard": "To move with a steady rhythm",
+                    "word": "QUIT",
+                    "riddle": "I leave the job of work and pay, a stopping for the every day.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "STROLL",
-                    "riddle": "To walk in a very slow way",
-                    "riddle_hard": "A casual path through the park",
+                    "word": "RAKE",
+                    "riddle": "I am the handle leaf and yard, a clearing for the every guard.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "CLIMB",
-                    "riddle": "To go up a high mountain",
-                    "riddle_hard": "To move upward with the hands",
+                    "word": "SAND",
+                    "riddle": "I am the stone of shift and breeze, a ground for every person ease.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3594,33 +3594,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "THINK",
-                    "riddle": "To use your brain for ideas",
-                    "riddle_hard": "To ponder about a hard task",
+                    "word": "SCHEME",
+                    "riddle": "I am the plan of secret goal, a system for the every soul.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "KNOW",
-                    "riddle": "To have a fact in your head",
-                    "riddle_hard": "To understand a specific truth",
+                    "word": "PSYCHE",
+                    "riddle": "I am the mind of human soul, a total for the every goal.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "LEARN",
-                    "riddle": "To get a new skill at school",
-                    "riddle_hard": "To study and grow the mind",
+                    "word": "ADVICE",
+                    "riddle": "I am the tip of guidance give, a suggester for the all to live.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GUESS",
-                    "riddle": "To try to find an answer",
-                    "riddle_hard": "To pick a choice without a fact",
+                    "word": "DECIDE",
+                    "riddle": "I make the choice of mind and thought, a resolution for the all I sought.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SOLVE",
-                    "riddle": "To find a fix for a puzzle",
-                    "riddle_hard": "To finish a task with the brain",
+                    "word": "LESSON",
+                    "riddle": "I am the learn of period life, a moral for the every strife.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3634,33 +3634,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BRIGHT",
-                    "riddle": "Having a lot of light",
-                    "riddle_hard": "The opposite of being very dim",
+                    "word": "CLASS",
+                    "riddle": "I am the rank of social group, a status for the every troop.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "DARK",
-                    "riddle": "The opposite of bright",
-                    "riddle_hard": "A state with very little light",
+                    "word": "FAME",
+                    "riddle": "I am the status public known, a glory for the every throne.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "GLOW",
-                    "riddle": "To shine with a soft light",
-                    "riddle_hard": "A gentle radiance in the night",
+                    "word": "GLORY",
+                    "riddle": "I am the honor deed and won, a magnificent for everyone.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "SHINE",
-                    "riddle": "To be very bright and clear",
-                    "riddle_hard": "To reflect a lot of sun light",
+                    "word": "POSH",
+                    "riddle": "I am the fancy upper life, a elegant for every wife.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "FLASH",
-                    "riddle": "A sudden burst of light",
-                    "riddle_hard": "A quick blink of a bright bulb",
+                    "word": "PLUSH",
+                    "riddle": "I am the soft of luxury, a expensive for the all to see.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3674,33 +3674,33 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "EASY",
-                    "riddle": "Something not hard to do",
-                    "riddle_hard": "A simple task with no trouble",
+                    "word": "SCARECROW",
+                    "riddle": "I fright the bird of straw and field, a protect for the every yield.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "HARD",
-                    "riddle": "Something not easy to do",
-                    "riddle_hard": "A difficult task for the mind",
+                    "word": "WINDMILL",
+                    "riddle": "I am the flow of air and grain, a grinder for the every rain.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PUZZLE",
-                    "riddle": "A game that is hard to fix",
-                    "riddle_hard": "A task that tests your skill",
+                    "word": "SANDBOX",
+                    "riddle": "I am the play of child and sand, a digital for every hand.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "RIDDLE",
-                    "riddle": "A word game with a hint",
-                    "riddle_hard": "A tricky question to be solved",
+                    "word": "CROSSWALK",
+                    "riddle": "I am the path of street and sign, a pedestrian for everything fine.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "MASTER",
-                    "riddle": "A person who is an expert",
-                    "riddle_hard": "One who has reached the top tier",
+                    "word": "GRAPEVINE",
+                    "riddle": "I am the vine of rumor heard, a climbing for the every word.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],

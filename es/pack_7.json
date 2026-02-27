@@ -1,0 +1,3949 @@
+{
+    "Levels": [
+        {
+            "level_id": 601,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Fauna",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ORUGA",
+                    "riddle": "Gusano que sera mariposa.",
+                    "riddle_hard": "Come muchas hojas y se duerme en un capullo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TENCA",
+                    "riddle": "Pez de rio tranquilo.",
+                    "riddle_hard": "Conocido como el pez doctor.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRAJO",
+                    "riddle": "Pajaro negro parecido al cuervo.",
+                    "riddle_hard": "Ave que anida en colonias ruidosas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MANATI",
+                    "riddle": "Se describe como vaca marina.",
+                    "riddle_hard": "Gigante gentil y lento que come algas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIEBRE",
+                    "riddle": "Conejo grande y muy rapido.",
+                    "riddle_hard": "Tiene orejas largas y corre velozmente.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 602,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Flora",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALGAS",
+                    "riddle": "Plantas verdes que crecen en el estanque.",
+                    "riddle_hard": "Verdín que flota en el agua.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PECANA",
+                    "riddle": "Nuez para pay.",
+                    "riddle_hard": "Nuez marrón lisa popular en el sur.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENEBRO",
+                    "riddle": "Baya de ginebra.",
+                    "riddle_hard": "Arbusto siempreverde con bayas azules.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GINKGO",
+                    "riddle": "Árbol de hoja de abanico.",
+                    "riddle_hard": "Árbol antiguo con hojas medicinales.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MALEZA",
+                    "riddle": "Planta no deseada.",
+                    "riddle_hard": "Invasor del jardín que crece demasiado rápido.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 603,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Geografía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FIORDO",
+                    "riddle": "Mar entrando en montañas.",
+                    "riddle_hard": "Valle inundado por el mar entre picos altos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DELTA",
+                    "riddle": "Rio que se abre en abanico.",
+                    "riddle_hard": "Final del rio con forma de triangulo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MEDANO",
+                    "riddle": "Duna de dorada arena en la costa.",
+                    "riddle_hard": "Monton de arena blanda empujada por fuerte viento.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GEISER",
+                    "riddle": "Fuente de agua caliente.",
+                    "riddle_hard": "Chorro de vapor que sale de la tierra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FISURA",
+                    "riddle": "Grieta en la roca.",
+                    "riddle_hard": "Rajadura fina en la piedra.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 604,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Cosmos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "VIRGO",
+                    "riddle": "Constelacion de la virgen.",
+                    "riddle_hard": "Signo zodiacal de verano tardio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGOSTO",
+                    "riddle": "Ultimo mes de verano.",
+                    "riddle_hard": "El octavo mes del año.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NAVE",
+                    "riddle": "Viajera interestelar.",
+                    "riddle_hard": "Barco del espacio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALIEN",
+                    "riddle": "No es de la Tierra.",
+                    "riddle_hard": "Criatura de otro mundo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOS",
+                    "riddle": "Se describe como nosotros.",
+                    "riddle_hard": "Referirse a uno mismo y otros.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 605,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Clima",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "TIFON",
+                    "riddle": "Tormenta masiva asiatica.",
+                    "riddle_hard": "Gigante de viento y lluvia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASANDO",
+                    "riddle": "Cocinando con calor.",
+                    "riddle_hard": "Caliente como horno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALUD",
+                    "riddle": "Nieve fresca cayendo muy super rapido.",
+                    "riddle_hard": "Avalancha masiva brutal de frio helado invierno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RACHAS",
+                    "riddle": "Vientos cortos y fuertes.",
+                    "riddle_hard": "Golpes de aire repentinos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRASAS",
+                    "riddle": "Carbon rojo vivo.",
+                    "riddle_hard": "Fuego dormido pero caliente.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 606,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Anatomía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PULGAR",
+                    "riddle": "El dedo gordo.",
+                    "riddle_hard": "El primer digito de la mano.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PILORO",
+                    "riddle": "Salida del estomago.",
+                    "riddle_hard": "Abertura hacia el duodeno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLEMA",
+                    "riddle": "Moco de garganta.",
+                    "riddle_hard": "Sustancia viscosa respiratoria.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUBITO",
+                    "riddle": "Hueso del antebrazo.",
+                    "riddle_hard": "El hueso mas largo del antebrazo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "INGLE",
+                    "riddle": "Union de torso y piernas.",
+                    "riddle_hard": "Region aductora de la cadera.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 607,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Sentidos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CHOQUE",
+                    "riddle": "Sonido de impacto.",
+                    "riddle_hard": "Ruido fuerte de algo que se rompe o golpea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MIOPE",
+                    "riddle": "Ve cerca solamente.",
+                    "riddle_hard": "No puede ver cosas claras a menos que esten cerca.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SONICO",
+                    "riddle": "Onda de sonido.",
+                    "riddle_hard": "Relacionado con la velocidad del sonido.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NASAL",
+                    "riddle": "Voz por la nariz.",
+                    "riddle_hard": "Sonido que sale vibrando por la nariz y no la boca.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OYENTE",
+                    "riddle": "El que escucha.",
+                    "riddle_hard": "Persona que presta atencion al sonido.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 608,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Bienestar",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "HERBAL",
+                    "riddle": "Medicina de plantas.",
+                    "riddle_hard": "Remedio hecho por la naturaleza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DETOX",
+                    "riddle": "Limpiar cosas malas del cuerpo.",
+                    "riddle_hard": "Proceso de purificar el sistema.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PARTO",
+                    "riddle": "Trabajo de nacimiento.",
+                    "riddle_hard": "El doloroso milagro de dar luz.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUMBA",
+                    "riddle": "Casa de piedra para muertos.",
+                    "riddle_hard": "Habitacion final bajo tierra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NIÑOS",
+                    "riddle": "Se describe como gente joven.",
+                    "riddle_hard": "Mas de un pequeño corriendo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 609,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Ciclo de Vida",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "NIÑERA",
+                    "riddle": "Cuida niños por dinero.",
+                    "riddle_hard": "La salvadora de los padres cansados.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIUDA",
+                    "riddle": "Su esposo murio.",
+                    "riddle_hard": "Mujer vestida de negro y recuerdos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIUDO",
+                    "riddle": "Su esposa murio.",
+                    "riddle_hard": "Hombre que perdio a su pareja.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHUCHO",
+                    "riddle": "Perro callejero.",
+                    "riddle_hard": "Perro sin raza definida.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FETO",
+                    "riddle": "Bebe antes de nacer.",
+                    "riddle_hard": "Ser creciendo dentro del utero.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 610,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Apariencia",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MENUDA",
+                    "riddle": "Mujer pequeña y delgada.",
+                    "riddle_hard": "Tamaño chico y fino.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TESO",
+                    "riddle": "Duro y dificil de doblar.",
+                    "riddle_hard": "Rigido como una tabla.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PECA",
+                    "riddle": "Punto marron en la nariz.",
+                    "riddle_hard": "Beso del sol en la cara.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRENZA",
+                    "riddle": "Pelo cruzado y tejido.",
+                    "riddle_hard": "Peinado de tres cabos entrelazados.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PECOSO",
+                    "riddle": "Cara llena de puntitos.",
+                    "riddle_hard": "Constelacion de manchas en la nariz.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 611,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Cocina",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "POWER",
+                    "riddle": "Energia electrica vital.",
+                    "riddle_hard": "Poder para encender sin final.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MODEM",
+                    "riddle": "Aparato de señal de internet.",
+                    "riddle_hard": "Hardware que conecta sin banquete.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DRIVER",
+                    "riddle": "Software para hardware.",
+                    "riddle_hard": "Controlador sin vario.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CYBER",
+                    "riddle": "Relacionado con computadoras.",
+                    "riddle_hard": "Prefijo del mundo de memorias.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUEUE",
+                    "riddle": "Una fila de tareas.",
+                    "riddle_hard": "Secuencia de cosas enteras.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 612,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Guardarropa",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BRAGAS",
+                    "riddle": "Ropa intima pequeña.",
+                    "riddle_hard": "Cubre la zona pelvica.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIJAB",
+                    "riddle": "Velo para la cabeza.",
+                    "riddle_hard": "Pañuelo usado por mujeres musulmanas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TUNICA",
+                    "riddle": "Camison largo antiguo.",
+                    "riddle_hard": "Prenda sencilla que usaban los romanos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOXER",
+                    "riddle": "Tipos de calzones de hombre que parecen pantaloncitos cortos.",
+                    "riddle_hard": "Ropa interior masculina ajustada que toma su nombre de la indumentaria de los pugilistas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BORDAR",
+                    "riddle": "Coser dibujos en tela.",
+                    "riddle_hard": "Arte de decorar ropa con hilo y aguja.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 613,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Refugio",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GAMUZA",
+                    "riddle": "Cuero suave y peludito.",
+                    "riddle_hard": "Piel curtida con textura aterciopelada.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALZON",
+                    "riddle": "Ropa interior.",
+                    "riddle_hard": "Lo que llevas debajo de todo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIYAMA",
+                    "riddle": "Ropa para dormir.",
+                    "riddle_hard": "Traje comodo para ir a la cama.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRILBY",
+                    "riddle": "Tipo de sombrero.",
+                    "riddle_hard": "Sombrero de fieltro de ala estrecha.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZUECOS",
+                    "riddle": "Zapatos de madera.",
+                    "riddle_hard": "Calzado duro y ruidoso. Tipico de Holanda.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 614,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Herramientas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "VAGON",
+                    "riddle": "Carro cuadrado del tren de carga.",
+                    "riddle_hard": "Caja con ruedas que viaja sobre rieles llevando mercancias por el pais.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARCON",
+                    "riddle": "Caja fuerte pequeña.",
+                    "riddle_hard": "Arcon decorado para guardar joyas o los fondos de la iglesia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANFORA",
+                    "riddle": "Cantaro alto de la antiguedad.",
+                    "riddle_hard": "Vasija ovalada con dos asas y cuello estrecho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BROCHE",
+                    "riddle": "Boton o clip que cierra cosas.",
+                    "riddle_hard": "Dispositivo mecanico diseñado para mantener dos objetos unidos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GUBIA",
+                    "riddle": "Cincel curvo para madera.",
+                    "riddle_hard": "Herramienta de escultor que excava canales en la madera.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 615,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Hábitos y Mascotas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CORREA",
+                    "riddle": "Cuerda para pasear al perro.",
+                    "riddle_hard": "Lazo de seguridad para que tu mascota no se pierda.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASEADO",
+                    "riddle": "Limpio y presentable.",
+                    "riddle_hard": "Alguien que cuida su aspecto y su entorno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SECADO",
+                    "riddle": "Quitar la humedad.",
+                    "riddle_hard": "Proceso de evaporar el agua de algo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TOALLA",
+                    "riddle": "Tela para secarse.",
+                    "riddle_hard": "Trapo sediento que roba el agua de tu piel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HUESOS",
+                    "riddle": "Esqueleto del cuerpo.",
+                    "riddle_hard": "Estructura dura que sostiene tu cuerpo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 616,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Profesiones",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RELEVO",
+                    "riddle": "Pasar la estafeta al correr.",
+                    "riddle_hard": "Carrera donde se turnan los corredores.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUÑADA",
+                    "riddle": "La hermana de tu pareja.",
+                    "riddle_hard": "Mujer enlazada a tu familia por matrimonio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CUÑADO",
+                    "riddle": "El hermano de tu pareja.",
+                    "riddle_hard": "Pariente politico de la misma generacion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESPOSA",
+                    "riddle": "Mujer casada con anillo.",
+                    "riddle_hard": "Compañera de vida bajo la ley o la iglesia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOVIO",
+                    "riddle": "El chico que se va a casar contigo.",
+                    "riddle_hard": "La contraparte masculina en un compromiso.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 617,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Economía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CAIMAN",
+                    "riddle": "Reptil gigante de pantano.",
+                    "riddle_hard": "Primo americano del cocodrilo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRITON",
+                    "riddle": "Pequeño anfibio de cola larga.",
+                    "riddle_hard": "Parece lagartija pero vive en el agua.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KRILL",
+                    "riddle": "Camarones diminutos.",
+                    "riddle_hard": "La comida favorita de las ballenas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GANSO",
+                    "riddle": "Ave ruidosa que persigue gente.",
+                    "riddle_hard": "Nada en el lago y grazna fuerte.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RENO",
+                    "riddle": "Ciervo que tira del trineo.",
+                    "riddle_hard": "Rodolfo el de la nariz roja.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 618,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Espacios Urbanos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PELEAR",
+                    "riddle": "Luchar contra enemigos.",
+                    "riddle_hard": "Choque de puños choque de ideas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIO",
+                    "riddle": "Hermano de papa.",
+                    "riddle_hard": "El hermano divertido de tu padre.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SENIL",
+                    "riddle": "Que tiene que ver con olvidos dolorosos por tener muchos añitos de edad.",
+                    "riddle_hard": "Estado de deterioro y pérdida de facultades tanto cognitivas como motoras comúnmente atribuibles a la tercera edad.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MADRE",
+                    "riddle": "Se describe como mama formal.",
+                    "riddle_hard": "Ella te trajo al mundo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAPI",
+                    "riddle": "Cariño para el padre.",
+                    "riddle_hard": "Nombre dulce para el jefe de familia.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 619,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Gobierno y Conflicto",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ESPINA",
+                    "riddle": "Punta afilada en el tallo de rosa.",
+                    "riddle_hard": "¿Qué protege el éxito dulce de la baya?",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAUREL",
+                    "riddle": "Hoja de victoria.",
+                    "riddle_hard": "Hojas tejidas en una corona para ganadores.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TABACO",
+                    "riddle": "Hoja de fumar.",
+                    "riddle_hard": "El cultivo encontrado en cigarros.",
+                    "is_hard": false
+                },
+                {
+                    "word": "YUCA",
+                    "riddle": "Espada del desierto.",
+                    "riddle_hard": "Planta de hojas rígidas de las llanuras secas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NECTAR",
+                    "riddle": "Jugo de flor.",
+                    "riddle_hard": "Líquido dulce que las abejas hacen miel.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 620,
+            "grid_size": 6,
+            "category": "Sociedad",
+            "subcategory": "Educación",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "INFORME",
+                    "riddle": "Descripcion escrita de una investigacion.",
+                    "riddle_hard": "Documento formal sobre lo que estudiaste.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENSAYOS",
+                    "riddle": "Varios escritos argumentativos.",
+                    "riddle_hard": "Coleccion de textos de opinion academica.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CREADOR",
+                    "riddle": "Algo que genera o produce cosas.",
+                    "riddle_hard": "En juegos o sistemas: fuente de origen.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LECTOR",
+                    "riddle": "La persona que lee el libro.",
+                    "riddle_hard": "Aquel que disfruta descifrando textos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALCULO",
+                    "riddle": "Matematicas avanzadas de cambios.",
+                    "riddle_hard": "Estudio de limites y derivadas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 621,
+            "grid_size": 6,
+            "category": "Artes y Cultura",
+            "subcategory": "Sonido y Audio",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "KARAOKE",
+                    "riddle": "Cantar leyendo la tele.",
+                    "riddle_hard": "Hacer el ridiculo cantando con amigos en un bar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARMONIA",
+                    "riddle": "Notas que se llevan bien.",
+                    "riddle_hard": "Combinacion agradable de tonos simultaneos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VOLUMEN",
+                    "riddle": "Que tan fuerte suena.",
+                    "riddle_hard": "La perilla que giras para molestar vecinos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TREMOLO",
+                    "riddle": "Sonido que tiritita.",
+                    "riddle_hard": "Repeticion rapida para que la nota tiemble.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FALSETE",
+                    "riddle": "Voz de hombre muy aguda.",
+                    "riddle_hard": "Cantar fingiendo voz de mujer o niño.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 622,
+            "grid_size": 6,
+            "category": "Artes y Cultura",
+            "subcategory": "Artes Visuales",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GRABADO",
+                    "riddle": "Impresion tallada en metal.",
+                    "riddle_hard": "Imagen producida de una placa con acido.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SILUETA",
+                    "riddle": "Contorno de sombra oscura.",
+                    "riddle_hard": "Forma oscura visible contra la luz.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESMALTE",
+                    "riddle": "Capa dura y brillante.",
+                    "riddle_hard": "Sustancia vidriosa que protege el metal.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REPLICA",
+                    "riddle": "Copia exacta de una obra.",
+                    "riddle_hard": "Un duplicado de una obra de arte original.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEMPERA",
+                    "riddle": "Pintura mezclada con huevo.",
+                    "riddle_hard": "Metodo antiguo de pintar con emulsiones.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 623,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Escenario",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ESTEPA",
+                    "riddle": "Llanura de mucha hierba seca.",
+                    "riddle_hard": "Vasto terreno abierto tipico de clima continental.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GREDAL",
+                    "riddle": "Terreno de gris arcilla blanda.",
+                    "riddle_hard": "Lugar muy lleno de tierra apta para gran alfareria.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BANCAL",
+                    "riddle": "Escalon grande para sembrar frutas.",
+                    "riddle_hard": "Terraza agricola construida en laderas sumamente empinadas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PANDO",
+                    "riddle": "Poco profundo.",
+                    "riddle_hard": "Agua que te llega a los tobillos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REGION",
+                    "riddle": "Se describe como zona grande.",
+                    "riddle_hard": "Area definida por clima o cultura.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 624,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Relato y Mito",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CIVICA",
+                    "riddle": "Estudio de los deberes ciudadanos.",
+                    "riddle_hard": "Clase sobre gobierno y sociedad.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HALLAR",
+                    "riddle": "Descubrir algo que estaba perdido.",
+                    "riddle_hard": "Ver algo que estabas buscando.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CURSO",
+                    "riddle": "Un año escolar o una materia especifica.",
+                    "riddle_hard": "Programa de estudio sobre un tema.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIRO",
+                    "riddle": "Un intento de anotar puntos.",
+                    "riddle_hard": "Lanzamiento hacia la meta o disparo de arma.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DIANA",
+                    "riddle": "El centro exacto del blanco.",
+                    "riddle_hard": "El punto medio del tablero de tiro.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 625,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Festividades",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CUMULO",
+                    "riddle": "Nube blanca y gordita.",
+                    "riddle_hard": "Parece algodon esponjoso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALIMA",
+                    "riddle": "Gran polvo amarillo opaco en el aire.",
+                    "riddle_hard": "Viento sucio arenoso que ensucia coches.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CICLON",
+                    "riddle": "Tormenta gigante que gira.",
+                    "riddle_hard": "Huracan del oceano Indico.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SEQUIA",
+                    "riddle": "Tiempo sin lluvia.",
+                    "riddle_hard": "Cuando los rios se secan.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHOCK",
+                    "riddle": "Sorpresa repentina.",
+                    "riddle_hard": "Impacto electrico o emocional.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 626,
+            "grid_size": 6,
+            "category": "Ciencia e Industria",
+            "subcategory": "Matemáticas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FUNCION",
+                    "riddle": "Relacion entre variables.",
+                    "riddle_hard": "Regla entre pares.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ADICION",
+                    "riddle": "Acto de sumar cantidades.",
+                    "riddle_hard": "Union de realidades.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BISECAR",
+                    "riddle": "Cortar en dos partes iguales.",
+                    "riddle_hard": "Dividir sin rivales.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OBLICUO",
+                    "riddle": "Angulo inclinado.",
+                    "riddle_hard": "Ni recto ni cuadrado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REDONDO",
+                    "riddle": "De forma circular.",
+                    "riddle_hard": "Estimar sin calcular.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 627,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Tecnología",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MODE",
+                    "riddle": "Un ajuste o estado.",
+                    "riddle_hard": "Forma de operar citado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPEED",
+                    "riddle": "Que tan rapido va algo.",
+                    "riddle_hard": "Velocidad sin trabajo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FILE",
+                    "riddle": "Carpeta de datos en pantalla.",
+                    "riddle_hard": "Documento con nombre que estalla.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SIGNAL",
+                    "riddle": "Señal para enviar informacion.",
+                    "riddle_hard": "Forma de comunicacion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZIP",
+                    "riddle": "Archivo comprimido ya.",
+                    "riddle_hard": "Forma de achicar data.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 628,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Materiales",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CUESTA",
+                    "riddle": "Suelo inclinado.",
+                    "riddle_hard": "Bajada divertida o subida cansada.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORILLA",
+                    "riddle": "Borde del agua.",
+                    "riddle_hard": "Donde la tierra se moja los pies.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUGAR",
+                    "riddle": "Sitio donde estas.",
+                    "riddle_hard": "Un punto especifico en el espacio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DOLINA",
+                    "riddle": "Agujero redondo en la caliza roca.",
+                    "riddle_hard": "Hundimiento natural muy comun en terrenos carsticos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HUERTO",
+                    "riddle": "Grupo de arboles frutales.",
+                    "riddle_hard": "Pequeño bosque que te da manzanas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 629,
+            "grid_size": 6,
+            "category": "Ciencia e Industria",
+            "subcategory": "Ingeniería",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CALDERA",
+                    "riddle": "Calienta el agua.",
+                    "riddle_hard": "Tanque donde el agua se vuelve vapor para energia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAQUINA",
+                    "riddle": "Dispositivo mecanico.",
+                    "riddle_hard": "Aparato que usa energia para hacer una tarea.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VOLANTE",
+                    "riddle": "Rueda de inercia.",
+                    "riddle_hard": "Rueda pesada que regula la velocidad de una maquina.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PALANCA",
+                    "riddle": "Barra para levantar peso facil.",
+                    "riddle_hard": "Herramienta simple que multiplica tu fuerza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MEDIDOR",
+                    "riddle": "Herramienta de medicion.",
+                    "riddle_hard": "Instrumento usado para determinar tamaño o cantidad exacta.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 630,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Historia y Tiempo",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CHAMPU",
+                    "riddle": "Jabon para el pelo.",
+                    "riddle_hard": "Liquido que limpia tu cabeza y hace espuma.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BAÑERA",
+                    "riddle": "Tina grande de baño.",
+                    "riddle_hard": "Lugar para sumergirse en agua caliente y burbujas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PIJAMA",
+                    "riddle": "Ropa para dormir.",
+                    "riddle_hard": "Traje comodo para ir a la cama.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POMADA",
+                    "riddle": "Crema magica para golpes.",
+                    "riddle_hard": "Ungüento untuoso que sana y alivia el ardor.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APESTA",
+                    "riddle": "Huele muy mal.",
+                    "riddle_hard": "Aroma desagradable que te hace tapar la nariz.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 631,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Locomoción",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "AVISO",
+                    "riddle": "Alerta de clima.",
+                    "riddle_hard": "Anuncio oficial de cuidado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OLEADA",
+                    "riddle": "Subida de agua.",
+                    "riddle_hard": "Movimiento fuerte hacia arriba.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APAGON",
+                    "riddle": "Se va la luz.",
+                    "riddle_hard": "Sin electricidad en casa.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MONZON",
+                    "riddle": "Temporada de lluvias.",
+                    "riddle_hard": "Vientos que traen inundaciones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEVADA",
+                    "riddle": "Caida de nieve.",
+                    "riddle_hard": "Tormenta blanca.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 632,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Trabajo Manual",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LUNES",
+                    "riddle": "Dia de la luna.",
+                    "riddle_hard": "Inicio de la semana.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OVNI",
+                    "riddle": "Nave alienigena.",
+                    "riddle_hard": "Objeto Volador No Identificado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAURO",
+                    "riddle": "Constelacion del toro.",
+                    "riddle_hard": "Signo zodiacal de Abril.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PHD",
+                    "riddle": "Se describe como doctorado.",
+                    "riddle_hard": "Doctor en Filosofia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AFELIO",
+                    "riddle": "Cuando el inmenso sol esta mas lejos.",
+                    "riddle_hard": "Punto orbital mas alejado de la enorme estrella.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 633,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Conflicto y Deporte",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CAZAR",
+                    "riddle": "Perseguir y capturar presas.",
+                    "riddle_hard": "Buscar y capturar animales o personas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUCHAR",
+                    "riddle": "Agarrar y derribar rivales.",
+                    "riddle_hard": "Deporte de combate con llaves y giros.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TACO",
+                    "riddle": "Palo usado en el billar.",
+                    "riddle_hard": "Vara larga de madera para golpear la bola blanca.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RODEO",
+                    "riddle": "Competencia de vaqueros valientes.",
+                    "riddle_hard": "Evento de lazar terneros y montar toros.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WICKET",
+                    "riddle": "Objetivo del criquet.",
+                    "riddle_hard": "Conjunto de tres palos a los que apuntan.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 634,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Biológico",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GRUÑON",
+                    "riddle": "Mal humor siempre.",
+                    "riddle_hard": "Cara arrugada y humor de perros.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAGAZ",
+                    "riddle": "Listo en los negocios.",
+                    "riddle_hard": "Poderes agudos de juicio y dinero.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALTIVO",
+                    "riddle": "Arrogante y superior.",
+                    "riddle_hard": "Mira a todos desde arriba con desden.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VULGAR",
+                    "riddle": "Grosero o sin gusto.",
+                    "riddle_hard": "Le falta clase y buen gusto.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FRUGAL",
+                    "riddle": "Cuidado con el dinero.",
+                    "riddle_hard": "Ahorrador que no gasta recursos extra.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 635,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Exploración",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "NAVIO",
+                    "riddle": "Barco grande.",
+                    "riddle_hard": "Vehiculo flotante para cruzar oceanos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VEREDA",
+                    "riddle": "Camino para peatones.",
+                    "riddle_hard": "Ruta de tierra solo para pies.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GESTA",
+                    "riddle": "Mision heroica antigua.",
+                    "riddle_hard": "Aventura noble de caballeros.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SONAR",
+                    "riddle": "Radar bajo el agua.",
+                    "riddle_hard": "Usar sonido para ver en el mar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CONFIN",
+                    "riddle": "Borde lejano de la tierra.",
+                    "riddle_hard": "El ultimo limite conocido.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 636,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Cognición",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SALTOS",
+                    "riddle": "Brincos grandes.",
+                    "riddle_hard": "Despegar del suelo con fuerza hacia arriba.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MAÑOSO",
+                    "riddle": "Muy listo y tramposo.",
+                    "riddle_hard": "Alguien bueno para hacer trucos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AFABLE",
+                    "riddle": "Facil de hablar con el.",
+                    "riddle_hard": "Amigable y accesible para todos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "URBANO",
+                    "riddle": "Suave y refinado.",
+                    "riddle_hard": "Cortes y educado en la ciudad.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ARRAY",
+                    "riddle": "Lista de elementos en codigo.",
+                    "riddle_hard": "Grupo ordenado sin suplicio.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 637,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Comunicación",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CLAVEL",
+                    "riddle": "Se describe como flor rizada.",
+                    "riddle_hard": "Flor cortada que dura mucho tiempo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PETALO",
+                    "riddle": "Parte de la flor.",
+                    "riddle_hard": "Hoja colorida que atrae a las abejas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DATIL",
+                    "riddle": "Fruta marrón y muy dulce.",
+                    "riddle_hard": "Fruto de la palmera del desierto muy nutritivo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAUCE",
+                    "riddle": "Árbol que llora cerca del agua.",
+                    "riddle_hard": "Ramas delgadas que se inclinan al río.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOGAL",
+                    "riddle": "Árbol de nueces cerebro.",
+                    "riddle_hard": "Árbol que da la nuez de cáscara arrugada.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 638,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Emociones",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FRAME",
+                    "riddle": "Una imagen fija en video.",
+                    "riddle_hard": "Marco de foto o auto en medio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WEB",
+                    "riddle": "La telaraña mundial.",
+                    "riddle_hard": "Sistema de paginas sin final.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SETUP",
+                    "riddle": "Configurar algo nuevo.",
+                    "riddle_hard": "Instalacion sin dueño.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NODE",
+                    "riddle": "Punto de conexion en la red.",
+                    "riddle_hard": "Lugar donde caminos se ven.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TABLE",
+                    "riddle": "Datos en filas y columnas.",
+                    "riddle_hard": "Tabla de informacion sin coronas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 639,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Socialización",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ROJIZO",
+                    "riddle": "Con agradable color puramente rojito en la mejilla.",
+                    "riddle_hard": "Presenta lindas bellas puras tiernas y puramente asombrosas chapitas sonrojadas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIGOTE",
+                    "riddle": "Pelo encima del labio.",
+                    "riddle_hard": "Señor con mostacho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLETA",
+                    "riddle": "Cola de caballo en el pelo.",
+                    "riddle_hard": "Peinado de niña escolar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRESPO",
+                    "riddle": "Pelo muy rizado y rebelde.",
+                    "riddle_hard": "Se infla con la humedad.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUECA",
+                    "riddle": "Boca triste o enfadada.",
+                    "riddle_hard": "Gesto feo con los labios.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 640,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Percepción",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CORVA",
+                    "riddle": "Tendon de pierna.",
+                    "riddle_hard": "Tendones detras de la rodilla.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEMUR",
+                    "riddle": "Hueso mas largo de la pierna.",
+                    "riddle_hard": "Soporte grueso dentro del muslo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOLAR",
+                    "riddle": "Diente plano de atras.",
+                    "riddle_hard": "Triturador resistente para masticar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RENAL",
+                    "riddle": "Relacionado al riñon.",
+                    "riddle_hard": "Relativo a los riñones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUSLO",
+                    "riddle": "Parte superior de la pierna.",
+                    "riddle_hard": "Segmento de la pierna sobre la rodilla.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 641,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Física",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PING",
+                    "riddle": "Prueba de velocidad de red.",
+                    "riddle_hard": "Señal para ver si hay merced.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HOST",
+                    "riddle": "Persona que da la fiesta.",
+                    "riddle_hard": "El que te da una cesta.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRASH",
+                    "riddle": "Cuando un programa se para.",
+                    "riddle_hard": "Fallo repentino que dispara.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHAT",
+                    "riddle": "Hablar amigable sin cesar.",
+                    "riddle_hard": "Conversar por mensaje sin parar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CORE",
+                    "riddle": "La parte central de todo.",
+                    "riddle_hard": "El nucleo de fruto o modo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 642,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Física",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SORGO",
+                    "riddle": "Grano de jarabe.",
+                    "riddle_hard": "Hierba alta cultivada para grano y miel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLORA",
+                    "riddle": "Vida vegetal.",
+                    "riddle_hard": "El nombre colectivo de todas las plantas de una región.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIOLA",
+                    "riddle": "Flor con cara.",
+                    "riddle_hard": "Pequeña flor colorida con manchas oscuras en el centro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAMITA",
+                    "riddle": "Pequeña rama.",
+                    "riddle_hard": "El brazo más delgado del árbol.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CEDRO",
+                    "riddle": "Árbol alto de madera roja y olorosa.",
+                    "riddle_hard": "Siempreverde conocido por su madera fragante.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 643,
+            "grid_size": 6,
+            "category": "Cualidades",
+            "subcategory": "Textura",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ESPONJA",
+                    "riddle": "Suave con agujeritos.",
+                    "riddle_hard": "Rebota cuando lo aprietas y absorbe agua.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CREMOSO",
+                    "riddle": "Suave como helado.",
+                    "riddle_hard": "Rico y espeso al paladar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUEBRAR",
+                    "riddle": "Facil de romper.",
+                    "riddle_hard": "Manejar con cuidado o sera polvo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRASOSO",
+                    "riddle": "Resbaloso por aceite.",
+                    "riddle_hard": "Mancha la servilleta de pizza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POLVOSO",
+                    "riddle": "Fino y sucio.",
+                    "riddle_hard": "Hecho de polvo de hadas o tierra.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 644,
+            "grid_size": 6,
+            "category": "Cualidades",
+            "subcategory": "Carácter",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BENIGNO",
+                    "riddle": "Amable y gentil.",
+                    "riddle_hard": "Gracioso y bueno por naturaleza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALLOSO",
+                    "riddle": "Insensible y cruel.",
+                    "riddle_hard": "Piel dura y corazon aun mas duro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "APATICO",
+                    "riddle": "No tener energia.",
+                    "riddle_hard": "Falta de ganas o entusiasmo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SOLEMNE",
+                    "riddle": "Formal y serio.",
+                    "riddle_hard": "Ceremonioso y sin bromas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANSIOSO",
+                    "riddle": "Emocionado por empezar.",
+                    "riddle_hard": "Listo para la carrera antes del disparo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 645,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Valor y Estatus",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LANUDO",
+                    "riddle": "Peludo como oveja.",
+                    "riddle_hard": "Textura que calienta y pica.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RESECO",
+                    "riddle": "Se describe como muy seco.",
+                    "riddle_hard": "Tierra agrietada por sed.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUERTE",
+                    "riddle": "Fin de la vida.",
+                    "riddle_hard": "El evento final de la existencia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MENTIR",
+                    "riddle": "No decir verdad.",
+                    "riddle_hard": "Contar cuentos chinos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RETOÑO",
+                    "riddle": "Heredero de familia.",
+                    "riddle_hard": "Descendiente fresco de un arbol viejo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 646,
+            "grid_size": 4,
+            "category": "Cualidades",
+            "subcategory": "Complejidad",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MOUSE",
+                    "riddle": "Hago clic pero no como queso.",
+                    "riddle_hard": "Raton de computadora sin hueso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLICK",
+                    "riddle": "Sonido corto del raton.",
+                    "riddle_hard": "Clic que hace la accion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCALE",
+                    "riddle": "Cambiar el tamaño de algo.",
+                    "riddle_hard": "Escala de medida o trabajo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PORT",
+                    "riddle": "Lugar donde barcos descargan.",
+                    "riddle_hard": "Puerto donde datos largan.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUERY",
+                    "riddle": "Hacer pregunta por informacion.",
+                    "riddle_hard": "Consulta de especificacion.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 647,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Vínculos Ocultos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PAJA",
+                    "riddle": "Tallos secos.",
+                    "riddle_hard": "Tallos de grano secos usados para camas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUÑON",
+                    "riddle": "Base del árbol.",
+                    "riddle_hard": "La parte baja que queda al cortar el árbol.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESPINO",
+                    "riddle": "Árbol de mayo.",
+                    "riddle_hard": "Árbol espinoso con bayas rojas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESPORA",
+                    "riddle": "Semilla de helecho.",
+                    "riddle_hard": "Partícula reproductiva como polvo de hongo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIRIO",
+                    "riddle": "Flor de pantano muy elegante.",
+                    "riddle_hard": "Planta bulbosa de flores grandes y bellas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 648,
+            "grid_size": 6,
+            "category": "El Puente",
+            "subcategory": "Palabras Compuestas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CEJA",
+                    "riddle": "Arco de pelo sobre tu ojo.",
+                    "riddle_hard": "Se levanta cuando estas sorprendido.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JAQUECA",
+                    "riddle": "Cuando la cabeza te duele mucho.",
+                    "riddle_hard": "Molestia craneal que pide silencio y oscuridad.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESPANTA",
+                    "riddle": "Muñeco de paja que da miedo a las aves.",
+                    "riddle_hard": "Figura falsa que cuida el maiz.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MALETA",
+                    "riddle": "Caja con ropa para ir de viaje.",
+                    "riddle_hard": "Equipaje grande para llevar tus cosas lejos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARTERO",
+                    "riddle": "Hombre que trae sobres a tu buzon.",
+                    "riddle_hard": "Mensajero urbano que entrega correspondencia.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 649,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Opuestos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FEDORA",
+                    "riddle": "Sombrero de detective.",
+                    "riddle_hard": "Sombrero de fieltro con ala ancha.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FAJA",
+                    "riddle": "Cinta apretada que te pones en la cintura.",
+                    "riddle_hard": "Prenda interior de compresión que moldea la silueta ocultando las imperfecciones corporales.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOMBIN",
+                    "riddle": "Sombrero redondo y duro.",
+                    "riddle_hard": "Sombrero clasico ingles. Como el de Chaplin.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KIPA",
+                    "riddle": "Gorro judio pequeño.",
+                    "riddle_hard": "Pequeña gorra usada por hombres religiosos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUETER",
+                    "riddle": "Prenda tejida de lana.",
+                    "riddle_hard": "Te abriga el pecho en invierno.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 650,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Complejidad",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ABUE",
+                    "riddle": "Cariño para la abuela.",
+                    "riddle_hard": "Forma dulce de llamar a la madre de tu madre.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAGA",
+                    "riddle": "Dinero de niños.",
+                    "riddle_hard": "Efectivo semanal por hacer tareas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAÑAL",
+                    "riddle": "Ropa interior de bebe.",
+                    "riddle_hard": "Tela absorbente para accidentes infantiles.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUJER",
+                    "riddle": "Humana adulta femenina.",
+                    "riddle_hard": "Ella ya no es una niña.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GERBO",
+                    "riddle": "Roedor mascota saltarin.",
+                    "riddle_hard": "Parece un hamster con cola larga.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 651,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Fauna",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BUFALO",
+                    "riddle": "Toro salvaje gigante.",
+                    "riddle_hard": "Bestia de cuernos curvos de la pradera.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CONEJO",
+                    "riddle": "Orejas largas y saltarin.",
+                    "riddle_hard": "Le gusta comer zanahorias.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRILLO",
+                    "riddle": "Canta de noche frotando patas.",
+                    "riddle_hard": "Insecto cantor la conciencia de Pinocho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PITON",
+                    "riddle": "Serpiente que aprieta.",
+                    "riddle_hard": "Reptil gigante que no tiene veneno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUOKKA",
+                    "riddle": "El animal mas feliz del mundo.",
+                    "riddle_hard": "Marsupial pequeño que siempre sonrie.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 652,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Flora",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "COMINO",
+                    "riddle": "Especia para tacos.",
+                    "riddle_hard": "Una semilla con sabor cálido.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGAVE",
+                    "riddle": "Planta picuda del desierto.",
+                    "riddle_hard": "Suculenta usada para hacer tequila.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RAMO",
+                    "riddle": "Manojo de flores.",
+                    "riddle_hard": "Arreglo atractivo de flores cortadas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CIPRES",
+                    "riddle": "Árbol de pantano o cementerio.",
+                    "riddle_hard": "Árbol alto y delgado que apunta al cielo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CACAO",
+                    "riddle": "Frijol de chocolate.",
+                    "riddle_hard": "La semilla usada para hacer dulces y bebidas calientes.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 653,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Geografía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BADEN",
+                    "riddle": "Hueco suave en el viejo camino.",
+                    "riddle_hard": "Depresion en la larga calle para que lluvia corra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAFARI",
+                    "riddle": "Viaje para ver animales.",
+                    "riddle_hard": "Expedicion a la tierra de los leones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESTERO",
+                    "riddle": "Rio lento en pantano.",
+                    "riddle_hard": "Brazo de agua perezoso y lleno de vida.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LOMA",
+                    "riddle": "Colina redonda y suave.",
+                    "riddle_hard": "Montañita facil de subir rodando.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRUFA",
+                    "riddle": "Hongo escondido.",
+                    "riddle_hard": "Hongo caro desenterrado por cerdos.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 654,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Cosmos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MARTES",
+                    "riddle": "Segundo dia semanal.",
+                    "riddle_hard": "Dia del dios de la guerra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "URANO",
+                    "riddle": "El septimo planeta.",
+                    "riddle_hard": "Gigante de gas que gira de lado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NASA",
+                    "riddle": "Agencia espacial de EEUU.",
+                    "riddle_hard": "Organizacion que fue a la luna.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PISCIS",
+                    "riddle": "Constelacion de peces.",
+                    "riddle_hard": "Signo zodiacal de Marzo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PLUTON",
+                    "riddle": "Era planeta y ya no.",
+                    "riddle_hard": "Enano del borde exterior.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 655,
+            "grid_size": 5,
+            "category": "Mundo Natural",
+            "subcategory": "Clima",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RAYON",
+                    "riddle": "Tela semi sintetica.",
+                    "riddle_hard": "Fibra artificial que imita la seda.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TACON",
+                    "riddle": "Zapato alto y fino.",
+                    "riddle_hard": "Eleva el talon mucho del suelo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIARA",
+                    "riddle": "Corona pequeña de princesa.",
+                    "riddle_hard": "Diadema con joyas para la cabeza.",
+                    "is_hard": false
+                },
+                {
+                    "word": "REVES",
+                    "riddle": "Lado contrario.",
+                    "riddle_hard": "Ponerse la ropa con las costuras para afuera.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BLUSA",
+                    "riddle": "Camisa de mujer.",
+                    "riddle_hard": "Prenda superior femenina y delicada.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 656,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Anatomía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PLEXO",
+                    "riddle": "Red de nervios.",
+                    "riddle_hard": "Red de vasos o nervios.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TALUS",
+                    "riddle": "Hueso del tobillo.",
+                    "riddle_hard": "Hueso grande de la articulacion del pie.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NARINA",
+                    "riddle": "Agujero nasal.",
+                    "riddle_hard": "Abertura externa de la nariz.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AORTA",
+                    "riddle": "Arteria principal.",
+                    "riddle_hard": "Vaso primario que sale del corazon.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PULPA",
+                    "riddle": "Lo de adentro de un diente.",
+                    "riddle_hard": "Tejido vivo dentro de la dentina.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 657,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Sentidos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LAPTOP",
+                    "riddle": "Computadora portatil.",
+                    "riddle_hard": "Ordenador movil y util.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SPAM",
+                    "riddle": "Correo basura que molesta.",
+                    "riddle_hard": "Mensajes masivos sin respuesta.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TERA",
+                    "riddle": "Prefijo de un billon.",
+                    "riddle_hard": "Medida de gran coleccion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COOKIE",
+                    "riddle": "Dato pequeño que guarda el sitio.",
+                    "riddle_hard": "Galleta digital sin conflicto.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MOBILE",
+                    "riddle": "Telefono que llevas contigo.",
+                    "riddle_hard": "Celular sin abrigo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 658,
+            "grid_size": 6,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Bienestar",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SANIDAD",
+                    "riddle": "Sistema medico.",
+                    "riddle_hard": "Seguros y doctores.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIOPSIA",
+                    "riddle": "Muestra de tejido.",
+                    "riddle_hard": "Tomar un trozo de piel para testear.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SINTOMA",
+                    "riddle": "Signo de enfermedad.",
+                    "riddle_hard": "Fiebre o tos que indica gripe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESTABLE",
+                    "riddle": "Condicion que no cambia.",
+                    "riddle_hard": "Paciente seguro tambien casa de caballos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALIENTO",
+                    "riddle": "El aire que va a los pulmones.",
+                    "riddle_hard": "El gas que te mantiene vivo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 659,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Ciclo de Vida",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "URRACA",
+                    "riddle": "Pajaro blanco y negro ladron.",
+                    "riddle_hard": "Le gusta robar cosas brillantes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANADE",
+                    "riddle": "Se describe como pato macho.",
+                    "riddle_hard": "El esposo de la pata.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BAGRE",
+                    "riddle": "Se describe como pez gato.",
+                    "riddle_hard": "Tiene bigotes y vive en el fondo del rio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SAPO",
+                    "riddle": "Primo seco de la rana.",
+                    "riddle_hard": "Anfibio verrugoso que camina mas que saltar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BONOBO",
+                    "riddle": "Mono pacifico.",
+                    "riddle_hard": "El primo hippie del chimpance.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 660,
+            "grid_size": 5,
+            "category": "El Cuerpo Humano",
+            "subcategory": "Apariencia",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "VENUS",
+                    "riddle": "Planeta muy brillante.",
+                    "riddle_hard": "El segundo mundo desde el sol.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MUY",
+                    "riddle": "Mucho o extremo.",
+                    "riddle_hard": "En alto grado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BUEY",
+                    "riddle": "Animal de carga.",
+                    "riddle_hard": "Toro castrado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORION",
+                    "riddle": "Constelacion del cazador.",
+                    "riddle_hard": "Famoso por su cinturon de tres estrellas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NOVA",
+                    "riddle": "Estrella que explota.",
+                    "riddle_hard": "Brillo repentino estelar.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 661,
+            "grid_size": 6,
+            "category": "Vida Doméstica",
+            "subcategory": "Cocina",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GALLETA",
+                    "riddle": "Una pequeña galleta dulce.",
+                    "riddle_hard": "Un capricho horneado circular.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CEBOLLA",
+                    "riddle": "Un vegetal que te hace llorar.",
+                    "riddle_hard": "Un bulbo picante con muchas capas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TORONJA",
+                    "riddle": "Citrico grande y amargo.",
+                    "riddle_hard": "Una fruta hibrida grande subtropical de la familia de los citricos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MANZANA",
+                    "riddle": "Del arbol del Eden mi linaje se rastrea.",
+                    "riddle_hard": "Fruta roja o verde que mantiene alejado al medico.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EXPRESO",
+                    "riddle": "Cafe negro fuerte.",
+                    "riddle_hard": "Un cafe concentrado elaborado bajo alta presion.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 662,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Guardarropa",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "OVEROL",
+                    "riddle": "Pantalón con pechera.",
+                    "riddle_hard": "Traje de trabajo de una sola pieza con tirantes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DEDAL",
+                    "riddle": "Casco para el dedo.",
+                    "riddle_hard": "Metal pequeño que protege al coser.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LICRA",
+                    "riddle": "Tela super elastica.",
+                    "riddle_hard": "Fibra sintetica que se estira mucho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAPRI",
+                    "riddle": "Pantalones cortos de verano.",
+                    "riddle_hard": "Terminan a mitad de la pantorrilla.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JERSEY",
+                    "riddle": "Camiseta de equipo deportivo.",
+                    "riddle_hard": "Prenda con el numero de un jugador.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 663,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Refugio",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ESCOBA",
+                    "riddle": "Barre la basura del suelo.",
+                    "riddle_hard": "Tengo pelos largos y bailo por el piso para espantar el polvo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TONEL",
+                    "riddle": "Tambor de madera para liquidos.",
+                    "riddle_hard": "Contenedor panzon que rueda hogar del vino y del Chavo del Ocho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CRISOL",
+                    "riddle": "Olla para derretir metales.",
+                    "riddle_hard": "Recipiente de ceramica que soporta el calor del infierno para fundir oro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HONDA",
+                    "riddle": "Lanza piedras lejos.",
+                    "riddle_hard": "Tira de cuero que David uso para vencer al gigante Goliat.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAJON",
+                    "riddle": "Caja de madera para frutas.",
+                    "riddle_hard": "Estructura de tablas abiertas para transportar mercancias en barcos o camiones.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 664,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Herramientas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "VASO",
+                    "riddle": "Vaso de vidrio del laboratorio.",
+                    "riddle_hard": "Recipiente con pico usado por cientificos para mezclar pociones quimicas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CAJITA",
+                    "riddle": "Caja con llave para secretos.",
+                    "riddle_hard": "Pequeño contenedor seguro para guardar dinero o joyas bajo llave.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BIDON",
+                    "riddle": "Bote plastico para agua.",
+                    "riddle_hard": "Envase hermetico grande de chapa o plastico.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANCLA",
+                    "riddle": "Evita que el barco se mueva.",
+                    "riddle_hard": "Peso de hierro que se tira al fondo del mar para estacionar el buque.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FEED",
+                    "riddle": "Dar comida a alguien ya.",
+                    "riddle_hard": "Flujo de noticias sin tardar.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 665,
+            "grid_size": 5,
+            "category": "Vida Doméstica",
+            "subcategory": "Hábitos y Mascotas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LEO",
+                    "riddle": "Constelacion del leon.",
+                    "riddle_hard": "Signo zodiacal de verano.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JET",
+                    "riddle": "Avion muy rapido.",
+                    "riddle_hard": "Propulsion a chorro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FOCOS",
+                    "riddle": "Ojos brillantes del coche en la noche.",
+                    "riddle_hard": "Luces delanteras para ver la carretera.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GOMITA",
+                    "riddle": "Dulce suave de muchos colores.",
+                    "riddle_hard": "Caramelo de azucar con forma de frijol.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POSTAL",
+                    "riddle": "Foto de viaje que envias por correo.",
+                    "riddle_hard": "Recuerdo de papel de un lugar lejano con mensaje.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 666,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Profesiones",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GAMETO",
+                    "riddle": "Celula sexual.",
+                    "riddle_hard": "Celula reproductiva madura.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CORNEA",
+                    "riddle": "Capa clara del ojo.",
+                    "riddle_hard": "Parte frontal transparente del ojo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RETINA",
+                    "riddle": "Parte del ojo que ve luz.",
+                    "riddle_hard": "Capa que envia imagenes al cerebro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VEJIGA",
+                    "riddle": "Guarda la orina.",
+                    "riddle_hard": "Saco membranoso de desecho.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FASCIA",
+                    "riddle": "Envoltura muscular.",
+                    "riddle_hard": "Tejido conectivo delgado.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 667,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Economía",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LOTO",
+                    "riddle": "Una palabra como loto.",
+                    "riddle_hard": "Una hermosa flor que flota en el estanque.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIVERO",
+                    "riddle": "Hogar de plantas bebés.",
+                    "riddle_hard": "Lugar donde se venden plantas jóvenes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRIGO",
+                    "riddle": "Hierba del pan.",
+                    "riddle_hard": "Grano dorado molido en harina.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORTIGA",
+                    "riddle": "Planta que pica mucho al tocarla.",
+                    "riddle_hard": "Hierba salvaje cubierta de pelos irritantes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ACACIA",
+                    "riddle": "Árbol de la sabana.",
+                    "riddle_hard": "El árbol de copa plana que comen las jirafas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 668,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Espacios Urbanos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ARCE",
+                    "riddle": "Árbol famoso por su jarabe dulce.",
+                    "riddle_hard": "Su hoja está en la bandera de Canadá.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TREBOL",
+                    "riddle": "Pequeña planta de la suerte.",
+                    "riddle_hard": "Hierba de tres hojas (a veces cuatro).",
+                    "is_hard": false
+                },
+                {
+                    "word": "ESPIGA",
+                    "riddle": "Parte puntiaguda de la planta.",
+                    "riddle_hard": "Espina o racimo de flores.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CEREZA",
+                    "riddle": "Fruta roja de hueso.",
+                    "riddle_hard": "Pequeña fruta que corona el helado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PICEA",
+                    "riddle": "Árbol de fiestas invernales.",
+                    "riddle_hard": "Un siempreverde con forma de cono.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 669,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Gobierno y Conflicto",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BINARY",
+                    "riddle": "Sistema de ceros y unos.",
+                    "riddle_hard": "Codigo de dos numeros alguno.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHARGE",
+                    "riddle": "Dar energia a bateria.",
+                    "riddle_hard": "Cargar o cobrar con alegria.",
+                    "is_hard": false
+                },
+                {
+                    "word": "URL",
+                    "riddle": "La direccion de una web.",
+                    "riddle_hard": "Localizador de pagina a comer.",
+                    "is_hard": false
+                },
+                {
+                    "word": "STREAM",
+                    "riddle": "Video o musica en vivo.",
+                    "riddle_hard": "Flujo continuo sin olvido.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CACHE",
+                    "riddle": "Archivos temporales ocultos.",
+                    "riddle_hard": "Area que acelera los cultos.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 670,
+            "grid_size": 5,
+            "category": "Sociedad",
+            "subcategory": "Educación",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PASE",
+                    "riddle": "Darle el objeto a otro.",
+                    "riddle_hard": "Tener exito en un examen escolar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIGA",
+                    "riddle": "Un grupo de equipos rivales.",
+                    "riddle_hard": "Asociacion de clubes que compiten juntos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PARAR",
+                    "riddle": "Bloquear un ataque o un golpe.",
+                    "riddle_hard": "Detener o impedir algo con un movimiento.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VOLEA",
+                    "riddle": "Golpe antes de tocar suelo.",
+                    "riddle_hard": "Pegarle a la bola mientras esta en el aire.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TORNEO",
+                    "riddle": "Una serie de juegos seguidos.",
+                    "riddle_hard": "Evento grande donde muchos equipos compiten.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 671,
+            "grid_size": 6,
+            "category": "Artes y Cultura",
+            "subcategory": "Sonido y Audio",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "TEREMIN",
+                    "riddle": "Instrumento de ciencia ficcion.",
+                    "riddle_hard": "Se toca moviendo las manos en el aire sin tocarlo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIBRATO",
+                    "riddle": "Tono que tiembla bonito.",
+                    "riddle_hard": "Oscilacion elegante en la voz de opera.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MELODIA",
+                    "riddle": "Secuencia de notas lindas.",
+                    "riddle_hard": "La linea principal que silbas en la calle.",
+                    "is_hard": false
+                },
+                {
+                    "word": "QUEJIDO",
+                    "riddle": "Sonido de llanto agudo.",
+                    "riddle_hard": "Ruido molesto como de niño berrinchudo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "EUFONIA",
+                    "riddle": "Sonido dulce al oido.",
+                    "riddle_hard": "Cualidad de sonar bonito y agradable.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 672,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Artes Visuales",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "WORM",
+                    "riddle": "Gusano rosado en la tierra.",
+                    "riddle_hard": "Tubo de vida que se encierra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FORMAT",
+                    "riddle": "Dar estructura a disco.",
+                    "riddle_hard": "Formatear sin risco.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROOT",
+                    "riddle": "Parte de planta bajo tierra.",
+                    "riddle_hard": "La raiz que abajo se aferra.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENGINE",
+                    "riddle": "Motor de busqueda.",
+                    "riddle_hard": "Maquina sin tregua.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CODE",
+                    "riddle": "Lenguaje de maquina digital.",
+                    "riddle_hard": "Palabras secretas del manual.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 673,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Escenario",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "RESET",
+                    "riddle": "Empezar de nuevo otra vez.",
+                    "riddle_hard": "Borrar errores con rapidez.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SHIFT",
+                    "riddle": "Tecla para mayusculas.",
+                    "riddle_hard": "Cambiar o turno en capsulas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WEBCAM",
+                    "riddle": "Camara de computadora.",
+                    "riddle_hard": "Lente que transmite sin demora.",
+                    "is_hard": false
+                },
+                {
+                    "word": "UPLOAD",
+                    "riddle": "Enviar archivos hacia arriba.",
+                    "riddle_hard": "Subir datos sin caida.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DATA",
+                    "riddle": "Conjunto de hechos y numeros.",
+                    "riddle_hard": "Informacion en los apuntes oscuros.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 674,
+            "grid_size": 6,
+            "category": "Artes y Cultura",
+            "subcategory": "Relato y Mito",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SAMURAI",
+                    "riddle": "Un maestro japones de la espada filosa.",
+                    "riddle_hard": "Miembro de casta militar poderosa.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALDERO",
+                    "riddle": "Gran olla donde la bruja hace su pocion.",
+                    "riddle_hard": "Recipiente grande para cocinar con pasion.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PROLOGO",
+                    "riddle": "La apertura de una historia que comienza.",
+                    "riddle_hard": "Seccion introductoria de obra que enseña.",
+                    "is_hard": false
+                },
+                {
+                    "word": "NEPTUNO",
+                    "riddle": "Dios romano del mar y las aguas bravas.",
+                    "riddle_hard": "Deidad del agua dulce y salada que te alaba.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BANSHEE",
+                    "riddle": "Un espiritu irlandes que grita con fuerza.",
+                    "riddle_hard": "Espiritu femenino cuyo llanto te fuerza.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 675,
+            "grid_size": 5,
+            "category": "Artes y Cultura",
+            "subcategory": "Festividades",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "HACK",
+                    "riddle": "Entrar sin permiso al sistema.",
+                    "riddle_hard": "Acceso no autorizado al tema.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BACKUP",
+                    "riddle": "Copia de seguridad.",
+                    "riddle_hard": "Respaldo de informacion urgida.",
+                    "is_hard": false
+                },
+                {
+                    "word": "USER",
+                    "riddle": "La persona usando la PC.",
+                    "riddle_hard": "Usuario que opera con fe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DAEMON",
+                    "riddle": "Programa que corre en fondo.",
+                    "riddle_hard": "Servicio oculto sin mondo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PATCH",
+                    "riddle": "Actualizacion de software.",
+                    "riddle_hard": "Parche para programa o ropa en aire.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 676,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Matemáticas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PELVIS",
+                    "riddle": "Hueso grande de la cadera.",
+                    "riddle_hard": "Marco central del cuerpo inferior.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COSTRA",
+                    "riddle": "Capa dura sobre una herida.",
+                    "riddle_hard": "Sangre seca que protege un corte.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TORSO",
+                    "riddle": "Cuerpo sin extremidades.",
+                    "riddle_hard": "El tronco humano.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PINEAL",
+                    "riddle": "Glandula del cerebro.",
+                    "riddle_hard": "Masa de tejido tras el ventriculo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LUNULA",
+                    "riddle": "Luna en la uña.",
+                    "riddle_hard": "Media luna blanca en la base de la uña.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 677,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Tecnología",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "DISK",
+                    "riddle": "Guarda archivos digitales.",
+                    "riddle_hard": "Circulo de almacenaje especiales.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TABLET",
+                    "riddle": "Computadora plana tactil.",
+                    "riddle_hard": "Dispositivo portatil y facil.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OUTPUT",
+                    "riddle": "Datos que salen del sistema.",
+                    "riddle_hard": "Informacion sin crema de la crema.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MODULE",
+                    "riddle": "Parte de un programa.",
+                    "riddle_hard": "Componente sin drama.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHANGE",
+                    "riddle": "Modificar algo existente.",
+                    "riddle_hard": "Cambio o moneda presente.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 678,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Materiales",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LEÑA",
+                    "riddle": "Troncos secos para alimentar la fogata.",
+                    "riddle_hard": "Madera cortada lista para ser combustible.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CASERO",
+                    "riddle": "El dueño que cobra la renta mensual.",
+                    "riddle_hard": "Propietario del edificio donde vives.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PACKET",
+                    "riddle": "Pedazo pequeño de datos.",
+                    "riddle_hard": "Paquete de info exactos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SCRIPT",
+                    "riddle": "Palabras para obra de teatro.",
+                    "riddle_hard": "Codigo de programa en el trato.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CLOUD",
+                    "riddle": "Almacenamiento en internet.",
+                    "riddle_hard": "Nube blanca o servidor discreto.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 679,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Ingeniería",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PHONE",
+                    "riddle": "Usado para llamar a un amigo.",
+                    "riddle_hard": "Aparato para hablar sin testigo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OPTION",
+                    "riddle": "Una eleccion disponible.",
+                    "riddle_hard": "Opcion variable.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ROUTER",
+                    "riddle": "Dirige trafico de red.",
+                    "riddle_hard": "Enrutador sin merced.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SERVER",
+                    "riddle": "Computadora que guarda datos.",
+                    "riddle_hard": "Maquina de red sin gatos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BROWSE",
+                    "riddle": "Navegar por internet.",
+                    "riddle_hard": "Explorar la red sin carrete.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 680,
+            "grid_size": 5,
+            "category": "Ciencia e Industria",
+            "subcategory": "Historia y Tiempo",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MANGA",
+                    "riddle": "Cubre el brazo.",
+                    "riddle_hard": "Parte de la camisa donde metes el brazo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PARKA",
+                    "riddle": "Chaqueta muy gruesa con gorro de piel.",
+                    "riddle_hard": "Chaqueta muy gruesa con gorro de piel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HACKER",
+                    "riddle": "Quien entra sin permiso.",
+                    "riddle_hard": "Pirata informatico preciso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIENA",
+                    "riddle": "Se rie como loca.",
+                    "riddle_hard": "Cazadora manchada que roba comida a leones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MORSA",
+                    "riddle": "Foca gigante con colmillos.",
+                    "riddle_hard": "Bestia del artico con bigotes grandes.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 681,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Locomoción",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "NARIZ",
+                    "riddle": "La usas para oler flores.",
+                    "riddle_hard": "Parte en medio de la cara.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LABIOS",
+                    "riddle": "Estructuras de la vulva.",
+                    "riddle_hard": "Pliegues intimos femeninos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RIÑON",
+                    "riddle": "Organo que limpia liquidos.",
+                    "riddle_hard": "Parte con forma de frijol.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ENZIMA",
+                    "riddle": "Quimico digestivo.",
+                    "riddle_hard": "Sustancia que acelera reacciones.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LENGUA",
+                    "riddle": "Musculo para probar sabores.",
+                    "riddle_hard": "Organo rosa para mover comida.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 682,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Trabajo Manual",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "OSTRA",
+                    "riddle": "Marisco de lujo.",
+                    "riddle_hard": "Fabrica perlas en su interior.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINCE",
+                    "riddle": "Gato salvaje de orejas puntiagudas.",
+                    "riddle_hard": "Felino sigiloso de bosques nevados.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DELFIN",
+                    "riddle": "Mamifero marino inteligente.",
+                    "riddle_hard": "Salta en las olas y sonrie siempre.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COATI",
+                    "riddle": "Pariente largo del mapache.",
+                    "riddle_hard": "Busca fruta en la selva con cola alzada.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COLLIE",
+                    "riddle": "Perro pastor de pelo largo.",
+                    "riddle_hard": "El perro fiel de la pelicula Lassie.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 683,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Conflicto y Deporte",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "KUNGFU",
+                    "riddle": "Artes marciales de China.",
+                    "riddle_hard": "Estilo de combate enfocado en flujo y tecnica.",
+                    "is_hard": false
+                },
+                {
+                    "word": "KARATE",
+                    "riddle": "Deporte donde usas las manos.",
+                    "riddle_hard": "Un arte marcial del lejano oriente.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ATACAR",
+                    "riddle": "Avanzar para anotar puntos.",
+                    "riddle_hard": "Oleada agresiva hacia el territorio rival.",
+                    "is_hard": false
+                },
+                {
+                    "word": "YUNQUE",
+                    "riddle": "Hueso del oido medio.",
+                    "riddle_hard": "Huesecillo con forma de herramienta de forja.",
+                    "is_hard": false
+                },
+                {
+                    "word": "COCLEA",
+                    "riddle": "Espiral del oido.",
+                    "riddle_hard": "Cavidad espiral del oido interno.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 684,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Biológico",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CRESA",
+                    "riddle": "Larva de mosca.",
+                    "riddle_hard": "Gusano blanco que come cosas podridas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RATON",
+                    "riddle": "Come queso y escapa del gato.",
+                    "riddle_hard": "El roedor mas famoso de los dibujos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GUPPY",
+                    "riddle": "Pecesito de colores de pecera.",
+                    "riddle_hard": "Mascota acuatica que tiene muchos bebes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TEJON",
+                    "riddle": "Animal bajito blanco y negro.",
+                    "riddle_hard": "Cava hoyos y tiene muy mal genio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CHACAL",
+                    "riddle": "Perro salvaje carroñero.",
+                    "riddle_hard": "El animal del dios egipcio Anubis.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 685,
+            "grid_size": 5,
+            "category": "Actos Físicos",
+            "subcategory": "Exploración",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "SALIVA",
+                    "riddle": "Agua de la boca.",
+                    "riddle_hard": "Liquido para digerir comida.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TESTIS",
+                    "riddle": "Glandula masculina.",
+                    "riddle_hard": "Organo productor de esperma.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GENOMA",
+                    "riddle": "Mapa genetico.",
+                    "riddle_hard": "Conjunto de cromosomas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LINFA",
+                    "riddle": "Fluido inmune.",
+                    "riddle_hard": "Liquido incoloro con globulos blancos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "HIGADO",
+                    "riddle": "Organo que limpia la sangre.",
+                    "riddle_hard": "Gran filtro interno del cuerpo.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 686,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Cognición",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "TARSO",
+                    "riddle": "Hueso del pie.",
+                    "riddle_hard": "Relativo al tobillo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SACRO",
+                    "riddle": "Base de la columna.",
+                    "riddle_hard": "Hueso triangular en la espalda baja.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIBIA",
+                    "riddle": "Hueso de la espinilla.",
+                    "riddle_hard": "Hueso interno entre rodilla y tobillo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GLOTIS",
+                    "riddle": "Abertura vocal.",
+                    "riddle_hard": "Parte de la laringe con cuerdas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TORAX",
+                    "riddle": "Cavidad del pecho.",
+                    "riddle_hard": "Cuerpo entre cuello y abdomen.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 687,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Comunicación",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PEPINO",
+                    "riddle": "Fruta de encurtido.",
+                    "riddle_hard": "Calabaza verde y fresca para ensaladas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ZARZA",
+                    "riddle": "Un parche de espinas.",
+                    "riddle_hard": "Arbusto espinoso de la Bella Durmiente.",
+                    "is_hard": false
+                },
+                {
+                    "word": "RABANO",
+                    "riddle": "Raíz roja picante.",
+                    "riddle_hard": "Pequeña raíz crujiente para ensaladas y pozole.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIQUEN",
+                    "riddle": "Crecimiento en roca.",
+                    "riddle_hard": "Mezcla costrosa de alga y hongo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AGUILA",
+                    "riddle": "Ave reina del cielo.",
+                    "riddle_hard": "Cazadora poderosa con vista increible.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 688,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Emociones",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "BECADA",
+                    "riddle": "Ave de pico muy largo.",
+                    "riddle_hard": "Pajaro de pantano dificil de ver.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MARLIN",
+                    "riddle": "Pez con nariz de espada.",
+                    "riddle_hard": "Pez gigante que pesco Hemingway.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TAPIR",
+                    "riddle": "Parece cerdo con trompa corta.",
+                    "riddle_hard": "Animal pesado de la selva tropical.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FLETAN",
+                    "riddle": "Pez plano gigante.",
+                    "riddle_hard": "Platija enorme del fondo del mar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VISON",
+                    "riddle": "Comadreja de piel fina.",
+                    "riddle_hard": "Cazador de rio de abrigo caro.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 689,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Socialización",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "ALCYON",
+                    "riddle": "Pajaro pescador de colores.",
+                    "riddle_hard": "Se lanza al agua para atrapar peces.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GALGO",
+                    "riddle": "Perro de carreras muy flaco.",
+                    "riddle_hard": "El perro mas rapido del mundo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PANDA",
+                    "riddle": "Oso blanco y negro.",
+                    "riddle_hard": "Come bambu todo el dia en China.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GRULLA",
+                    "riddle": "Ave alta de patas largas.",
+                    "riddle_hard": "Pajaro elegante famoso en el origami.",
+                    "is_hard": false
+                },
+                {
+                    "word": "AMEBA",
+                    "riddle": "Microbio que cambia de forma.",
+                    "riddle_hard": "Organismo de una sola celula.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 690,
+            "grid_size": 5,
+            "category": "Mental y Social",
+            "subcategory": "Percepción",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CIGOTO",
+                    "riddle": "Huevo fertilizado.",
+                    "riddle_hard": "Celula diploide fusionada.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TIMO",
+                    "riddle": "Glandula del pecho.",
+                    "riddle_hard": "Organo linfoide en el cuello.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TENDON",
+                    "riddle": "Se describe como tejido duro.",
+                    "riddle_hard": "Tejido fibroso que une musculo a hueso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARNE",
+                    "riddle": "Tejido blando corporal.",
+                    "riddle_hard": "Sustancia muscular bajo la piel.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BABOSA",
+                    "riddle": "Un caracol sin concha.",
+                    "riddle_hard": "Deja un rastro pegajoso en el jardin.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 691,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Visual",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "MACACO",
+                    "riddle": "Mono comun en Asia.",
+                    "riddle_hard": "Primate que se baña en aguas termales nevadas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "SALMON",
+                    "riddle": "Pez de carne rosada.",
+                    "riddle_hard": "Nada rio arriba para poner huevos.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ACARO",
+                    "riddle": "Bicho invisible del polvo.",
+                    "riddle_hard": "Aracnido microscopico que da alergia.",
+                    "is_hard": false
+                },
+                {
+                    "word": "GORILA",
+                    "riddle": "Simio gigante y fuerte.",
+                    "riddle_hard": "El rey de la selva tipo King Kong.",
+                    "is_hard": false
+                },
+                {
+                    "word": "POLLO",
+                    "riddle": "Ave de granja comun.",
+                    "riddle_hard": "Lo comemos asado o frito.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 692,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Física",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "LORI",
+                    "riddle": "Loro australiano muy colorido.",
+                    "riddle_hard": "Ave charlatana de colores brillantes y vibrantes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "TRUCHA",
+                    "riddle": "Pez de rio frio.",
+                    "riddle_hard": "Nada contra la corriente en la montaña.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ALPACA",
+                    "riddle": "Prima peluda de la llama.",
+                    "riddle_hard": "Tiene lana muy suave y vive en los Andes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CIVETA",
+                    "riddle": "Mamifero manchado que parece gato.",
+                    "riddle_hard": "Famoso por procesar granos de cafe.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PAVO",
+                    "riddle": "Cena de accion de gracias.",
+                    "riddle_hard": "Ave grande que hace glu glu.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 693,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Textura",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "PULPO",
+                    "riddle": "Tiene ocho tentaculos.",
+                    "riddle_hard": "Tira tinta y es muy inteligente.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ATUN",
+                    "riddle": "Pez rapido que viene en lata.",
+                    "riddle_hard": "Gigante del oceano muy pescado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PERDIZ",
+                    "riddle": "Ave de caza regordeta.",
+                    "riddle_hard": "Corre por el suelo y vuela bajo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEMINO",
+                    "riddle": "Ratoncito del artico.",
+                    "riddle_hard": "Famoso por el mito de saltar al vacio.",
+                    "is_hard": false
+                },
+                {
+                    "word": "PONI",
+                    "riddle": "Caballo pequeñito.",
+                    "riddle_hard": "Equino bajito que montan los niños.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 694,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Carácter",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GLOTON",
+                    "riddle": "Oso pequeño muy feroz.",
+                    "riddle_hard": "El X-Men con garras de metal se llama asi.",
+                    "is_hard": false
+                },
+                {
+                    "word": "VIBORA",
+                    "riddle": "Serpiente venenosa pequeña.",
+                    "riddle_hard": "Reptil con colmillos y patron zig-zag.",
+                    "is_hard": false
+                },
+                {
+                    "word": "WOMBAT",
+                    "riddle": "Marsupial gordito excavador.",
+                    "riddle_hard": "Hace caca en forma de cubo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "FENEC",
+                    "riddle": "Zorro de orejas gigantes.",
+                    "riddle_hard": "Zorrito del desierto que oye todo.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ANCHOA",
+                    "riddle": "Pecesito salado de pizza.",
+                    "riddle_hard": "Pez pequeño que se conserva en aceite.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 695,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Valor y Estatus",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "JIRAFA",
+                    "riddle": "Animal de cuello larguisimo.",
+                    "riddle_hard": "Come hojas de la copa de los arboles.",
+                    "is_hard": false
+                },
+                {
+                    "word": "JAGUAR",
+                    "riddle": "Gran gato manchado de la selva.",
+                    "riddle_hard": "El rey felino del Amazonas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ORCA",
+                    "riddle": "Ballena asesina blanca y negra.",
+                    "riddle_hard": "Delfin gigante el panda del mar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "IMPALA",
+                    "riddle": "Antilope africano saltarin.",
+                    "riddle_hard": "Tiene la marca M en su trasero.",
+                    "is_hard": false
+                },
+                {
+                    "word": "OCESNO",
+                    "riddle": "Bebe de ganso.",
+                    "riddle_hard": "Pollito de ave acuatica.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 696,
+            "grid_size": 5,
+            "category": "Cualidades",
+            "subcategory": "Complejidad",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "GAMBA",
+                    "riddle": "Camaron grande.",
+                    "riddle_hard": "Marisco rosado delicioso.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LAPA",
+                    "riddle": "Concha pegada a la roca.",
+                    "riddle_hard": "Cuesta mucho despegarla del mar.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LISA",
+                    "riddle": "Pez saltarin de rio y mar.",
+                    "riddle_hard": "Tambien es un corte de pelo de los 80.",
+                    "is_hard": false
+                },
+                {
+                    "word": "IBICE",
+                    "riddle": "Cabra de grandes cuernos.",
+                    "riddle_hard": "Escala paredes de presas verticales.",
+                    "is_hard": false
+                },
+                {
+                    "word": "MEDUSA",
+                    "riddle": "Gelatina de mar que pica.",
+                    "riddle_hard": "Transparente y con tentaculos largos.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 697,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Vínculos Ocultos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "COBRA",
+                    "riddle": "Serpiente que se encapucha.",
+                    "riddle_hard": "Baila al son de la flauta del encantador.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CALAO",
+                    "riddle": "Pajaro oriental con gran pico.",
+                    "riddle_hard": "Ave asiatica de plumaje blanco y negro.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LEMUR",
+                    "riddle": "Mono de Madagascar con cola a rayas.",
+                    "riddle_hard": "Le gusta mover el bote ojos grandes.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CARIBU",
+                    "riddle": "Reno de norteamerica.",
+                    "riddle_hard": "Ciervo que viaja grandes distancias en nieve.",
+                    "is_hard": false
+                },
+                {
+                    "word": "ASNO",
+                    "riddle": "Se describe como burro.",
+                    "riddle_hard": "El mejor amigo de Shrek.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 698,
+            "grid_size": 6,
+            "category": "El Puente",
+            "subcategory": "Palabras Compuestas",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "CHINCHE",
+                    "riddle": "Vampiro diminuto que vive en tu colchon.",
+                    "riddle_hard": "Peste pequeña que pica de noche.",
+                    "is_hard": false
+                },
+                {
+                    "word": "CEPILLO",
+                    "riddle": "Limpia tus dientes despues de comer.",
+                    "riddle_hard": "Baston con pelos para frotar tu sonrisa.",
+                    "is_hard": false
+                },
+                {
+                    "word": "LIBRETA",
+                    "riddle": "Cuaderno del banco con tus ahorros.",
+                    "riddle_hard": "Registro de papel de tu dinero guardado.",
+                    "is_hard": false
+                },
+                {
+                    "word": "BOMBERO",
+                    "riddle": "Heroe que apaga el fuego con agua.",
+                    "riddle_hard": "Trabajador valiente que salva vidas de las llamas.",
+                    "is_hard": false
+                },
+                {
+                    "word": "DOMINGO",
+                    "riddle": "Dia de descanso y fin de semana.",
+                    "riddle_hard": "Ultimo dia antes de volver a la escuela.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 699,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Opuestos",
+            "complexity": 1.0,
+            "puzzles": [
+                {
+                    "word": "FOCA",
+                    "riddle": "Aplaude y nada en el mar.",
+                    "riddle_hard": "Mamifero marino que juega con pelotas.",
+                    "is_hard": true
+                }
+            ],
+            "extra_words": []
+        },
+        {
+            "level_id": 700,
+            "grid_size": 5,
+            "category": "El Puente",
+            "subcategory": "Complejidad",
+            "complexity": 1.0,
+            "puzzles": [],
+            "extra_words": []
+        }
+    ]
+}
