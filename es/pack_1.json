@@ -37,19 +37,19 @@
             "puzzles": [
                 {
                     "word": "ABEJA",
-                    "riddle": "",
+                    "riddle": "Zum zum zum, voy de flor en flor, la miel es mi mayor labor.",
                     "riddle_hard": "Zum zum zum, voy de flor en flor, la miel es mi mayor labor.",
                     "is_hard": false
                 },
                 {
                     "word": "VACA",
-                    "riddle": "",
+                    "riddle": "Muu que muu, soy manchada, y mi leche es muy amada.",
                     "riddle_hard": "Muu que muu, soy manchada, y mi leche es muy amada.",
                     "is_hard": false
                 },
                 {
                     "word": "GALLINA",
-                    "riddle": "",
+                    "riddle": "Cacareo y pongo huevos, cada día traigo nuevos.",
                     "riddle_hard": "Cacareo y pongo huevos, cada día traigo nuevos.",
                     "is_hard": true
                 }
@@ -264,7 +264,7 @@
                 {
                     "word": "DINERO",
                     "riddle": "Me guardas en tu cartera, compro lo que tú quiera.",
-                    "riddle_hard": "Instrumento de cambio universal.",
+                    "riddle_hard": "Papel que vuela y compra deseos.",
                     "is_hard": false
                 },
                 {
@@ -331,32 +331,32 @@
             "puzzles": [
                 {
                     "word": "MAR",
-                    "riddle": "Mucha agua salada y olas.",
-                    "riddle_hard": "El hogar gigante de tiburones y barcos.",
+                    "riddle": "Salado y gigante soy, grandes olas siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIMA",
-                    "riddle": "El punto más alto de todos.",
-                    "riddle_hard": "La cabeza de la montaña que toca las nubes.",
+                    "riddle": "De la montaña soy rey, tocar las nubes mi ley.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LAGO",
-                    "riddle": "Gran charco natural de agua dulce.",
-                    "riddle_hard": "Espejo de agua rodeado de bosque.",
+                    "riddle": "De agua dulce lleno estoy, calma a los peces les doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUEVA",
-                    "riddle": "Casa oscura del oso o murciélago.",
-                    "riddle_hard": "Boca de piedra en la montaña oscura y húmeda.",
+                    "riddle": "Casa de piedra seré, al oso yo guardaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUEBLO",
-                    "riddle": "Ciudad pequeña y tranquila.",
-                    "riddle_hard": "Comunidad donde todos se conocen.",
+                    "riddle": "Pequeño y tranquilo soy, a mi linda plaza voy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -371,32 +371,32 @@
             "puzzles": [
                 {
                     "word": "ROJO",
-                    "riddle": "El color de la sangre o de la fresa.",
-                    "riddle_hard": "Color de la pasión que brilla en el semáforo.",
+                    "riddle": "En la fresa siempre estoy, y en tu sangre vivo hoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUBIO",
-                    "riddle": "Pelo color amarillo o dorado.",
-                    "riddle_hard": "Cabello claro como el sol.",
+                    "riddle": "Como el sol brillo yo aquí, luz dorada ves en mí.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MORENO",
-                    "riddle": "Piel oscura besada por el sol.",
-                    "riddle_hard": "Después de la playa mi color ha cambiado.",
+                    "riddle": "Sol en la piel llevo hoy, de color tostado soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PELUCA",
-                    "riddle": "Pelo falso que te pones y quitas.",
-                    "riddle_hard": "Cabello de mentira para cambiar de look.",
+                    "riddle": "Pelo falso de color, te doy un peinado mejor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SONRISA",
-                    "riddle": "Curva feliz en la boca.",
-                    "riddle_hard": "Muestras dientes cuando estás contento.",
+                    "riddle": "Curva en tu cara seré, tu gran alegría veré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -411,32 +411,32 @@
             "puzzles": [
                 {
                     "word": "PAN",
-                    "riddle": "El sustento de la vida.",
-                    "riddle_hard": "Un alimento básico hecho de harina.",
+                    "riddle": "Alimento rico soy, en tu mesa siempre estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAZA",
-                    "riddle": "Recipiente pequeño con asa para beber.",
-                    "riddle_hard": "Vasija de cerámica para el café o el té.",
+                    "riddle": "Pequeña y redonda soy, leche caliente te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOPA",
-                    "riddle": "Comida líquida en un tazón.",
-                    "riddle_hard": "Plato líquido sabroso hecho hirviendo carne o verduras.",
+                    "riddle": "Caldito caliente soy, en un tazón siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OLLA",
-                    "riddle": "Recipiente hondo de metal para hervir guiso.",
-                    "riddle_hard": "Vasija profunda para cocinar a fuego lento.",
+                    "riddle": "Soy de metal muy pesada, cocino la carne guisada.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HORNO",
-                    "riddle": "Usado para hornear un pastel fresco.",
-                    "riddle_hard": "Una caja caliente encontrada en una cocina.",
+                    "riddle": "Una caja de calor, horneo pan con sabor.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -451,32 +451,32 @@
             "puzzles": [
                 {
                     "word": "HOJA",
-                    "riddle": "Panel solar plano y verde de la planta.",
-                    "riddle_hard": "Nazco del tallo y cambio de color en otoño.",
+                    "riddle": "Del árbol colgando voy, sombra y aire fresco doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAIZ",
-                    "riddle": "La parte subterránea de la planta.",
-                    "riddle_hard": "Bebo agua bajo tierra y sostengo la planta.",
+                    "riddle": "Bajo la tierra me escondo, bebo el agua de lo hondo.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROBLE",
-                    "riddle": "El poderoso árbol de las bellotas.",
-                    "riddle_hard": "Símbolo de fuerza productor de madera muy dura.",
+                    "riddle": "Árbol muy fuerte seré, bellotas te regalaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROSA",
-                    "riddle": "Una belleza con dientes afilados.",
-                    "riddle_hard": "Una corona roja en el jardín.",
+                    "riddle": "Flor hermosa de color, tengo espinas y buen olor.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINO",
-                    "riddle": "Árbol de agujas.",
-                    "riddle_hard": "Siempreverde aromático que produce piñas.",
+                    "riddle": "Alto y siempre verde soy, muchas lindas piñas doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -491,32 +491,32 @@
             "puzzles": [
                 {
                     "word": "PEZ",
-                    "riddle": "Nada y respira bajo el agua.",
-                    "riddle_hard": "Tiene escamas y aletas.",
+                    "riddle": "Bajo el mar nadando voy, con aletas feliz soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GATO",
-                    "riddle": "Dice miau y ronronea.",
-                    "riddle_hard": "Cazador doméstico que odia bañarse.",
+                    "riddle": "Miau miau miau siempre diré, al ratón yo cazaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PATO",
-                    "riddle": "Dice cuac y nada en el lago.",
-                    "riddle_hard": "Ave acuática con patas como aletas.",
+                    "riddle": "Cuac cuac digo al nadar, en el lago me vas a hallar.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PERRO",
-                    "riddle": "El mejor amigo del hombre.",
-                    "riddle_hard": "Ladra y mueve la cola cuando está feliz.",
+                    "riddle": "Guau guau ladro con valor, soy tu amigo y protector.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORZO",
-                    "riddle": "Ciervo pequeño y agil.",
-                    "riddle_hard": "Venado de menor tamaño que ladra como perro.",
+                    "riddle": "Ciervo pequeño yo soy, por el bosque libre voy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -531,32 +531,32 @@
             "puzzles": [
                 {
                     "word": "AVE",
-                    "riddle": "Animal con plumas que vuela.",
-                    "riddle_hard": "Pone huevos y tiene pico.",
+                    "riddle": "Tengo alas para volar, en el cielo me has de hallar.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OSO",
-                    "riddle": "Gigante peludo que ama la miel.",
-                    "riddle_hard": "Duerme en una cueva todo el invierno.",
+                    "riddle": "Grande y peludo seré, mucha miel yo comeré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUHO",
-                    "riddle": "Ave sabia que dice Huu.",
-                    "riddle_hard": "Vigía nocturno de ojos grandes y cuello giratorio.",
+                    "riddle": "De noche despierto estoy, grandes ululatos doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUERVO",
-                    "riddle": "Pájaro negro muy listo.",
-                    "riddle_hard": "Ave oscura de películas de miedo.",
+                    "riddle": "Pájaro negro seré, muy astuto volaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COLMENA",
-                    "riddle": "Ciudad de panal de oro.",
-                    "riddle_hard": "Donde comienza el zumbido.",
+                    "riddle": "De las abejas soy casa, dulce miel por mí se pasa.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -571,32 +571,32 @@
             "puzzles": [
                 {
                     "word": "MALO",
-                    "riddle": "Portarse mal y hacer daño.",
-                    "riddle_hard": "Soy lo opuesto a bueno, causo problemas.",
+                    "riddle": "Hago travesuras hoy, muy desobediente soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RARO",
-                    "riddle": "Extraño o inusual.",
-                    "riddle_hard": "No soy normal, soy peculiar y distinto.",
+                    "riddle": "Muy extraño puedo ser, no soy fácil de entender.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SABIO",
-                    "riddle": "Inteligente y con experiencia.",
-                    "riddle_hard": "Tengo el conocimiento de muchos años.",
+                    "riddle": "Mucho conocimiento doy, muy inteligente soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALEGRE",
-                    "riddle": "Feliz y contento.",
-                    "riddle_hard": "Lleno de buen humor y risas altas.",
+                    "riddle": "Sonrío de corazón, vivo lleno de emoción.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VALIENTE",
-                    "riddle": "Sin miedo al peligro.",
-                    "riddle_hard": "Enfrentar el miedo con corazón de león.",
+                    "riddle": "No le tengo miedo a nada, saco mi genial espada.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -611,32 +611,32 @@
             "puzzles": [
                 {
                     "word": "BEBE",
-                    "riddle": "Humano recién nacido.",
-                    "riddle_hard": "Paquete de alegría que llora mucho.",
+                    "riddle": "En la cuna lloro hoy, un recién nacido soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NIÑO",
-                    "riddle": "Un varón pequeño.",
-                    "riddle_hard": "Joven travieso y lleno de energía.",
+                    "riddle": "Mucho juego de verdad, soy de muy corta edad.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JOVEN",
-                    "riddle": "En la primavera de la vida.",
-                    "riddle_hard": "Niño que creció pero no es viejo aún.",
+                    "riddle": "Lleno de energía estoy, al colegio siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ADULTO",
-                    "riddle": "Persona grande.",
-                    "riddle_hard": "Alguien que paga facturas y no juega tanto.",
+                    "riddle": "Soy mayor y trabajaré, muchas cuentas pagaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANCIANO",
-                    "riddle": "Persona muy mayor.",
-                    "riddle_hard": "Cabello blanco, mucha experiencia.",
+                    "riddle": "Pelo blanco tengo hoy, muy sabio y viejito soy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -651,32 +651,32 @@
             "puzzles": [
                 {
                     "word": "CASA",
-                    "riddle": "Edificio hecho para vivir.",
-                    "riddle_hard": "Estructura con techo y paredes.",
+                    "riddle": "Un edificio seré, techo y muros te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMA",
-                    "riddle": "Donde duermes y sueñas.",
-                    "riddle_hard": "Mueble suave que te abraza por la noche.",
+                    "riddle": "Con mis sábanas te abrigo, dulces sueños son conmigo.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TECHO",
-                    "riddle": "Estructura que cubre el edificio.",
-                    "riddle_hard": "El sombrero de la casa que te protege de lluvia.",
+                    "riddle": "En lo alto siempre estoy, cobijo a la casa doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUERTA",
-                    "riddle": "Te deja entrar o salir.",
-                    "riddle_hard": "Barrera móvil que da paso a otro cuarto.",
+                    "riddle": "Si me abres pasarás, si me cierras te quedarás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JARDIN",
-                    "riddle": "El pasto de afuera.",
-                    "riddle_hard": "Área al aire libre que rodea la casa.",
+                    "riddle": "Lleno de flores seré, con pasto te alegraré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -691,32 +691,32 @@
             "puzzles": [
                 {
                     "word": "MITO",
-                    "riddle": "Una vieja historia sobre los dioses del cielo.",
-                    "riddle_hard": "Un cuento que no es real en el suelo.",
+                    "riddle": "Una historia vieja soy, grandes fantasías doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAGO",
-                    "riddle": "Un usuario poderoso de la magia ancestral.",
-                    "riddle_hard": "Persona de gran saber o poder sobrenatural.",
+                    "riddle": "Hago magia de verdad, con total facilidad.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HADA",
-                    "riddle": "Una persona diminuta con alas que vuela.",
-                    "riddle_hard": "Un ser mágico del bosque que se cuela.",
+                    "riddle": "Alas mágicas tendré, en el bosque volaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HEROE",
-                    "riddle": "Una persona valiente en una historia que brilla.",
-                    "riddle_hard": "Quien salva el día en un cuento sin mancilla.",
+                    "riddle": "Lucho por hacer el bien, salvo al mundo yo también.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEYENDA",
-                    "riddle": "Una historia tradicional de un héroe famoso.",
-                    "riddle_hard": "Narración tradicional de eventos del glorioso.",
+                    "riddle": "Un relato antiguo soy, fama a los héroes doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -731,32 +731,32 @@
             "puzzles": [
                 {
                     "word": "MIEL",
-                    "riddle": "Néctar dulce de abeja.",
-                    "riddle_hard": "Un líquido dorado y espeso hecho en colmenas.",
+                    "riddle": "Soy dorada y de abeja, dulzura que no te deja.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUGO",
-                    "riddle": "Bebida hecha de exprimir naranjas.",
-                    "riddle_hard": "El líquido contenido naturalmente en la fruta.",
+                    "riddle": "Fruta exprimida seré, mucha sed te quitaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "QUESO",
-                    "riddle": "Alimento de leche solidificada.",
-                    "riddle_hard": "Un producto lácteo hecho de cuajada de leche prensada.",
+                    "riddle": "De la leche vengo yo, el ratón me saboreó.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FRUTA",
-                    "riddle": "Dulces de la naturaleza con semillas.",
-                    "riddle_hard": "Crezco en árboles y sepo bastante dulce.",
+                    "riddle": "Dulce de la tierra soy, muchas vitaminas doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASTA",
-                    "riddle": "Fideos italianos.",
-                    "riddle_hard": "Masa hecha de trigo y agua.",
+                    "riddle": "Fideos largos seré, con salsa me mezclaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -771,32 +771,32 @@
             "puzzles": [
                 {
                     "word": "SUMA",
-                    "riddle": "Al unir números me verás aparecer.",
-                    "riddle_hard": "Cuando dos más dos quieres saber.",
+                    "riddle": "Dos números uniré, un total más grande haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOS",
-                    "riddle": "Viene antes del tres.",
-                    "riddle_hard": "Un par que ves.",
+                    "riddle": "Sigo al uno, ya lo ves, y voy justo antes del tres.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUBO",
-                    "riddle": "Caja con seis caras planas.",
-                    "riddle_hard": "Figura de esquinas sanas.",
+                    "riddle": "Seis caras planas tendré, como un dado rodaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LINEA",
-                    "riddle": "Marca larga y muy delgada.",
-                    "riddle_hard": "Recta entre dos sin nada.",
+                    "riddle": "Recta y muy delgada voy, una simple raya soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURVA",
-                    "riddle": "Línea que se dobla suave.",
-                    "riddle_hard": "Sin esquinas se enclave.",
+                    "riddle": "Línea dobladita soy, sin tener esquinas voy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -811,32 +811,32 @@
             "puzzles": [
                 {
                     "word": "JEFE",
-                    "riddle": "La persona a cargo del grupo.",
-                    "riddle_hard": "El que da las órdenes aquí.",
+                    "riddle": "Doy las órdenes aquí, todos me respetan a mí.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACTOR",
-                    "riddle": "Persona en una obra o cine.",
-                    "riddle_hard": "Finge ser otra persona por fama.",
+                    "riddle": "Falsos papeles haré, en el cine brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUEZ",
-                    "riddle": "Decide la ley en la corte.",
-                    "riddle_hard": "El líder del tribunal con mazo.",
+                    "riddle": "En la corte dicto ley, con mi mazo soy el rey.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POETA",
-                    "riddle": "Escribe versos bonitos.",
-                    "riddle_hard": "Usa rimas y ritmo expresa sentimientos.",
+                    "riddle": "Bellos versos cantaré, con mis rimas te amaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AUTOR",
-                    "riddle": "Escribe libros y novelas.",
-                    "riddle_hard": "El creador de una nueva historia.",
+                    "riddle": "Muchas historias haré, grandes libros crearé.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -851,32 +851,32 @@
             "puzzles": [
                 {
                     "word": "ORO",
-                    "riddle": "Metal amarillo que enloquece a los piratas.",
-                    "riddle_hard": "Material brillante usado en coronas reales.",
+                    "riddle": "Metal amarillo soy, gran riqueza siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PAGO",
-                    "riddle": "La acción de saldar tu cuenta pendiente.",
-                    "riddle_hard": "Entregar dinero para extinguir una deuda.",
+                    "riddle": "Tu deuda liquidaré, todo el saldo borraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANCO",
-                    "riddle": "Edificio seguro donde duermen tus ahorros.",
-                    "riddle_hard": "Institución que presta y guarda capital.",
+                    "riddle": "Tus ahorros guardaré, tu dinero cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COSTO",
-                    "riddle": "Lo que sacrificas para tener algo nuevo.",
-                    "riddle_hard": "El valor monetario requerido para obtener algo.",
+                    "riddle": "El precio a pagar seré, tu cartera vaciaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLATA",
-                    "riddle": "Metal blanco que usamos para pagar.",
-                    "riddle_hard": "Sinónimo coloquial de dinero en el sur.",
+                    "riddle": "Metal muy brillante soy, en monedas siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -891,32 +891,32 @@
             "puzzles": [
                 {
                     "word": "PLAZA",
-                    "riddle": "Espacio abierto en la ciudad.",
-                    "riddle_hard": "Lugar cuadrado con una fuente central.",
+                    "riddle": "Centro del pueblo seré, con mi fuente brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALLE",
-                    "riddle": "Camino para autos y gente.",
-                    "riddle_hard": "Vía pavimentada que cruza el pueblo.",
+                    "riddle": "De asfalto y gris yo soy, paso a los coches doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAFE",
-                    "riddle": "Restaurante pequeño y acogedor.",
-                    "riddle_hard": "Sitio casual para beber algo caliente y charlar.",
+                    "riddle": "Taza caliente daré, y del sueño te salvaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSEO",
-                    "riddle": "Lugar para guardar historia.",
-                    "riddle_hard": "Edificio donde se exhiben cosas antiguas.",
+                    "riddle": "Cosas antiguas tendré, la historia te enseñaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIA",
-                    "riddle": "Por donde corren los trenes.",
-                    "riddle_hard": "Camino preparado de rieles para el transporte.",
+                    "riddle": "Caminos de hierro soy, paso a los trenes doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -931,32 +931,32 @@
             "puzzles": [
                 {
                     "word": "CLASE",
-                    "riddle": "Grupo de alumnos aprendiendo juntos.",
-                    "riddle_hard": "Lección impartida en un horario específico.",
+                    "riddle": "Muchas mesas tengo hoy, la mejor lección te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEER",
-                    "riddle": "Decodificar letras para entender palabras.",
-                    "riddle_hard": "Viajar a otros mundos sin mover los pies.",
+                    "riddle": "Las palabras miraré, nuevos mundos viajaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PAPEL",
-                    "riddle": "Material fino hecho de madera para escribir.",
-                    "riddle_hard": "Hoja blanca que espera tus ideas.",
+                    "riddle": "Hoja muy blanca yo soy, para que dibujes voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SABER",
-                    "riddle": "Tener el conocimiento en la cabeza.",
-                    "riddle_hard": "Entender una verdad específica.",
+                    "riddle": "En tu cabeza estaré, gran inteligencia haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAREA",
-                    "riddle": "Trabajo escolar para hacer en casa.",
-                    "riddle_hard": "Deber que el maestro asigna para la tarde.",
+                    "riddle": "De la escuela vengo hoy, mucho trabajo te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -971,32 +971,32 @@
             "puzzles": [
                 {
                     "word": "LEAL",
-                    "riddle": "Fiel a tus amigos siempre.",
-                    "riddle_hard": "No traicionar nunca al lider.",
+                    "riddle": "Fiel a mis amigos soy, nunca la espalda les doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BALA",
-                    "riddle": "Pedazo de metal que dispara el arma.",
-                    "riddle_hard": "Pequeño proyectil letal que sale de pistola o rifle.",
+                    "riddle": "De metal pequeño soy, muy veloz al vuelo voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEY",
-                    "riddle": "Reglas que rigen el país.",
-                    "riddle_hard": "Instrucciones para ser buen ciudadano.",
+                    "riddle": "Normas muy estrictas soy, justicia y gran orden doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORTE",
-                    "riddle": "Lugar de los juicios legales.",
-                    "riddle_hard": "Donde se imparte justicia.",
+                    "riddle": "El juez se sienta en mí, los juicios se hacen aquí.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SENADO",
-                    "riddle": "Grupo que hace las leyes.",
-                    "riddle_hard": "Consejo alto de la nación.",
+                    "riddle": "Hacemos las leyes hoy, yo de los políticos soy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1011,32 +1011,32 @@
             "puzzles": [
                 {
                     "word": "CRIMEN",
-                    "riddle": "Acción contra la ley.",
-                    "riddle_hard": "Delito castigado por el juez.",
+                    "riddle": "Una mala acción yo soy, a la cárcel siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CULPA",
-                    "riddle": "Sentimiento de haber hecho algo mal.",
-                    "riddle_hard": "Responsabilidad por un error cometido.",
+                    "riddle": "Un remordimiento soy, disculpas llorando doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUICIO",
-                    "riddle": "Caso frente al juez.",
-                    "riddle_hard": "Examen formal de evidencia.",
+                    "riddle": "Examen legal seré, si eres bueno lo sabré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VERDAD",
-                    "riddle": "Lo que es real y no mentira.",
-                    "riddle_hard": "Conformidad de lo que se dice con lo que se siente.",
+                    "riddle": "Nunca te miento yo a ti, todo lo real está en mí.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRUEBA",
-                    "riddle": "Evidencia de verdad.",
-                    "riddle_hard": "Demostración con claridad.",
+                    "riddle": "Soy la clara evidencia, que demuestra tu inocencia.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1051,32 +1051,32 @@
             "puzzles": [
                 {
                     "word": "EDAD",
-                    "riddle": "Cuento las velas de tu pastel.",
-                    "riddle_hard": "Lo que ganas pero nunca puedes perder.",
+                    "riddle": "Cuento tus años de vida, siempre voy de gran subida.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ERA",
-                    "riddle": "Un capítulo largo de la historia.",
-                    "riddle_hard": "Un periodo que define a los dinosaurios o a los reyes.",
+                    "riddle": "Un periodo largo soy, siglos de la historia doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ANTIGUO",
-                    "riddle": "De los tiempos de las momias.",
-                    "riddle_hard": "Algo que tiene polvo de siglos.",
+                    "riddle": "De tiempos lejanos soy, muchos años tengo hoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASADO",
-                    "riddle": "Lo que estudia la historia.",
-                    "riddle_hard": "Tiempo que ya se fue.",
+                    "riddle": "El tiempo que huyó yo soy, en tus memorias estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SIGLO",
-                    "riddle": "Cien años de soledad.",
-                    "riddle_hard": "Diez décadas juntas.",
+                    "riddle": "Cien largos años seré, mucha historia contaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1091,32 +1091,32 @@
             "puzzles": [
                 {
                     "word": "ARTE",
-                    "riddle": "Cosa bella creada con las manos y el corazón.",
-                    "riddle_hard": "Expresión humana plasmada en pintura o piedra.",
+                    "riddle": "Cosas hermosas haré, lienzos bellos pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIBUJO",
-                    "riddle": "Crear una imagen con un lápiz.",
-                    "riddle_hard": "Trazar formas sobre el papel.",
+                    "riddle": "Creado a lápiz estoy, formas a la hoja le doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINCEL",
-                    "riddle": "Herramienta con pelos para pintar.",
-                    "riddle_hard": "Instrumento de cerdas que acaricia el lienzo.",
+                    "riddle": "Pelo suave tengo hoy, bellos colores te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINTAR",
-                    "riddle": "Crear una imagen con colores.",
-                    "riddle_hard": "Poner tinte sobre una pared blanca.",
+                    "riddle": "El lienzo vacío veré, de colores lo llenaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARCO",
-                    "riddle": "El borde decorativo de una foto.",
-                    "riddle_hard": "Estuche para proteger y exhibir arte.",
+                    "riddle": "Cuido la pintura hoy, borde de madera soy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1131,32 +1131,32 @@
             "puzzles": [
                 {
                     "word": "ROLLO",
-                    "riddle": "Cilindro donde vivia el cine antiguo o para pescar.",
-                    "riddle_hard": "La pelicula antes de lo digital.",
+                    "riddle": "Cinta de cine seré, mil historias contaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LENTE",
-                    "riddle": "El ojo de cristal de la camara.",
-                    "riddle_hard": "Vidrio curvo que enfoca la luz perfecta.",
+                    "riddle": "Ojo de vidrio yo soy, el mejor enfoque doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SHOW",
-                    "riddle": "Espectaculo para entretener a la gente.",
-                    "riddle_hard": "Evento que te hace olvidar todo lo demas.",
+                    "riddle": "Gran espectáculo soy, mil aplausos gano hoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OBRA",
-                    "riddle": "Historia representada en un escenario.",
-                    "riddle_hard": "Donde actores cobran vida frente al publico.",
+                    "riddle": "En el teatro estaré, a todos divertiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRAMA",
-                    "riddle": "Los eventos que te mantienen pegado a la butaca.",
-                    "riddle_hard": "Lo que pasa en la pelicula, el hilo de la historia.",
+                    "riddle": "El gran misterio yo soy, en el cuento siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1171,38 +1171,38 @@
             "puzzles": [
                 {
                     "word": "CHOZA",
-                    "riddle": "Una casa muy pequeña y simple.",
-                    "riddle_hard": "Un hogar rustico hecho de madera o paja.",
+                    "riddle": "Casa pequeña seré, de las lluvias cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUNA",
-                    "riddle": "La cama de un bebe.",
-                    "riddle_hard": "Cama pequeña con rejas para el infante.",
+                    "riddle": "Cama de bebé seré, dulces sueños te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ADOBE",
-                    "riddle": "Casa hecha de ladrillos de barro seco.",
-                    "riddle_hard": "Ladrillo de tierra secado al sol.",
+                    "riddle": "De barro y paja yo soy, fresca casa siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PARED",
-                    "riddle": "Estructura lateral de un cuarto.",
-                    "riddle_hard": "Barrera solida que sostiene el techo.",
+                    "riddle": "Muro de piedra seré, tu gran techo sostendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LLAVE",
-                    "riddle": "Abre la puerta y guarda los secretos.",
-                    "riddle_hard": "Pieza de metal con dientes.",
+                    "riddle": "De metal dentado soy, paso a los cuartos te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ATICO",
-                    "riddle": "Cuarto en la cima de la casa.",
-                    "riddle_hard": "Espacio polvoriento bajo el tejado.",
+                    "riddle": "En lo más alto estaré, trastos viejos guardaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1217,32 +1217,32 @@
             "puzzles": [
                 {
                     "word": "AMOR",
-                    "riddle": "Sentimiento de gran cariño.",
-                    "riddle_hard": "Lazo fuerte con un amigo o pareja.",
+                    "riddle": "Mucho cariño te doy, en tu corazón estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIEDO",
-                    "riddle": "Sentirse asustado por un peligro.",
-                    "riddle_hard": "El choque de un peligro subito.",
+                    "riddle": "Muchos sustos te daré, a temblar te obligaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALMA",
-                    "riddle": "Sentirse en paz y quieto.",
-                    "riddle_hard": "Como un lago sin viento ni olas.",
+                    "riddle": "Mucha paz y quietud doy, muy tranquilo siempre soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FELIZ",
-                    "riddle": "Sentirse complacido y alegre.",
-                    "riddle_hard": "Estado de gratitud y satisfaccion.",
+                    "riddle": "Muy contento siempre estoy, gran sonrisa yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ODIO",
-                    "riddle": "Sentirse muy furioso con alguien.",
-                    "riddle_hard": "Fuego frio contra un enemigo.",
+                    "riddle": "Mucho coraje te doy, un mal sentimiento soy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1257,38 +1257,38 @@
             "puzzles": [
                 {
                     "word": "SARTEN",
-                    "riddle": "Aqui fries los huevos en la mañana.",
-                    "riddle_hard": "Recipiente metalico plano y poco profundo.",
+                    "riddle": "De metal muy fuerte soy, huevos fritos yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUCHARA",
-                    "riddle": "Una herramienta redonda para la sopa.",
-                    "riddle_hard": "Usado para comer un tazon de cereal.",
+                    "riddle": "Forma redonda tendré, rica sopa te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TENEDOR",
-                    "riddle": "Herramienta con cuatro puntas afiladas.",
-                    "riddle_hard": "Usado para recoger un trozo de carne.",
+                    "riddle": "Cuatro puntas luciré, con la carne ayudaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HORNEAR",
-                    "riddle": "Cocinar un capricho usando un horno caliente.",
-                    "riddle_hard": "Transformar la masa con calor invisible.",
+                    "riddle": "Dulces pasteles haré, con calor los cocinaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASTEL",
-                    "riddle": "Una comida dulce para una fiesta.",
-                    "riddle_hard": "Un capricho horneado con un poco de glaseado.",
+                    "riddle": "Bizcocho dulce seré, en tu fiesta reinaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "BOLLO",
-                    "riddle": "Pequeño rollo de pan dulce.",
-                    "riddle_hard": "Pieza de pan con levadura.",
+                    "riddle": "Pequeño y dulce seré, con el té me juntaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1303,32 +1303,32 @@
             "puzzles": [
                 {
                     "word": "JADE",
-                    "riddle": "Piedra preciosa de color verde.",
-                    "riddle_hard": "Roca verde dura usada para tallados y joyas.",
+                    "riddle": "Piedra muy verde seré, linda joya formaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENCAJE",
-                    "riddle": "Tela delicada con patrones y agujeros.",
-                    "riddle_hard": "Tejido fino de algodon con diseño abierto.",
+                    "riddle": "Tela con hoyos yo soy, elegancia siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIENZO",
-                    "riddle": "Tela blanca que espera los colores.",
-                    "riddle_hard": "Superficie tensa para el pincel.",
+                    "riddle": "Tela muy blanca seré, mil colores luciré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DORAR",
-                    "riddle": "Cubrir algo con hoja de oro.",
-                    "riddle_hard": "Aplicar una capa fina de oro sobre una superficie.",
+                    "riddle": "Con oro te cubriré, muy brillante te haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUADRO",
-                    "riddle": "Obra de arte colgada en la pared.",
-                    "riddle_hard": "Pintura enmarcada que cuenta una historia.",
+                    "riddle": "En la pared colgaré, mi pintura luciré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1343,32 +1343,32 @@
             "puzzles": [
                 {
                     "word": "TEJER",
-                    "riddle": "Hacer ropa con dos agujas y mucha paciencia.",
-                    "riddle_hard": "Crear un sueter usando solo hilo.",
+                    "riddle": "Con dos agujas haré, ropa de lana crearé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LANA",
-                    "riddle": "Pelo de oveja para el frio.",
-                    "riddle_hard": "Fibra natural que pica un poco pero calienta mucho.",
+                    "riddle": "Pelo de oveja yo soy, mucho abrigo siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SEDA",
-                    "riddle": "Tela suave y brillante hecha por gusanos.",
-                    "riddle_hard": "Tejido de lujo hilado por orugas.",
+                    "riddle": "Fina y brillante seré, de un gusano naceré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIERRE",
-                    "riddle": "Sube y baja en tu chaqueta.",
-                    "riddle_hard": "Tiene dientes que encajan pero no muerde.",
+                    "riddle": "Dientes de metal tendré, tu chaqueta cerraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GUANTE",
-                    "riddle": "Abrigo para la mano.",
-                    "riddle_hard": "Tiene cinco dedos pero no tiene huesos.",
+                    "riddle": "Cinco deditos tendré, tus dos manos cubriré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1383,38 +1383,38 @@
             "puzzles": [
                 {
                     "word": "CITAR",
-                    "riddle": "Mencionar al autor de una frase.",
-                    "riddle_hard": "Dar credito a la fuente original en tu texto.",
+                    "riddle": "Al gran autor nombraré, todo el crédito le daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "APUNTE",
-                    "riddle": "Lo que escribes rapido en clase.",
-                    "riddle_hard": "Recordatorio escrito en tu cuaderno.",
+                    "riddle": "En la libreta estaré, tu lección recordaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXAMEN",
-                    "riddle": "Prueba dificil que te hace sudar.",
-                    "riddle_hard": "Evaluacion formal de lo aprendido.",
+                    "riddle": "Prueba difícil seré, lo que sabes mediré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TEST",
-                    "riddle": "Forma rapida de evaluar conocimientos.",
-                    "riddle_hard": "Cuestionario de opcion multiple quizas.",
+                    "riddle": "Preguntas cortas seré, tu saber comprobaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLUMA",
-                    "riddle": "Herramienta llena de tinta para escribir.",
-                    "riddle_hard": "Vara delgada para dejar marcas en la hoja.",
+                    "riddle": "Llena de tinta yo soy, escribiendo siempre voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAPA",
-                    "riddle": "Dibujo plano de una ciudad o pais.",
-                    "riddle_hard": "Papel plegado que te dice donde estas.",
+                    "riddle": "De las ciudades yo soy, grandes caminos te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1429,32 +1429,32 @@
             "puzzles": [
                 {
                     "word": "ZORRO",
-                    "riddle": "Animal listo de cola roja y peluda.",
-                    "riddle_hard": "El astuto ladron de gallinas del bosque.",
+                    "riddle": "Cola muy roja tendré, las gallinas cazaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERDA",
-                    "riddle": "La mama de los cerditos.",
-                    "riddle_hard": "Hembra del animal que hace oink.",
+                    "riddle": "Con mis cerditos voy hoy, en el lodo feliz soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RATA",
-                    "riddle": "Raton grande de ciudad.",
-                    "riddle_hard": "Roedor de cola larga que vive en alcantarillas.",
+                    "riddle": "Larga colita tendré, en la calle correré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SED",
-                    "riddle": "Ganas de beber agua.",
-                    "riddle_hard": "Necesidad del cuerpo de hidratarse.",
+                    "riddle": "Ganas de agua te doy, en el gran desierto estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOBO",
-                    "riddle": "Aulla a la luna llena en la noche.",
-                    "riddle_hard": "Cazador feroz que vive en manada.",
+                    "riddle": "Por el gran bosque yo voy, a la luna aúllo hoy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1469,38 +1469,38 @@
             "puzzles": [
                 {
                     "word": "VALLE",
-                    "riddle": "Tierra baja entre montañas.",
-                    "riddle_hard": "Camino verde protegido por picos altos.",
+                    "riddle": "Entre montañas yo estoy, un camino verde doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAMA",
-                    "riddle": "Brazo de un arbol.",
-                    "riddle_hard": "Se extiende desde el tronco y sostiene las hojas.",
+                    "riddle": "Brazo del árbol seré, muchas hojas sostendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ISLA",
-                    "riddle": "Tierra rodeada de agua por todas partes.",
-                    "riddle_hard": "Pedazo de tierra flotando solo en el mar.",
+                    "riddle": "Tierra rodeada yo soy, en el inmenso mar estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CABO",
-                    "riddle": "Punta de tierra entrando al mar.",
-                    "riddle_hard": "Nariz de tierra que huele el oceano.",
+                    "riddle": "Punta de tierra seré, hacia el fiero mar iré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RISCO",
-                    "riddle": "Roca alta y afilada.",
-                    "riddle_hard": "Pared de piedra donde anidan las aguilas.",
+                    "riddle": "Roca muy alta seré, al abismo miraré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "COSTA",
-                    "riddle": "Donde la tierra se encuentra con el mar.",
-                    "riddle_hard": "El limite arenoso del oceano.",
+                    "riddle": "Junto a las olas yo estoy, arena y mil conchas doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1515,38 +1515,38 @@
             "puzzles": [
                 {
                     "word": "PELEA",
-                    "riddle": "Enfrentamiento fisico o verbal.",
-                    "riddle_hard": "Disputa o contienda fisica.",
+                    "riddle": "Muchos golpes yo veré, al más fuerte elegiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GOLPE",
-                    "riddle": "Impactar el objetivo con fuerza.",
-                    "riddle_hard": "Hacer contacto fisico repentino.",
+                    "riddle": "Muy ruidoso siempre soy, gran impacto yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAER",
-                    "riddle": "Tropezar y besar el suelo.",
-                    "riddle_hard": "Perder el equilibrio por la gravedad.",
+                    "riddle": "Al suelo yo llegaré, mi equilibrio perderé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GANAR",
-                    "riddle": "Ser el mejor en el juego y celebrar.",
-                    "riddle_hard": "Llegar a la meta antes que nadie.",
+                    "riddle": "El trofeo ganaré, la victoria celebraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DUELO",
-                    "riddle": "Una pelea formal entre dos personas.",
-                    "riddle_hard": "Batalla de honor programada.",
+                    "riddle": "Frente a frente nos veremos, por honor hoy lucharemos.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "META",
-                    "riddle": "El final del camino que quieres alcanzar.",
-                    "riddle_hard": "El objetivo al final del esfuerzo físico.",
+                    "riddle": "Al final esperaré, tu carrera terminaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1561,32 +1561,32 @@
             "puzzles": [
                 {
                     "word": "CESPED",
-                    "riddle": "Pasto y tierra en rollo.",
-                    "riddle_hard": "Alfombra verde natural para tu jardín.",
+                    "riddle": "Mucha hierba verde soy, suave alfombra yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARBOL",
-                    "riddle": "Gigante con brazos de hojas y pies de raiz.",
-                    "riddle_hard": "Columna vertebral del bosque.",
+                    "riddle": "Muchas ramas tengo hoy, aire puro siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VAINA",
-                    "riddle": "Cáscara que guarda frijoles.",
-                    "riddle_hard": "Un estuche natural para semillas.",
+                    "riddle": "Soy estuche vegetal, guardo granos por igual.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAÑA",
-                    "riddle": "Palo alto y dulce.",
-                    "riddle_hard": "Parece bambú pero está lleno de azúcar.",
+                    "riddle": "Muy dulce por dentro soy, mucho azúcar siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLOR",
-                    "riddle": "Hermosa planta con buen olor.",
-                    "riddle_hard": "Regalo de la primavera que se abre al sol.",
+                    "riddle": "De colores me verás, y mi aroma sentirás.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1601,32 +1601,32 @@
             "puzzles": [
                 {
                     "word": "MUELLE",
-                    "riddle": "Pasarela sobre el agua para barcos.",
-                    "riddle_hard": "Estructura que entra al mar desde la orilla.",
+                    "riddle": "Junto al agua yo estaré, a los barcos cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NORTE",
-                    "riddle": "Donde apunta la brujula siempre.",
-                    "riddle_hard": "Lo opuesto al sur en el mapa.",
+                    "riddle": "En la brújula estoy yo, y el frío me siguió.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALDEA",
-                    "riddle": "Pueblo muy pequeño.",
-                    "riddle_hard": "Grupo pequeño de casas rurales.",
+                    "riddle": "Pocas casas tengo hoy, un pueblito lindo soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ESTE",
-                    "riddle": "Por donde sale el sol cada mañana.",
-                    "riddle_hard": "Direccion del amanecer opuesta al oeste.",
+                    "riddle": "Por mi lado sale el sol, con un brillo de farol.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERRO",
-                    "riddle": "Montaña chiquita.",
-                    "riddle_hard": "Subida de tierra mas baja que una montaña.",
+                    "riddle": "Montaña pequeña soy, muchas vistas yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1641,32 +1641,32 @@
             "puzzles": [
                 {
                     "word": "MEDICO",
-                    "riddle": "Cura a las personas enfermas.",
-                    "riddle_hard": "Experto en salud que usa bata blanca.",
+                    "riddle": "Tus dolores quitaré, con medicina te curaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PROFE",
-                    "riddle": "Maestro de universidad o escuela.",
-                    "riddle_hard": "Enseña la leccion abrevia su titulo.",
+                    "riddle": "En la clase enseñaré, mucho saber te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURA",
-                    "riddle": "Ayudante en una iglesia.",
-                    "riddle_hard": "Miembro del clero que da misa.",
+                    "riddle": "En la iglesia rezaré, a los fieles guiaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRIO",
-                    "riddle": "Grupo de tres músicos.",
-                    "riddle_hard": "Tres elementos juntos en armonía.",
+                    "riddle": "Tres personas somos hoy, armonía siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHEF",
-                    "riddle": "Cocina comida deliciosa en un restaurante.",
-                    "riddle_hard": "El lider de la cocina, el rey del sabor.",
+                    "riddle": "Ricos platos cocinaré, en la cocina mandaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1681,38 +1681,38 @@
             "puzzles": [
                 {
                     "word": "LLUVIA",
-                    "riddle": "Agua que cae del cielo hoy.",
-                    "riddle_hard": "Llanto de las nubes sobre la tierra.",
+                    "riddle": "Cae el agua sin parar, las plantas voy a mojar.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NIEVE",
-                    "riddle": "Polvo blanco y frio en el invierno.",
-                    "riddle_hard": "Agua congelada que cae suavemente.",
+                    "riddle": "Copo muy blanco seré, de frío te llenaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NUBE",
-                    "riddle": "Algodon blanco flotando en el cielo.",
-                    "riddle_hard": "Portadora de lluvia hecha de vapor.",
+                    "riddle": "Copo de algodón parezco, bajo el cielo crezco.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAYO",
-                    "riddle": "Linea de luz potente en la tormenta.",
-                    "riddle_hard": "Energia pura que baja del cielo ruidosa.",
+                    "riddle": "Luz muy fuerte brillaré, al suelo yo bajaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OCASO",
-                    "riddle": "Cuando el sol se va.",
-                    "riddle_hard": "Puente entre dia y noche.",
+                    "riddle": "Cuando el sol se va a dormir, la noche va a venir.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "FRIO",
-                    "riddle": "Temperatura muy baja en el hielo.",
-                    "riddle_hard": "Sensacion que te hace temblar en invierno.",
+                    "riddle": "Si me sientes temblarás, un abrigo buscarás.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1727,32 +1727,32 @@
             "puzzles": [
                 {
                     "word": "METRO",
-                    "riddle": "Tren bajo la tierra.",
-                    "riddle_hard": "Sistema de transito rapido de la ciudad.",
+                    "riddle": "Bajo tierra viajaré, mil paradas hoy haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIUDAD",
-                    "riddle": "Lugar con muchos edificios y gente.",
-                    "riddle_hard": "Poblacion grande llena de concreto y luces.",
+                    "riddle": "Muchos edificios doy, llena de luces yo estoy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SEÑAL",
-                    "riddle": "Muestra nombres de calles.",
-                    "riddle_hard": "Tablero con simbolos para guiar al viajero.",
+                    "riddle": "El camino te diré, las vueltas indicaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUENTE",
-                    "riddle": "Cruza el rio para llegar al otro lado.",
-                    "riddle_hard": "Camino de metal o piedra sobre el agua.",
+                    "riddle": "Sobre el río cruzarás, al otro lado llegarás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PARQUE",
-                    "riddle": "Espacio verde con arboles y columpios.",
-                    "riddle_hard": "Lugar para jugar en el pasto bajo el sol.",
+                    "riddle": "Muchos árboles tendré, con columpios jugaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1767,32 +1767,32 @@
             "puzzles": [
                 {
                     "word": "ANDAR",
-                    "riddle": "Moverse con tus propios pies despacio.",
-                    "riddle_hard": "Ir de un lado a otro sin usar ruedas.",
+                    "riddle": "Caminando lento voy, un paseo yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASO",
-                    "riddle": "Un solo movimiento del pie al caminar.",
-                    "riddle_hard": "Parte basica de una larga caminata.",
+                    "riddle": "Con mis pies avanzaré, una huella dejaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIAJE",
-                    "riddle": "Ir de un lugar a otro lejano.",
-                    "riddle_hard": "Aventura que requiere maletas y mapas.",
+                    "riddle": "Mis maletas llevaré, nuevos sitios visitaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALTO",
-                    "riddle": "Despegar los pies del suelo un momento.",
-                    "riddle_hard": "Brinco corto en el mismo lugar.",
+                    "riddle": "Hacia arriba volaré, con mis pies impulsaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORRER",
-                    "riddle": "Moverse muy rapido con las piernas.",
-                    "riddle_hard": "La forma mas veloz de ir a pie.",
+                    "riddle": "Muy veloz escaparé, en la meta llegaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1807,38 +1807,38 @@
             "puzzles": [
                 {
                     "word": "SER",
-                    "riddle": "Se describe como existir.",
-                    "riddle_hard": "Caracterizado por ser vivir.",
+                    "riddle": "Lleno de vida yo estoy, mi existencia siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOLA",
-                    "riddle": "Saludo comun.",
-                    "riddle_hard": "Lo dices al llegar.",
+                    "riddle": "Con mi mano salvaré, al llegar saludaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARTE",
-                    "riddle": "El famoso planeta rojo.",
-                    "riddle_hard": "Cuarto mundo desde el sol con nombre de guerra.",
+                    "riddle": "Planeta muy rojo soy, por el cielo girando voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASTRO",
-                    "riddle": "Cualquier cuerpo brillante en el cielo.",
-                    "riddle_hard": "Objeto celeste que ilumina el espacio.",
+                    "riddle": "Desde el cielo brillaré, en la noche luz seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIERRA",
-                    "riddle": "El planeta donde vivimos todos.",
-                    "riddle_hard": "La canica azul que orbita al sol.",
+                    "riddle": "Vives tú y vivo yo, es el mundo que Dios dio.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "JUNIO",
-                    "riddle": "Mes de vacaciones.",
-                    "riddle_hard": "Nombrado por la diosa Juno.",
+                    "riddle": "A mitad de año voy, buen calorcito yo doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1853,32 +1853,32 @@
             "puzzles": [
                 {
                     "word": "MASA",
-                    "riddle": "Cantidad de materia en un objeto.",
-                    "riddle_hard": "Cuerpo fisico denso y pesado.",
+                    "riddle": "Lleno de materia estoy, mucho cuerpo yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PESO",
-                    "riddle": "Lo que marca la balanza al subirte.",
-                    "riddle_hard": "La fuerza de gravedad tirando hacia abajo.",
+                    "riddle": "En la báscula estaré, tus medidas marcaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ONDA",
-                    "riddle": "Como se mueve la luz o el sonido.",
-                    "riddle_hard": "Vibracion que viaja por el aire.",
+                    "riddle": "Por el agua viajaré, mil vibraciones haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUERZA",
-                    "riddle": "Energia para mover cosas pesadas.",
-                    "riddle_hard": "Potencia fisica aplicada a un objeto.",
+                    "riddle": "Músculos muy fuertes doy, mucha potencia yo soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ATOMO",
-                    "riddle": "La parte mas pequeña de todo.",
-                    "riddle_hard": "Bloque invisible que forma la materia.",
+                    "riddle": "Muy pequeño siempre seré, todo el mundo formaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1893,32 +1893,32 @@
             "puzzles": [
                 {
                     "word": "SUAVE",
-                    "riddle": "Tacto liso y agradable como peluche.",
-                    "riddle_hard": "Textura delicada como piel de conejo.",
+                    "riddle": "Como algodón me verás, muy liso me sentirás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DURO",
-                    "riddle": "Dificil de romper o doblar.",
-                    "riddle_hard": "Material firme como una piedra.",
+                    "riddle": "Piedra muy fuerte seré, nunca me romperé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LISO",
-                    "riddle": "Sin arrugas ni baches en la superficie.",
-                    "riddle_hard": "Plano y resbaloso al tacto.",
+                    "riddle": "Sin ninguna arruga soy, superficie plana doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUGOSO",
-                    "riddle": "Superficie con montañitas y bultos.",
-                    "riddle_hard": "Textura desigual que raspa un poco.",
+                    "riddle": "Como piedra rasparé, muchos bultos tendré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "ASPERO",
-                    "riddle": "Rasposo al tacto y no refinado.",
-                    "riddle_hard": "Material grosero que irrita la piel.",
+                    "riddle": "Si me tocas sufriras, como lija me verás.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1933,32 +1933,32 @@
             "puzzles": [
                 {
                     "word": "LABOR",
-                    "riddle": "Un trabajo o tarea por hacer.",
-                    "riddle_hard": "Actividad fisica productiva y diaria.",
+                    "riddle": "Mucha tarea por hacer, gran trabajo voy a ser.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TALLER",
-                    "riddle": "Lugar donde se hace trabajo manual.",
-                    "riddle_hard": "Cuarto con herramientas para crear.",
+                    "riddle": "Mis herramientas usaré, lindas cosas crearé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OFICIO",
-                    "riddle": "Trabajo que requiere mucha habilidad.",
-                    "riddle_hard": "Profesion manual con gran tradicion.",
+                    "riddle": "Un trabajo manual seré, con mucha maña lo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COSER",
-                    "riddle": "Unir telas usando aguja e hilo.",
-                    "riddle_hard": "Reparar la ropa rota con paciencia.",
+                    "riddle": "Con hilo y aguja iré, tu ropa yo arreglaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PALA",
-                    "riddle": "Sirve para mover tierra o nieve.",
-                    "riddle_hard": "Herramienta curva para cavar hoyos.",
+                    "riddle": "Mucha tierra moveré, grandes hoyos cavaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -1973,32 +1973,32 @@
             "puzzles": [
                 {
                     "word": "VIDEO",
-                    "riddle": "Pelicula corta grabada con el movil.",
-                    "riddle_hard": "Sucesion de imagenes rapidas en pantalla.",
+                    "riddle": "Imágenes que grabaré, mil historias contaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CINE",
-                    "riddle": "Lugar para ver peliculas con palomitas.",
-                    "riddle_hard": "El septimo arte proyectado en la pared.",
+                    "riddle": "Gran pantalla luciré, mil historias proyectaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMEO",
-                    "riddle": "Aparicion sorpresa de un famoso segundos de gloria.",
-                    "riddle_hard": "Estrella que aparece y desaparece rapidito.",
+                    "riddle": "Poco tiempo apareceré, una sorpresa yo seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAMA",
-                    "riddle": "Cuando todo el mundo conoce tu nombre.",
-                    "riddle_hard": "Reconocimiento publico y popularidad.",
+                    "riddle": "Muchos fans yo tendré, por el mundo brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TEATRO",
-                    "riddle": "Edificio donde se actua en vivo.",
-                    "riddle_hard": "Escenario de madera con cortinas rojas.",
+                    "riddle": "Sobre tablas actuaré, aplausos hoy ganaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2013,32 +2013,32 @@
             "puzzles": [
                 {
                     "word": "COLOR",
-                    "riddle": "Rojo, azul o verde para pintar.",
-                    "riddle_hard": "Luz que rebota y crea el arcoiris.",
+                    "riddle": "Mucho brillo yo tendré, todo el mundo pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COLA",
-                    "riddle": "Una palabra como cola.",
-                    "riddle_hard": "Me derrito en las grietas y hago de dos uno.",
+                    "riddle": "Al final siempre estaré, mucho tiempo pegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AZUL",
-                    "riddle": "Color del cielo en un dia despejado.",
-                    "riddle_hard": "Tono del mar profundo y frio.",
+                    "riddle": "Como el cielo brillaré, en el mar me quedaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARINO",
-                    "riddle": "Color azul muy oscuro.",
-                    "riddle_hard": "Barcos que protegen el mar o su color profundo.",
+                    "riddle": "En el fondo viviré, barcos grandes cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIMA",
-                    "riddle": "Color verde brillante como la fruta acida.",
-                    "riddle_hard": "Tono vivido nombrado por un citrico.",
+                    "riddle": "Muy ácida siempre soy, color verde yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2053,32 +2053,32 @@
             "puzzles": [
                 {
                     "word": "PAZ",
-                    "riddle": "Cuando no hay guerras y todos son amigos.",
-                    "riddle_hard": "Estado de tranquilidad entre las naciones.",
+                    "riddle": "Mucha calma yo daré, las batallas pararé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPA",
-                    "riddle": "Lugar de burbujas lodo y descanso.",
-                    "riddle_hard": "Sitio para aliviar estres con masajes.",
+                    "riddle": "Mucha agua y relajación, para tu buen corazón.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REY",
-                    "riddle": "Lider con corona que vive en un castillo.",
-                    "riddle_hard": "Monarca que gobierna sobre un reino.",
+                    "riddle": "Lindo trono ocuparé, con mi cetro mandaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRONO",
-                    "riddle": "Silla de lujo del rey o la reina.",
-                    "riddle_hard": "Asiento real de poder absoluto.",
+                    "riddle": "Silla de oro luciré, con el rey descansaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORDEN",
-                    "riddle": "Instruccion fuerte que da un general.",
-                    "riddle_hard": "Mando directo para ser ejecutado rapido.",
+                    "riddle": "Con firmeza mandaré, que se cumpla pediré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2093,32 +2093,32 @@
             "puzzles": [
                 {
                     "word": "TROL",
-                    "riddle": "Un monstruo bajo el puente que vigila.",
-                    "riddle_hard": "Una bestia gruñona de las montañas que brilla.",
+                    "riddle": "Bajo el puente viviré, a la gente asustaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THOR",
-                    "riddle": "El dios nordico del trueno y su martillo.",
-                    "riddle_hard": "Deidad escandinava con fuerza y brillo.",
+                    "riddle": "Martillo de trueno soy, mucha fuerza siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIBRO",
-                    "riddle": "Hojas de papel juntas para leer.",
-                    "riddle_hard": "Puerta a mundos imaginarios escrita.",
+                    "riddle": "Muchas hojas tendré, mil historias contaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAGIA",
-                    "riddle": "Hacer cosas imposibles con trucos.",
-                    "riddle_hard": "Poder sobrenatural de magos y brujas.",
+                    "riddle": "Con mi vara brillaré, imposibles hoy haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RELATO",
-                    "riddle": "Contar una historia corta a alguien.",
-                    "riddle_hard": "Narracion de un suceso real o ficticio.",
+                    "riddle": "Por la noche contaré, tu atención hoy ganaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2133,32 +2133,32 @@
             "puzzles": [
                 {
                     "word": "OVEJA",
-                    "riddle": "Da lana blanca y dice bee.",
-                    "riddle_hard": "Animal manso que pasta en el campo.",
+                    "riddle": "Lana blanca te daré, por el campo saltaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CABRA",
-                    "riddle": "Animal con cuernos que salta en montañas.",
-                    "riddle_hard": "Pariente de la oveja que come de todo.",
+                    "riddle": "Por las rocas subiré, mucha leche te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "NINO",
-                    "riddle": "Humano pequeño que juega mucho.",
-                    "riddle_hard": "Persona en sus primeros años de vida.",
+                    "word": "NIÑO",
+                    "riddle": "Mucho tiempo jugaré, muchas cosas aprenderé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERDO",
-                    "riddle": "Animal rosa que ama el lodo.",
-                    "riddle_hard": "Vive en la granja y tiene cola en espiral.",
+                    "riddle": "Lleno de lodo estaré, en la granja viviré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GALLO",
-                    "riddle": "Despierta a todos por la mañana.",
-                    "riddle_hard": "El rey del gallinero con plumas rojas.",
+                    "riddle": "Por la mañana cantaré, a todo el mundo despertaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2173,32 +2173,32 @@
             "puzzles": [
                 {
                     "word": "PERA",
-                    "riddle": "Fruta verde con forma de campana.",
-                    "riddle_hard": "Dulce fruta de arbol con piel suave.",
+                    "riddle": "Muy jugosa siempre soy, forma de agua yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAIZ",
-                    "riddle": "Granos amarillos para hacer palomitas.",
-                    "riddle_hard": "Planta alta con mazorcas doradas.",
+                    "riddle": "Granos de oro tendré, ricas tortas hoy haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARROZ",
-                    "riddle": "Granos blancos que crecen en agua.",
-                    "riddle_hard": "Alimento basico pequeño y muy tipico.",
+                    "riddle": "Muchos granos blancos soy, rico plato yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIMON",
-                    "riddle": "Fruta amarilla redonda y muy agria.",
-                    "riddle_hard": "Su jugo es acido y cura la sed.",
+                    "riddle": "Cáscara amarilla tendré, muy amargo hoy seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "UVA",
-                    "riddle": "Pequeña fruta redonda y dulce para el vino.",
-                    "riddle_hard": "Cresco en racimos en la parra verde.",
+                    "riddle": "En racimos creceré, dulce vino yo seré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2213,32 +2213,32 @@
             "puzzles": [
                 {
                     "word": "BAHIA",
-                    "riddle": "Entrada de mar rodeada de tierra.",
-                    "riddle_hard": "Lugar de agua tranquila para barcos.",
+                    "riddle": "Junto al mar me quedaré, barcos hoy recibiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMPO",
-                    "riddle": "Lugar verde con pasto y animales.",
-                    "riddle_hard": "Tierra abierta lejos de la ciudad.",
+                    "riddle": "Mucho pasto verde soy, mucha vida siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUENTE",
-                    "riddle": "Donde sale el agua en una plaza.",
-                    "riddle_hard": "Manantial natural o decorativo urbano.",
+                    "riddle": "Mucho agua brotaré, en la plaza brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POLO",
-                    "riddle": "El extremo norte o sur del mundo.",
-                    "riddle_hard": "Region de hielo eterno en el mapa.",
+                    "riddle": "Mucho hielo yo tendré, el camino marcaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUNDO",
-                    "riddle": "Todo el planeta en el que vivimos.",
-                    "riddle_hard": "El globo azul navegando por el espacio.",
+                    "riddle": "Giro y giro sin parar, todos me van a habitar.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2253,32 +2253,32 @@
             "puzzles": [
                 {
                     "word": "FECHA",
-                    "riddle": "El dia y mes en el calendario.",
-                    "riddle_hard": "Marca especifica en el flujo del tiempo.",
+                    "riddle": "En el calendario estaré, tus momentos marcaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HORA",
-                    "riddle": "Sesenta minutos en tu reloj.",
-                    "riddle_hard": "Division diaria del tiempo que corre.",
+                    "riddle": "Sesenta minutos daré, tu jornada mediré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MES",
-                    "riddle": "Treinta dias como Mayo o Junio.",
-                    "riddle_hard": "Una doceava parte de un año completo.",
+                    "riddle": "Treinta días yo tendré, el tiempo hoy pasaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENERO",
-                    "riddle": "El primer mes del nuevo año.",
-                    "riddle_hard": "Puerta de entrada al calendario invernal.",
+                    "riddle": "El primer mes hoy seré, el nuevo año iniciaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIN",
-                    "riddle": "Cuando algo se acaba y termina.",
-                    "riddle_hard": "El ultimo paso de cualquier jornada.",
+                    "riddle": "Al final esperaré, todo lo terminaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2293,26 +2293,26 @@
             "puzzles": [
                 {
                     "word": "ABRIL",
-                    "riddle": "Mes de las lluvias tras el invierno.",
-                    "riddle_hard": "Tiempo de flores y de aguaceros mil.",
+                    "riddle": "Mucha lluvia yo daré, muchas flores traeré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAYO",
-                    "riddle": "Quinto mes del año con sol.",
-                    "riddle_hard": "Mes de las madres y de la primavera.",
+                    "riddle": "Quinto mes del año soy, hermosas flores yo doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OTOÑO",
-                    "riddle": "Cuando las hojas caen de los arboles.",
-                    "riddle_hard": "Estacion de colores cafe y vientos frescos.",
+                    "riddle": "Muchas hojas tiraré, de colores pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIENTO",
-                    "riddle": "Aire que se mueve y empuja todo.",
-                    "riddle_hard": "Gigante invisible que aulla en la noche.",
+                    "riddle": "Invisible siempre soy, mucha fuerza siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2327,26 +2327,26 @@
             "puzzles": [
                 {
                     "word": "PIEL",
-                    "riddle": "Capa externa que cubre tu cuerpo.",
-                    "riddle_hard": "El organo mas grande que tienes fuera.",
+                    "riddle": "Todo el cuerpo cubriré, tus sentidos cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PORO",
-                    "riddle": "Agujerito muy pequeño en tu piel.",
-                    "riddle_hard": "Abertura diminuta por donde sale sudor.",
+                    "riddle": "Muy pequeño siempre soy, por la piel saliendo voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PESTAÑA",
-                    "riddle": "Pelos en el borde de tus ojos.",
-                    "riddle_hard": "Cortina de pelos que protege tu mirada.",
+                    "riddle": "Tus ojitos cuidaré, cada vez que parpadeé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUELLO",
-                    "riddle": "Parte que sostiene tu cabeza alta.",
-                    "riddle_hard": "Conexion entre el tronco y el rostro.",
+                    "riddle": "Tu cabeza sostendré, con el tronco uniré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2361,26 +2361,26 @@
             "puzzles": [
                 {
                     "word": "TORO",
-                    "riddle": "El esposo de la vaca.",
-                    "riddle_hard": "Tiene cuernos y bufa cuando se enoja.",
+                    "riddle": "Con mis cuernos lucharé, mucha fuerza mostraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARPA",
-                    "riddle": "Pez grande de rio y lago.",
-                    "riddle_hard": "Pez resistente con bigotes.",
+                    "riddle": "En el agua viviré, grandes saltos yo daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YAK",
-                    "riddle": "Buey peludo del Himalaya.",
-                    "riddle_hard": "Bestia de carga que vive en altas montañas.",
+                    "riddle": "En el frío viviré, mucha carga llevaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KOI",
-                    "riddle": "Pez de colores en estanques japoneses.",
-                    "riddle_hard": "Carpa decorativa simbolo de buena fortuna.",
+                    "riddle": "De colores brillaré, en el agua nadaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2395,32 +2395,32 @@
             "puzzles": [
                 {
                     "word": "AGUJA",
-                    "riddle": "Torre alta y puntiaguda.",
-                    "riddle_hard": "Estructura afilada sobre iglesia o rascacielos.",
+                    "riddle": "Muy delgada siempre soy, grandes puntos yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOTEL",
-                    "riddle": "Donde duermen los viajeros.",
-                    "riddle_hard": "Edificio con camas y comida para huespedes.",
+                    "riddle": "Muchas camas tendré, al viajero hospedaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUERTO",
-                    "riddle": "Donde los barcos cargan cosas.",
-                    "riddle_hard": "Lugar costero de comercio y naves marinas.",
+                    "riddle": "Muchos barcos hoy veré, en el mar me quedaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BARRIO",
-                    "riddle": "Una parte de la ciudad donde vives.",
-                    "riddle_hard": "Vecindario con gente y comercios.",
+                    "riddle": "Muchas casas tengo hoy, un vecindario lindo soy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARRIL",
-                    "riddle": "Camino estrecho para un auto.",
-                    "riddle_hard": "Division pintada en la via para el trafico.",
+                    "riddle": "El camino marcaré, tu carrera guiaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2435,38 +2435,38 @@
             "puzzles": [
                 {
                     "word": "VOCAL",
-                    "riddle": "Usar la voz o una letra (A E I O U).",
-                    "riddle_hard": "Hablado o cantado sonido de la garganta.",
+                    "riddle": "En las letras me veras, y mi nombre sentiras.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIO",
-                    "riddle": "Caja que toca musica y noticias.",
-                    "riddle_hard": "Ondas invisibles que se vuelven sonido.",
+                    "riddle": "Ondas invisibles soy, mucha música te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RITMO",
-                    "riddle": "Velocidad musical de una cancion.",
-                    "riddle_hard": "Compas que te hace bailar el pie.",
+                    "riddle": "Con los pies me seguirás, y feliz hoy bailarás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AUDIO",
-                    "riddle": "Sonido escuchado por los oidos.",
-                    "riddle_hard": "Lo que captas con el auricular.",
+                    "riddle": "Por tus oídos iré, mil sonidos llevaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSICA",
-                    "riddle": "Sonidos y canciones que te gustan.",
-                    "riddle_hard": "Arte de combinar notas en el tiempo.",
+                    "riddle": "Con notas te alegraré, mil canciones hoy haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANTAR",
-                    "riddle": "Hacer musica con la boca.",
-                    "riddle_hard": "Usar tus cuerdas vocales para dar un show.",
+                    "riddle": "Con mi voz entonaré, una copla hoy haré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2481,38 +2481,38 @@
             "puzzles": [
                 {
                     "word": "CAJA",
-                    "riddle": "Contenedor de carton para guardar.",
-                    "riddle_hard": "Cubo de papel o deporte de puños.",
+                    "riddle": "Soy cuadrada y de cartón, guardo todo en un montón.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOGA",
-                    "riddle": "Cuerda gruesa.",
-                    "riddle_hard": "Material torcido usado para atar o escalar.",
+                    "riddle": "Nudos fuertes yo tendré, muchas cosas amarré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RELOJ",
-                    "riddle": "Aparato que te dice la hora.",
-                    "riddle_hard": "Tiene manecillas que giran siempre.",
+                    "riddle": "El tiempo te diré, sin descanso marcharé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSGO",
-                    "riddle": "Planta verde suave sobre la roca.",
-                    "riddle_hard": "Alfombra humeda del suelo del bosque.",
+                    "riddle": "Como alfombra verde soy, mucha sombra yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MENTA",
-                    "riddle": "Fresca y verde.",
-                    "riddle_hard": "Hierba aromatica o sabor de chicle.",
+                    "riddle": "Mucho frescor hoy tendré, en tu dulce estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MESA",
-                    "riddle": "Mueble con patas para comer.",
-                    "riddle_hard": "Superficie plana en el comedor.",
+                    "riddle": "Cuatro patas yo tendré, tu comida sostendré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2527,38 +2527,38 @@
             "puzzles": [
                 {
                     "word": "MIRA",
-                    "riddle": "Observa esto.",
-                    "riddle_hard": "Ver con los ojos.",
+                    "riddle": "Tus ojitos usarás, fijamente me verás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POR",
-                    "riddle": "Se describe como cerca de.",
-                    "riddle_hard": "Caracterizado por ser al lado de.",
+                    "riddle": "Por el camino iré, a tu lado estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JULIO",
-                    "riddle": "Mes de verano.",
-                    "riddle_hard": "Nombrado por Julio Cesar.",
+                    "riddle": "Con el sol yo llegaré, el verano traeré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VACIO",
-                    "riddle": "Espacio hueco.",
-                    "riddle_hard": "Nada en su interior.",
+                    "riddle": "Dentro nada yo tendré, sin relleno quedaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIELO",
-                    "riddle": "Azul y enorme sobre tu cabeza.",
-                    "riddle_hard": "Espacio infinito donde flotan nubes.",
+                    "riddle": "Mucha altura yo tendré, sobre todos estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMETA",
-                    "riddle": "Bola de hielo con cola de luz.",
-                    "riddle_hard": "Viajero del espacio que brilla fugaz.",
+                    "riddle": "Con mi cola brillaré, por el cielo volaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2573,44 +2573,44 @@
             "puzzles": [
                 {
                     "word": "JARRA",
-                    "riddle": "Recipiente para servir agua o jugo.",
-                    "riddle_hard": "Contenedor con asa y pico vertedor.",
+                    "riddle": "Mucha agua serviré, con mi asa te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLAVO",
-                    "riddle": "Se golpea con martillo en la madera.",
-                    "riddle_hard": "Pieza de metal con cabeza plana.",
+                    "riddle": "Con martillo llegaré, la madera uniré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BOLSA",
-                    "riddle": "Sirve para cargar cosas de la tienda.",
-                    "riddle_hard": "Saco de plastico o papel para compras.",
+                    "riddle": "Muchas cosas cargaré, en la tienda estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BALDE",
-                    "riddle": "Cubo con asa para mover agua.",
-                    "riddle_hard": "Recipiente profundo para limpieza.",
+                    "riddle": "Lleno de agua estaré, el jardín regaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CESTA",
-                    "riddle": "Canasta tejida para llevar frutas.",
-                    "riddle_hard": "Recipiente de mimbre o junco.",
+                    "riddle": "En el mimbre guardaré, ricas frutas llevaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FRASCO",
-                    "riddle": "Bote de vidrio para la mermelada.",
-                    "riddle_hard": "Recipiente pequeño con tapa de rosca.",
+                    "riddle": "De cristal transparente soy, mi mermelada te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PICO",
-                    "riddle": "Rompo piedras duras.",
-                    "riddle_hard": "Herramienta pesada que muerde la tierra y la roca buscando tesoros.",
+                    "riddle": "En la mina estaré, la roca romperé.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2625,44 +2625,44 @@
             "puzzles": [
                 {
                     "word": "ARPA",
-                    "riddle": "Triángulo grande con cuerdas.",
-                    "riddle_hard": "Instrumento angelical antiguo.",
+                    "riddle": "Muchas cuerdas tocaré, dulce música seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOCENTE",
-                    "riddle": "Persona que enseña en la escuela.",
-                    "riddle_hard": "Profesional que educa a los niños.",
+                    "riddle": "En la escuela estaré, la lección enseñaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAJERO",
-                    "riddle": "Quien cobra el dinero en la tienda.",
-                    "riddle_hard": "Empleado que maneja la caja registradora.",
+                    "riddle": "El dinero cobraré, tu cambio te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AGENTE",
-                    "riddle": "Actua en nombre de otro.",
-                    "riddle_hard": "Representante de un artista o un espia.",
+                    "riddle": "Al culpable buscaré, justicia yo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINTOR",
-                    "riddle": "Artista que crea cuadros con pincel.",
-                    "riddle_hard": "Persona que usa colores sobre lienzo.",
+                    "riddle": "Con pincel trabajaré, lindos cuadros haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PILOTO",
-                    "riddle": "Persona que vuela aviones por el cielo.",
-                    "riddle_hard": "Conductor profesional de aeronaves.",
+                    "riddle": "Por el aire volaré, el avión guiaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NANA",
-                    "riddle": "Canción para dormir bebé.",
-                    "riddle_hard": "Melodía suave de cuna.",
+                    "riddle": "Para el niño cantaré, y así lo dormiré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2677,50 +2677,50 @@
             "puzzles": [
                 {
                     "word": "ADIVINA",
-                    "riddle": "Persona que lee el futuro en una bola.",
-                    "riddle_hard": "Mujer que predice lo que va a pasar.",
+                    "riddle": "Tu futuro miraré, la verdad te diré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEMONIO",
-                    "riddle": "Un ser sobrenatural malvado de las sombras.",
-                    "riddle_hard": "Espiritu poderoso de los mitos y sus alfombras.",
+                    "riddle": "Del abismo hoy saldré, a las sombras volveré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUENTO",
-                    "riddle": "Relato corto con inicio y final feliz.",
-                    "riddle_hard": "Narracion breve para leersela a niños.",
+                    "riddle": "Muy cortito siempre soy, aventuras te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VARITA",
-                    "riddle": "La herramienta de madera de un mago poderoso.",
-                    "riddle_hard": "Palo delgado para dirigir lo magico y hermoso.",
+                    "riddle": "Hecha de madera soy, mucha magia te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALIAS",
-                    "riddle": "Un nombre falso y secreto para esconder.",
-                    "riddle_hard": "Identidad falsa que usa un personaje al hacer.",
+                    "riddle": "Otro nombre luciré, mi secreto guardaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DESEO",
-                    "riddle": "Lo que concede un genio con su lampara.",
-                    "riddle_hard": "Expresar un anhelo fuerte que te ampara.",
+                    "riddle": "Si me pides cumpliré, lo que quieras daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZEUS",
-                    "riddle": "El rey de los dioses griegos del Olimpo alto.",
-                    "riddle_hard": "El gobernante del Olimpo con rayo y salto.",
+                    "riddle": "Con el rayo mandaré, en el cielo estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TABU",
-                    "riddle": "Algo de lo que nadie se atreve a hablar.",
-                    "riddle_hard": "Prohibicion social de mencionar algo.",
+                    "riddle": "Prohibido siempre soy, ningún nombre te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2735,26 +2735,26 @@
             "puzzles": [
                 {
                     "word": "DECIR",
-                    "riddle": "Pronunciar palabras con la boca.",
-                    "riddle_hard": "Liberar un pensamiento usando la voz.",
+                    "riddle": "Con la boca hablaré, la verdad te diré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VOZ",
-                    "riddle": "Sonido que haces al hablar o cantar.",
-                    "riddle_hard": "Huella sonora que sale de tu garganta.",
+                    "riddle": "Muy fuerte sonaré, por el aire iré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CITA",
-                    "riddle": "Repetir lo que dijo otra persona.",
-                    "riddle_hard": "Palabras prestadas entre comillas.",
+                    "riddle": "A una hora quedaré, con mi amigo estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROCK",
-                    "riddle": "Música dura con guitarras.",
-                    "riddle_hard": "Estilo musical con batería y ritmo fuerte.",
+                    "riddle": "Con guitarras sonaré, mucho ritmo tendré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2769,32 +2769,32 @@
             "puzzles": [
                 {
                     "word": "RICO",
-                    "riddle": "Persona con muchisimo dinero y oro.",
-                    "riddle_hard": "Alguien que se baña en monedas.",
+                    "riddle": "Mucho oro yo tendré, con fortuna viviré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POBRE",
-                    "riddle": "Persona con los bolsillos vacios.",
-                    "riddle_hard": "Alguien que no tiene ni un centavo.",
+                    "riddle": "Sin dinero viviré, nada en mano tendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JOYA",
-                    "riddle": "Piedra brillante y muy cara de un collar.",
-                    "riddle_hard": "Tesoro pequeño en un anillo de oro.",
+                    "riddle": "Mucho brillo yo tendré, en el oro brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUSTO",
-                    "riddle": "Que sigue las reglas bien.",
-                    "riddle_hard": "Ni mucho ni poco. Caracterizado por ser lo correcto.",
+                    "riddle": "La verdad defenderé, lo correcto yo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRECIO",
-                    "riddle": "Cantidad de dinero que vale algo.",
-                    "riddle_hard": "Monto final a pagar en la caja.",
+                    "riddle": "Mucho dinero valdré, en la tienda estaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2809,38 +2809,38 @@
             "puzzles": [
                 {
                     "word": "CORCHO",
-                    "riddle": "Ligero y flotante.",
-                    "riddle_hard": "Tapon de corteza para botellas de vino.",
+                    "riddle": "En el agua flotaré, la botella cerraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARENA",
-                    "riddle": "Piedra molida muy fina de la playa.",
-                    "riddle_hard": "Suelo del desierto que se vuela.",
+                    "riddle": "En la playa estaré, tus castillos haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLIP",
-                    "riddle": "Sujeta papeles juntos.",
-                    "riddle_hard": "Pequeño alambre doblado de oficina.",
+                    "riddle": "Los papeles uniré, de metal hoy seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BARRO",
-                    "riddle": "Tierra mojada para hacer macetas.",
-                    "riddle_hard": "Lodo que se hornea para ser ladrillo.",
+                    "riddle": "Con el agua me haré, mil vasijas seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POLVO",
-                    "riddle": "Tierra sucia que se junta en muebles.",
-                    "riddle_hard": "Particulas finas que delatan el tiempo.",
+                    "riddle": "Muy liviano siempre soy, con el viento volando voy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HUMO",
-                    "riddle": "Nube gris que sale de una fogata.",
-                    "riddle_hard": "Particulas que flotan tras el fuego.",
+                    "riddle": "Gris y negro volaré, del incendio saldré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2855,38 +2855,38 @@
             "puzzles": [
                 {
                     "word": "CABLE",
-                    "riddle": "Hilo de metal para llevar electricidad.",
-                    "riddle_hard": "Conductor protegido para datos.",
+                    "riddle": "Mucha luz yo llevaré, al equipo uniré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JAULA",
-                    "riddle": "Barras que encierran.",
-                    "riddle_hard": "Estructura de alambre para guardar animales.",
+                    "riddle": "De metal siempre soy, ningún paso yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADAR",
-                    "riddle": "Aparato que encuentra aviones lejos.",
-                    "riddle_hard": "Ojo electronico que ve en la niebla.",
+                    "riddle": "En el cielo buscaré, lo lejano encontraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RED",
-                    "riddle": "Sistema de ordenadores conectados.",
-                    "riddle_hard": "Telaraña digital de internet global.",
+                    "riddle": "Muchos nudos tendré, en el mar pescaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MOVIL",
-                    "riddle": "Telefono que llevas en el bolsillo.",
-                    "riddle_hard": "Dispositivo para hablar sin cables.",
+                    "riddle": "En tu mano estaré, a tus amigos llamaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAREA",
-                    "riddle": "Agua del oceano que sube.",
-                    "riddle_hard": "Movimiento diario del mar por la luna.",
+                    "riddle": "Con la luna subiré, en la playa estaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2901,44 +2901,44 @@
             "puzzles": [
                 {
                     "word": "VISTA",
-                    "riddle": "Sentido de los ojos para mirar.",
-                    "riddle_hard": "Habilidad de percibir luz y formas.",
+                    "riddle": "Con mis ojos miraré, todo el mundo veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GUSTO",
-                    "riddle": "Sentido de la lengua para los sabores.",
-                    "riddle_hard": "Disfrutar el azucar de una manzana.",
+                    "riddle": "En la lengua estaré, los sabores probaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TACTO",
-                    "riddle": "Sentido de la piel para sentir suavidad.",
-                    "riddle_hard": "Conocer un objeto usando las manos.",
+                    "riddle": "Con mis manos sentiré, lo que toco cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OLOR",
-                    "riddle": "Aroma que detectas con la nariz.",
-                    "riddle_hard": "Fragancia de las flores en el aire.",
+                    "riddle": "Por el aire volaré, a tu nariz llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OIDO",
-                    "riddle": "Sentido de los orejas para el audio.",
-                    "riddle_hard": "Capacidad de percibir los sonidos.",
+                    "riddle": "Por la oreja entraré, los sonidos escucharé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRUMA",
-                    "riddle": "Niebla ligera en un dia de calor.",
-                    "riddle_hard": "Velo atmosferico que nubla el horizonte.",
+                    "riddle": "En el mar apareceré, el camino ocultaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACRE",
-                    "riddle": "Olor fuerte y picante.",
-                    "riddle_hard": "Un olor potente que pica la nariz.",
+                    "riddle": "Muy amargo siempre soy, fuerte aroma yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2953,44 +2953,44 @@
             "puzzles": [
                 {
                     "word": "HACHA",
-                    "riddle": "Corta troncos pesados en el bosque.",
-                    "riddle_hard": "Herramienta afilada con mango largo.",
+                    "riddle": "Mucha madera cortaré, con mi filo brillaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BROMA",
-                    "riddle": "Algo gracioso para reir.",
-                    "riddle_hard": "Historia corta y comica truco divertido.",
+                    "riddle": "Mucha risa yo daré, a mis amigos engañaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAILE",
-                    "riddle": "Mover el cuerpo con ritmo y musica.",
-                    "riddle_hard": "Danza coordinada de pies y manos.",
+                    "riddle": "A tu cuerpo moveré, mucha fiesta hoy daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JAZZ",
-                    "riddle": "Musica con trompetas e improvisacion.",
-                    "riddle_hard": "Ritmo de New Orleans con swing.",
+                    "riddle": "Con trompetas sonaré, mucho ritmo tendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JEEP",
-                    "riddle": "Coche muy fuerte para el lodo.",
-                    "riddle_hard": "Vehiculo todoterreno militar.",
+                    "riddle": "Por el campo iré, mucha fuerza mostraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ONIX",
-                    "riddle": "Piedra negra y brillante de joyeria.",
-                    "riddle_hard": "Mineral oscuro de color profundo.",
+                    "riddle": "Muy oscuro siempre soy, lindo brillo yo te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAXI",
-                    "riddle": "Coche de alquiler que cobra por viaje.",
-                    "riddle_hard": "Vehiculo urbano para pasajeros.",
+                    "riddle": "Por la calle buscaré, al pasajero llevaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3005,50 +3005,50 @@
             "puzzles": [
                 {
                     "word": "MODA",
-                    "riddle": "El numero mas frecuente.",
-                    "riddle_hard": "Valor que mas se siente.",
+                    "riddle": "Ropa linda luciré, la tendencia marcaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RESTA",
-                    "riddle": "Quitar una cantidad de otra menor.",
-                    "riddle_hard": "Hallar la diferencia entre dos cifras.",
+                    "riddle": "Números quitaré, el total bajaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LADO",
-                    "riddle": "Segmento de linea de un poligono.",
-                    "riddle_hard": "Cada borde recto de un cuadrado.",
+                    "riddle": "A tu lado estaré, el camino seguiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AREA",
-                    "riddle": "Superficie que ocupa una figura plana.",
-                    "riddle_hard": "Medida del espacio dentro de bordes.",
+                    "riddle": "Dentro de mi estarás, mi espacio sentirás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BASE",
-                    "riddle": "La parte de abajo que sostiene todo.",
-                    "riddle_hard": "Lado inferior donde se apoya un cuerpo.",
+                    "riddle": "Debajo siempre estaré, todo el peso sostendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EJE",
-                    "riddle": "Linea central sobre la que algo gira.",
-                    "riddle_hard": "Barra fija de rotacion de una rueda.",
+                    "riddle": "Sobre mi girará, la rueda no parará.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARA",
-                    "riddle": "Superficie plana de un cubo o piramide.",
-                    "riddle_hard": "Cada lado visible de un solido.",
+                    "riddle": "Toda frente mostraré, mi sonrisa te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUNTO",
-                    "riddle": "Marca muy pequeña sin dimensiones.",
-                    "riddle_hard": "Donde se cruzan dos lineas rectas.",
+                    "riddle": "Al final esperaré, la oración cerraré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3063,50 +3063,50 @@
             "puzzles": [
                 {
                     "word": "TIGRE",
-                    "riddle": "Gato gigante con rayas negras y naranjas.",
-                    "riddle_hard": "Feroz felino de la selva asiatica.",
+                    "riddle": "Muchas rayas heredaré, en la selva reinaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CEBRA",
-                    "riddle": "Caballo salvaje con rayas blancas y negras.",
-                    "riddle_hard": "Animal africano de Patron rayado.",
+                    "riddle": "Pijama a rayas tendré, por el campo correré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEON",
-                    "riddle": "El rey de la selva con melena larga.",
-                    "riddle_hard": "Gran felino que ruge muy fuerte.",
+                    "riddle": "Gran melena luciré, en la selva mandaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RIO",
-                    "riddle": "Camino de agua dulce.",
-                    "riddle_hard": "Corriente natural que desemboca en el mar.",
+                    "riddle": "Mucha agua llevaré, al mar llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MONO",
-                    "riddle": "Animal que trepa arboles y come bananas.",
-                    "riddle_hard": "Primate muy habil de la selva.",
+                    "riddle": "Por las ramas saltaré, mil bananas comeré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DODO",
-                    "riddle": "Ave extinta que no volaba.",
-                    "riddle_hard": "Pajaro bobo que desaparecio de Mauricio.",
+                    "riddle": "Al pasado yo me iré, extinguido quedaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POTRO",
-                    "riddle": "Caballo joven macho.",
-                    "riddle_hard": "Un adolescente equino lleno de energia.",
+                    "riddle": "Por el campo correré, joven pingo hoy seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUMA",
-                    "riddle": "Gato de montaña grande y color cafe.",
-                    "riddle_hard": "Felino solitario de los Andes.",
+                    "riddle": "Por el monte saltaré, a la presa buscaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3121,50 +3121,50 @@
             "puzzles": [
                 {
                     "word": "TEXTO",
-                    "riddle": "Mensaje escrito enviado por el celular.",
-                    "riddle_hard": "Palabras sin voz enviadas por cable.",
+                    "riddle": "Muchas letras enviaré, mi mensaje llegará.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORREO",
-                    "riddle": "Cartas enviadas dentro de un buzon.",
-                    "riddle_hard": "Mensajes que viajan por el mundo.",
+                    "riddle": "En el sobre viajaré, a tu casa llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHISME",
-                    "riddle": "Hablar de la vida de los vecinos.",
-                    "riddle_hard": "Rumor que corre rapido entre gente.",
+                    "riddle": "Por el barrio correré, mil secretos contaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEBATE",
-                    "riddle": "Discusion ordenada para dar opiniones.",
-                    "riddle_hard": "Intercambio formal de argumentos.",
+                    "riddle": "Con palabras lucharé, mi razón defenderé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIALOGO",
-                    "riddle": "Conversacion entre dos o mas personas.",
-                    "riddle_hard": "Intercambio de frases para entenderse.",
+                    "riddle": "Con amigos hablaré, muchas cosas contaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEMA",
-                    "riddle": "Frase pegajosa de una marca o grupo.",
-                    "riddle_hard": "Grito de guerra o eslogan corto.",
+                    "riddle": "Mi bandera seguiré, con orgullo gritaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLOG",
-                    "riddle": "Diario personal escrito en internet.",
-                    "riddle_hard": "Pagina web con entradas cronologicas.",
+                    "riddle": "Mis ideas escribiré, en la red las dejaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAX",
-                    "riddle": "Enviar copias de papel por telefono.",
-                    "riddle_hard": "Maquina vieja que escupe mensajes.",
+                    "riddle": "Por el cable pasaré, mi copia te dejaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3179,50 +3179,50 @@
             "puzzles": [
                 {
                     "word": "ELITE",
-                    "riddle": "El mejor grupo y mas exclusivo de todos.",
-                    "riddle_hard": "La clase superior de una sociedad.",
+                    "riddle": "Al principio estaré, el mejor hoy seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOBLE",
-                    "riddle": "Persona de sangre azul y gran corazon.",
-                    "riddle_hard": "Alguien con titulo de gran estatus.",
+                    "riddle": "Gran linaje heredaré, con bondad gobernaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REINA",
-                    "riddle": "Mujer poderosa que usa corona de oro.",
-                    "riddle_hard": "Monarca femenina del castillo real.",
+                    "riddle": "Lindo trono ocuparé, con mi cetro mandaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIL",
-                    "riddle": "Moralmente muy malo.",
-                    "riddle_hard": "Despreciable y sin honor.",
+                    "riddle": "Mucha maldad tendré, el camino perderé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DUQUE",
-                    "riddle": "Un noble de muy alto rango heradado.",
-                    "riddle_hard": "Titulo justo debajo del principe.",
+                    "riddle": "Gran castillo tendré, al rey serviré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CONDE",
-                    "riddle": "Titulo noble de vampiros muy famosos.",
-                    "riddle_hard": "Rango de nobleza antiguo en Europa.",
+                    "riddle": "Lindo título tendré, en la corte estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZAR",
-                    "riddle": "Emperador de la Rusia muy antigua.",
-                    "riddle_hard": "Lider supremo de gran poder absoluto.",
+                    "riddle": "En palacio viviré, mucha nieve pisaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAJA",
-                    "riddle": "Perder valor o dinero.",
-                    "riddle_hard": "Cuando la grafica cae es una perdida.",
+                    "riddle": "Del camino bajaré, al final llegaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3237,56 +3237,56 @@
             "puzzles": [
                 {
                     "word": "COMPRA",
-                    "riddle": "Adquirir un objeto en la tienda.",
-                    "riddle_hard": "Gastar dinero para que algo sea tuyo.",
+                    "riddle": "En la tienda pagaré, muchas cosas llevaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VENTA",
-                    "riddle": "Dar algo a cambio de dinero.",
-                    "riddle_hard": "Intercambio comercial en el mercado.",
+                    "riddle": "Mi tesoro cambiaré, por dinero lo daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOTAL",
-                    "riddle": "La suma completa sin que falte nada.",
-                    "riddle_hard": "El monto final de la factura.",
+                    "riddle": "La suma completa soy, el resultado hoy doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MONEDA",
-                    "riddle": "Pequeño disco de metal que es dinero.",
-                    "riddle_hard": "Pieza redonda para pagar servicios.",
+                    "riddle": "De metal brillante soy, mucha suerte siempre doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHEQUE",
-                    "riddle": "Papel firmado que vale por dinero.",
-                    "riddle_hard": "Orden escrita de pago al portador.",
+                    "riddle": "Papel firmado daré, mucha plata pagaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BONO",
-                    "riddle": "Dinero extra por un muy buen trabajo.",
-                    "riddle_hard": "Premio en efectivo al final del año.",
+                    "riddle": "Extra plata ganaré, mi trabajo premiaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SELLO",
-                    "riddle": "Marca de metal para cerrar documentos.",
-                    "riddle_hard": "Garantia de autenticidad en papel.",
+                    "riddle": "En el sobre estaré, la carta cerraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEUDA",
-                    "riddle": "Dinero que pediste y debes devolver.",
-                    "riddle_hard": "Agujero en el bolsillo por prestamo.",
+                    "riddle": "Lo prestado devolveré, mucha plata pagaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUCRO",
-                    "riddle": "Ganancia de dinero de una empresa.",
-                    "riddle_hard": "Beneficio economico final obtenido.",
+                    "riddle": "Gran ganancia obtendré, mucha plata ganaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3301,20 +3301,20 @@
             "puzzles": [
                 {
                     "word": "PASAJERO",
-                    "riddle": "Persona que viaja dentro del avion.",
-                    "riddle_hard": "Huesped que ocupa un asiento hoy.",
+                    "riddle": "En el tren viajaré, el paisaje miraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EQUIPO",
-                    "riddle": "Muchos trabajando por una misma meta.",
-                    "riddle_hard": "Grupo unido para ganar el torneo.",
+                    "riddle": "A su lado lucharé, la victoria ganaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALIDA",
-                    "riddle": "Puerta por donde dejas el edificio.",
-                    "riddle_hard": "Letrero que marca el fin del camino.",
+                    "riddle": "Al final esperaré, el camino cerraré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3329,38 +3329,38 @@
             "puzzles": [
                 {
                     "word": "SALUD",
-                    "riddle": "Fuerte y con buena salud.",
-                    "riddle_hard": "Cuerpo listo y en forma perfecto para la accion.",
+                    "riddle": "Muy fuerte estaré, mi cuerpo cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIDA",
-                    "riddle": "El estado de estar vivo; no muerto.",
-                    "riddle_hard": "Desde que naces hasta el final de tus dias.",
+                    "riddle": "Desde que naceré, hasta que moriré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALMA",
-                    "riddle": "El espiritu dentro de la persona.",
-                    "riddle_hard": "La chispa eterna dentro del cuerpo.",
+                    "riddle": "Dentro de mi estaré, el cuerpo animaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUENO",
-                    "riddle": "Algo que es positivo y correcto.",
-                    "riddle_hard": "Lo opuesto a lo malo y dañino.",
+                    "riddle": "El bien yo buscaré, lo correcto haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PURO",
-                    "riddle": "Sin mezcla de nada mas.",
-                    "riddle_hard": "Limpio y claro inocente y real.",
+                    "riddle": "Sin mancha estaré, muy blanco seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZEN",
-                    "riddle": "Estado de paz y calma.",
-                    "riddle_hard": "Enfoque meditativo que viene de Oriente.",
+                    "riddle": "Mucha paz tendré, en calma estaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3375,38 +3375,38 @@
             "puzzles": [
                 {
                     "word": "BOCETO",
-                    "riddle": "Dibujo rapido antes de pintar.",
-                    "riddle_hard": "Esquema inicial de una gran obra.",
+                    "riddle": "Rayas locas haré, el cuadro iniciaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TONO",
-                    "riddle": "Un tipo especifico de color.",
-                    "riddle_hard": "Un matiz arrancado del arcoiris brillante.",
+                    "riddle": "Al color pintaré, el matiz le daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FORMA",
-                    "riddle": "Dar estructura o silueta a algo.",
-                    "riddle_hard": "La apariencia externa de un objeto.",
+                    "riddle": "La silueta daré, el dibujo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OLEO",
-                    "riddle": "Liquido resbaloso usado por pintores clasicos.",
-                    "riddle_hard": "Medio artistico que tarda mucho en secar.",
+                    "riddle": "Sobre el lienzo estaré, con pincel pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIZA",
-                    "riddle": "Barrita blanca para escribir en el pizarron.",
-                    "riddle_hard": "Polvo prensado que los maestros usan.",
+                    "riddle": "En la pizarra estaré, de blanco pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FE",
-                    "riddle": "Creer en algo que no ves.",
-                    "riddle_hard": "Confianza total en el corazon.",
+                    "riddle": "En el cielo creeré, mucha fe tendré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3421,32 +3421,32 @@
             "puzzles": [
                 {
                     "word": "ACENTO",
-                    "riddle": "Enfasis en una nota musical.",
-                    "riddle_hard": "Golpe especial que destaca en el ritmo.",
+                    "riddle": "La tilde pondré, la voz subiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHELO",
-                    "riddle": "Violin grandote de piso.",
-                    "riddle_hard": "Instrumento de cuerda que se toca sentado.",
+                    "riddle": "En el suelo estaré, con el arco tocaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AMPLI",
-                    "riddle": "Altavoz potente para guitarra.",
-                    "riddle_hard": "Dispositivo que da voz a las cuerdas electricas.",
+                    "riddle": "Mucha fuerza daré, el sonido subiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANJO",
-                    "riddle": "Guitarra redonda que suena metalica.",
-                    "riddle_hard": "Caja de cuerdas de la musica granjera.",
+                    "riddle": "Redondo yo seré, con el dedo tocaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LAUD",
-                    "riddle": "Instrumento con forma de pera.",
-                    "riddle_hard": "Guitarra antigua de los trovadores viajeros.",
+                    "riddle": "En la corte estaré, mucha música daré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3461,32 +3461,32 @@
             "puzzles": [
                 {
                     "word": "HECHIZO",
-                    "riddle": "Palabras magicas de bruja.",
-                    "riddle_hard": "Encantamiento pronunciado para alterar el destino.",
+                    "riddle": "Mucha magia haré, el destino cambiaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GENIO",
-                    "riddle": "Vivo en una lampara y concedo tres deseos.",
-                    "riddle_hard": "Espiritu poderoso atrapado en una botella vieja.",
+                    "riddle": "En la lámpara estaré, tres deseos te daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OGRO",
-                    "riddle": "Ser grande y feo de los cuentos.",
-                    "riddle_hard": "Monstruo que vive en el pantano.",
+                    "riddle": "En el bosque viviré, a los niños asustaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ELFO",
-                    "riddle": "En el bosque pequeñito con orejas de puntico.",
-                    "riddle_hard": "Ser diminuto del bosque con magia en su trote.",
+                    "riddle": "Orejas de punta tendré, mucha magia yo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EPICO",
-                    "riddle": "Una historia de heroes que dura siglos.",
-                    "riddle_hard": "Aventuras tan grandes que nunca se olvidan.",
+                    "riddle": "Mucha gloria tendré, la historia contaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3501,38 +3501,38 @@
             "puzzles": [
                 {
                     "word": "GOMA",
-                    "riddle": "Sirve para borrar errores de lapiz.",
-                    "riddle_hard": "Sustancia elastica que rebota mucho.",
+                    "riddle": "Los errores borraré, de caucho yo seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GAS",
-                    "riddle": "Aire invisible que se escapa.",
-                    "riddle_hard": "Fluido fantasma que se expande sin fin.",
+                    "riddle": "Invisible siempre soy, mucha energía hoy doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOSA",
-                    "riddle": "Piedra plana para el suelo.",
-                    "riddle_hard": "Baldosa fria que pisas en el baño.",
+                    "riddle": "En el suelo estaré, tus pasos cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIBRA",
-                    "riddle": "Hilo del tejido de las plantas.",
-                    "riddle_hard": "Parte de la comida que ayuda a la digestion.",
+                    "riddle": "Mucha fuerza yo daré, al tejido uniré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIRME",
-                    "riddle": "Solido no tiembla.",
-                    "riddle_hard": "Raices fuertes que ignoran al viento.",
+                    "riddle": "Muy derecho estaré, no me moveré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROMO",
-                    "riddle": "Sin punta no corta.",
-                    "riddle_hard": "Borde redondeado que golpea pero no pincha.",
+                    "riddle": "Sin punta quedaré, nada cortaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3547,32 +3547,32 @@
             "puzzles": [
                 {
                     "word": "AZABACHE",
-                    "riddle": "Un negro brillante y profundo.",
-                    "riddle_hard": "Piedra oscura o el color de la noche mas negra.",
+                    "riddle": "Muy negro brillaré, en la noche estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HAZ",
-                    "riddle": "Linea recta de luz fuerte.",
-                    "riddle_hard": "Proyeccion brillante de un faro en la niebla.",
+                    "riddle": "Mucha luz yo daré, el camino marcaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AÑIL",
-                    "riddle": "Azul profundo de medianoche.",
-                    "riddle_hard": "Tono oscuro entre azul y violeta.",
+                    "riddle": "Azul siempre seré, en el tinte estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MATIZ",
-                    "riddle": "Un tono especifico de un color.",
-                    "riddle_hard": "La pequeña diferencia entre dos colores gemelos.",
+                    "riddle": "Al color cambiaré, un brillo le daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TENUE",
-                    "riddle": "Una luz muy debil y timida.",
-                    "riddle_hard": "Casi oscuro apenas vence a la sombra.",
+                    "riddle": "Con suavidad brillaré, poco me veré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3587,32 +3587,32 @@
             "puzzles": [
                 {
                     "word": "ABISMO",
-                    "riddle": "Hoyo profundo que parece no tener fin.",
-                    "riddle_hard": "Hondonada terrible entre dos montañas.",
+                    "riddle": "Muy profundo estaré, al fondo llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARROYO",
-                    "riddle": "Corriente de agua pequeña.",
-                    "riddle_hard": "Hijo del rio que corre por el bosque.",
+                    "riddle": "Mucha agua llevaré, del monte bajaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLUJO",
-                    "riddle": "Movimiento constante del agua.",
-                    "riddle_hard": "Direccion en que corre el liquido.",
+                    "riddle": "Sin parar correré, al río llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALA",
-                    "riddle": "Ensenada pequeña en la costa.",
-                    "riddle_hard": "Playa escondida entre rocas.",
+                    "riddle": "En la costa estaré, tu arena lavaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AGUA",
-                    "riddle": "Me bebes todos los dias.",
-                    "riddle_hard": "Soy vital pero mucho de mi te ahoga.",
+                    "riddle": "De la nube caeré, tu sed quitaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3627,26 +3627,26 @@
             "puzzles": [
                 {
                     "word": "VENDAVAL",
-                    "riddle": "Viento muy fuerte y rapido.",
-                    "riddle_hard": "Aire capaz de voltear un bote.",
+                    "riddle": "Mucha fuerza tendré, los montes volaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAFAGA",
-                    "riddle": "Golpe rapido de viento.",
-                    "riddle_hard": "Empujon invisible del aire.",
+                    "riddle": "Muy veloz pasaré, al monte volaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROCIO",
-                    "riddle": "Gotas de agua en el pasto.",
-                    "riddle_hard": "Sudor frio de la mañana.",
+                    "riddle": "De mañana estaré, la hierba mojaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARIDO",
-                    "riddle": "Tierra seca sin lluvia.",
-                    "riddle_hard": "Desierto que pide agua a gritos.",
+                    "riddle": "Muy seco estaré, agua pediré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3661,32 +3661,32 @@
             "puzzles": [
                 {
                     "word": "GERMEN",
-                    "riddle": "La parte viva diminuta de una semilla.",
-                    "riddle_hard": "Un inicio microscopico de vida.",
+                    "riddle": "Muy pequeño seré, la vida iniciaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIVO",
-                    "riddle": "Respirando y no muerto.",
-                    "riddle_hard": "Estado de estar presente y activo.",
+                    "riddle": "Mucha fuerza tendré, tu mundo animaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUPA",
-                    "riddle": "Etapa del insecto antes de volar.",
-                    "riddle_hard": "Capullo donde ocurre la transformacion.",
+                    "riddle": "En el suelo estaré, bicho pronto seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LARVA",
-                    "riddle": "Bebe de bicho parecido a un gusano.",
-                    "riddle_hard": "Primer estado de vida de muchos insectos.",
+                    "riddle": "Por el suelo iré, bicho pronto seré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NUCLEO",
-                    "riddle": "El centro de la celula.",
-                    "riddle_hard": "Parte mas importante que contiene el mando.",
+                    "riddle": "En el centro estaré, todo mandaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3701,32 +3701,32 @@
             "puzzles": [
                 {
                     "word": "REJA",
-                    "riddle": "Barrera de metal con barrotes.",
-                    "riddle_hard": "Proteccion de hierro para la ventana.",
+                    "riddle": "De metal me haré, la ventana cerraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAPETE",
-                    "riddle": "Se sienta junto a la puerta.",
-                    "riddle_hard": "Almohadilla para limpiar tus zapatos.",
+                    "riddle": "En la puerta estaré, tus pies limpiaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACCESO",
-                    "riddle": "Lugar por donde entrar.",
-                    "riddle_hard": "Permiso para pasar al otro lado.",
+                    "riddle": "Por mi puerta entrarás, el camino verás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIBRE",
-                    "riddle": "Sin cadenas y sin rejas.",
-                    "riddle_hard": "Poder ir a donde quieras sin frenos.",
+                    "riddle": "Por el mundo iré, nada me parará.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIGA",
-                    "riddle": "Hueso de madera de la casa.",
-                    "riddle_hard": "Linea larga que soporta el techo.",
+                    "riddle": "En el techo estaré, todo peso aguantaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3741,38 +3741,38 @@
             "puzzles": [
                 {
                     "word": "POCO",
-                    "riddle": "Casi nada.",
-                    "riddle_hard": "Un poquito nomas.",
+                    "riddle": "Casi nada tendré, pronto me acabaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERO",
-                    "riddle": "Nada representa este numero.",
-                    "riddle_hard": "Inicio de escala sin apuro.",
+                    "riddle": "Nada yo valdré, la cuenta iniciaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PAR",
-                    "riddle": "Dos cosas que van juntas.",
-                    "riddle_hard": "Como tus zapatos o calcetines.",
+                    "riddle": "Dos cosas seremos, juntos caminaremos.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAS",
-                    "riddle": "Símbolo de la adición.",
-                    "riddle_hard": "Lo opuesto a menos en una cuenta.",
+                    "riddle": "Mucho más daré, la cuenta subiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FACTOR",
-                    "riddle": "Elemento que influye en el resultado.",
-                    "riddle_hard": "Parte de una multiplicacion.",
+                    "riddle": "Al final influiré, el resultado daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIEZ",
-                    "riddle": "Dos manos de dedos.",
-                    "riddle_hard": "Numero de la base decimal.",
+                    "riddle": "Dos manos sumaré, los dedos contaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3787,32 +3787,32 @@
             "puzzles": [
                 {
                     "word": "HABLAR",
-                    "riddle": "Usar la voz para comunicarse.",
-                    "riddle_hard": "Entablar un dialogo con alguien.",
+                    "riddle": "Mi voz yo te daré, contigo charlaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LISTA",
-                    "riddle": "Serie de cosas escritas una tras otra.",
-                    "riddle_hard": "Inventario de lo que falta comprar.",
+                    "riddle": "Todo escribiré, lo que falta veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARTA",
-                    "riddle": "Papel con mensaje para un amigo.",
-                    "riddle_hard": "Sobre con noticias que vuela lejos.",
+                    "riddle": "En el sobre estaré, tu casa buscaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BREVE",
-                    "riddle": "Que dura muy poco tiempo.",
-                    "riddle_hard": "Corto y directo al punto.",
+                    "riddle": "Muy poco duraré, pronto acabaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DATO",
-                    "riddle": "Una pieza de informacion.",
-                    "riddle_hard": "Numero o palabra que explica algo.",
+                    "riddle": "La verdad te diré, un número te daré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3827,32 +3827,32 @@
             "puzzles": [
                 {
                     "word": "TAMBOR",
-                    "riddle": "Instrumento hueco que golpeas.",
-                    "riddle_hard": "Cilindro con piel que marca el paso.",
+                    "riddle": "Mucha fuerza me darás, al ritmo bailarás.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLAUTA",
-                    "riddle": "Tubo con agujeros para soplar.",
-                    "riddle_hard": "Vara sonora del pastor que silba.",
+                    "riddle": "Con el aire sonaré, mucha música daré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORGANO",
-                    "riddle": "Piano gigante con tubos de aire.",
-                    "riddle_hard": "Rey de los teclados en la catedral.",
+                    "riddle": "Piano gigante seré, en la iglesia estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORO",
-                    "riddle": "Grupo de cantantes.",
-                    "riddle_hard": "Conjunto de voces en armonia.",
+                    "riddle": "Muchos hoy cantaremos, al público alegraremos.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DJ",
-                    "riddle": "Quien pone la musica en la fiesta.",
-                    "riddle_hard": "Mezclador de discos en la discoteca.",
+                    "riddle": "Mucha fiesta yo daré, los discos mezclaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3867,32 +3867,32 @@
             "puzzles": [
                 {
                     "word": "FRESCO",
-                    "riddle": "Algo nuevo y no usado.",
-                    "riddle_hard": "Imagen limpia recien terminada.",
+                    "riddle": "Muy nuevo siempre soy, linda cara te doy.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLANCO",
-                    "riddle": "El color de la nieve fresca.",
-                    "riddle_hard": "La presencia de todos los colores juntos.",
+                    "riddle": "Como la nieve seré, sin color me veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUCES",
-                    "riddle": "Fuentes de brillo.",
-                    "riddle_hard": "Lamparas que nos dejan ver.",
+                    "riddle": "En la noche brillaré, el camino veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLARO",
-                    "riddle": "Visible y sin oscuridad.",
-                    "riddle_hard": "Lo opuesto a algo borroso o negro.",
+                    "riddle": "Mucha luz yo tendré, todo el mundo veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUZ",
-                    "riddle": "Lo que te deja ver el mundo.",
-                    "riddle_hard": "Viaja mas rapido que nada.",
+                    "riddle": "A la sombra quitaré, mucha vista daré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3907,26 +3907,26 @@
             "puzzles": [
                 {
                     "word": "ARCOIRIS",
-                    "riddle": "Puente de colores en el cielo.",
-                    "riddle_hard": "Espectaculo de luz despues de la lluvia.",
+                    "riddle": "En el cielo brillaré, de colores pintaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOLAZO",
-                    "riddle": "Un sol muy fuerte y caliente.",
-                    "riddle_hard": "Gran calor al mediodia de verano.",
+                    "riddle": "Mucho calor yo daré, al mediodía estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COL",
-                    "riddle": "Planta verde de hojas apretadas.",
-                    "riddle_hard": "Repollo redondo que se come en ensalada.",
+                    "riddle": "Hojas verdes tendré, en la ensalada estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARISCO",
-                    "riddle": "Comida que viene del mar.",
-                    "riddle_hard": "Animal con concha que se sirve en plato.",
+                    "riddle": "Del oceano vendré, en el plato estaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3941,32 +3941,32 @@
             "puzzles": [
                 {
                     "word": "REFUGIO",
-                    "riddle": "Escondite seguro contra el frio.",
-                    "riddle_hard": "Hogar temporal para estar a salvo.",
+                    "riddle": "A salvo te tendré, del frío cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRADA",
-                    "riddle": "Un escalon largo para sentarse.",
-                    "riddle_hard": "Donde el publico descansa en el estadio.",
+                    "riddle": "En el campo estaré, al público sentaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALON",
-                    "riddle": "Cuarto comodo de la casa.",
-                    "riddle_hard": "Espacio publico para esperar sentado.",
+                    "riddle": "Espacio grande tendré, amigos recibiré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PISO",
-                    "riddle": "Superficie inferior de un cuarto.",
-                    "riddle_hard": "Sobre lo que caminas cada dia.",
+                    "riddle": "Debajo siempre estaré, tus pasos cuidaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TINA",
-                    "riddle": "Recipiente grande para bañarse.",
-                    "riddle_hard": "Donde te sumerges en agua con espuma.",
+                    "riddle": "De agua me llenaré, tu cuerpo bañaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3981,32 +3981,32 @@
             "puzzles": [
                 {
                     "word": "SERIO",
-                    "riddle": "Que no se rie ni juega.",
-                    "riddle_hard": "Firme y poco dado a las bromas.",
+                    "riddle": "Nunca me reiré, firme hoy estaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FEROZ",
-                    "riddle": "Salvaje y agresivo.",
-                    "riddle_hard": "Como una bestia que defiende su caza.",
+                    "riddle": "Como fiera seré, mucha rabia veré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUDO",
-                    "riddle": "Tosco y sin delicadeza.",
-                    "riddle_hard": "Olvida decir por favor y gracias.",
+                    "riddle": "Tosco siempre seré, modales no tendré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIMIDO",
-                    "riddle": "Le da pena hablar con otros.",
-                    "riddle_hard": "Me asusto si todos me miran fijamente.",
+                    "riddle": "Mucha pena tendré, al hablar callaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OSADO",
-                    "riddle": "Aventurero que salta sin red.",
-                    "riddle_hard": "Atrevido que toma todos los riesgos.",
+                    "riddle": "Valiente yo seré, el riesgo tomaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -4021,32 +4021,32 @@
             "puzzles": [
                 {
                     "word": "PIVOTE",
-                    "riddle": "Punto central donde algo gira.",
-                    "riddle_hard": "Eje vertical que sostiene la rotacion.",
+                    "riddle": "En el centro estaré, sobre mi giraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GIRO",
-                    "riddle": "Movimiento circular sobre un eje.",
-                    "riddle_hard": "Vuelta completa sobre un mismo punto.",
+                    "riddle": "Mucha vuelta daré, al eje volveré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEVE",
-                    "riddle": "Algo que pesa muy poquito.",
-                    "riddle_hard": "Tan ligero que apenas se siente.",
+                    "riddle": "Casi nada pesaré, al aire volaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUERTE",
-                    "riddle": "Con mucho musculo y poder.",
-                    "riddle_hard": "Resistente y muy dificil de romper.",
+                    "riddle": "Mucha fuerza tendré, nada me romperé.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLOMO",
-                    "riddle": "Metal gris muy pesado.",
-                    "riddle_hard": "Elemento denso usado para hundirse.",
+                    "riddle": "Gris y denso seré, al fondo iré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -4061,26 +4061,26 @@
             "puzzles": [
                 {
                     "word": "MISION",
-                    "riddle": "Tarea importante por cumplir.",
-                    "riddle_hard": "Objetivo final de un gran viaje.",
+                    "riddle": "Un encargo tendré, la meta lograre.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARCA",
-                    "riddle": "Señal hecha para recordar algo.",
-                    "riddle_hard": "Huella que dejas en el camino.",
+                    "riddle": "Mi huella dejaré, mi paso notaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUTAS",
-                    "riddle": "Caminos marcados en el mapa.",
-                    "riddle_hard": "Direcciones que sigues para llegar.",
+                    "riddle": "El camino seguiré, al destino llegaré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUSQUEDA",
-                    "riddle": "Accion de intentar encontrar algo.",
-                    "riddle_hard": "Rastreo minucioso por todo el lugar.",
+                    "riddle": "Por el mundo iré, al tesoro encontraré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -4095,32 +4095,32 @@
             "puzzles": [
                 {
                     "word": "TELON",
-                    "riddle": "Cortina roja que sube al inicio.",
-                    "riddle_hard": "Cierra el paso al final de la obra.",
+                    "riddle": "Al final bajaré, la obra cerraré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXTRA",
-                    "riddle": "Persona de fondo en la pelicula.",
-                    "riddle_hard": "Actor sin dialogo que rellena el espacio.",
+                    "riddle": "De fondo hoy estaré, nada yo diré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUFON",
-                    "riddle": "El payaso de la corte del rey.",
-                    "riddle_hard": "Personaje comico de nariz roja.",
+                    "riddle": "Al rey alegraré, mil bromas yo haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ESCENA",
-                    "riddle": "Un fragmento que cuenta parte de la historia.",
-                    "riddle_hard": "Momento especifico de la pelicula.",
+                    "riddle": "Al escenario saldré, mi parte haré.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIMO",
-                    "riddle": "Artista que habla con las manos.",
-                    "riddle_hard": "Mago del silencio con guantes blancos.",
+                    "riddle": "En silencio estaré, con manos hablaré.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
