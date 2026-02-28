@@ -604,26 +604,14 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "BEBE",
-                    "riddle": "En la cuna lloro hoy, un recién nacido soy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "NIÑO",
-                    "riddle": "Pequeño y travieso soy, a jugar al patio voy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
                     "word": "JOVEN",
                     "riddle": "Lleno de energía estoy, al colegio siempre voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ADULTO",
-                    "riddle": "Soy mayor y trabajaré, muchas cuentas pagaré.",
+                    "word": "PARIENTE",
+                    "riddle": "Soy tío, primo o hermano, siempre te doy la mano.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
