@@ -490,7 +490,7 @@
         },
         {
             "level_id": 15,
-            "grid_size": 5,
+            "grid_size": 7,
             "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
@@ -498,12 +498,6 @@
                 {
                     "word": "PEZ",
                     "riddle": "Bajo el mar nadando voy, con aletas feliz soy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "GATO",
-                    "riddle": "Miau miau miau siempre diré, al ratón yo cazaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -520,8 +514,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "CORZO",
-                    "riddle": "Ciervo pequeño yo soy, por el bosque libre voy.",
+                    "word": "PINGUINO",
+                    "riddle": "Tengo alas y no vuelo, camino sobre el hielo.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
