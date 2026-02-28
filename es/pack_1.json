@@ -450,14 +450,14 @@
         },
         {
             "level_id": 14,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "Naturaleza",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "HOJA",
-                    "riddle": "Del árbol colgando voy, sombra y aire fresco doy.",
+                    "riddle": "Bailo suave con el viento, caer es mi pasatiempo.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
