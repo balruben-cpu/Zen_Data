@@ -296,7 +296,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "ТЕТЯ",
+                    "word": "ТЁТЯ",
                     "riddle": "Племянникам я дам конфет, меня добрее в мире нет.",
                     "riddle_hard": "",
                     "is_hard": false
@@ -548,7 +548,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "ПОЛЕТ",
+                    "word": "ПОЛЁТ",
                     "riddle": "Путешествие без дорог.",
                     "riddle_hard": "Мечта о крыльях.",
                     "is_hard": true
@@ -662,7 +662,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "УГОЛЕК",
+                    "word": "УГОЛЁК",
                     "riddle": "Светящийся камень в угасающем костре.",
                     "riddle_hard": "Теплая искра в сером пепле.",
                     "is_hard": false
@@ -908,7 +908,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "КОВЕР",
+                    "word": "КОВЁР",
                     "riddle": "Я сижу у твоей кровати, чтобы согреть холодные ноги.",
                     "riddle_hard": "Волшебный летун, который остается на земле.",
                     "is_hard": true
@@ -1498,7 +1498,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "ДРЕМА",
+                    "word": "ДРЁМА",
                     "riddle": "Голова вмиг потяжелеет, и сон тебя преодолеет.",
                     "riddle_hard": "",
                     "is_hard": false
@@ -1698,7 +1698,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "КОСТЕР",
+                    "word": "КОСТЁР",
                     "riddle": "Я искрой ночной свечусь, согревать тебя учусь.",
                     "riddle_hard": "",
                     "is_hard": false
@@ -2086,7 +2086,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "ОВЕС",
+                    "word": "ОВЁС",
                     "riddle": "Теплое зерно для нового дня.",
                     "riddle_hard": "Теплое зерно для начала.",
                     "is_hard": false
@@ -2520,7 +2520,7 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "КОТЕНОК",
+                    "word": "КОТЁНОК",
                     "riddle": "Бархатные туфельки и крошечные когти.",
                     "riddle_hard": "Бархатные туфельки и крошечные когти.",
                     "is_hard": false
@@ -2800,7 +2800,7 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "КОЗЕЛ",
+                    "word": "КОЗЁЛ",
                     "riddle": "У меня есть рога, но я не могу гудеть.",
                     "riddle_hard": "У меня есть рога, но я не могу гудеть.",
                     "is_hard": false
@@ -2960,7 +2960,7 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ОЛЕНЕНОК",
+                    "word": "ОЛЕНЁНОК",
                     "riddle": "Полосатый я лесной, сплю я долго под сосной.",
                     "riddle_hard": "",
                     "is_hard": false
@@ -3138,7 +3138,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "РОЖДЕН",
+                    "word": "РОЖДЁН",
                     "riddle": "Проснуться в первый раз.",
                     "riddle_hard": "Проснуться в первый раз.",
                     "is_hard": false
@@ -3418,7 +3418,7 @@
                     "is_hard": false
                 },
                 {
-                    "word": "УШЕЛ",
+                    "word": "УШЁЛ",
                     "riddle": "Где река находит море.",
                     "riddle_hard": "Куда вода уходит навсегда.",
                     "is_hard": false
@@ -3477,7 +3477,7 @@
             "grid_size": 7,
             "category": "Внутренние основы",
             "subcategory": "Семя",
-            "complexity": 9.800000190734864,
+            "complexity": 9.800000190734863,
             "puzzles": [
                 {
                     "word": "РОСТОК",
@@ -3517,7 +3517,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Врата",
-            "complexity": 9.899999618530274,
+            "complexity": 9.899999618530273,
             "puzzles": [
                 {
                     "word": "ВРАТА",
@@ -3677,7 +3677,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Единство",
-            "complexity": 10.300000190734864,
+            "complexity": 10.300000190734863,
             "puzzles": [
                 {
                     "word": "ВСЕ",
@@ -3717,7 +3717,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Природа",
-            "complexity": 10.399999618530274,
+            "complexity": 10.399999618530273,
             "puzzles": [
                 {
                     "word": "ЯДРО",
@@ -3877,7 +3877,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Конец",
-            "complexity": 10.800000190734864,
+            "complexity": 10.800000190734863,
             "puzzles": [
                 {
                     "word": "ФИНАЛ",
