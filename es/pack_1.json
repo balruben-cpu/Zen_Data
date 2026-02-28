@@ -549,13 +549,13 @@
                 },
                 {
                     "word": "CUERVO",
-                    "riddle": "Pájaro negro seré, muy astuto volaré.",
+                    "riddle": "Visto traje de luto, soy pájaro muy astuto.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COLMENA",
-                    "riddle": "De las abejas soy casa, dulce miel por mí se pasa.",
+                    "riddle": "Hecha de cera y labor, guardo el néctar de la flor.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
