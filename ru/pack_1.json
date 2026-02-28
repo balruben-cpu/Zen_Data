@@ -275,7 +275,7 @@
                 },
                 {
                     "word": "ДОКТОР",
-                    "riddle": "Уважительное название врача.",
+                    "riddle": "Выпишу таблетки вам, бой болезни строгий дам.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3477,7 +3477,7 @@
             "grid_size": 7,
             "category": "Внутренние основы",
             "subcategory": "Семя",
-            "complexity": 9.800000190734863,
+            "complexity": 9.800000190734864,
             "puzzles": [
                 {
                     "word": "РОСТОК",
@@ -3517,7 +3517,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Врата",
-            "complexity": 9.899999618530273,
+            "complexity": 9.899999618530274,
             "puzzles": [
                 {
                     "word": "ВРАТА",
@@ -3677,7 +3677,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Единство",
-            "complexity": 10.300000190734863,
+            "complexity": 10.300000190734864,
             "puzzles": [
                 {
                     "word": "ВСЕ",
@@ -3717,7 +3717,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Природа",
-            "complexity": 10.399999618530273,
+            "complexity": 10.399999618530274,
             "puzzles": [
                 {
                     "word": "ЯДРО",
@@ -3877,7 +3877,7 @@
             "grid_size": 6,
             "category": "Внутренние основы",
             "subcategory": "Конец",
-            "complexity": 10.800000190734863,
+            "complexity": 10.800000190734864,
             "puzzles": [
                 {
                     "word": "ФИНАЛ",
