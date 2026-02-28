@@ -634,7 +634,7 @@
         },
         {
             "level_id": 18,
-            "grid_size": 6,
+            "grid_size": 7,
             "category": "BODY",
             "subcategory": "Life Cycle",
             "complexity": 1.0,
@@ -655,6 +655,12 @@
                     "word": "CHILD",
                     "riddle": "I play games and carry books, giving parents funny looks.",
                     "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "BRIDE",
+                    "riddle": "Woman getting married.",
+                    "riddle_hard": "She wears a white dress at the wedding.",
                     "is_hard": false
                 },
                 {

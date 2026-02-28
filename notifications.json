@@ -10,12 +10,16 @@
             "titles": {
                 "en": "Zen Seeker",
                 "es": "Buscador Zen",
-                "ru": "Искатель Дзен"
+                "ru": "Искатель Дзен",
+                "hy": "Զեն Փնտրող",
+                "pt": "Buscador Zen"
             },
             "messages": {
                 "en": "You've mastered 10 puzzles! New special offers in the shop for you.",
                 "es": "¡Has dominado 10 puzzles! Nuevas ofertas especiales para ti.",
-                "ru": "Вы освоили 10 пазлов! Специальные предложения для вас."
+                "ru": "Вы освоили 10 пазлов! Специальные предложения для вас.",
+                "hy": "Դուք հաղթահարել եք 10 փազլ: Խանութում նոր առաջարկներ կան ձեզ համար:",
+                "pt": "Você dominou 10 quebra-cabeças! Novas ofertas especiais na loja para você."
             }
         },
         {
@@ -37,7 +41,7 @@
                 "es": "Un nuevo camino de puzzle está listo para tu descubrimiento. ¡Mantén tu racha!",
                 "hy": "Նոր փազլի ուղին պատրաստ է ձեր բացահայտման համար: Պահպանեք ձեր հաջողությունը:",
                 "ru": "Новый путь пазла готов к вашему открытию. Поддерживайте свою серию!",
-                "pt": "Um novo camino de quebra-cabeça está pronto para sua descoberta. Mantenha sua sequência!"
+                "pt": "Um novo caminho de quebra-cabeça está pronto para sua descoberta. Mantenha sua sequência!"
             }
         },
         {
@@ -50,12 +54,16 @@
             "titles": {
                 "en": "Peaceful Moment",
                 "es": "Momento de Paz",
-                "ru": "Минута покоя"
+                "ru": "Минута покоя",
+                "hy": "Խաղաղ Պահ",
+                "pt": "Momento de Paz"
             },
             "messages": {
                 "en": "Take a minute for yourself. A fresh puzzle is waiting.",
                 "es": "Tómate un minuto para ti. Un nuevo puzzle te espera.",
-                "ru": "Уделите минуту себе. Новый пазл ждет вас."
+                "ru": "Уделите минуту себе. Новый пазл ждет вас.",
+                "hy": "Մեկ րոպե հատկացրեք ձեզ: Նոր փազլը սպասում է:",
+                "pt": "Reserve um minuto para você. Um novo quebra-cabeça está à espera."
             }
         },
         {
@@ -68,12 +76,16 @@
             "titles": {
                 "en": "The Silence of Zen",
                 "es": "El Silencio del Zen",
-                "ru": "Тишина Дзен"
+                "ru": "Тишина Дзен",
+                "hy": "Զենի Լռությունը",
+                "pt": "O Silêncio do Zen"
             },
             "messages": {
                 "en": "The path misses your touch. Check your zen settings!",
                 "es": "El camino extraña tu toque. ¡Revisa tus ajustes zen!",
-                "ru": "Пути не хватает вашего прикосновения. Проверьте настройки!"
+                "ru": "Пути не хватает вашего прикосновения. Проверьте настройки!",
+                "hy": "Ճանապարհը կարոտել է ձեր հպմանը: Ստուգեք ձեր զեն կարգավորումները:",
+                "pt": "O caminho sente sua falta. Verifique suas configurações zen!"
             }
         }
     ]
