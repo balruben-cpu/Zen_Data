@@ -297,7 +297,7 @@
             "puzzles": [
                 {
                     "word": "BOTON",
-                    "riddle": "Pequeño disco para coser, tu ropa voy a prender.",
+                    "riddle": "Con hilo a tu ropa atado, mantengo el saco cerrado.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -350,6 +350,12 @@
                 {
                     "word": "CUEVA",
                     "riddle": "Casa de piedra seré, al oso yo guardaré.",
+                    "riddle_hard": "",
+                    "is_hard": false
+                },
+                {
+                    "word": "SUR",
+                    "riddle": "Con el norte no me junto, hacia abajo siempre apunto.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -617,7 +623,7 @@
                 },
                 {
                     "word": "NIÑO",
-                    "riddle": "Mucho juego de verdad, soy de muy corta edad.",
+                    "riddle": "Pequeño y travieso soy, a jugar al patio voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1515,37 +1521,37 @@
             "puzzles": [
                 {
                     "word": "PELEA",
-                    "riddle": "Muchos golpes yo veré, al más fuerte elegiré.",
+                    "riddle": "Combate rudo seré, con mis puños chocaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GOLPE",
-                    "riddle": "Muy ruidoso siempre soy, gran impacto yo te doy.",
+                    "riddle": "Con mucha fuerza te doy, un impacto duro soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAER",
-                    "riddle": "Al suelo yo llegaré, mi equilibrio perderé.",
+                    "riddle": "Al duro suelo me voy, tropezando siempre estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GANAR",
-                    "riddle": "El trofeo ganaré, la victoria celebraré.",
+                    "riddle": "Llego a la meta de hoy, el mejor de todos soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DUELO",
-                    "riddle": "Frente a frente nos veremos, por honor hoy lucharemos.",
+                    "riddle": "Batalla justa seré, por mi honor yo lucharé.",
                     "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "META",
-                    "riddle": "Al final esperaré, tu carrera terminaré.",
+                    "riddle": "El gran final siempre soy, la victoria yo te doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1561,31 +1567,31 @@
             "puzzles": [
                 {
                     "word": "CESPED",
-                    "riddle": "Mucha hierba verde soy, suave alfombra yo te doy.",
+                    "riddle": "Verde alfombra yo soy, pasto a tu jardín le doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARBOL",
-                    "riddle": "Muchas ramas tengo hoy, aire puro siempre doy.",
+                    "riddle": "Tronco de palo tendré, y gran sombra te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VAINA",
-                    "riddle": "Soy estuche vegetal, guardo granos por igual.",
+                    "riddle": "Funda muy verde seré, los frijoles guardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAÑA",
-                    "riddle": "Muy dulce por dentro soy, mucho azúcar siempre doy.",
+                    "riddle": "Alta y delgada yo soy, mucha azúcar yo te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLOR",
-                    "riddle": "De colores me verás, y mi aroma sentirás.",
+                    "riddle": "Lindos pétalos tendré, con perfume brillaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1601,31 +1607,31 @@
             "puzzles": [
                 {
                     "word": "MUELLE",
-                    "riddle": "Junto al agua yo estaré, a los barcos cuidaré.",
+                    "riddle": "Puente de tablas seré, a los barcos cuidaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NORTE",
-                    "riddle": "En la brújula estoy yo, y el frío me siguió.",
+                    "riddle": "En la brújula yo estoy, arriba en el mapa voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALDEA",
-                    "riddle": "Pocas casas tengo hoy, un pueblito lindo soy.",
+                    "riddle": "Pequeño pueblo seré, pocas casas te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ESTE",
-                    "riddle": "Por mi lado sale el sol, con un brillo de farol.",
+                    "riddle": "Por la mañana yo voy, al gran sol salida doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERRO",
-                    "riddle": "Montaña pequeña soy, muchas vistas yo te doy.",
+                    "riddle": "Montaña chica seré, hasta el cielo no llegaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1641,31 +1647,31 @@
             "puzzles": [
                 {
                     "word": "MEDICO",
-                    "riddle": "Tus dolores quitaré, con medicina te curaré.",
+                    "riddle": "Batita blanca tendré, tus dolores curaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PROFE",
-                    "riddle": "En la clase enseñaré, mucho saber te daré.",
+                    "riddle": "En la pizarra estaré, muchas cosas te enseñaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CURA",
-                    "riddle": "En la iglesia rezaré, a los fieles guiaré.",
+                    "riddle": "Ropa muy negra tendré, en la iglesia rezaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRIO",
-                    "riddle": "Tres personas somos hoy, armonía siempre doy.",
+                    "riddle": "Tres músicos somos hoy, gran concierto yo te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHEF",
-                    "riddle": "Ricos platos cocinaré, en la cocina mandaré.",
+                    "riddle": "En la cocina estaré, ricos platos guisaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1681,37 +1687,37 @@
             "puzzles": [
                 {
                     "word": "LLUVIA",
-                    "riddle": "Cae el agua sin parar, las plantas voy a mojar.",
+                    "riddle": "Gotitas de agua seré, desde el cielo caeré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NIEVE",
-                    "riddle": "Copo muy blanco seré, de frío te llenaré.",
+                    "riddle": "Blanca y muy fría seré, en invierno te veré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NUBE",
-                    "riddle": "Copo de algodón parezco, bajo el cielo crezco.",
+                    "riddle": "Blanca y de aire yo soy, mucha sombra siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAYO",
-                    "riddle": "Luz muy fuerte brillaré, al suelo yo bajaré.",
+                    "riddle": "Luz en el cielo seré, a las nubes romperé.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OCASO",
-                    "riddle": "Cuando el sol se va a dormir, la noche va a venir.",
+                    "riddle": "Cae la tarde de hoy, puente a la noche yo soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "FRIO",
-                    "riddle": "Si me sientes temblarás, un abrigo buscarás.",
+                    "riddle": "Tiemblas si cerca yo estoy, heladas y nieve doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1727,31 +1733,31 @@
             "puzzles": [
                 {
                     "word": "METRO",
-                    "riddle": "Bajo tierra viajaré, mil paradas hoy haré.",
+                    "riddle": "Tren subterráneo yo soy, por el túnel veloz voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIUDAD",
-                    "riddle": "Muchos edificios doy, llena de luces yo estoy.",
+                    "riddle": "Llena de gente yo estoy, casas y edificios doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SEÑAL",
-                    "riddle": "El camino te diré, las vueltas indicaré.",
+                    "riddle": "Flecha pintada seré, tu camino guiaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUENTE",
-                    "riddle": "Sobre el río cruzarás, al otro lado llegarás.",
+                    "riddle": "Sobre las aguas yo estoy, cruce a los coches doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PARQUE",
-                    "riddle": "Muchos árboles tendré, con columpios jugaré.",
+                    "riddle": "Muy verde y lindo seré, columpios te prestaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1767,31 +1773,31 @@
             "puzzles": [
                 {
                     "word": "ANDAR",
-                    "riddle": "Caminando lento voy, un paseo yo te doy.",
+                    "riddle": "A pie muy lento yo voy, un paseo dando estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PASO",
-                    "riddle": "Con mis pies avanzaré, una huella dejaré.",
+                    "riddle": "Muevo mi pie para andar, uno a uno sin parar.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIAJE",
-                    "riddle": "Mis maletas llevaré, nuevos sitios visitaré.",
+                    "riddle": "Hago maletas de hoy, a lugares lejos voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALTO",
-                    "riddle": "Hacia arriba volaré, con mis pies impulsaré.",
+                    "riddle": "Vuelo un momento seré, y en el piso caeré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORRER",
-                    "riddle": "Muy veloz escaparé, en la meta llegaré.",
+                    "riddle": "A gran velocidad voy, el más rapidito soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1807,37 +1813,37 @@
             "puzzles": [
                 {
                     "word": "SER",
-                    "riddle": "Lleno de vida yo estoy, mi existencia siempre doy.",
+                    "riddle": "Un ser humano seré, en el mundo existiré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOLA",
-                    "riddle": "Con mi mano salvaré, al llegar saludaré.",
+                    "riddle": "Saludo amable seré, tu sonrisa buscaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARTE",
-                    "riddle": "Planeta muy rojo soy, por el cielo girando voy.",
+                    "riddle": "Planeta rojo yo soy, junto a la Tierra yo voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ASTRO",
-                    "riddle": "Desde el cielo brillaré, en la noche luz seré.",
+                    "riddle": "Cuerpo celeste seré, en el cielo brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIERRA",
-                    "riddle": "Vives tú y vivo yo, es el mundo que Dios dio.",
+                    "riddle": "Gran planeta azul yo soy, agua y vida siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "JUNIO",
-                    "riddle": "A mitad de año voy, buen calorcito yo doy.",
+                    "riddle": "Mitad de año seré, el verano traeré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1853,31 +1859,31 @@
             "puzzles": [
                 {
                     "word": "MASA",
-                    "riddle": "Lleno de materia estoy, mucho cuerpo yo te doy.",
+                    "riddle": "Cuerpo pesado yo soy, mucha materia te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PESO",
-                    "riddle": "En la báscula estaré, tus medidas marcaré.",
+                    "riddle": "La gravedad jalo hoy, muchos kilos siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ONDA",
-                    "riddle": "Por el agua viajaré, mil vibraciones haré.",
+                    "riddle": "Curva en el agua seré, luz y sonido daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUERZA",
-                    "riddle": "Músculos muy fuertes doy, mucha potencia yo soy.",
+                    "riddle": "Mucho poder yo te doy, gran energía yo soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ATOMO",
-                    "riddle": "Muy pequeño siempre seré, todo el mundo formaré.",
+                    "riddle": "Tan pequeñito seré, que invisible me veré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1893,31 +1899,31 @@
             "puzzles": [
                 {
                     "word": "SUAVE",
-                    "riddle": "Como algodón me verás, muy liso me sentirás.",
+                    "riddle": "Como el peluche seré, a tus manos gustaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DURO",
-                    "riddle": "Piedra muy fuerte seré, nunca me romperé.",
+                    "riddle": "Fuerte y de piedra seré, nunca me doblegaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LISO",
-                    "riddle": "Sin ninguna arruga soy, superficie plana doy.",
+                    "riddle": "Sin tener baches yo voy, resbaloso siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUGOSO",
-                    "riddle": "Como piedra rasparé, muchos bultos tendré.",
+                    "riddle": "Raspo tus manos de hoy, muy arrugadito soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "ASPERO",
-                    "riddle": "Si me tocas sufriras, como lija me verás.",
+                    "riddle": "Toco como lija hoy, muy molesto siempre soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1933,31 +1939,31 @@
             "puzzles": [
                 {
                     "word": "LABOR",
-                    "riddle": "Mucha tarea por hacer, gran trabajo voy a ser.",
+                    "riddle": "Duro trabajo seré, con sudor te cansaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TALLER",
-                    "riddle": "Mis herramientas usaré, lindas cosas crearé.",
+                    "riddle": "Sitio de obras seré, herramientas guardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OFICIO",
-                    "riddle": "Un trabajo manual seré, con mucha maña lo haré.",
+                    "riddle": "Buena destreza tendré, trabajando brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COSER",
-                    "riddle": "Con hilo y aguja iré, tu ropa yo arreglaré.",
+                    "riddle": "Hilo y aguja seré, toda tu ropa uniré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PALA",
-                    "riddle": "Mucha tierra moveré, grandes hoyos cavaré.",
+                    "riddle": "Forma de cuchara soy, mucha tierra saco hoy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1973,31 +1979,31 @@
             "puzzles": [
                 {
                     "word": "VIDEO",
-                    "riddle": "Imágenes que grabaré, mil historias contaré.",
+                    "riddle": "Corta película soy, en tu gran pantalla voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CINE",
-                    "riddle": "Gran pantalla luciré, mil historias proyectaré.",
+                    "riddle": "Muchos asientos tendré, la película pondré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMEO",
-                    "riddle": "Poco tiempo apareceré, una sorpresa yo seré.",
+                    "riddle": "Salgo un poco no más, y enseguida quedo atrás.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAMA",
-                    "riddle": "Muchos fans yo tendré, por el mundo brillaré.",
+                    "riddle": "Muy conocido yo soy, autógrafos siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TEATRO",
-                    "riddle": "Sobre tablas actuaré, aplausos hoy ganaré.",
+                    "riddle": "Rojo telón luciré, a los actores veré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2013,31 +2019,31 @@
             "puzzles": [
                 {
                     "word": "COLOR",
-                    "riddle": "Mucho brillo yo tendré, todo el mundo pintaré.",
+                    "riddle": "Rojo o azul puedo ser, pinto todo al parecer.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COLA",
-                    "riddle": "Al final siempre estaré, mucho tiempo pegaré.",
+                    "riddle": "Me pegan cosas aquí, todo se une por mí.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AZUL",
-                    "riddle": "Como el cielo brillaré, en el mar me quedaré.",
+                    "riddle": "Como el gran cielo yo soy, luz al océano doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARINO",
-                    "riddle": "En el fondo viviré, barcos grandes cuidaré.",
+                    "riddle": "Un azul frío seré, en los mares nadaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIMA",
-                    "riddle": "Muy ácida siempre soy, color verde yo te doy.",
+                    "riddle": "Fruta muy agria yo soy, verde color siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2053,31 +2059,31 @@
             "puzzles": [
                 {
                     "word": "PAZ",
-                    "riddle": "Mucha calma yo daré, las batallas pararé.",
+                    "riddle": "La guerra lejos dejé, a los hombres calmaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SPA",
-                    "riddle": "Mucha agua y relajación, para tu buen corazón.",
+                    "riddle": "Con mis masajes de hoy, un gran descanso te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REY",
-                    "riddle": "Lindo trono ocuparé, con mi cetro mandaré.",
+                    "riddle": "Corona de oro tendré, mi castillo reinaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TRONO",
-                    "riddle": "Silla de oro luciré, con el rey descansaré.",
+                    "riddle": "Asiento de oro yo soy, gran poder al rey le doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORDEN",
-                    "riddle": "Con firmeza mandaré, que se cumpla pediré.",
+                    "riddle": "Instrucción clara daré, que me escuches mandaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2093,31 +2099,31 @@
             "puzzles": [
                 {
                     "word": "TROL",
-                    "riddle": "Bajo el puente viviré, a la gente asustaré.",
+                    "riddle": "Debajo del puente estoy, muchos sustos yo te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "THOR",
-                    "riddle": "Martillo de trueno soy, mucha fuerza siempre doy.",
+                    "riddle": "Dios de los truenos yo soy, con mi martillo me voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIBRO",
-                    "riddle": "Muchas hojas tendré, mil historias contaré.",
+                    "riddle": "Hojas de letras seré, mil historias contaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAGIA",
-                    "riddle": "Con mi vara brillaré, imposibles hoy haré.",
+                    "riddle": "Muchos hechizos haré, trucos te regalaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RELATO",
-                    "riddle": "Por la noche contaré, tu atención hoy ganaré.",
+                    "riddle": "Cuento muy corto seré, tu atención atraparé.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2133,31 +2139,31 @@
             "puzzles": [
                 {
                     "word": "OVEJA",
-                    "riddle": "Lana blanca te daré, por el campo saltaré.",
+                    "riddle": "Lana muy suave te doy, pastando en el campo estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CABRA",
-                    "riddle": "Por las rocas subiré, mucha leche te daré.",
+                    "riddle": "Unos cuernos luciré, la montaña saltaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NIÑO",
-                    "riddle": "Mucho tiempo jugaré, muchas cosas aprenderé.",
+                    "riddle": "Pequeño y travieso soy, a jugar al patio voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERDO",
-                    "riddle": "Lleno de lodo estaré, en la granja viviré.",
+                    "riddle": "Lleno de lodo yo estoy, cuerpo rosadito soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GALLO",
-                    "riddle": "Por la mañana cantaré, a todo el mundo despertaré.",
+                    "riddle": "Gran madrugador yo soy, kikirikí siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2173,31 +2179,31 @@
             "puzzles": [
                 {
                     "word": "PERA",
-                    "riddle": "Muy jugosa siempre soy, forma de agua yo te doy.",
+                    "riddle": "Fruta muy dulce yo soy, forma de campana doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAIZ",
-                    "riddle": "Granos de oro tendré, ricas tortas hoy haré.",
+                    "riddle": "Granos amarillos soy, ricas palomitas doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARROZ",
-                    "riddle": "Muchos granos blancos soy, rico plato yo te doy.",
+                    "riddle": "Granos muy blancos seré, en el agua creceré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIMON",
-                    "riddle": "Cáscara amarilla tendré, muy amargo hoy seré.",
+                    "riddle": "Amarillito yo soy, jugo muy agrio te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "UVA",
-                    "riddle": "En racimos creceré, dulce vino yo seré.",
+                    "riddle": "Fruta pequeña seré, rico vino te daré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2213,31 +2219,31 @@
             "puzzles": [
                 {
                     "word": "BAHIA",
-                    "riddle": "Junto al mar me quedaré, barcos hoy recibiré.",
+                    "riddle": "Agua tranquila yo soy, a los barcos calma doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAMPO",
-                    "riddle": "Mucho pasto verde soy, mucha vida siempre doy.",
+                    "riddle": "Tierra muy verde seré, a las vacas cuidaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUENTE",
-                    "riddle": "Mucho agua brotaré, en la plaza brillaré.",
+                    "riddle": "Con mucha agua saldré, en la plaza me veré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POLO",
-                    "riddle": "Mucho hielo yo tendré, el camino marcaré.",
+                    "riddle": "Lleno de hielo yo estoy, un extremo frío soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUNDO",
-                    "riddle": "Giro y giro sin parar, todos me van a habitar.",
+                    "riddle": "Todo el planeta yo soy, vueltas en el cielo doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2253,31 +2259,31 @@
             "puzzles": [
                 {
                     "word": "FECHA",
-                    "riddle": "En el calendario estaré, tus momentos marcaré.",
+                    "riddle": "En tu calendario estaré, día y mes yo te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HORA",
-                    "riddle": "Sesenta minutos daré, tu jornada mediré.",
+                    "riddle": "Sesenta minutos soy, en tu gran reloj yo voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MES",
-                    "riddle": "Treinta días yo tendré, el tiempo hoy pasaré.",
+                    "riddle": "Treinta días juntaré, en tu año viviré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ENERO",
-                    "riddle": "El primer mes hoy seré, el nuevo año iniciaré.",
+                    "riddle": "El primer mes siempre soy, año nuevo inicio hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIN",
-                    "riddle": "Al final esperaré, todo lo terminaré.",
+                    "riddle": "Lo último siempre seré, todo cuento acabaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2293,25 +2299,25 @@
             "puzzles": [
                 {
                     "word": "ABRIL",
-                    "riddle": "Mucha lluvia yo daré, muchas flores traeré.",
+                    "riddle": "Cuarto mes del año soy, mucha lluvia siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAYO",
-                    "riddle": "Quinto mes del año soy, hermosas flores yo doy.",
+                    "riddle": "Quinto mes del año soy, muchas bellas flores doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OTOÑO",
-                    "riddle": "Muchas hojas tiraré, de colores pintaré.",
+                    "riddle": "Las hojas secas tiré, vientos fríos te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIENTO",
-                    "riddle": "Invisible siempre soy, mucha fuerza siempre doy.",
+                    "riddle": "Aire que sopla yo soy, empujando siempre voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2327,25 +2333,25 @@
             "puzzles": [
                 {
                     "word": "PIEL",
-                    "riddle": "Todo el cuerpo cubriré, tus sentidos cuidaré.",
+                    "riddle": "Carne y hueso cubriré, gran abrigo te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PORO",
-                    "riddle": "Muy pequeño siempre soy, por la piel saliendo voy.",
+                    "riddle": "Un agujerito yo soy, a tu gran sudor paso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PESTAÑA",
-                    "riddle": "Tus ojitos cuidaré, cada vez que parpadeé.",
+                    "riddle": "Pelos del ojo seré, del gran sol te cuidaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUELLO",
-                    "riddle": "Tu cabeza sostendré, con el tronco uniré.",
+                    "riddle": "Bajo tu cara yo estoy, giro a tu cabeza doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2361,25 +2367,25 @@
             "puzzles": [
                 {
                     "word": "TORO",
-                    "riddle": "Con mis cuernos lucharé, mucha fuerza mostraré.",
+                    "riddle": "Cuernos muy largos tendré, esposo de vaca seré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARPA",
-                    "riddle": "En el agua viviré, grandes saltos yo daré.",
+                    "riddle": "Pez de agua dulce yo soy, grandes nados siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "YAK",
-                    "riddle": "En el frío viviré, mucha carga llevaré.",
+                    "riddle": "Toro peludo yo soy, en alta montaña estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "KOI",
-                    "riddle": "De colores brillaré, en el agua nadaré.",
+                    "riddle": "Pez de colores yo soy, buena suerte siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2395,31 +2401,31 @@
             "puzzles": [
                 {
                     "word": "AGUJA",
-                    "riddle": "Muy delgada siempre soy, grandes puntos yo te doy.",
+                    "riddle": "Torre muy alta seré, hasta el cielo llegaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HOTEL",
-                    "riddle": "Muchas camas tendré, al viajero hospedaré.",
+                    "riddle": "Cuarto con cama te doy, un lugar de paso soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUERTO",
-                    "riddle": "Muchos barcos hoy veré, en el mar me quedaré.",
+                    "riddle": "Junto a las olas yo estoy, a los barcos ancla doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BARRIO",
-                    "riddle": "Muchas casas tengo hoy, un vecindario lindo soy.",
+                    "riddle": "Vecinos y casas yo soy, a tu vida paso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARRIL",
-                    "riddle": "El camino marcaré, tu carrera guiaré.",
+                    "riddle": "Línea de calle yo soy, paso a los coches doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2435,37 +2441,37 @@
             "puzzles": [
                 {
                     "word": "VOCAL",
-                    "riddle": "En las letras me veras, y mi nombre sentiras.",
+                    "riddle": "Una gran letra seré, con mi voz te cantaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADIO",
-                    "riddle": "Ondas invisibles soy, mucha música te doy.",
+                    "riddle": "Caja con música soy, las noticias siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RITMO",
-                    "riddle": "Con los pies me seguirás, y feliz hoy bailarás.",
+                    "riddle": "Velocidad siempre doy, el compás del baile soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AUDIO",
-                    "riddle": "Por tus oídos iré, mil sonidos llevaré.",
+                    "riddle": "Un buen sonido seré, por tu oído entraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSICA",
-                    "riddle": "Con notas te alegraré, mil canciones hoy haré.",
+                    "riddle": "Lindas canciones yo soy, alegría al alma doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CANTAR",
-                    "riddle": "Con mi voz entonaré, una copla hoy haré.",
+                    "riddle": "Bella canción formaré, con mi voz te alegraré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2481,37 +2487,37 @@
             "puzzles": [
                 {
                     "word": "CAJA",
-                    "riddle": "Soy cuadrada y de cartón, guardo todo en un montón.",
+                    "riddle": "Hecha de cartón seré, tus objetos guardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOGA",
-                    "riddle": "Nudos fuertes yo tendré, muchas cosas amarré.",
+                    "riddle": "Cuerda muy gruesa yo soy, nudos y amarres te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RELOJ",
-                    "riddle": "El tiempo te diré, sin descanso marcharé.",
+                    "riddle": "La hora exacta te doy, en tu muñeca yo voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MUSGO",
-                    "riddle": "Como alfombra verde soy, mucha sombra yo te doy.",
+                    "riddle": "Planta muy suave seré, a las rocas cubriré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MENTA",
-                    "riddle": "Mucho frescor hoy tendré, en tu dulce estaré.",
+                    "riddle": "Hoja muy fresca yo soy, al chicle sabor le doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MESA",
-                    "riddle": "Cuatro patas yo tendré, tu comida sostendré.",
+                    "riddle": "Cuatro patitas tendré, tu comida sostendré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2527,37 +2533,37 @@
             "puzzles": [
                 {
                     "word": "MIRA",
-                    "riddle": "Tus ojitos usarás, fijamente me verás.",
+                    "riddle": "Tus bellos ojos seré, todo el mundo miraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POR",
-                    "riddle": "Por el camino iré, a tu lado estaré.",
+                    "riddle": "Cerca de ti siempre estoy, a tu lado paso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JULIO",
-                    "riddle": "Con el sol yo llegaré, el verano traeré.",
+                    "riddle": "Mes de verano yo soy, gran calorcito te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VACIO",
-                    "riddle": "Dentro nada yo tendré, sin relleno quedaré.",
+                    "riddle": "Espacio hueco yo soy, nada adentro de mí doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CIELO",
-                    "riddle": "Mucha altura yo tendré, sobre todos estaré.",
+                    "riddle": "Azul y enorme yo soy, a las nubes paso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COMETA",
-                    "riddle": "Con mi cola brillaré, por el cielo volaré.",
+                    "riddle": "Luz en el cielo seré, muy fugaz yo volaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2573,43 +2579,43 @@
             "puzzles": [
                 {
                     "word": "JARRA",
-                    "riddle": "Mucha agua serviré, con mi asa te daré.",
+                    "riddle": "Llena de jugo yo soy, en tu vaso el agua doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLAVO",
-                    "riddle": "Con martillo llegaré, la madera uniré.",
+                    "riddle": "Cabeza plana tendré, la madera uniré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BOLSA",
-                    "riddle": "Muchas cosas cargaré, en la tienda estaré.",
+                    "riddle": "Para tus compras yo soy, tus objetos llevo hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BALDE",
-                    "riddle": "Lleno de agua estaré, el jardín regaré.",
+                    "riddle": "Cubo con asa yo soy, mucha agua siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CESTA",
-                    "riddle": "En el mimbre guardaré, ricas frutas llevaré.",
+                    "riddle": "Tejida a mano seré, muchas frutas guardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FRASCO",
-                    "riddle": "De cristal transparente soy, mi mermelada te doy.",
+                    "riddle": "Hecho de vidrio seré, mermeladas guardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PICO",
-                    "riddle": "En la mina estaré, la roca romperé.",
+                    "riddle": "Fuerte y de hierro seré, duras rocas romperé.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2625,43 +2631,43 @@
             "puzzles": [
                 {
                     "word": "ARPA",
-                    "riddle": "Muchas cuerdas tocaré, dulce música seré.",
+                    "riddle": "Muchas cuerdas yo tendré, música de ángel daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DOCENTE",
-                    "riddle": "En la escuela estaré, la lección enseñaré.",
+                    "riddle": "En la escuela estaré, muchas cosas te enseñaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CAJERO",
-                    "riddle": "El dinero cobraré, tu cambio te daré.",
+                    "riddle": "Todo el dinero tendré, lo que compras cobraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AGENTE",
-                    "riddle": "Al culpable buscaré, justicia yo haré.",
+                    "riddle": "Misiones raras haré, muchos tratos cerraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PINTOR",
-                    "riddle": "Con pincel trabajaré, lindos cuadros haré.",
+                    "riddle": "De mil colores yo soy, lindos cuadros siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PILOTO",
-                    "riddle": "Por el aire volaré, el avión guiaré.",
+                    "riddle": "Alto en el cielo yo voy, gran avión volando estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NANA",
-                    "riddle": "Para el niño cantaré, y así lo dormiré.",
+                    "riddle": "Dulce canción yo seré, para que duermas cantaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2677,49 +2683,49 @@
             "puzzles": [
                 {
                     "word": "ADIVINA",
-                    "riddle": "Tu futuro miraré, la verdad te diré.",
+                    "riddle": "Veo el futuro de hoy, muchas respuestas te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEMONIO",
-                    "riddle": "Del abismo hoy saldré, a las sombras volveré.",
+                    "riddle": "Monstruo del fuego yo soy, malos sustos siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CUENTO",
-                    "riddle": "Muy cortito siempre soy, aventuras te doy.",
+                    "riddle": "Historia corta seré, a los niños dormiré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VARITA",
-                    "riddle": "Hecha de madera soy, mucha magia te doy.",
+                    "riddle": "Magia y hechizos haré, con el mago brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALIAS",
-                    "riddle": "Otro nombre luciré, mi secreto guardaré.",
+                    "riddle": "Nombre de mentira soy, otra identidad te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DESEO",
-                    "riddle": "Si me pides cumpliré, lo que quieras daré.",
+                    "riddle": "Con el gran genio yo estoy, lo que me pidas te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZEUS",
-                    "riddle": "Con el rayo mandaré, en el cielo estaré.",
+                    "riddle": "Rey del Olimpo yo soy, a los truenos paso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TABU",
-                    "riddle": "Prohibido siempre soy, ningún nombre te doy.",
+                    "riddle": "Gran prohibición yo soy, de mí no te hablo hoy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2735,25 +2741,25 @@
             "puzzles": [
                 {
                     "word": "DECIR",
-                    "riddle": "Con la boca hablaré, la verdad te diré.",
+                    "riddle": "Con mi gran boca seré, mis palabras te diré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VOZ",
-                    "riddle": "Muy fuerte sonaré, por el aire iré.",
+                    "riddle": "De la garganta yo soy, un sonido siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CITA",
-                    "riddle": "A una hora quedaré, con mi amigo estaré.",
+                    "riddle": "Palabras de otro seré, sin dudar las repetiré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROCK",
-                    "riddle": "Con guitarras sonaré, mucho ritmo tendré.",
+                    "riddle": "Guitarra fuerte tendré, a bailar te invitaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2769,31 +2775,31 @@
             "puzzles": [
                 {
                     "word": "RICO",
-                    "riddle": "Mucho oro yo tendré, con fortuna viviré.",
+                    "riddle": "Mucho dinero tendré, oro fino compraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POBRE",
-                    "riddle": "Sin dinero viviré, nada en mano tendré.",
+                    "riddle": "Sin un centavo yo voy, muy humilde siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JOYA",
-                    "riddle": "Mucho brillo yo tendré, en el oro brillaré.",
+                    "riddle": "Piedra brillante seré, en anillos brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JUSTO",
-                    "riddle": "La verdad defenderé, lo correcto yo haré.",
+                    "riddle": "Sigo las reglas de hoy, un buen ciudadano soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PRECIO",
-                    "riddle": "Mucho dinero valdré, en la tienda estaré.",
+                    "riddle": "Todo el valor te diré, en la tienda cobraré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2809,37 +2815,37 @@
             "puzzles": [
                 {
                     "word": "CORCHO",
-                    "riddle": "En el agua flotaré, la botella cerraré.",
+                    "riddle": "En la botella yo voy, en el agua floto hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARENA",
-                    "riddle": "En la playa estaré, tus castillos haré.",
+                    "riddle": "Piedra molida seré, en la playa viviré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLIP",
-                    "riddle": "Los papeles uniré, de metal hoy seré.",
+                    "riddle": "Alambre curvo seré, tus papeles uniré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BARRO",
-                    "riddle": "Con el agua me haré, mil vasijas seré.",
+                    "riddle": "Tierra mojada yo soy, lodo y macetas te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POLVO",
-                    "riddle": "Muy liviano siempre soy, con el viento volando voy.",
+                    "riddle": "Sucio en el mueble yo estoy, volando por el aire voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HUMO",
-                    "riddle": "Gris y negro volaré, del incendio saldré.",
+                    "riddle": "Gris y muy denso seré, del gran fuego naceré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2855,37 +2861,37 @@
             "puzzles": [
                 {
                     "word": "CABLE",
-                    "riddle": "Mucha luz yo llevaré, al equipo uniré.",
+                    "riddle": "Hilo de cobre seré, electricidad daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JAULA",
-                    "riddle": "De metal siempre soy, ningún paso yo te doy.",
+                    "riddle": "De fierro duro yo soy, rejas y encierros te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RADAR",
-                    "riddle": "En el cielo buscaré, lo lejano encontraré.",
+                    "riddle": "Los aviones buscaré, con mi pantalla veré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RED",
-                    "riddle": "Muchos nudos tendré, en el mar pescaré.",
+                    "riddle": "Muy conectado yo estoy, el internet a ti doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MOVIL",
-                    "riddle": "En tu mano estaré, a tus amigos llamaré.",
+                    "riddle": "Un teléfono seré, en tu bolsillo andaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAREA",
-                    "riddle": "Con la luna subiré, en la playa estaré.",
+                    "riddle": "En el gran mar subo hoy, el agua a la costa doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2901,43 +2907,43 @@
             "puzzles": [
                 {
                     "word": "VISTA",
-                    "riddle": "Con mis ojos miraré, todo el mundo veré.",
+                    "riddle": "En tus dos ojos estoy, formas y colores doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GUSTO",
-                    "riddle": "En la lengua estaré, los sabores probaré.",
+                    "riddle": "En la lengua siempre estoy, mil sabores yo te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TACTO",
-                    "riddle": "Con mis manos sentiré, lo que toco cuidaré.",
+                    "riddle": "Con las manos sentiré, tu piel suave tocaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OLOR",
-                    "riddle": "Por el aire volaré, a tu nariz llegaré.",
+                    "riddle": "A tu nariz yo me voy, ricos perfumes te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OIDO",
-                    "riddle": "Por la oreja entraré, los sonidos escucharé.",
+                    "riddle": "Buen sonido escucharé, en tu oreja reinaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BRUMA",
-                    "riddle": "En el mar apareceré, el camino ocultaré.",
+                    "riddle": "Niebla ligera yo soy, a tapar tu vista voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACRE",
-                    "riddle": "Muy amargo siempre soy, fuerte aroma yo te doy.",
+                    "riddle": "Olor picante seré, tu nariz arrugaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2953,43 +2959,43 @@
             "puzzles": [
                 {
                     "word": "HACHA",
-                    "riddle": "Mucha madera cortaré, con mi filo brillaré.",
+                    "riddle": "Palo con filo seré, dura madera cortaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BROMA",
-                    "riddle": "Mucha risa yo daré, a mis amigos engañaré.",
+                    "riddle": "Muchas risas yo te doy, algo muy chistoso soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAILE",
-                    "riddle": "A tu cuerpo moveré, mucha fiesta hoy daré.",
+                    "riddle": "Mis dos pies moveré, linda danza formaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JAZZ",
-                    "riddle": "Con trompetas sonaré, mucho ritmo tendré.",
+                    "riddle": "Gran trompeta luciré, ritmo fresco tocaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "JEEP",
-                    "riddle": "Por el campo iré, mucha fuerza mostraré.",
+                    "riddle": "Todo terreno yo soy, por la montaña me voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ONIX",
-                    "riddle": "Muy oscuro siempre soy, lindo brillo yo te doy.",
+                    "riddle": "Piedra muy negra yo soy, gran belleza siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAXI",
-                    "riddle": "Por la calle buscaré, al pasajero llevaré.",
+                    "riddle": "Cobro por viaje de hoy, en la calle siempre voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3005,49 +3011,49 @@
             "puzzles": [
                 {
                     "word": "MODA",
-                    "riddle": "Ropa linda luciré, la tendencia marcaré.",
+                    "riddle": "El número siempre soy, que más veces sale hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RESTA",
-                    "riddle": "Números quitaré, el total bajaré.",
+                    "riddle": "Numeritos quitaré, tu gran cuenta bajaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LADO",
-                    "riddle": "A tu lado estaré, el camino seguiré.",
+                    "riddle": "Línea recta yo seré, el gran cuadrado formaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AREA",
-                    "riddle": "Dentro de mi estarás, mi espacio sentirás.",
+                    "riddle": "El gran espacio yo soy, medida exacta te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BASE",
-                    "riddle": "Debajo siempre estaré, todo el peso sostendré.",
+                    "riddle": "Parte de abajo seré, todo el peso sostendré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EJE",
-                    "riddle": "Sobre mi girará, la rueda no parará.",
+                    "riddle": "Línea en el centro seré, grandes giros te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARA",
-                    "riddle": "Toda frente mostraré, mi sonrisa te daré.",
+                    "riddle": "De la figura yo soy, lado visible te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUNTO",
-                    "riddle": "Al final esperaré, la oración cerraré.",
+                    "riddle": "Sin tener lado yo voy, marca pequeñita soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3063,49 +3069,49 @@
             "puzzles": [
                 {
                     "word": "TIGRE",
-                    "riddle": "Muchas rayas heredaré, en la selva reinaré.",
+                    "riddle": "Felino grande yo soy, rayas naranjas te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CEBRA",
-                    "riddle": "Pijama a rayas tendré, por el campo correré.",
+                    "riddle": "Un caballo gris no soy, rayas en blanco te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEON",
-                    "riddle": "Gran melena luciré, en la selva mandaré.",
+                    "riddle": "El gran rey felino soy, fuertes rugidos yo doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RIO",
-                    "riddle": "Mucha agua llevaré, al mar llegaré.",
+                    "riddle": "Corriente de agua seré, hasta el mar yo llegaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MONO",
-                    "riddle": "Por las ramas saltaré, mil bananas comeré.",
+                    "riddle": "Yo trepo árboles hoy, plátanos comiendo estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DODO",
-                    "riddle": "Al pasado yo me iré, extinguido quedaré.",
+                    "riddle": "Pájaro bobo seré, nunca en la vida volaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "POTRO",
-                    "riddle": "Por el campo correré, joven pingo hoy seré.",
+                    "riddle": "Caballo joven seré, a saltar aprenderé.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUMA",
-                    "riddle": "Por el monte saltaré, a la presa buscaré.",
+                    "riddle": "Gran felino siempre soy, en la montaña yo voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3121,49 +3127,49 @@
             "puzzles": [
                 {
                     "word": "TEXTO",
-                    "riddle": "Muchas letras enviaré, mi mensaje llegará.",
+                    "riddle": "Mensaje corto seré, en tu teléfono estaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORREO",
-                    "riddle": "En el sobre viajaré, a tu casa llegaré.",
+                    "riddle": "Lindas cartas llevaré, en tu buzón las dejaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHISME",
-                    "riddle": "Por el barrio correré, mil secretos contaré.",
+                    "riddle": "Cuento secreto seré, muy rápido correré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEBATE",
-                    "riddle": "Con palabras lucharé, mi razón defenderé.",
+                    "riddle": "Muchas opiniones doy, en la discusión yo estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIALOGO",
-                    "riddle": "Con amigos hablaré, muchas cosas contaré.",
+                    "riddle": "Conversación yo seré, mucha charla formaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEMA",
-                    "riddle": "Mi bandera seguiré, con orgullo gritaré.",
+                    "riddle": "Frase de grupo seré, tu atención atraparé.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLOG",
-                    "riddle": "Mis ideas escribiré, en la red las dejaré.",
+                    "riddle": "Sitio web escrito soy, muchos artículos doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FAX",
-                    "riddle": "Por el cable pasaré, mi copia te dejaré.",
+                    "riddle": "Mando papeles de hoy, por teléfono yo voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3179,49 +3185,49 @@
             "puzzles": [
                 {
                     "word": "ELITE",
-                    "riddle": "Al principio estaré, el mejor hoy seré.",
+                    "riddle": "El mejor grupo yo soy, mucho estatus siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NOBLE",
-                    "riddle": "Gran linaje heredaré, con bondad gobernaré.",
+                    "riddle": "Sangre muy azul tendré, a la reina serviré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "REINA",
-                    "riddle": "Lindo trono ocuparé, con mi cetro mandaré.",
+                    "riddle": "Con gran corona seré, mi castillo cuidaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIL",
-                    "riddle": "Mucha maldad tendré, el camino perderé.",
+                    "riddle": "Muy mala persona soy, cosas terribles yo doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DUQUE",
-                    "riddle": "Gran castillo tendré, al rey serviré.",
+                    "riddle": "En el castillo estaré, gran estatus luciré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CONDE",
-                    "riddle": "Lindo título tendré, en la corte estaré.",
+                    "riddle": "Título noble yo soy, como Drácula voy hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZAR",
-                    "riddle": "En palacio viviré, mucha nieve pisaré.",
+                    "riddle": "Rey poderoso seré, sobre Rusia reinaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BAJA",
-                    "riddle": "Del camino bajaré, al final llegaré.",
+                    "riddle": "Mi valor yo perderé, hacia el piso yo caeré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3237,55 +3243,55 @@
             "puzzles": [
                 {
                     "word": "COMPRA",
-                    "riddle": "En la tienda pagaré, muchas cosas llevaré.",
+                    "riddle": "En la tienda pagaré, muchas cosas me llevaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VENTA",
-                    "riddle": "Mi tesoro cambiaré, por dinero lo daré.",
+                    "riddle": "Por tu dinero yo voy, algo a cambio siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TOTAL",
-                    "riddle": "La suma completa soy, el resultado hoy doy.",
+                    "riddle": "Toda la cuenta seré, sin dudarla cobraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MONEDA",
-                    "riddle": "De metal brillante soy, mucha suerte siempre doy.",
+                    "riddle": "Redonda y de plata soy, mucho dinero te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHEQUE",
-                    "riddle": "Papel firmado daré, mucha plata pagaré.",
+                    "riddle": "Papel de banco seré, tu gran deuda pagaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BONO",
-                    "riddle": "Extra plata ganaré, mi trabajo premiaré.",
+                    "riddle": "Dinero extra seré, gran regalo te daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SELLO",
-                    "riddle": "En el sobre estaré, la carta cerraré.",
+                    "riddle": "De tinta roja seré, tu papel autorizaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DEUDA",
-                    "riddle": "Lo prestado devolveré, mucha plata pagaré.",
+                    "riddle": "Dinero que debes soy, tu cartera vacío hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUCRO",
-                    "riddle": "Gran ganancia obtendré, mucha plata ganaré.",
+                    "riddle": "Gran beneficio tendré, mucho oro ganaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3301,19 +3307,19 @@
             "puzzles": [
                 {
                     "word": "PASAJERO",
-                    "riddle": "En el tren viajaré, el paisaje miraré.",
+                    "riddle": "En el avión siempre voy, el gran viajero yo soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EQUIPO",
-                    "riddle": "A su lado lucharé, la victoria ganaré.",
+                    "riddle": "Un gran grupo siempre soy, junto a la victoria voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALIDA",
-                    "riddle": "Al final esperaré, el camino cerraré.",
+                    "riddle": "Letrero rojo seré, a la puerta te guiaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3329,37 +3335,37 @@
             "puzzles": [
                 {
                     "word": "SALUD",
-                    "riddle": "Muy fuerte estaré, mi cuerpo cuidaré.",
+                    "riddle": "Muy fuerte y sano seré, de la cama saltaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIDA",
-                    "riddle": "Desde que naceré, hasta que moriré.",
+                    "riddle": "Desde que naces yo soy, respirando siempre voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ALMA",
-                    "riddle": "Dentro de mi estaré, el cuerpo animaré.",
+                    "riddle": "Dentro de tu cuerpo estoy, fuego a tu espíritu doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUENO",
-                    "riddle": "El bien yo buscaré, lo correcto haré.",
+                    "riddle": "No tengo maldad de hoy, muy correcto siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PURO",
-                    "riddle": "Sin mancha estaré, muy blanco seré.",
+                    "riddle": "Cero suciedad te doy, limpio y transparente soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ZEN",
-                    "riddle": "Mucha paz tendré, en calma estaré.",
+                    "riddle": "Estado de calma soy, gran meditación te doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3375,37 +3381,37 @@
             "puzzles": [
                 {
                     "word": "BOCETO",
-                    "riddle": "Rayas locas haré, el cuadro iniciaré.",
+                    "riddle": "Dibujo rápido haré, y muy pronto pintaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TONO",
-                    "riddle": "Al color pintaré, el matiz le daré.",
+                    "riddle": "Matiz del color yo soy, brillo y diferencia doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FORMA",
-                    "riddle": "La silueta daré, el dibujo haré.",
+                    "riddle": "El gran contorno seré, a tu cuerpo moldearé.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OLEO",
-                    "riddle": "Sobre el lienzo estaré, con pincel pintaré.",
+                    "riddle": "En la pintura seré, mucho en secar tardaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIZA",
-                    "riddle": "En la pizarra estaré, de blanco pintaré.",
+                    "riddle": "Polvo muy blanco seré, el pizarrón pintaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FE",
-                    "riddle": "En el cielo creeré, mucha fe tendré.",
+                    "riddle": "Confianza ciega yo soy, esperanza en el alma doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3421,31 +3427,31 @@
             "puzzles": [
                 {
                     "word": "ACENTO",
-                    "riddle": "La tilde pondré, la voz subiré.",
+                    "riddle": "Un golpe fuerte seré, en la música brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CHELO",
-                    "riddle": "En el suelo estaré, con el arco tocaré.",
+                    "riddle": "Violín gigante seré, melodías cantaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AMPLI",
-                    "riddle": "Mucha fuerza daré, el sonido subiré.",
+                    "riddle": "Todo el sonido daré, muy fuerte retumbaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BANJO",
-                    "riddle": "Redondo yo seré, con el dedo tocaré.",
+                    "riddle": "Sonido de cuerdas doy, del campo gringo yo soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LAUD",
-                    "riddle": "En la corte estaré, mucha música daré.",
+                    "riddle": "Con forma de pera voy, buena musiquita doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3461,31 +3467,31 @@
             "puzzles": [
                 {
                     "word": "HECHIZO",
-                    "riddle": "Mucha magia haré, el destino cambiaré.",
+                    "riddle": "Magia de bruja seré, por el cielo volaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GENIO",
-                    "riddle": "En la lámpara estaré, tres deseos te daré.",
+                    "riddle": "En la gran lámpara estoy, tres grandes deseos doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OGRO",
-                    "riddle": "En el bosque viviré, a los niños asustaré.",
+                    "riddle": "Feo y gigante seré, en el bosque gritaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ELFO",
-                    "riddle": "Orejas de punta tendré, mucha magia yo haré.",
+                    "riddle": "Mágico y pequeño soy, picos en mi oreja doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EPICO",
-                    "riddle": "Mucha gloria tendré, la historia contaré.",
+                    "riddle": "De grandes héroes seré, aventura contaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3501,37 +3507,37 @@
             "puzzles": [
                 {
                     "word": "GOMA",
-                    "riddle": "Los errores borraré, de caucho yo seré.",
+                    "riddle": "Me estiro y salto de hoy, un buen borrador yo soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GAS",
-                    "riddle": "Invisible siempre soy, mucha energía hoy doy.",
+                    "riddle": "Aire invisible seré, a las nubes volaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LOSA",
-                    "riddle": "En el suelo estaré, tus pasos cuidaré.",
+                    "riddle": "Fiel baldosa fría soy, el suelo del baño doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIBRA",
-                    "riddle": "Mucha fuerza yo daré, al tejido uniré.",
+                    "riddle": "Delgada y de planta soy, la mejor ropa te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FIRME",
-                    "riddle": "Muy derecho estaré, no me moveré.",
+                    "riddle": "Duro y resistente soy, un soporte fuerte doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROMO",
-                    "riddle": "Sin punta quedaré, nada cortaré.",
+                    "riddle": "No tengo ni punta hoy, nada peligroso soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3547,31 +3553,31 @@
             "puzzles": [
                 {
                     "word": "AZABACHE",
-                    "riddle": "Muy negro brillaré, en la noche estaré.",
+                    "riddle": "Piedra muy oscura soy, color negro siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "HAZ",
-                    "riddle": "Mucha luz yo daré, el camino marcaré.",
+                    "riddle": "Línea de gran luz seré, todo cuarto brillaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AÑIL",
-                    "riddle": "Azul siempre seré, en el tinte estaré.",
+                    "riddle": "Tono oscuro del mar soy, bello color azul doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MATIZ",
-                    "riddle": "Al color cambiaré, un brillo le daré.",
+                    "riddle": "Tono de pintura soy, mi color exacto doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TENUE",
-                    "riddle": "Con suavidad brillaré, poco me veré.",
+                    "riddle": "Muy debilucha seré, poca luz proyectaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3587,31 +3593,31 @@
             "puzzles": [
                 {
                     "word": "ABISMO",
-                    "riddle": "Muy profundo estaré, al fondo llegaré.",
+                    "riddle": "Hoyo muy profundo soy, grandes sustos siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARROYO",
-                    "riddle": "Mucha agua llevaré, del monte bajaré.",
+                    "riddle": "Pequeño río seré, por el bosque correré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLUJO",
-                    "riddle": "Sin parar correré, al río llegaré.",
+                    "riddle": "Líquido veloz seré, nunca me detendré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CALA",
-                    "riddle": "En la costa estaré, tu arena lavaré.",
+                    "riddle": "Hermosa ensenada soy, en el mar descanso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "AGUA",
-                    "riddle": "De la nube caeré, tu sed quitaré.",
+                    "riddle": "En la botella yo voy, mucha calma a tu sed doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3627,25 +3633,25 @@
             "puzzles": [
                 {
                     "word": "VENDAVAL",
-                    "riddle": "Mucha fuerza tendré, los montes volaré.",
+                    "riddle": "Viento violento seré, a los árboles tiraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RAFAGA",
-                    "riddle": "Muy veloz pasaré, al monte volaré.",
+                    "riddle": "Fuerte viento siempre soy, rápidos soplidos doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROCIO",
-                    "riddle": "De mañana estaré, la hierba mojaré.",
+                    "riddle": "Humedad de hierba soy, en las mañanitas voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ARIDO",
-                    "riddle": "Muy seco estaré, agua pediré.",
+                    "riddle": "Seco y sin lluvia seré, el desierto formaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3661,31 +3667,31 @@
             "puzzles": [
                 {
                     "word": "GERMEN",
-                    "riddle": "Muy pequeño seré, la vida iniciaré.",
+                    "riddle": "Parte de semilla soy, nueva vida siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIVO",
-                    "riddle": "Mucha fuerza tendré, tu mundo animaré.",
+                    "riddle": "Lleno de salud estoy, respirando siempre voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PUPA",
-                    "riddle": "En el suelo estaré, bicho pronto seré.",
+                    "riddle": "En mi capullo estaré, mariposa me haré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LARVA",
-                    "riddle": "Por el suelo iré, bicho pronto seré.",
+                    "riddle": "Como gusanito soy, hoja por hoja me voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "NUCLEO",
-                    "riddle": "En el centro estaré, todo mandaré.",
+                    "riddle": "El gran centro formaré, a la célula mandaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3701,31 +3707,31 @@
             "puzzles": [
                 {
                     "word": "REJA",
-                    "riddle": "De metal me haré, la ventana cerraré.",
+                    "riddle": "Fuerte y de hierro seré, de ladrones cuidaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TAPETE",
-                    "riddle": "En la puerta estaré, tus pies limpiaré.",
+                    "riddle": "Bajo tus pies siempre voy, en la puerta limpio hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ACCESO",
-                    "riddle": "Por mi puerta entrarás, el camino verás.",
+                    "riddle": "A la gran entrada voy, paso a la casita doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LIBRE",
-                    "riddle": "Por el mundo iré, nada me parará.",
+                    "riddle": "Sin prisiones siempre voy, en el aire suelto estoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "VIGA",
-                    "riddle": "En el techo estaré, todo peso aguantaré.",
+                    "riddle": "Palo de madera soy, fuerza al techo siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3741,37 +3747,37 @@
             "puzzles": [
                 {
                     "word": "POCO",
-                    "riddle": "Casi nada tendré, pronto me acabaré.",
+                    "riddle": "Chiquito y escaso soy, casi nadita te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CERO",
-                    "riddle": "Nada yo valdré, la cuenta iniciaré.",
+                    "riddle": "Nada de número soy, la gran cuenta inicio hoy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PAR",
-                    "riddle": "Dos cosas seremos, juntos caminaremos.",
+                    "riddle": "Juntitos de dos en dos, un buen equipo los dos.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MAS",
-                    "riddle": "Mucho más daré, la cuenta subiré.",
+                    "riddle": "Símbolo de cruz seré, grandes sumas formaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FACTOR",
-                    "riddle": "Al final influiré, el resultado daré.",
+                    "riddle": "En la cuenta mandaré, multiplicar lograré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DIEZ",
-                    "riddle": "Dos manos sumaré, los dedos contaré.",
+                    "riddle": "Todos tus deditos soy, a la suma grande voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3787,31 +3793,31 @@
             "puzzles": [
                 {
                     "word": "HABLAR",
-                    "riddle": "Mi voz yo te daré, contigo charlaré.",
+                    "riddle": "De la boca el verbo soy, platicando siempre voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LISTA",
-                    "riddle": "Todo escribiré, lo que falta veré.",
+                    "riddle": "Muchos nombres formaré, todo te recordaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CARTA",
-                    "riddle": "En el sobre estaré, tu casa buscaré.",
+                    "riddle": "En el gran buzón estoy, en sobre de papel voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BREVE",
-                    "riddle": "Muy poco duraré, pronto acabaré.",
+                    "riddle": "Muy corto y veloz seré, rapidito acabaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DATO",
-                    "riddle": "La verdad te diré, un número te daré.",
+                    "riddle": "Pieza del saber seré, en tu mente me quedaré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3827,31 +3833,31 @@
             "puzzles": [
                 {
                     "word": "TAMBOR",
-                    "riddle": "Mucha fuerza me darás, al ritmo bailarás.",
+                    "riddle": "Con dos palos sonaré, el gran ritmo marcaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FLAUTA",
-                    "riddle": "Con el aire sonaré, mucha música daré.",
+                    "riddle": "Con muchos huecos seré, dulce silbido daré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ORGANO",
-                    "riddle": "Piano gigante seré, en la iglesia estaré.",
+                    "riddle": "De la iglesia rey seré, tubos de aire soplaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CORO",
-                    "riddle": "Muchos hoy cantaremos, al público alegraremos.",
+                    "riddle": "Gran grupo de voces soy, cantos hermosos te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "DJ",
-                    "riddle": "Mucha fiesta yo daré, los discos mezclaré.",
+                    "riddle": "Mezclo la música hoy, en la fiesta el rey yo soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3867,31 +3873,31 @@
             "puzzles": [
                 {
                     "word": "FRESCO",
-                    "riddle": "Muy nuevo siempre soy, linda cara te doy.",
+                    "riddle": "Limpio y nuevo siempre soy, buena brisa fresca doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BLANCO",
-                    "riddle": "Como la nieve seré, sin color me veré.",
+                    "riddle": "Como leche y nieve soy, a los polos color doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUCES",
-                    "riddle": "En la noche brillaré, el camino veré.",
+                    "riddle": "Focos encendidos soy, noche brillante te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "CLARO",
-                    "riddle": "Mucha luz yo tendré, todo el mundo veré.",
+                    "riddle": "Cielo despejado soy, luz perfecta siempre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LUZ",
-                    "riddle": "A la sombra quitaré, mucha vista daré.",
+                    "riddle": "Al cielo brillando voy, claridad de día doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3907,25 +3913,25 @@
             "puzzles": [
                 {
                     "word": "ARCOIRIS",
-                    "riddle": "En el cielo brillaré, de colores pintaré.",
+                    "riddle": "Puente en el cielo yo soy, siete colores te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SOLAZO",
-                    "riddle": "Mucho calor yo daré, al mediodía estaré.",
+                    "riddle": "Mucho gran calor te doy, rayo de verano soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COL",
-                    "riddle": "Hojas verdes tendré, en la ensalada estaré.",
+                    "riddle": "Redonda y muy verde seré, ensalada te haré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARISCO",
-                    "riddle": "Del oceano vendré, en el plato estaré.",
+                    "riddle": "Del océano yo soy, a tu plato rico voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3941,31 +3947,31 @@
             "puzzles": [
                 {
                     "word": "REFUGIO",
-                    "riddle": "A salvo te tendré, del frío cuidaré.",
+                    "riddle": "A todos cobijo doy, muy seguro siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GRADA",
-                    "riddle": "En el campo estaré, al público sentaré.",
+                    "riddle": "En todo estadio estaré, y a la gente sentaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "SALON",
-                    "riddle": "Espacio grande tendré, amigos recibiré.",
+                    "riddle": "Cuarto de la casa soy, gran espacio libre doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PISO",
-                    "riddle": "Debajo siempre estaré, tus pasos cuidaré.",
+                    "riddle": "Sobre el limpio suelo estoy, base a tus zapatos doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TINA",
-                    "riddle": "De agua me llenaré, tu cuerpo bañaré.",
+                    "riddle": "Agua y espuma tendré, el buen baño te daré.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3981,31 +3987,31 @@
             "puzzles": [
                 {
                     "word": "SERIO",
-                    "riddle": "Nunca me reiré, firme hoy estaré.",
+                    "riddle": "Risas nunca te daré, formal siempre seguiré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FEROZ",
-                    "riddle": "Como fiera seré, mucha rabia veré.",
+                    "riddle": "Agresivo y rudo soy, mordidas salvajes doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUDO",
-                    "riddle": "Tosco siempre seré, modales no tendré.",
+                    "riddle": "Tosco y muy pesado soy, cero de ternura doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "TIMIDO",
-                    "riddle": "Mucha pena tendré, al hablar callaré.",
+                    "riddle": "Mucha vergüenza te doy, a esconderme siempre voy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "OSADO",
-                    "riddle": "Valiente yo seré, el riesgo tomaré.",
+                    "riddle": "Mucha aventura yo soy, salto sin mi miedo hoy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -4021,31 +4027,31 @@
             "puzzles": [
                 {
                     "word": "PIVOTE",
-                    "riddle": "En el centro estaré, sobre mi giraré.",
+                    "riddle": "Línea de centro seré, dando vueltas giraré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "GIRO",
-                    "riddle": "Mucha vuelta daré, al eje volveré.",
+                    "riddle": "Un gran círculo daré, con las ruedas rodaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "LEVE",
-                    "riddle": "Casi nada pesaré, al aire volaré.",
+                    "riddle": "Pluma delgadita soy, muy poquito peso doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FUERTE",
-                    "riddle": "Mucha fuerza tendré, nada me romperé.",
+                    "riddle": "Con músculos sanos voy, poderoso siempre soy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "PLOMO",
-                    "riddle": "Gris y denso seré, al fondo iré.",
+                    "riddle": "Metal pesadito soy, duro peso siempre doy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -4061,25 +4067,25 @@
             "puzzles": [
                 {
                     "word": "MISION",
-                    "riddle": "Un encargo tendré, la meta lograre.",
+                    "riddle": "Tu gran tarea yo soy, grandes retos te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARCA",
-                    "riddle": "Mi huella dejaré, mi paso notaré.",
+                    "riddle": "En la libreta estaré, buena nota dejaré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "RUTAS",
-                    "riddle": "El camino seguiré, al destino llegaré.",
+                    "riddle": "Los caminitos yo soy, la dirección justa doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUSQUEDA",
-                    "riddle": "Por el mundo iré, al tesoro encontraré.",
+                    "riddle": "Investigando yo estoy, por las pistas siempre voy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -4095,31 +4101,31 @@
             "puzzles": [
                 {
                     "word": "TELON",
-                    "riddle": "Al final bajaré, la obra cerraré.",
+                    "riddle": "Muy rojo y brillante seré, en el teatro subiré.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "EXTRA",
-                    "riddle": "De fondo hoy estaré, nada yo diré.",
+                    "riddle": "De relleno siempre voy, en el fondo cine doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "BUFON",
-                    "riddle": "Al rey alegraré, mil bromas yo haré.",
+                    "riddle": "Rey de payasos yo soy, chistes de la corte doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ESCENA",
-                    "riddle": "Al escenario saldré, mi parte haré.",
+                    "riddle": "Parte de película soy, drama en la historia doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MIMO",
-                    "riddle": "En silencio estaré, con manos hablaré.",
+                    "riddle": "Manos en silencio doy, payasito mudo soy.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
