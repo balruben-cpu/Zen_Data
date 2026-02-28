@@ -524,14 +524,14 @@
         },
         {
             "level_id": 16,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "AVE",
-                    "riddle": "Tengo alas para volar, en el cielo me has de hallar.",
+                    "word": "GATO",
+                    "riddle": "Camino por el tejado, ando con mucho cuidado.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
