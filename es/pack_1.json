@@ -570,12 +570,6 @@
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "MALO",
-                    "riddle": "Hago travesuras hoy, muy desobediente soy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
                     "word": "RARO",
                     "riddle": "Muy extraño puedo ser, no soy fácil de entender.",
                     "riddle_hard": "",
@@ -594,8 +588,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "VALIENTE",
-                    "riddle": "No le tengo miedo a nada, saco mi genial espada.",
+                    "word": "TRANQUILO",
+                    "riddle": "Vivo sin ansiedad, con mucha felicidad.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
