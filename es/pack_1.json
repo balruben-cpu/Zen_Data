@@ -1079,13 +1079,13 @@
                 },
                 {
                     "word": "TELEVISION",
-                    "riddle": "Caja magica que transmite shows pantalla casera.",
-                    "riddle_hard": "Aparato que trae el mundo a tu sala.",
+                    "riddle": "Me ves desde el sillón, te traigo mucha diversión.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "MARCO",
-                    "riddle": "Me ves desde el sillón, te traigo mucha diversión.",
+                    "riddle": "Cuido tu foto colgada, en la pared decorada.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1094,7 +1094,7 @@
         },
         {
             "level_id": 31,
-            "grid_size": 5,
+            "grid_size": 7,
             "category": "Artes y Cultura",
             "subcategory": "Pantalla y Escenario",
             "complexity": 1.0,
@@ -1118,8 +1118,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "OBRA",
-                    "riddle": "En el teatro estaré, a todos divertiré.",
+                    "word": "CULPA",
+                    "riddle": "Te peso en el corazón, hasta que pides perdón.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
