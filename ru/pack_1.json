@@ -3,8 +3,8 @@
         {
             "level_id": 1,
             "grid_size": 4,
-            "category": "Ежедневный покой",
-            "subcategory": "Начало",
+            "category": "Ментальное",
+            "subcategory": "Познание",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -228,8 +228,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "СИЛЬНЫЙ",
-                    "riddle": "Любую тяжесть я стерплю, врага в два счёта одолю.",
+                    "word": "СЛУШАТЬ",
+                    "riddle": "Я звуки в уши пропущу, тебе все тайны сообщу.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -318,39 +318,39 @@
         },
         {
             "level_id": 11,
-            "grid_size": 6,
-            "category": "Природа",
-            "subcategory": "Горы",
+            "grid_size": 5,
+            "category": "Качества",
+            "subcategory": "Характер",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "ВЫСОКО",
-                    "riddle": "До земли не достаю, в небе птичек узнаю.",
-                    "riddle_hard": "",
+                    "word": "ГОРДЫЙ",
+                    "riddle": "Я радуюсь своим победам и достижениям.",
+                    "riddle_hard": "Чувство собственного достоинства и удовлетворения.",
                     "is_hard": false
                 },
                 {
-                    "word": "ПИК",
-                    "riddle": "Я вершина всех вершин, покорит меня один.",
-                    "riddle_hard": "",
+                    "word": "ХРАБРЫЙ",
+                    "riddle": "Я иду в бой, даже если мне страшно!",
+                    "riddle_hard": "Тот, кто смотрит опасности прямо в глаза.",
                     "is_hard": false
                 },
                 {
-                    "word": "КАМЕНЬ",
-                    "riddle": "Я тяжел и очень крепок, я горы далекой слепок.",
-                    "riddle_hard": "",
+                    "word": "ХИТРЫЙ",
+                    "riddle": "Я как лиса: умён, коварен и ловок.",
+                    "riddle_hard": "Обмануть других для меня — не грех, а искусство.",
                     "is_hard": false
                 },
                 {
-                    "word": "ЛЕЗТЬ",
-                    "riddle": "Вверх по скалам я ползу, страх и слабость не везу.",
-                    "riddle_hard": "",
+                    "word": "ЗЛОЙ",
+                    "riddle": "Я очень сердит и готов кричать!",
+                    "riddle_hard": "Мой разум затуманен яростью и гневом.",
                     "is_hard": false
                 },
                 {
-                    "word": "ЛЕТАТЬ",
-                    "riddle": "Крылья в небе распахну, в облака я загляну.",
-                    "riddle_hard": "",
+                    "word": "ГОРДЫЙ",
+                    "riddle": "Я слишком люблю смотреть на себя в зеркало.",
+                    "riddle_hard": "Чрезмерно высокого мнения о своей персоне.",
                     "is_hard": true
                 }
             ],
@@ -360,7 +360,7 @@
             "level_id": 12,
             "grid_size": 7,
             "category": "Природа",
-            "subcategory": "Пустыня",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -385,12 +385,6 @@
                     "word": "БЛЕСК",
                     "riddle": "Я в глаза тебе свечу, ярким зайчиком лечу.",
                     "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "УТОЛИТЬ",
-                    "riddle": "Дам воды напиться вволю, жажду влагой я умою.",
-                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -400,7 +394,7 @@
             "level_id": 13,
             "grid_size": 6,
             "category": "Природа",
-            "subcategory": "Поле",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -411,7 +405,7 @@
                 },
                 {
                     "word": "ОТКРЫТО",
-                    "riddle": "Грезам в ней я предаюсь, до утра я задержусь.",
+                    "riddle": "Ветру я навстречу встану, взором в небо я загляну.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -423,13 +417,13 @@
                 },
                 {
                     "word": "БЕГ",
-                    "riddle": "Мчусь быстрее ветра я, позади уже скамья.",
+                    "riddle": "Мчусь быстрее ветра я, не догонят вмиг друзья.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МЯГКИЙ",
-                    "riddle": "Нежный, словно пух, я весь, спать на мне — благая весть.",
+                    "riddle": "Словно пух, ложусь у ног, отдохни на мне, дружок.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -440,7 +434,7 @@
             "level_id": 14,
             "grid_size": 7,
             "category": "Природа",
-            "subcategory": "Цветок",
+            "subcategory": "Флора",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -478,33 +472,27 @@
         },
         {
             "level_id": 15,
-            "grid_size": 7,
+            "grid_size": 5,
             "category": "Природа",
-            "subcategory": "Жуки",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "МУРАВЕЙ",
-                    "riddle": "Строю дом из веток я, дружная моя семья.",
+                    "riddle": "Я ношу листок большой, и тружусь всегда с душой.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ЖУК",
-                    "riddle": "Я жужжу и я лечу, сесть на листик я хочу.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "УЛЕЙ",
-                    "riddle": "Пчелам домик я даю, мёд внутри себя таю.",
+                    "word": "БЫК",
+                    "riddle": "Грозно я мычу в лугах, сила вся в моих рогах.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВШИ",
-                    "riddle": "Крошечный вредитель на волосах.",
-                    "riddle_hard": "Нежелательный школьный сувенир.",
+                    "riddle": "В твоей причёске я скачу, чесать макушку научу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -520,7 +508,7 @@
             "level_id": 16,
             "grid_size": 6,
             "category": "Природа",
-            "subcategory": "Птицы",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -560,7 +548,7 @@
             "level_id": 17,
             "grid_size": 6,
             "category": "Природа",
-            "subcategory": "Пещера",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -571,7 +559,7 @@
                 },
                 {
                     "word": "МЫШЬ",
-                    "riddle": "Шкурка в бархат убрана, косточка во мне одна.",
+                    "riddle": "В серой шубке пробегу, сыр на кухне украду.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -600,18 +588,18 @@
             "level_id": 18,
             "grid_size": 7,
             "category": "Природа",
-            "subcategory": "Болото",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ГРЯЗЬ",
-                    "riddle": "Если дождь пойдет с утра, на ногах я — тут как тут.",
+                    "riddle": "Если дождь пойдет с утра, стану липкой я, ура!",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРОМОК",
-                    "riddle": "На ногах я вмиг зажгусь, в быстром беге я найдусь.",
+                    "riddle": "Дождь прошёл, и я до нитки мокрым стал у той калитки.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -640,7 +628,7 @@
             "level_id": 19,
             "grid_size": 6,
             "category": "Природа",
-            "subcategory": "Вулкан",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -657,8 +645,8 @@
                 },
                 {
                     "word": "АЛЫЙ",
-                    "riddle": "Цвет спелого яблока.",
-                    "riddle_hard": "Злой оттенок вулкана.",
+                    "riddle": "Цветом крови я горю, жаром камни растворю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -680,7 +668,7 @@
             "level_id": 20,
             "grid_size": 6,
             "category": "Природа",
-            "subcategory": "Радуга",
+            "subcategory": "Климат",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -719,7 +707,7 @@
         {
             "level_id": 21,
             "grid_size": 8,
-            "category": "Дом и Жизнь",
+            "category": "Дом",
             "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
@@ -759,8 +747,8 @@
         {
             "level_id": 22,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Утро",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -799,8 +787,8 @@
         {
             "level_id": 23,
             "grid_size": 6,
-            "category": "Дом и Жизнь",
-            "subcategory": "Сад",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -823,7 +811,7 @@
                 },
                 {
                     "word": "ШЛАНГ",
-                    "riddle": "Я как змей в саду лежу, и водой я брызжу.",
+                    "riddle": "Длинной змейкой я лежу, грядки влагой награжу.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -839,8 +827,8 @@
         {
             "level_id": 24,
             "grid_size": 6,
-            "category": "Дом и Жизнь",
-            "subcategory": "Гостиная",
+            "category": "Дом",
+            "subcategory": "Приют",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -879,8 +867,8 @@
         {
             "level_id": 25,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Спальня",
+            "category": "Дом",
+            "subcategory": "Приют",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -925,8 +913,8 @@
         {
             "level_id": 26,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Уборка",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -965,19 +953,19 @@
         {
             "level_id": 27,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Письмо",
+            "category": "Дом",
+            "subcategory": "Инструменты",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "РУЧКА",
-                    "riddle": "Путь по кругу я черчу, и к планетам я лечу.",
+                    "riddle": "По бумаге я бегу, буквы складывать могу.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЧЕРНИЛА",
-                    "riddle": "Я искрой ночной свечусь, согревать тебя учусь.",
+                    "riddle": "Синим цветом я нальюсь, в ручке каплей я таюсь.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1005,7 +993,7 @@
         {
             "level_id": 28,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
+            "category": "Дом",
             "subcategory": "Инструменты",
             "complexity": 1.0,
             "puzzles": [
@@ -1051,8 +1039,8 @@
         {
             "level_id": 29,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Питомцы",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1069,7 +1057,7 @@
                 },
                 {
                     "word": "СТАЯ",
-                    "riddle": "Вместе мы — одна семья, друг за друга мы горой.",
+                    "riddle": "Вместе мы — одна семья, волки — лучшие друзья.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1097,8 +1085,8 @@
         {
             "level_id": 30,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Музыка",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1143,8 +1131,8 @@
         {
             "level_id": 31,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Хобби",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1179,7 +1167,7 @@
                 },
                 {
                     "word": "ПАЗЛ",
-                    "riddle": "Собери мои фрагменты, и увидишь моменты.",
+                    "riddle": "Детали вместе собери, на всю картину посмотри.",
                     "riddle_hard": "",
                     "is_hard": false
                 }
@@ -1189,8 +1177,8 @@
         {
             "level_id": 32,
             "grid_size": 8,
-            "category": "Дом и Жизнь",
-            "subcategory": "Чердак",
+            "category": "Дом",
+            "subcategory": "Приют",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1235,8 +1223,8 @@
         {
             "level_id": 33,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Семья",
+            "category": "Ментальное",
+            "subcategory": "Социализация",
             "complexity": 4.199999809265137,
             "puzzles": [
                 {
@@ -1275,8 +1263,8 @@
         {
             "level_id": 34,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Выпечка",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 4.300000190734863,
             "puzzles": [
                 {
@@ -1315,9 +1303,9 @@
         {
             "level_id": 35,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Живопись",
-            "complexity": 4.400000095367432,
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КРАСКА",
@@ -1327,7 +1315,7 @@
                 },
                 {
                     "word": "КИСТЬ",
-                    "riddle": "Волос есть — головы нет, я художнику аскет.",
+                    "riddle": "Хвостом пушистым я махну, цветную линию тяну.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1355,8 +1343,8 @@
         {
             "level_id": 36,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Ремесло",
+            "category": "Дом",
+            "subcategory": "Инструменты",
             "complexity": 4.5,
             "puzzles": [
                 {
@@ -1395,9 +1383,9 @@
         {
             "level_id": 37,
             "grid_size": 7,
-            "category": "Дом и Жизнь",
-            "subcategory": "Учеба",
-            "complexity": 4.599999904632568,
+            "category": "Ментальное",
+            "subcategory": "Познание",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "УЧИТЬ",
@@ -1435,8 +1423,8 @@
         {
             "level_id": 38,
             "grid_size": 9,
-            "category": "Дом и Жизнь",
-            "subcategory": "Ванна",
+            "category": "Дом",
+            "subcategory": "Приют",
             "complexity": 4.699999809265137,
             "puzzles": [
                 {
@@ -1475,8 +1463,8 @@
         {
             "level_id": 39,
             "grid_size": 6,
-            "category": "Дом и Жизнь",
-            "subcategory": "Отдых",
+            "category": "Тело",
+            "subcategory": "Благополучие",
             "complexity": 4.800000190734863,
             "puzzles": [
                 {
@@ -1515,8 +1503,8 @@
         {
             "level_id": 40,
             "grid_size": 6,
-            "category": "Дом и Жизнь",
-            "subcategory": "Простая жизнь",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 4.900000095367432,
             "puzzles": [
                 {
@@ -1555,9 +1543,9 @@
         {
             "level_id": 41,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Овощи",
-            "complexity": 5.0,
+            "category": "Дом",
+            "subcategory": "Кухня",
+            "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КУКУРУЗА",
@@ -1579,7 +1567,7 @@
                 },
                 {
                     "word": "РОСТОК",
-                    "riddle": "Из земли я вылезаю, к солнцу листики вздымаю.",
+                    "riddle": "Первым к свету пробиваюсь, новой жизнью наливаюсь.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1595,8 +1583,8 @@
         {
             "level_id": 42,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Фрукты",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 5.099999904632568,
             "puzzles": [
                 {
@@ -1619,7 +1607,7 @@
                 },
                 {
                     "word": "ИЗЮМ",
-                    "riddle": "Я вобрал всё солнце впрок, высушен я в должный срок.",
+                    "riddle": "Виноградом был в саду, сладким стал я на беду.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1635,8 +1623,8 @@
         {
             "level_id": 43,
             "grid_size": 6,
-            "category": "Сад и Еда",
-            "subcategory": "Травы",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 5.199999809265137,
             "puzzles": [
                 {
@@ -1675,8 +1663,8 @@
         {
             "level_id": 44,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Урожай",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1715,8 +1703,8 @@
         {
             "level_id": 45,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Рынок",
+            "category": "Общество",
+            "subcategory": "Экономика",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1755,8 +1743,8 @@
         {
             "level_id": 46,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Закуска",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1773,7 +1761,7 @@
                 },
                 {
                     "word": "ПИЖАМА",
-                    "riddle": "Грезам в ней я предаюсь, до утра я задержусь.",
+                    "riddle": "В мягкий хлопок наряжусь, в сон глубокий погружусь.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1785,7 +1773,7 @@
                 },
                 {
                     "word": "КЕДЫ",
-                    "riddle": "На ногах я вмиг зажгусь, в быстром беге я найдусь.",
+                    "riddle": "Шнурки туго завяжу, на пробежку выхожу.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1795,8 +1783,8 @@
         {
             "level_id": 47,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Сок",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1807,7 +1795,7 @@
                 },
                 {
                     "word": "СДЕЛКА",
-                    "riddle": "Руки крепко мы пожмем, договор мы заключим.",
+                    "riddle": "Руки крепко мы пожмем, к соглашенью мы придем.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1819,7 +1807,7 @@
                 },
                 {
                     "word": "ТОВАР",
-                    "riddle": "На полке я долго жду, и купцу я угожу.",
+                    "riddle": "На витрине я блещу, покупателя ищу.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1835,8 +1823,8 @@
         {
             "level_id": 48,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Пекарня",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1875,8 +1863,8 @@
         {
             "level_id": 49,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Пикник",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1887,7 +1875,7 @@
                 },
                 {
                     "word": "КОВРИК",
-                    "riddle": "На траве лежу цветной, ты садись-ка на меня.",
+                    "riddle": "На траве лежу цветной, ты садись-ка, друг, со мной.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1905,7 +1893,7 @@
                 },
                 {
                     "word": "КОРЗИНА",
-                    "riddle": "Я грибы и ягоды в животе своем ношу.",
+                    "riddle": "Я грибы сгребаю в брюшко, лесовиц твоя подружка.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -1915,8 +1903,8 @@
         {
             "level_id": 50,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Теплый суп",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1939,7 +1927,7 @@
                 },
                 {
                     "word": "ПОКОЙ",
-                    "riddle": "Тишина и благодать, лучше чувства не сыскать.",
+                    "riddle": "В чашке с паром я таюсь, тихо в сердце разольюсь.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1955,8 +1943,8 @@
         {
             "level_id": 51,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Мед",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1995,8 +1983,8 @@
         {
             "level_id": 52,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Время чая",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2035,8 +2023,8 @@
         {
             "level_id": 53,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Специи",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2075,8 +2063,8 @@
         {
             "level_id": 54,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Завтрак",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2087,14 +2075,14 @@
                 },
                 {
                     "word": "ОВЁС",
-                    "riddle": "Кашу из меня свари, силушку богатыри.",
+                    "riddle": "Кашу из меня свари, силу пей, богатыри!",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МОЛОКО",
-                    "riddle": "Жидкое облако в стакане.",
-                    "riddle_hard": "Облака в стакане.",
+                    "riddle": "В чашку белым водопадом, я прольюсь с печеньем рядом.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2115,8 +2103,8 @@
         {
             "level_id": 55,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Ваза с фруктами",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2133,7 +2121,7 @@
                 },
                 {
                     "word": "ПЕРСИК",
-                    "riddle": "Закат со сладким сердцем.",
+                    "riddle": "Бок румяный я подставлю, соком сладким позабавлю.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -2145,8 +2133,8 @@
                 },
                 {
                     "word": "ИНЖИР",
-                    "riddle": "Сладкий, зернистый фрукт с дерева.",
-                    "riddle_hard": "Фиолетовое угощение из солнечной страны.",
+                    "riddle": "В фиолетовой рубашке, слаще меда я в фуражке.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2155,26 +2143,26 @@
         {
             "level_id": 56,
             "grid_size": 6,
-            "category": "Сад и Еда",
-            "subcategory": "Фруктовый сад",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "РОЩА",
-                    "riddle": "Малёнький лес фруктовых деревьев.",
-                    "riddle_hard": "Тенистая комната, построенная из ветвей.",
+                    "riddle": "Деревцами я полна, тут гуляет тишина.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КАПЛЯ",
-                    "riddle": "Крошечная бусина жидкого дождя.",
-                    "riddle_hard": "Отпускать с высокой ветки.",
+                    "riddle": "С тучи серой я сорвусь, в лужу чистую ворвусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СБОР",
-                    "riddle": "Спасение сладости.",
-                    "riddle_hard": "Спасение сладости.",
+                    "riddle": "Я плоды в корзину прячу, чтоб исполнить всю задачу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2185,7 +2173,7 @@
                 },
                 {
                     "word": "КОЖУРА",
-                    "riddle": "Броня для хрупкого фрукта.",
+                    "riddle": "Я снаружи овощ скрою, и от глаз его укрою.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2195,8 +2183,8 @@
         {
             "level_id": 57,
             "grid_size": 7,
-            "category": "Сад и Еда",
-            "subcategory": "Готовка",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2207,26 +2195,26 @@
                 },
                 {
                     "word": "СКОВОРОДА",
-                    "riddle": "Металлическая сцена для жара.",
-                    "riddle_hard": "Металлическая сцена для жара.",
+                    "riddle": "На огне я так шкварчу, жарить вкусно я хочу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МАСЛО",
-                    "riddle": "Дождь, который заставляет огонь прыгать.",
-                    "riddle_hard": "Дождь, который заставляет огонь прыгать.",
+                    "riddle": "Желтым кубиком растаю, кашу вкусом пропитаю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШАХТА",
-                    "riddle": "Копать глубоко за блестящим углем.",
-                    "riddle_hard": "Место, где прячутся алмазы.",
+                    "riddle": "Глубоко в землице скроюсь, уголькам я там откроюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЕЦЕПТ",
-                    "riddle": "Карта к идеальному блюду.",
-                    "riddle_hard": "Карта к идеальному блюду.",
+                    "riddle": "Я по пунктам расскажу, как готовить научу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2235,38 +2223,38 @@
         {
             "level_id": 58,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Сладкие угощения",
+            "category": "Дом",
+            "subcategory": "Кухня",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "БУЛОЧКА",
-                    "riddle": "Малёнькая выпечка к чаю.",
-                    "riddle_hard": "Рассыпчатое печенье с джемом и кремом.",
+                    "riddle": "Пышным боком я маню, с чаем вместе вас кормлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ФЛАН",
-                    "riddle": "Дрожащий заварной крем с золотой карамелью.",
-                    "riddle_hard": "Кремовая луна, истекающая жидким янтарем.",
+                    "riddle": "В карамели я дрожу, нежным вкусом заслужу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПИРОГ",
-                    "riddle": "Десерт, который ты найдешь в учебнике математики.",
-                    "riddle_hard": "Круговой аргумент, решаемый вилкой.",
+                    "riddle": "Из печи румяным выйду, не отдам я вас в обиду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КОНФЕТА",
-                    "riddle": "Сахарные угощения в ярких обертках.",
-                    "riddle_hard": "Сладкая награда за доброе дело.",
+                    "riddle": "В фантик яркий я закроюсь, сладостью своей откроюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СЛАДОСТИ",
-                    "riddle": "Сладкие награды с полки.",
-                    "riddle_hard": "Съедобный улов, который ты несешь в пластике.",
+                    "riddle": "Мы лежим на полке в ряд, привлекаем каждый взгляд.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2275,32 +2263,32 @@
         {
             "level_id": 59,
             "grid_size": 6,
-            "category": "Сад и Еда",
-            "subcategory": "Ферма",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "АМБАР",
-                    "riddle": "Гигантский дом для животных.",
-                    "riddle_hard": "Гигантский дом для животных.",
+                    "riddle": "Двери настежь распахну, сено в зиму я спасу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ОВЦА",
-                    "riddle": "Шерстяное фермерское животное.",
-                    "riddle_hard": "Облако, гуляющее по зелёным холмам.",
+                    "riddle": "В теплой шубке я хожу, на лугу траву жую.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СВИНЬЯ",
-                    "riddle": "Кудрявый хвост в грязи.",
-                    "riddle_hard": "Кудрявый хвост в грязи.",
+                    "riddle": "Пятачком я в грязь уткнусь, хрюкну громко и напьюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "УТКА",
-                    "riddle": "Птица в оранжевых туфлях.",
-                    "riddle_hard": "Птица в оранжевых туфлях.",
+                    "riddle": "Крякну громко поутру, клювом в лужу окуну.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2315,26 +2303,26 @@
         {
             "level_id": 60,
             "grid_size": 8,
-            "category": "Сад и Еда",
-            "subcategory": "Солнечный урожай",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ДЕЛИТЬ",
-                    "riddle": "Отдать часть своего другу.",
-                    "riddle_hard": "Разделить одну вещь на две части.",
+                    "riddle": "Пополам я всё сломаю, другу часть я предлагаю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПИР",
-                    "riddle": "Когда стол стонет от радости.",
-                    "riddle_hard": "Когда стол стонет от радости.",
+                    "riddle": "Полный стол я накрываю, всех на праздник собираю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГОТОВО",
-                    "riddle": "Конец долгой дороги.",
-                    "riddle_hard": "Конец долгой дороги.",
+                    "riddle": "Дело с честью завершу, и об этом расскажу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2345,8 +2333,8 @@
                 },
                 {
                     "word": "ТИХО",
-                    "riddle": "Тихо, как в спящем лесу.",
-                    "riddle_hard": "Тихо, как в спящем лесу.",
+                    "riddle": "Не шумлю и не кричу, в уголочке я молчу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2355,38 +2343,38 @@
         {
             "level_id": 61,
             "grid_size": 7,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Хищники",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЛЕВ",
-                    "riddle": "Рык, который сотрясает воздух.",
-                    "riddle_hard": "Король с гривой.",
+                    "riddle": "С пышной гривой я лежу, за саванною слежу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВОЛК",
-                    "riddle": "Серая тень в соснах.",
-                    "riddle_hard": "Серая тень в соснах.",
+                    "riddle": "Серым братом по лесам, я луне воюю сам.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ОХОТА",
-                    "riddle": "Игра в прятки на выживание.",
-                    "riddle_hard": "Игра в прятки.",
+                    "riddle": "За добычей я крадусь, без нее я не вернусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЫСТРО",
-                    "riddle": "Быстро как моргание или сердцебиение.",
-                    "riddle_hard": "Моргни, и ты пропустишь движение.",
+                    "riddle": "Ветром в поле пронесусь, в тот же миг я возвращусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЖЕРТВА",
-                    "riddle": "Тихая прогулка перед прыжком.",
-                    "riddle_hard": "Тихая прогулка перед прыжком.",
+                    "riddle": "В страхе прячусь под кустом, сберегаю я свой дом.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2395,32 +2383,32 @@
         {
             "level_id": 62,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Птицы",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЯСТРЕБ",
-                    "riddle": "Стрела, сделанная из перьев.",
-                    "riddle_hard": "Стрела из перьев.",
+                    "riddle": "Свысока за всем слежу, камнем вниз я навожу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВОРОН",
-                    "riddle": "Большая, умная, черная птица.",
-                    "riddle_hard": "Тёмный вестник в старых историях.",
+                    "riddle": "Черной птицей прокричу, тайну старую шепчу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПЕРО",
-                    "riddle": "Одно большое, мягкое перо.",
-                    "riddle_hard": "Струйка дыма, поднимающаяся вверх.",
+                    "riddle": "Птице в небе я служу, а потом письмо пишу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПАРИТЬ",
-                    "riddle": "Скользить там, где живут облака.",
-                    "riddle_hard": "Скользить там, где живут облака.",
+                    "riddle": "Раскину крылья широко, улечу я далеко.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2435,38 +2423,38 @@
         {
             "level_id": 63,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Рептилии",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КЛЫК",
-                    "riddle": "Игла, которая кусает.",
-                    "riddle_hard": "Игла, которая кусает.",
+                    "riddle": "Зубом острым я торчу, впиться в мясо я хочу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КОЛЬЦО",
-                    "riddle": "Веревка, которая живет и движется.",
-                    "riddle_hard": "Веревка, которая живет и движется.",
+                    "riddle": "Круглой формой я горжусь, блеском на руке держусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШИПЕТЬ",
-                    "riddle": "Звук выходящего воздуха.",
-                    "riddle_hard": "Звук выходящего воздуха.",
+                    "riddle": "Как змея я звук издам, если тронешь — сдачи дам.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЧЕШУЯ",
-                    "riddle": "Один крошечный кусок брони на коже змеи.",
-                    "riddle_hard": "Один крошечный кусок брони на коже змеи.",
+                    "riddle": "Мокрой рыбке как броня, защищаю я блестя.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КОЖА",
-                    "riddle": "Щит на спине дракона.",
-                    "riddle_hard": "Щит на спине дракона.",
+                    "riddle": "Тело мягко обойму, от царапин сберегу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2475,20 +2463,20 @@
         {
             "level_id": 64,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Насекомые",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "МОШКА",
-                    "riddle": "Крошечный, надоедливый летающий жук.",
-                    "riddle_hard": "Пятнышко жизни с малёнькими крыльями.",
+                    "riddle": "Я над ухом зазвеню, спать тебе я не даю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ОСА",
-                    "riddle": "Полосатый жук со злым жалом.",
-                    "riddle_hard": "Жёлтый пилот в бумажном гнезде.",
+                    "riddle": "В платье желтое одета, жалю больно жарким летом.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2499,13 +2487,13 @@
                 },
                 {
                     "word": "НАСЕКОМОЕ",
-                    "riddle": "Бронированный призрак в траве.",
-                    "riddle_hard": "Бронированный призрак в траве.",
+                    "riddle": "С шестью лапами бегу, по травинке я могу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "УЛИТКА",
-                    "riddle": "Я в реке плаву легко, шубка греет глубоко.",
+                    "riddle": "Домик на спине я трю, очень медленно ползу.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2515,38 +2503,38 @@
         {
             "level_id": 65,
             "grid_size": 7,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Питомцы",
+            "category": "Дом",
+            "subcategory": "Привычки/Питомцы",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КОТЁНОК",
-                    "riddle": "Бархатные туфельки и крошечные когти.",
-                    "riddle_hard": "Бархатные туфельки и крошечные когти.",
+                    "riddle": "Молоко из блюдца пью, нитки лапой я ловлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГОНЧАЯ",
-                    "riddle": "Умная охотничья собака, которая идет по слёду.",
-                    "riddle_hard": "Пес с очень хорошим носом.",
+                    "riddle": "Чутким носом слёд найду, цель настигну на ходу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МУР",
-                    "riddle": "Мотор в довольном сердце.",
-                    "riddle_hard": "Мотор в довольном сердце.",
+                    "riddle": "Песней нежной зазвучу, на коленях я урчу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РУЧНОЙ",
-                    "riddle": "Друг камина.",
-                    "riddle_hard": "Друг камина.",
+                    "riddle": "Людям я всегда служу, с человеком я дружу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МЕХ",
-                    "riddle": "Теплое одеяло, которое растет.",
-                    "riddle_hard": "Теплое одеяло, которое растет.",
+                    "riddle": "Теплой шкуркой обогрею, в зимний холод не робею.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2555,38 +2543,38 @@
         {
             "level_id": 66,
             "grid_size": 7,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Арктика",
+            "category": "Природа",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "МЕДВЕДЬ",
-                    "riddle": "Король белой пустыни.",
-                    "riddle_hard": "Король белой пустыни.",
+                    "riddle": "Белой шерстью я покрыт, среди льдов мой путь лежит.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ИНЕЙ",
-                    "riddle": "Белые лёдяные кристаллы на траве.",
-                    "riddle_hard": "Холодная и сверкающая пыль зимы.",
+                    "riddle": "Серебром ветви покрою, зимней сказкой им открою.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ТЮЛЁНЬ",
-                    "riddle": "Собака, которая живет в море.",
-                    "riddle_hard": "Собака, которая живет в море.",
+                    "riddle": "Толстым слоем жира скрыт, на камнях мой аппетит.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЕЗКИЙ",
-                    "riddle": "Когда ветер холодный и быстрый.",
-                    "riddle_hard": "Когда ветер холодный и быстрый.",
+                    "riddle": "Ветром бью тебе в лицо, снегом бьюсь в твое крыльцо.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КИТ",
-                    "riddle": "Гора в глубокой синеве.",
-                    "riddle_hard": "Гора в глубокой синеве.",
+                    "riddle": "В океане я плыву, фонтан к небу я пущу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2595,26 +2583,26 @@
         {
             "level_id": 67,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Саванна",
+            "category": "Природа",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЗЕБРА",
-                    "riddle": "Картина на четырех ногах.",
-                    "riddle_hard": "Картина на четырех ногах.",
+                    "riddle": "В черно-белую полоску, я бегу через березку.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГИГАНТ",
-                    "riddle": "Очень, очень большой и сильный.",
-                    "riddle_hard": "Человек или вещь огромного размера.",
+                    "riddle": "Выше гор я поднимусь, до небес я дотянусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДЕРН",
-                    "riddle": "Слой травы и ее корней.",
-                    "riddle_hard": "Зелёный ковер стадиона.",
+                    "riddle": "Корнем землю обниму, зелень к свету подниму.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2625,8 +2613,8 @@
                 },
                 {
                     "word": "СУРОВЫЙ",
-                    "riddle": "Простой и резкий на вид.",
-                    "riddle_hard": "Как одинокое дерево в широкой пустыне.",
+                    "riddle": "Взглядом лед в тебе зажгу, улыбаться не могу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2635,8 +2623,8 @@
         {
             "level_id": 68,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Джунгли",
+            "category": "Природа",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2647,26 +2635,26 @@
                 },
                 {
                     "word": "ЛИАНА",
-                    "riddle": "Лестница, созданная деревьями.",
-                    "riddle_hard": "Лестница, созданная деревьями.",
+                    "riddle": "Как веревка я расту, ствол чужой я оплету.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШУМ",
-                    "riddle": "Любой звук, который не тихий.",
-                    "riddle_hard": "Смесь нот и голосов.",
+                    "riddle": "Громким звуком пронесусь, в тишину не превращусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГУСТО",
-                    "riddle": "Очень плотно и трудно видеть сквозь.",
-                    "riddle_hard": "Где деревья жмутся близко друг к другу.",
+                    "riddle": "Не пройти сквозь лес густой, заплету я путь листвой.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ТИГР",
-                    "riddle": "Оранжевый огонь в черной ночи.",
-                    "riddle_hard": "Оранжевый огонь в черной ночи.",
+                    "riddle": "Рыжим пламенем горю, в джунглях тихо я смотрю.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2675,32 +2663,32 @@
         {
             "level_id": 69,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Глубокое море",
+            "category": "Природа",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "АКУЛА",
-                    "riddle": "Серая тень с краем.",
-                    "riddle_hard": "Серая тень с краем.",
+                    "riddle": "Острым зубом я страшна, в море я плыву одна.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КОСАТКА",
-                    "riddle": "Черно-белый кит моря.",
-                    "riddle_hard": "Умный убийца глубокой синевы.",
+                    "riddle": "Я в окрасе как пингвин, но в воде я господин.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ФЛОТ",
-                    "riddle": "Самый тёмный синий в коробке мелков.",
-                    "riddle_hard": "Цвет глубокого, полуночного моря.",
+                    "riddle": "Я на море капитан, корабли веду в туман.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НЫРЯТЬ",
-                    "riddle": "Прыгать головой вперед в воду.",
-                    "riddle_hard": "Исслёдовать глубокий, синий мир.",
+                    "riddle": "Головой в волну уйду, рыбок под водой найду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2715,38 +2703,38 @@
         {
             "level_id": 70,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Первобытная дикость",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "СОЛО",
-                    "riddle": "Делать что-то совсем одному.",
-                    "riddle_hard": "Одинокий голос в тишине.",
+                    "riddle": "В тишине спою один, сам себе я господин.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЫТИЕ",
-                    "riddle": "Состояние существования прямо сейчас.",
-                    "riddle_hard": "Огонь, который никогда не гаснет.",
+                    "riddle": "Я живу и существую, каждый новый день рисую.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СВОБОДА",
-                    "riddle": "Жизнь без каких-либо заборов.",
-                    "riddle_hard": "Жизнь без каких-либо заборов.",
+                    "riddle": "Оков на мне не удержать, везде я волен пробежать.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДИКОСТЬ",
-                    "riddle": "Зов древнего мира.",
-                    "riddle_hard": "Зов древнего мира.",
+                    "riddle": "В темной чаще я живу, клетки я не потерплю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЕАЛЬНО",
-                    "riddle": "Быть настоящим, а не просто сном.",
-                    "riddle_hard": "Находить баланс внутри.",
+                    "riddle": "Я не сон и не мечта, я могу потрогать кота.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2755,38 +2743,38 @@
         {
             "level_id": 71,
             "grid_size": 7,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Малыши",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "МЫШИ",
-                    "riddle": "Серые призраки кухни.",
-                    "riddle_hard": "Серые призраки кухни.",
+                    "riddle": "В тишине скребем в углу, крошки ищем на полу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КРЫСА",
-                    "riddle": "Дикий кузен под городом.",
-                    "riddle_hard": "Дикий кузен под городом.",
+                    "riddle": "Длиннохвостая хитра, в подземелье я быстра.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НОРА",
-                    "riddle": "Дверь без ручки.",
-                    "riddle_hard": "Дверь без ручки.",
+                    "riddle": "Под землей мой темный дом, так уютно мне в нем.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МАЛЫЙ",
-                    "riddle": "Синим боком я свечусь, в сладком вкусе я найдусь.",
+                    "riddle": "Ростом я не вышел ввысь, низко к травке наклонись.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КРОХА",
-                    "riddle": "Почти невидимый в траве.",
-                    "riddle_hard": "Почти невидимый в траве.",
+                    "riddle": "Я мала как муравей, не заметна для людей.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2795,20 +2783,20 @@
         {
             "level_id": 72,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Альпинисты",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КОЗЁЛ",
-                    "riddle": "У меня есть рога, но я не могу гудеть.",
-                    "riddle_hard": "У меня есть рога, но я не могу гудеть.",
+                    "riddle": "С бородою и рогами, я стучу копытцем в камень.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СКАЛА",
-                    "riddle": "Высокая, крутая стена из камня.",
-                    "riddle_hard": "Гигантская ступень на краю земли.",
+                    "riddle": "Камнем я стою в веках, нагоняю на всех страх.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -2819,14 +2807,14 @@
                 },
                 {
                     "word": "ТОЧНО",
-                    "riddle": "Никогда не бояться падения.",
-                    "riddle_hard": "Никогда не бояться падения.",
+                    "riddle": "В цель стрелою попаду, мимо я не пролечу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВЕРХ",
-                    "riddle": "Самая высокая часть холма.",
-                    "riddle_hard": "Самый кончик горы.",
+                    "riddle": "Выше всех на свете я, подо мною вся земля.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2835,38 +2823,38 @@
         {
             "level_id": 73,
             "grid_size": 7,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Речная жизнь",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КАМЫШ",
-                    "riddle": "Тонкие зелёные пальцы реки.",
-                    "riddle_hard": "Тонкие зелёные пальцы реки.",
+                    "riddle": "У пруда я шелестю, ветер пухом я ловлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЩУКА",
-                    "riddle": "Тип рыбы в реке.",
-                    "riddle_hard": "Серебряный пловец в течении.",
+                    "riddle": "Рыбка хищная в реке, я блесну на поплавке.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДРЕЙФ",
-                    "riddle": "Двигаться медлённо вместе с течением.",
-                    "riddle_hard": "Путь, который никогда не остается.",
+                    "riddle": "По волнам я скромно плыл, без руля, ветрил и сил.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СПОРТ",
-                    "riddle": "Играть в игру, как футбол.",
-                    "riddle_hard": "Атлетика и веселое соревнование.",
+                    "riddle": "Всех на матч я позову, мышцу быстро я разовью.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЛАЗУРЬ",
-                    "riddle": "Яркий синий, как летнее небо.",
-                    "riddle_hard": "Оттенок чистого рая у драгоценного камня.",
+                    "riddle": "Я небесный ясный цвет, облаков на мне и нет.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2875,38 +2863,38 @@
         {
             "level_id": 74,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Ночные",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЛЕТУН",
-                    "riddle": "Летучая мышь или птица в воздухе.",
-                    "riddle_hard": "Любой пилот ночного неба.",
+                    "riddle": "В небо крылья унесут, я ищу в выси приют.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СОВА",
-                    "riddle": "Тихий призрак дубов.",
-                    "riddle_hard": "Тихий призрак дубов.",
+                    "riddle": "Днем я сплю на ветви старой, ночью ухаю недаром.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗАКАТ",
-                    "riddle": "Время прямо перед тем, как стемнеет.",
-                    "riddle_hard": "Когда солнце прячется за холмами.",
+                    "riddle": "Солнце в красном спать уйдет, темнота уже грядет.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВИДЕТЬ",
-                    "riddle": "Находить формы в чернилах.",
-                    "riddle_hard": "Находить формы в чернилах.",
+                    "riddle": "Мир глазами познаю, я в деталях всё смотрю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МОЛЬ",
-                    "riddle": "Пыльный летун ночных теней.",
-                    "riddle_hard": "Пыльный летун ночных теней.",
+                    "riddle": "Свитер шерстяной проем, шубу порчу день за днем.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2915,38 +2903,38 @@
         {
             "level_id": 75,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Охотники",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КОТ",
-                    "riddle": "Малёнький пушистый друг, который мурлычет.",
-                    "riddle_hard": "Кошачий охотник с острыми когтями.",
+                    "riddle": "Мышку хитрую словлю, на коленях я посплю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КОГОТЬ",
-                    "riddle": "Десять изогнутых ножей.",
-                    "riddle_hard": "Десять изогнутых ножей для лазания.",
+                    "riddle": "Острым, загнутым ножом, ствол царапаю тайком.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗУБ",
-                    "riddle": "Что ты используешь, чтобы кусать еду.",
-                    "riddle_hard": "Один белый инструмент для жевания.",
+                    "riddle": "Грызть морковку помогу, крепко-накрепко могу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЛАПА",
-                    "riddle": "Ходить на тихих облаках.",
-                    "riddle_hard": "Ходить на четырех тихих облаках.",
+                    "riddle": "Мягким шагом по ковру, незаметно подойду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЕДКО",
-                    "riddle": "Встречается не очень часто.",
-                    "riddle_hard": "Особенный, потому что их мало.",
+                    "riddle": "Раз в году себя явлю, удивленьем накормлю.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2955,8 +2943,8 @@
         {
             "level_id": 76,
             "grid_size": 6,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Стадо",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2967,26 +2955,26 @@
                 },
                 {
                     "word": "ГОНКА",
-                    "riddle": "Оставлять ветер позади.",
-                    "riddle_hard": "Оставлять ветер позади.",
+                    "riddle": "Ветер я в пути обгоню, первым к финишу приду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РОЩА",
-                    "riddle": "Крошечная группа дружелюбных деревьев.",
-                    "riddle_hard": "Малёнькая чаща на лугу.",
+                    "riddle": "Дерева стоят гурьбой, шелестят между собой.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЫВОК",
-                    "riddle": "Очень быстрый бег к финишу.",
-                    "riddle_hard": "Двигаться так быстро, как молния.",
+                    "riddle": "С места быстро сорвусь, до победы дотянусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШКУРА",
-                    "riddle": "Становиться одним с тенями.",
-                    "riddle_hard": "Становиться одним с тенями.",
+                    "riddle": "Зверя дикого согрею, сбросить на зиму умею.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -2995,37 +2983,37 @@
         {
             "level_id": 77,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Жизнь пустыни",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ВЕРБЛЮД",
-                    "riddle": "Корабль, который плывет по песку.",
-                    "riddle_hard": "Корабль, который плывет по песку.",
+                    "riddle": "Два горба несу с собой, в зной иду я по прямой.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПЛАМЯ",
-                    "riddle": "Большой и очень горячий огонь.",
-                    "riddle_hard": "Яркая отметка на тропе или дереве.",
+                    "riddle": "Языком костра лизну, угольки я в печь вдохну.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПОХОД",
-                    "riddle": "С рюкзаком я в путь пойду, горы я в себе найду.",
+                    "riddle": "С компасом шагаю вдаль, покорять мне лес не жаль.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СУХО",
-                    "riddle": "Очень сухо, почти без дождя.",
-                    "riddle_hard": "Где облака забывают плакать.",
+                    "riddle": "В каплях влаги я нуждаюсь, жаждой долгой я питаюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ТЕНЬ",
-                    "riddle": "Я за тобою вслёд хожу, в жаркий полдень застужу.",
+                    "riddle": "Силуэтом на асфальте, вы от солнца отдыхайте.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3035,38 +3023,38 @@
         {
             "level_id": 78,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Скакун",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "КОНЬ",
-                    "riddle": "Гром на четырех копытах.",
-                    "riddle_hard": "Гром на четырех копытах.",
+                    "riddle": "Звонким ржанием смеюсь, с ветром в поле я сливаюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЕЗДА",
-                    "riddle": "Стать одним с галопом.",
-                    "riddle_hard": "Стать одним с галопом.",
+                    "riddle": "В седле крепко я держусь, галопом по степи несусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЫСТРЫЙ",
-                    "riddle": "Двигаться с большой скоростью и грацией.",
-                    "riddle_hard": "Быстрая птица или бурный поток.",
+                    "riddle": "Словно молния мелькну, всех друзей я обгоню.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НЕЖНЫЙ",
-                    "riddle": "Добрый и мягкий, не грубый.",
-                    "riddle_hard": "Как теплое объятие друга.",
+                    "riddle": "Лаской тихой обойму, словом добрым я пойму.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЖЕРЕБЕЦ",
-                    "riddle": "Быстрый король табуна.",
-                    "riddle_hard": "Быстрый король табуна.",
+                    "riddle": "Гордо гривою трясу, табун кобыл я в лес пасу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3075,37 +3063,37 @@
         {
             "level_id": 79,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Мудрость",
+            "category": "Ментальное",
+            "subcategory": "Познание",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ДОЗОР",
-                    "riddle": "Внимательно наблюдать всю ночь.",
-                    "riddle_hard": "Тихий страж, который никогда не спит.",
+                    "riddle": "На посту всю ночь не сплю, и границу сторожу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРОРОК",
-                    "riddle": "Я смотрю в то, что еще не случилось.",
-                    "riddle_hard": "Мой ум видит развертывание судьбы.",
+                    "riddle": "Что случится, я скажу, тайну мира покажу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МУДРЫЙ",
-                    "riddle": "Знать правильный поступок.",
-                    "riddle_hard": "Образ мышлёния старой совы.",
+                    "riddle": "Головой седой кивну, светлый путь тебе верну.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗВЕРЬ",
-                    "riddle": "У него острые когти и громкий, дикий рык.",
-                    "riddle_hard": "Неукротимый голод, завернутый в мех и страх.",
+                    "riddle": "Рычу грозно, зубы скалю, в чаще страх я напускаю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШАЛФЕЙ",
-                    "riddle": "С рюкзаком я в путь пойду, горы я в себе найду.",
+                    "riddle": "Пряной травкой я расту, чай лечебный я несу.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3115,38 +3103,38 @@
         {
             "level_id": 80,
             "grid_size": 8,
-            "category": "Животные и Дикая природа",
-            "subcategory": "Лесное животное",
+            "category": "Природа",
+            "subcategory": "Фауна",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "СПЯЩИЙ",
-                    "riddle": "Закрытые глаза и глубокие сны.",
-                    "riddle_hard": "Отдыхать в долгую ночь.",
+                    "riddle": "Очи я свои закрыл, в царство грез уже уплыл.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЖДАТЬ",
-                    "riddle": "Оставаться, пока что-то не случится.",
-                    "riddle_hard": "Терпеливо считать минуты.",
+                    "riddle": "Я часы считаю вслух, терпеливый как петух.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ОПРЯТНО",
-                    "riddle": "Аккуратно и на правильном месте.",
-                    "riddle_hard": "Без беспорядка или лишнего шума.",
+                    "riddle": "Пыль смахну, полы помою, чистоту я здесь устрою.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РОЖДЁН",
-                    "riddle": "Проснуться в первый раз.",
-                    "riddle_hard": "Проснуться в первый раз.",
+                    "riddle": "В этот мир я лишь пришел, свет и солнце я нашел.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДИКИЙ",
-                    "riddle": "Дикое животное, которое раньше было домашним.",
-                    "riddle_hard": "Дух природы в бродячем коте.",
+                    "riddle": "Не приручишь ты меня, в поле вольном мчусь звеня.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3155,26 +3143,26 @@
         {
             "level_id": 81,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Дыхание",
+            "category": "Тело",
+            "subcategory": "Анатомия",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ТЯГА",
-                    "riddle": "Небольшое прохладное движение воздуха.",
-                    "riddle_hard": "Ветерок, который проходит через дверь.",
+                    "riddle": "Ветром в дымоход лечу, печку жарче растоплю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЛЕГКО",
-                    "riddle": "Светло и полно свежего воздуха.",
-                    "riddle_hard": "Как комната с большими окнами.",
+                    "riddle": "Перышком по ветру мчусь, тяжести я не боюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДУША",
-                    "riddle": "Тихий свет внутри тебя.",
-                    "riddle_hard": "Свеча на ветру.",
+                    "riddle": "В теле я твоем живу, за окном летать могу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3195,38 +3183,38 @@
         {
             "level_id": 82,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Чаша",
+            "category": "Дом",
+            "subcategory": "Инструменты",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ПУСТО",
-                    "riddle": "Пустой внутри, как барабан.",
-                    "riddle_hard": "Секретное место внутри старого дерева.",
+                    "riddle": "Эхо звонкое внутри, ничего здесь не ищи.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "КРАЙ",
-                    "riddle": "Самый верхний край чашки.",
-                    "riddle_hard": "Часть шляпы, которая дает тень.",
+                    "riddle": "Я граница у стола, дальше бездна пролегла.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПИТЬ",
-                    "riddle": "Что-то, что ты глотаешь, когда хочешь пить.",
-                    "riddle_hard": "Принимать воду, молоко или сок.",
+                    "riddle": "В горле пересохло вдруг, воду лей смелее, друг.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДЕРЖАТЬ",
-                    "riddle": "Хватать истину нежно.",
-                    "riddle_hard": "Держать истину в руке.",
+                    "riddle": "Хваткой крепкой обниму, из руки не отпущу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЛЮДО",
-                    "riddle": "Мелкий керамический дом для твоих закусок.",
-                    "riddle_hard": "Мелкий керамический дом для твоих закусок.",
+                    "riddle": "В центре я стола лежу, угощенья предложу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3235,38 +3223,38 @@
         {
             "level_id": 83,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Колокол",
+            "category": "Дом",
+            "subcategory": "Инструменты",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЗВОН",
-                    "riddle": "Металлический звенящий звук.",
-                    "riddle_hard": "Голос, который зовет тишину.",
+                    "riddle": "В колокол лихой ударю, звук по ветру я отправлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЧАС",
-                    "riddle": "Шестьдесят минут проходящего времени.",
-                    "riddle_hard": "Кусочек дня на часах.",
+                    "riddle": "На часах я тихо тикаю, стрелкой долгой я привыкаю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗОВ",
-                    "riddle": "Сигнал к пробуждению.",
-                    "riddle_hard": "Дотянуться звуком.",
+                    "riddle": "Громким голосом кричу, привлечь внимание хочу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НИЗКО",
-                    "riddle": "Не высоко, близко к земле.",
-                    "riddle_hard": "Глубокий голос или заходящее солнце.",
+                    "riddle": "Прямо к травке прикоснусь, от земли не оторвусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "КОЛЬЦО",
-                    "riddle": "Звук, который издает колокол.",
-                    "riddle_hard": "Чистая металлическая нота в воздухе.",
+                    "word": "СТУК",
+                    "riddle": "В дверь твою кулаком бью, в гости я к тебе приду.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3275,26 +3263,26 @@
         {
             "level_id": 84,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Путь",
+            "category": "Ментальное",
+            "subcategory": "Познание",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЗНАНИЕ",
-                    "riddle": "Старые секреты леса.",
-                    "riddle_hard": "Мудрость, переданная через тихие века.",
+                    "riddle": "В книгах толстых я таюсь, мудростью с тобой делюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БРОДИТЬ",
-                    "riddle": "Блуждать без плана.",
-                    "riddle_hard": "Исслёдовать мир пешком.",
+                    "riddle": "По дороге я иду, цель свою я не найду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ШАГ",
-                    "riddle": "Одно движение вперед.",
-                    "riddle_hard": "Начало каждого путешествия.",
+                    "riddle": "Ногу я вперед поставлю, след на бережке оставлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3305,8 +3293,8 @@
                 },
                 {
                     "word": "ЦЕЛЬ",
-                    "riddle": "Где заканчивается путешествие.",
-                    "riddle_hard": "Где путешествие находит свой дом.",
+                    "riddle": "Я мишенью в тире стану, стрелы в яблочко достану.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3315,38 +3303,38 @@
         {
             "level_id": 85,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Камень",
+            "category": "Наука",
+            "subcategory": "Материалы",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ПЛИТА",
-                    "riddle": "Толстый, плоский кусок камня.",
-                    "riddle_hard": "Тяжёлый блок для тротуара.",
+                    "riddle": "Жарким пламенем горю, вкусный суп тебе сварю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СЕРЫЙ",
-                    "riddle": "Блёдный, как холодный огонь.",
-                    "riddle_hard": "Цвет призрака или пыли.",
+                    "riddle": "Цветом я похож на мышь, как осенний тихий киш.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ТВЕРДО",
-                    "riddle": "Крепкий, как кость горы.",
-                    "riddle_hard": "Нельзя согнуть руками.",
+                    "riddle": "Крепким камнем я стою, на своем всегда стою.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СТОП",
-                    "riddle": "Что говорит тебе красный знак.",
-                    "riddle_hard": "Замереть, как садовая статуя.",
+                    "riddle": "Красным светом я горю, дальше ехать не велю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРОЧНО",
-                    "riddle": "Вес горы.",
-                    "riddle_hard": "Природа костей горы.",
+                    "riddle": "Стену толстую сложу, замок свой отгорожу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3355,8 +3343,8 @@
         {
             "level_id": 86,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Свет",
+            "category": "Качества",
+            "subcategory": "Визуальное (Свет)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3367,26 +3355,26 @@
                 },
                 {
                     "word": "ВСПЫШКА",
-                    "riddle": "Внезапный, яркий взрыв пламени.",
-                    "riddle_hard": "Сигнальный огонь для темной ночи.",
+                    "riddle": "Искрой яркой промелькну, на мгновенье ослеплю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "МОЗГ",
-                    "riddle": "Орган мысли.",
-                    "riddle_hard": "Орган мысли.",
+                    "riddle": "В голове твоей сижу, мыслью умной я руковожу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРАВО",
-                    "riddle": "Верно и не левая сторона.",
-                    "riddle_hard": "Слёдовать правилам пути.",
+                    "riddle": "Я закон и я устав, докажу кто здесь неправ.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЩЕЛЬ",
-                    "riddle": "Дверь, которая слегка открыта.",
-                    "riddle_hard": "Не закрыто, но и не широко.",
+                    "riddle": "Узкой щелочкой смотрю, лучк света я дарю.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3395,37 +3383,37 @@
         {
             "level_id": 87,
             "grid_size": 8,
-            "category": "Внутренние основы",
-            "subcategory": "Река",
+            "category": "Природа",
+            "subcategory": "География",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ПЛЫТЬ",
-                    "riddle": "Оставаться на поверхности воды.",
-                    "riddle_hard": "Секрет воды для путешествий.",
+                    "riddle": "По волнам я курс держу, за буйками не слежу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "КАПЛЯ",
-                    "riddle": "Одна падающая частица воды.",
-                    "riddle_hard": "Одна падающая частица воды.",
+                    "word": "ВОДНАЯ",
+                    "riddle": "Гладь озер я обниму, отраженье всем верну.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЕЗДНА",
-                    "riddle": "Гигантская дыра без дна.",
-                    "riddle_hard": "Куда солнечный свет никогда не доходит.",
+                    "riddle": "Глубиной своей пугаю, дна морского я не знаю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "УШЁЛ",
-                    "riddle": "Где река находит море.",
-                    "riddle_hard": "Куда вода уходит навсегда.",
+                    "word": "УСТЬЕ",
+                    "riddle": "Я впадаю в океан, завершая свой обман.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РУЧЕЙ",
-                    "riddle": "Я узкой лёнтой побегу, умыться каждому смогу.",
+                    "riddle": "Я узкой лентой побегу, умыться каждому смогу.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -3435,38 +3423,38 @@
         {
             "level_id": 88,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Облако",
+            "category": "Природа",
+            "subcategory": "Климат",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЛИВЕНЬ",
-                    "riddle": "Быстрое и легкое падение дождя.",
-                    "riddle_hard": "Короткий танец воды сверху.",
+                    "riddle": "С неба я стеной прольюсь, лужей мокрой остаюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПУХЛЫЙ",
-                    "riddle": "Большой, мягкий и полный воздуха.",
-                    "riddle_hard": "Как белое облако летом.",
+                    "riddle": "Щеки круглые надую, ветром северным подую.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ВЕРХ",
-                    "riddle": "Расположен над нижней частью.",
-                    "riddle_hard": "Тянуться к чердаку или небу.",
+                    "word": "НЕБО",
+                    "riddle": "Голубым шатром раскинусь, облаками я укроюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДЫМКА",
-                    "riddle": "Гора, сделанная из разреженного воздуха.",
-                    "riddle_hard": "Гора, сделанная из разреженного воздуха.",
-                    "is_hard": true
+                    "riddle": "Легкой тканью в лес спущусь, поутру я растворюсь.",
+                    "riddle_hard": "",
+                    "is_hard": false
                 },
                 {
                     "word": "ШЕСТ",
-                    "riddle": "Место, где птицы спят.",
-                    "riddle_hard": "Высокая жердочка для уставшего крыла.",
+                    "riddle": "Длинной палкой подпираю, до небес я достаю.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3475,8 +3463,8 @@
         {
             "level_id": 89,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Семя",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 9.800000190734864,
             "puzzles": [
                 {
@@ -3487,8 +3475,8 @@
                 },
                 {
                     "word": "ГРУНТ",
-                    "riddle": "Темная земля, где растут семена.",
-                    "riddle_hard": "Раскрошенные камни и старые листья.",
+                    "riddle": "Слоем почвы я лежу, корни крепко я держу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3499,8 +3487,8 @@
                 },
                 {
                     "word": "ВАЖНО",
-                    "riddle": "Необходимо для того, чтобы оставаться живым.",
-                    "riddle_hard": "Золотая искра в глине.",
+                    "riddle": "Главным делом я займусь, от работы не спасусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3515,38 +3503,38 @@
         {
             "level_id": 90,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Врата",
+            "category": "Дом",
+            "subcategory": "Приют",
             "complexity": 9.899999618530274,
             "puzzles": [
                 {
                     "word": "ВРАТА",
-                    "riddle": "Дверь без всяких стен.",
-                    "riddle_hard": "Дверь без всяких стен.",
+                    "riddle": "Створки настежь отворю, в замок путь тебе дарю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВХОД",
-                    "riddle": "Путь в комнату или здание.",
-                    "riddle_hard": "Первый шаг в новое место.",
+                    "riddle": "Я с порога начинаюсь, дверью тихо закрываюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "СВОБОДА",
-                    "riddle": "Не связанный и не сдерживаемый.",
-                    "riddle_hard": "Как птица, покинувшая клетку.",
+                    "word": "КРЫЛО",
+                    "riddle": "Перья нежно распушу, в облака я поспешу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРОХОД",
-                    "riddle": "Оставлять один мир ради другого.",
-                    "riddle_hard": "Оставлять один мир ради другого.",
+                    "riddle": "Меж рядами проведу, к тайной двери я приду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ВЫХОД",
-                    "riddle": "Где сад встречается с небом.",
-                    "riddle_hard": "Порог нового мира.",
+                    "riddle": "Я конец твоим блужданьям, ключ к спасительным стараньям.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3555,32 +3543,32 @@
         {
             "level_id": 91,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Простота",
+            "category": "Тело",
+            "subcategory": "Благополучие",
             "complexity": 10.0,
             "puzzles": [
                 {
                     "word": "МАЛО",
-                    "riddle": "Не много чего-то.",
-                    "riddle_hard": "Малёнький и ценный счет.",
+                    "riddle": "По пальцам можно сосчитать, не дам тебе я много взять.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БОЛЬШЕ",
-                    "riddle": "Вес слишком многих вещей.",
-                    "riddle_hard": "Находить изобилие в малом.",
+                    "riddle": "Всю чашу с верхом я залью, добавки я тебе налью.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ОДИН",
-                    "riddle": "Число целого.",
-                    "riddle_hard": "Число всего вместе.",
+                    "riddle": "Сам по себе гуляю я, не нужна мне здесь семья.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "БАЗА",
-                    "riddle": "Очень просто и легко сделать.",
-                    "riddle_hard": "Основа большой идеи.",
+                    "word": "ФОНД",
+                    "riddle": "Богатства бережно храню, на черный день всё сохраню.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3595,14 +3583,14 @@
         {
             "level_id": 92,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Фокус",
+            "category": "Ментальное",
+            "subcategory": "Познание",
             "complexity": 10.100000381469727,
             "puzzles": [
                 {
                     "word": "ТОЧКА",
-                    "riddle": "Семя каждого круга.",
-                    "riddle_hard": "Центр круга.",
+                    "riddle": "В конце строки я постою, и предложение прерву.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3613,20 +3601,20 @@
                 },
                 {
                     "word": "ЛОГИКА",
-                    "riddle": "Ясное и упорядоченное мышлёние.",
-                    "riddle_hard": "Ясное и упорядоченное мышлёние.",
+                    "riddle": "Все мысли по местам расставлю, ошибку я легко исправлю.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РЯДОМ",
-                    "riddle": "Из соседнего района.",
-                    "riddle_hard": "Найден прямо там, где ты стоишь.",
+                    "riddle": "Плечом к плечу я встать смогу, в беде я мигом помогу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЦЕНТР",
-                    "riddle": "Яблочко настоящего.",
-                    "riddle_hard": "Сердце цели.",
+                    "riddle": "Я в середине нахожусь, вокруг меня кружится гусь.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3635,32 +3623,32 @@
         {
             "level_id": 93,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Тишина",
+            "category": "Тело",
+            "subcategory": "Чувства",
             "complexity": 10.199999809265137,
             "puzzles": [
                 {
                     "word": "ТИШЕ",
-                    "riddle": "Палец, прижатый к губам.",
-                    "riddle_hard": "Палец к губам.",
+                    "riddle": "Шаги я сделаю без стука, не издам я даже звука.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НЕМОЙ",
-                    "riddle": "Песня, которой не нужен голос.",
-                    "riddle_hard": "Песня без голоса.",
+                    "riddle": "Без слов я всё тебе скажу, руками знаки покажу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "ЖДАТЬ",
-                    "riddle": "Ждать, пока снег отдохнет.",
-                    "riddle_hard": "Ждать, пока снег растает.",
+                    "word": "СНЕГ",
+                    "riddle": "Белым пухом с неба лягу, успокою я бродягу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПАУЗА",
-                    "riddle": "Остановиться на короткий момент.",
-                    "riddle_hard": "Крошечный пробел в длинном предложении.",
+                    "riddle": "На миг замру и замолчу, передохнуть чуть-чуть хочу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3675,38 +3663,38 @@
         {
             "level_id": 94,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Единство",
+            "category": "Ментальное",
+            "subcategory": "Социализация",
             "complexity": 10.300000190734864,
             "puzzles": [
                 {
                     "word": "ВСЕ",
-                    "riddle": "Сумма каждой крошечной части.",
-                    "riddle_hard": "Сумма каждой части.",
+                    "riddle": "Никого не позабуду, вместе с вами рядом буду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЛОК",
-                    "riddle": "Одна единственная часть целого.",
-                    "riddle_hard": "Строительный блок большой команды.",
+                    "riddle": "Кирпичом в стене я лягу, не пущу сюда бродягу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СВЯЗЬ",
-                    "riddle": "Клей духа.",
-                    "riddle_hard": "Клей духа.",
+                    "riddle": "Проводом соединю, разговор я сохраню.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "УЗЕЛ",
-                    "riddle": "Две нити, ставшие одной.",
-                    "riddle_hard": "Две веревки, которые стали одной.",
+                    "riddle": "Крепко петлю затяну, веревку к дереву прижму.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ДУХ",
-                    "riddle": "Свет внутри глины.",
-                    "riddle_hard": "Призрак внутри машины.",
+                    "riddle": "Невидимкой пролечу, в доме свечи потушу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3715,14 +3703,14 @@
         {
             "level_id": 95,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Природа",
+            "category": "Природа",
+            "subcategory": "Флора",
             "complexity": 10.399999618530274,
             "puzzles": [
                 {
                     "word": "ЯДРО",
-                    "riddle": "Самый центр всего.",
-                    "riddle_hard": "Танец, который никогда не останавливается.",
+                    "riddle": "В центре пушки я лежу, в небо искрой улечу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3733,20 +3721,20 @@
                 },
                 {
                     "word": "БРУС",
-                    "riddle": "Дерево, используемое для строительства домов.",
-                    "riddle_hard": "Тяжёлый вес павших гигантов.",
+                    "riddle": "Толстым деревом ложусь, часть стены я становлюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "СТВОЛ",
-                    "riddle": "Толстый деревянный столб, который держит листья.",
-                    "riddle_hard": "Толстый деревянный столб, который держит листья.",
+                    "riddle": "Корни глубоко пущу, крону к солнцу подниму.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "ЛИСТВА",
-                    "riddle": "Полон множества зелёных листьев.",
-                    "riddle_hard": "Покрыт одеялом природы.",
+                    "riddle": "Зеленым шумным холодком, укрою ветки летним днем.",
+                    "riddle_hard": "",
                     "is_hard": false
                 }
             ],
@@ -3755,38 +3743,38 @@
         {
             "level_id": 96,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Мудрость",
+            "category": "Ментальное",
+            "subcategory": "Познание",
             "complexity": 10.5,
             "puzzles": [
                 {
                     "word": "СТАРЕЦ",
-                    "riddle": "Тот, кто прожил долгое время.",
-                    "riddle_hard": "Человек с серебряными волосами и знаниями.",
+                    "riddle": "Белой бородой трясу, мудрость сквозь года несу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "РАЗУМ",
-                    "riddle": "Место, где живут твои мысли.",
-                    "riddle_hard": "Двигатель твоего воображения.",
+                    "riddle": "Я загадки дам ответ, от меня секретов нет.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ФАКТ",
-                    "riddle": "Что-то, что действительно реально.",
-                    "riddle_hard": "Истина, с которой нельзя спорить.",
+                    "riddle": "С правдой я всегда дружу, суть вещей я покажу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГОДЫ",
-                    "riddle": "Количество дней рождёния, которые у тебя были.",
-                    "riddle_hard": "Мера времени, которое мы здесь провели.",
+                    "riddle": "Словно птицы я лечу, счет я времени веду.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗРЕНИЕ",
-                    "riddle": "Видеть сердцем.",
-                    "riddle_hard": "Видеть глазом разума.",
+                    "riddle": "Мир в деталях разгляжу, цвет и форму покажу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3795,38 +3783,38 @@
         {
             "level_id": 97,
             "grid_size": 7,
-            "category": "Внутренние основы",
-            "subcategory": "Вибрация",
+            "category": "Тело",
+            "subcategory": "Чувства",
             "complexity": 10.600000381469727,
             "puzzles": [
                 {
                     "word": "ГИМН",
-                    "riddle": "Медлённая и святая песня.",
-                    "riddle_hard": "Хор духа и света.",
+                    "riddle": "Хором песню мы споем, славу вместе воздаем.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЗВУК",
-                    "riddle": "Все, что ты можешь услышать ушами.",
-                    "riddle_hard": "Вибрация, которая путешествует по воздуху.",
+                    "riddle": "Эхом в горы я уйду, тишину я разорву.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ГОНГ",
-                    "riddle": "Гигантская металлическая тарелка, по которой бьют.",
-                    "riddle_hard": "Громкий звон, который сотрясает воздух.",
+                    "riddle": "Медным диском я звеню, к медитации зову.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БУМ",
-                    "riddle": "Очень громкий и глубокий шум.",
-                    "riddle_hard": "Звук грома или барабана.",
+                    "riddle": "Громким взрывом разнесусь, мощью я своей горжусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ЧУВСТВО",
-                    "riddle": "Способ ощущать мир вокруг себя.",
-                    "riddle_hard": "Искра дыхания.",
+                    "riddle": "В сердце радостью забьюсь, горькой каплей я прольюсь.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -3835,32 +3823,32 @@
         {
             "level_id": 98,
             "grid_size": 7,
-            "category": "Внутренние основы",
+            "category": "Природа",
             "subcategory": "Космос",
             "complexity": 10.699999809265137,
             "puzzles": [
                 {
                     "word": "ПУСТОТА",
-                    "riddle": "Пространство, где начинаются звезды.",
-                    "riddle_hard": "Пространство, где рождаются звезды.",
+                    "riddle": "В вакууме я лежу, ничего не содержу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ПРОСТОР",
-                    "riddle": "Широкая и тихая глубина.",
-                    "riddle_hard": "Больше, чем любая мысль.",
+                    "riddle": "Ширью степи раскинусь, за моря я отодвинусь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НИЧТО",
-                    "riddle": "Осталось, когда все ушло.",
-                    "riddle_hard": "Что осталось после всего.",
+                    "riddle": "Пузырем я лопну вдруг, растворюсь как дым вокруг.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НОЛЬ",
-                    "riddle": "Круг вокруг истины.",
-                    "riddle_hard": "Круг вокруг истины.",
+                    "riddle": "Круглый словно колесо, не значу я ничего.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3875,32 +3863,32 @@
         {
             "level_id": 99,
             "grid_size": 6,
-            "category": "Внутренние основы",
-            "subcategory": "Конец",
+            "category": "Наука",
+            "subcategory": "Время/История",
             "complexity": 10.800000190734864,
             "puzzles": [
                 {
                     "word": "ФИНАЛ",
-                    "riddle": "Самый конец истории.",
-                    "riddle_hard": "Послёднее слово на послёдней странице.",
+                    "riddle": "Сказке я кладу конец, кто дослушал — молодец.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ИТОГ",
-                    "riddle": "Сложенная полная сумма.",
-                    "riddle_hard": "Полный и без остатка.",
+                    "riddle": "Я черту под всем черчу, результат узнать хочу.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "НАД",
-                    "riddle": "Небо выше горы.",
-                    "riddle_hard": "Небо выше горы.",
+                    "riddle": "Выше всех на небесах, покатаюсь на ветрах.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "СТОП",
-                    "riddle": "Прекратить то, что ты делаешь.",
-                    "riddle_hard": "Когда музыка наконец затихает.",
+                    "word": "УХОД",
+                    "riddle": "Дверь закрою за собой, я отправлюсь на покой.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3915,20 +3903,20 @@
         {
             "level_id": 100,
             "grid_size": 9,
-            "category": "Полное спокойствие",
-            "subcategory": "Полное единство",
+            "category": "Ментальное",
+            "subcategory": "Эмоции",
             "complexity": 1.0,
             "puzzles": [
                 {
                     "word": "ЕДИНЫЙ",
-                    "riddle": "Одна рука хлопает вместе со многими.",
-                    "riddle_hard": "Одна рука хлопает вместе со многими.",
+                    "riddle": "Соберу друзей я в круг, стану всем как лучший друг.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "БЛАГО",
-                    "riddle": "Состояние совершенного счастья.",
-                    "riddle_hard": "Чистая радость и покой ума.",
+                    "riddle": "Добротою поделюсь, света радостью напьюсь.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -3939,20 +3927,20 @@
                 },
                 {
                     "word": "БЫТЬ",
-                    "riddle": "Часть целого.",
-                    "riddle_hard": "Найти свое место во вселённой.",
+                    "riddle": "В мире этом буду жить, каждым мигом дорожить.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "СЕРДЦЕ",
-                    "riddle": "Мост двух душ.",
-                    "riddle_hard": "Мост между двумя душами.",
+                    "riddle": "В груди ровно я стучу, кровь по венам я качу.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
                     "word": "ДЗЕН",
-                    "riddle": "Окончательный мир.",
-                    "riddle_hard": "Послёдняя река за пределами себя.",
+                    "riddle": "Сяду в лотос на ковер, прекращу я всякий спор.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
