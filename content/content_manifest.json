@@ -1,0 +1,59 @@
+{
+    "music": [
+        {
+            "name": "Twilight",
+            "file": "content/music/Music_Ambient_02.mp3",
+            "requiresLevel": 30
+        },
+        {
+            "name": "Shire",
+            "file": "content/music/Music_Ambient_03.mp3",
+            "requiresLevel": 60
+        },
+        {
+            "name": "Moonrise",
+            "file": "content/music/Music_Ambient_04.mp3",
+            "requiresLevel": 90
+        },
+        {
+            "name": "Aurora",
+            "file": "content/music/Music_Ambient_05.mp3",
+            "requiresLevel": 120
+        },
+        {
+            "name": "Whisper",
+            "file": "content/music/Music_Ambient_06.mp3",
+            "requiresLevel": 150
+        },
+        {
+            "name": "Glacier",
+            "file": "content/music/Music_Ambient_01b.mp3",
+            "requiresLevel": 180
+        },
+        {
+            "name": "Ember",
+            "file": "content/music/Music_Piano_Krunk_02.mp3",
+            "requiresLevel": 210
+        }
+    ],
+    "backgrounds": [
+        {
+            "name": "Twilight",
+            "file": "content/backgrounds/zenBG03.png",
+            "color": "#7C3AED",
+            "requiresLevel": 15
+        },
+        {
+            "name": "Eclipse",
+            "file": "content/backgrounds/zenBG04.png",
+            "color": "#1E1B4B",
+            "requiresLevel": 45
+        },
+        {
+            "name": "Summit",
+            "file": "content/backgrounds/zenBG05.png",
+            "color": "#065F46",
+            "requiresLevel": 75
+        }
+    ]
+}
