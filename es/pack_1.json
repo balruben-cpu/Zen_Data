@@ -736,8 +736,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "PASTA",
-                    "riddle": "Fideos largos seré, con salsa me mezclaré.",
+                    "word": "GUANTES",
+                    "riddle": "Siempre vamos en par, venimos a calentar.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -986,7 +986,7 @@
         },
         {
             "level_id": 28,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "Civilización",
             "subcategory": "Gobierno y Guerra",
             "complexity": 1.0,
@@ -994,12 +994,6 @@
                 {
                     "word": "CRIMEN",
                     "riddle": "Una mala acción yo soy, a la cárcel siempre voy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
-                    "word": "CULPA",
-                    "riddle": "Un remordimiento soy, disculpas llorando doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1066,7 +1060,7 @@
         },
         {
             "level_id": 30,
-            "grid_size": 6,
+            "grid_size": 5,
             "category": "Artes y Cultura",
             "subcategory": "Artes Visuales",
             "complexity": 1.0,
@@ -1078,26 +1072,20 @@
                     "is_hard": false
                 },
                 {
-                    "word": "DIBUJO",
-                    "riddle": "Creado a lápiz estoy, formas a la hoja le doy.",
-                    "riddle_hard": "",
-                    "is_hard": false
-                },
-                {
                     "word": "PINCEL",
                     "riddle": "Pelo suave tengo hoy, bellos colores te doy.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
-                    "word": "PINTAR",
-                    "riddle": "El lienzo vacío veré, de colores lo llenaré.",
-                    "riddle_hard": "",
+                    "word": "TELEVISION",
+                    "riddle": "Caja magica que transmite shows pantalla casera.",
+                    "riddle_hard": "Aparato que trae el mundo a tu sala.",
                     "is_hard": false
                 },
                 {
                     "word": "MARCO",
-                    "riddle": "Cuido la pintura hoy, borde de madera soy.",
+                    "riddle": "Me ves desde el sillón, te traigo mucha diversión.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
