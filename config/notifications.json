@@ -87,28 +87,6 @@
         "hy": "",
         "pt": ""
       }
-    },
-    {
-      "id": "new_notification",
-      "delayHours": 0.01,
-      "minLevel": 0,
-      "maxLevel": 9999,
-      "priority": 999,
-      "deeplink": "level_5",
-      "titles": {
-        "en": "Your Zen Awaits",
-        "es": "",
-        "hy": "",
-        "ru": "",
-        "pt": ""
-      },
-      "messages": {
-        "en": "A new path is ready.",
-        "es": "",
-        "hy": "",
-        "ru": "",
-        "pt": ""
-      }
     }
   ]
 }
