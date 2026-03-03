@@ -1791,7 +1791,7 @@
             "grid_size": 4,
             "category": "Тело человека",
             "subcategory": "Чувства",
-            "complexity": 1.2000000476837158,
+            "complexity": 1.2000000476837159,
             "puzzles": [
                 {
                     "word": "ГЛАЗ",
@@ -2035,7 +2035,7 @@
                 },
                 {
                     "word": "ХИТРЫЙ",
-                    "riddle": "Вас обхитрю я в два счета, лисья хитрость — вот забота.",
+                    "riddle": "Правду я сменю на ложь, ты меня не проведёшь.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2161,7 +2161,7 @@
             "grid_size": 4,
             "category": "Мир природы",
             "subcategory": "География",
-            "complexity": 1.2000000476837158,
+            "complexity": 1.2000000476837159,
             "puzzles": [
                 {
                     "word": "МОРЕ",
@@ -2361,7 +2361,7 @@
             "grid_size": 4,
             "category": "Цивилизация",
             "subcategory": "Городская среда",
-            "complexity": 1.2000000476837158,
+            "complexity": 1.2000000476837159,
             "puzzles": [
                 {
                     "word": "ГОРОД",
@@ -2561,7 +2561,7 @@
             "grid_size": 4,
             "category": "Искусство и культура",
             "subcategory": "Кино и сцена",
-            "complexity": 1.2000000476837158,
+            "complexity": 1.2000000476837159,
             "puzzles": [
                 {
                     "word": "КИНО",
@@ -3201,7 +3201,7 @@
             "grid_size": 7,
             "category": "Природа",
             "subcategory": "Флора",
-            "complexity": 9.800000190734863,
+            "complexity": 9.800000190734864,
             "puzzles": [
                 {
                     "word": "РОСТОК",
@@ -3241,7 +3241,7 @@
             "grid_size": 6,
             "category": "Дом",
             "subcategory": "Приют",
-            "complexity": 9.899999618530273,
+            "complexity": 9.899999618530274,
             "puzzles": [
                 {
                     "word": "ВРАТА",
@@ -3401,7 +3401,7 @@
             "grid_size": 6,
             "category": "Ментальное",
             "subcategory": "Социализация",
-            "complexity": 10.300000190734863,
+            "complexity": 10.300000190734864,
             "puzzles": [
                 {
                     "word": "ВСЕ",
@@ -3441,7 +3441,7 @@
             "grid_size": 6,
             "category": "Природа",
             "subcategory": "Флора",
-            "complexity": 10.399999618530273,
+            "complexity": 10.399999618530274,
             "puzzles": [
                 {
                     "word": "ЯДРО",
@@ -3601,7 +3601,7 @@
             "grid_size": 6,
             "category": "Наука",
             "subcategory": "Время/История",
-            "complexity": 10.800000190734863,
+            "complexity": 10.800000190734864,
             "puzzles": [
                 {
                     "word": "ФИНАЛ",
