@@ -89,13 +89,13 @@
                 },
                 {
                     "word": "NIGHT",
-                    "riddle": "When the sun goes down to rest, I will put you to the test.",
+                    "riddle": "I will hide the golden sun, telling you the day is done.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "FOG",
-                    "riddle": "Hide the world in heavy grey, till the sun burns me away.",
+                    "riddle": "I am grey and hide your sight, I turn morning into night.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -117,13 +117,13 @@
                 },
                 {
                     "word": "WIND",
-                    "riddle": "Open sails to catch my breeze, pushing you across the seas.",
+                    "riddle": "I blow hard to push the boat, keeping tiny sails afloat.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "COOL",
-                    "riddle": "Drop an ice cube in your tea, you will quickly notice me.",
+                    "riddle": "Drop some ice into your tea, you will quickly notice me.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
