@@ -333,13 +333,13 @@
             "puzzles": [
                 {
                     "word": "BOXERS",
-                    "riddle": "Wear me hidden near your waist, I am comfy and well-placed.",
+                    "riddle": "Men will wear me like a base, holding everything in place.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
                 {
                     "word": "ROBE",
-                    "riddle": "Tie me up when you are cold, I am soft and nice to hold.",
+                    "riddle": "Wear me to keep your body dry, I have an easy belt to tie.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -351,7 +351,7 @@
                 },
                 {
                     "word": "OUTFIT",
-                    "riddle": "Put together shirt and shoes, showing off the real you.",
+                    "riddle": "I match up my vest and shoe, showing off the style of you.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -533,7 +533,7 @@
                 },
                 {
                     "word": "LICE",
-                    "riddle": "Hide inside a head of hair, crawling when you aren't aware.",
+                    "riddle": "I am a bug in your hair, I sip the blood I find there.",
                     "riddle_hard": "",
                     "is_hard": false
                 },
@@ -1121,8 +1121,8 @@
                 },
                 {
                     "word": "LULLABY",
-                    "riddle": "A song to help sleep.",
-                    "riddle_hard": "Sing me sweet to close your eyes, I replace the baby's cries.",
+                    "riddle": "Moms will sing me soft and deep, to help a baby fall asleep.",
+                    "riddle_hard": "",
                     "is_hard": true
                 },
                 {
@@ -1262,7 +1262,7 @@
         },
         {
             "level_id": 34,
-            "grid_size": 7,
+            "grid_size": 6,
             "category": "HOME",
             "subcategory": "Kitchen",
             "complexity": 1.0,
@@ -1292,14 +1292,8 @@
                     "is_hard": false
                 },
                 {
-                    "word": "YEAST",
-                    "riddle": "Bubble up and make the bread, I rise till the folks are fed.",
-                    "riddle_hard": "",
-                    "is_hard": true
-                },
-                {
-                    "word": "KNEAD",
-                    "riddle": "Push the sticky heavy dough, helping all the bread to grow.",
+                    "word": "BANANA",
+                    "riddle": "Peel away my yellow suit, I'm a sweet tropical fruit.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
@@ -2719,7 +2713,7 @@
                 },
                 {
                     "word": "SMOKE",
-                    "riddle": "Rise above the burning flame, wild and grey without a name.",
+                    "riddle": "Born from fire, I rise so high, then I fade into the sky.",
                     "riddle_hard": "",
                     "is_hard": true
                 }
