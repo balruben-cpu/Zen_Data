@@ -3,7 +3,7 @@
         {
             "level_id": 201,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
@@ -163,8 +163,8 @@
         {
             "level_id": 205,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -203,8 +203,8 @@
         {
             "level_id": 206,
             "grid_size": 6,
-            "category": "Ciencia e Industria",
-            "subcategory": "Matemáticas",
+            "category": "Ciência",
+            "subcategory": "Matemáticas/Formas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -324,7 +324,7 @@
             "level_id": 209,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Visual",
+            "subcategory": "Visual (Luz)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -364,7 +364,7 @@
             "level_id": 210,
             "grid_size": 6,
             "category": "El Puente",
-            "subcategory": "Palabras Compuestas",
+            "subcategory": "Compuestos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -403,7 +403,7 @@
         {
             "level_id": 211,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
@@ -482,15 +482,15 @@
         },
         {
             "level_id": 213,
-            "grid_size": 5,
+            "grid_size": 6,
             "category": "Vida Doméstica",
             "subcategory": "Guardarropa",
             "complexity": 1.0,
             "puzzles": [
                 {
-                    "word": "CORBATA",
-                    "riddle": "Cuelga del cuello en la oficina.",
-                    "riddle_hard": "Una serpiente de seda que te ahorca suavemente elegante y formal.",
+                    "word": "ABRIGO",
+                    "riddle": "Te lo pones cuando hace frio.",
+                    "riddle_hard": "Una chaqueta larga y pesada para el invierno.",
                     "is_hard": false
                 },
                 {
@@ -563,8 +563,8 @@
         {
             "level_id": 215,
             "grid_size": 6,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -603,7 +603,7 @@
         {
             "level_id": 216,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Materiales",
             "complexity": 1.0,
             "puzzles": [
@@ -803,7 +803,7 @@
         {
             "level_id": 221,
             "grid_size": 6,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
@@ -924,7 +924,7 @@
             "level_id": 224,
             "grid_size": 5,
             "category": "Sociedad",
-            "subcategory": "Gobierno y Conflicto",
+            "subcategory": "Gobierno/Conflicto",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -963,7 +963,7 @@
         {
             "level_id": 225,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Festividades",
             "complexity": 1.0,
             "puzzles": [
@@ -1003,7 +1003,7 @@
         {
             "level_id": 226,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Ingeniería",
             "complexity": 1.0,
             "puzzles": [
@@ -1124,7 +1124,7 @@
             "level_id": 229,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Física",
+            "subcategory": "Física (Calor)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1203,7 +1203,7 @@
         {
             "level_id": 231,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Clima",
             "complexity": 1.0,
             "puzzles": [
@@ -1363,8 +1363,8 @@
         {
             "level_id": 235,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Relato y Mito",
+            "category": "Cultura",
+            "subcategory": "Historia/Mito",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1403,8 +1403,8 @@
         {
             "level_id": 236,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Historia y Tiempo",
+            "category": "Ciência",
+            "subcategory": "Tiempo/Historia",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1524,7 +1524,7 @@
             "level_id": 239,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Valor y Estatus",
+            "subcategory": "Valor/Estatus",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1564,7 +1564,7 @@
             "level_id": 240,
             "grid_size": 5,
             "category": "El Puente",
-            "subcategory": "Vínculos Ocultos",
+            "subcategory": "Enlaces Ocultos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1603,7 +1603,7 @@
         {
             "level_id": 241,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Geografía",
             "complexity": 1.0,
             "puzzles": [
@@ -1684,7 +1684,7 @@
             "level_id": 243,
             "grid_size": 5,
             "category": "Vida Doméstica",
-            "subcategory": "Hábitos y Mascotas",
+            "subcategory": "Hábitos/Mascotas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1724,7 +1724,7 @@
             "level_id": 244,
             "grid_size": 5,
             "category": "Sociedad",
-            "subcategory": "Gobierno y Conflicto",
+            "subcategory": "Gobierno/Conflicto",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1763,7 +1763,7 @@
         {
             "level_id": 245,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Artes Visuales",
             "complexity": 1.0,
             "puzzles": [
@@ -1803,8 +1803,8 @@
         {
             "level_id": 246,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Tecnología",
+            "category": "Ciência",
+            "subcategory": "Tecnología/Digital",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1924,7 +1924,7 @@
             "level_id": 249,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Valor y Estatus",
+            "subcategory": "Valor/Estatus",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2003,7 +2003,7 @@
         {
             "level_id": 251,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
@@ -2163,8 +2163,8 @@
         {
             "level_id": 255,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2203,8 +2203,8 @@
         {
             "level_id": 256,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Matemáticas",
+            "category": "Ciência",
+            "subcategory": "Matemáticas/Formas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2324,7 +2324,7 @@
             "level_id": 259,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Visual",
+            "subcategory": "Visual (Luz)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2364,7 +2364,7 @@
             "level_id": 260,
             "grid_size": 5,
             "category": "El Puente",
-            "subcategory": "Palabras Compuestas",
+            "subcategory": "Compuestos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2403,7 +2403,7 @@
         {
             "level_id": 261,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
@@ -2563,8 +2563,8 @@
         {
             "level_id": 265,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Relato y Mito",
+            "category": "Cultura",
+            "subcategory": "Historia/Mito",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2603,7 +2603,7 @@
         {
             "level_id": 266,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Materiales",
             "complexity": 1.0,
             "puzzles": [
@@ -2803,7 +2803,7 @@
         {
             "level_id": 271,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
@@ -2924,7 +2924,7 @@
             "level_id": 274,
             "grid_size": 5,
             "category": "Sociedad",
-            "subcategory": "Gobierno y Conflicto",
+            "subcategory": "Gobierno/Conflicto",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2963,7 +2963,7 @@
         {
             "level_id": 275,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Festividades",
             "complexity": 1.0,
             "puzzles": [
@@ -3003,7 +3003,7 @@
         {
             "level_id": 276,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Ingeniería",
             "complexity": 1.0,
             "puzzles": [
@@ -3124,7 +3124,7 @@
             "level_id": 279,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Visual",
+            "subcategory": "Visual (Luz)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3203,7 +3203,7 @@
         {
             "level_id": 281,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Clima",
             "complexity": 1.0,
             "puzzles": [
@@ -3363,7 +3363,7 @@
         {
             "level_id": 285,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Artes Visuales",
             "complexity": 1.0,
             "puzzles": [
@@ -3403,8 +3403,8 @@
         {
             "level_id": 286,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Historia y Tiempo",
+            "category": "Ciência",
+            "subcategory": "Tiempo/Historia",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3524,7 +3524,7 @@
             "level_id": 289,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Valor y Estatus",
+            "subcategory": "Valor/Estatus",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3564,7 +3564,7 @@
             "level_id": 290,
             "grid_size": 5,
             "category": "El Puente",
-            "subcategory": "Vínculos Ocultos",
+            "subcategory": "Enlaces Ocultos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3603,7 +3603,7 @@
         {
             "level_id": 291,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Geografía",
             "complexity": 1.0,
             "puzzles": [
@@ -3684,7 +3684,7 @@
             "level_id": 293,
             "grid_size": 6,
             "category": "Vida Doméstica",
-            "subcategory": "Hábitos y Mascotas",
+            "subcategory": "Hábitos/Mascotas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3763,8 +3763,8 @@
         {
             "level_id": 295,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3803,8 +3803,8 @@
         {
             "level_id": 296,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Tecnología",
+            "category": "Ciência",
+            "subcategory": "Tecnología/Digital",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3924,7 +3924,7 @@
             "level_id": 299,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Física",
+            "subcategory": "Física (Calor)",
             "complexity": 1.0,
             "puzzles": [
                 {
