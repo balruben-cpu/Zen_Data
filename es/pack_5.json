@@ -3,7 +3,7 @@
         {
             "level_id": 401,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
@@ -43,7 +43,7 @@
         {
             "level_id": 402,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
@@ -83,7 +83,7 @@
         {
             "level_id": 403,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Geografía",
             "complexity": 1.0,
             "puzzles": [
@@ -123,7 +123,7 @@
         {
             "level_id": 404,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
@@ -163,7 +163,7 @@
         {
             "level_id": 405,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Clima",
             "complexity": 1.0,
             "puzzles": [
@@ -502,7 +502,7 @@
                 {
                     "word": "ESTUCO",
                     "riddle": "Pasta para hacer bonitas y lisas las paredes de tu cuarto.",
-                    "riddle_hard": "Revestimiento fino y maleable compuesto de cal y polvo de mármol empleado en decoraciones de relieve.",
+                    "riddle_hard": "",
                     "is_hard": false
                 },
                 {
@@ -514,7 +514,7 @@
                 {
                     "word": "BODEGA",
                     "riddle": "Sótano frío y obscuro donde los tíos guardan sus vinos buenos.",
-                    "riddle_hard": "Recinto climatizado, comúnmente subterráneo, concebido para el almacenaje y maduración de bebidas alcohólicas.",
+                    "riddle_hard": "",
                     "is_hard": true
                 }
             ],
@@ -564,7 +564,7 @@
             "level_id": 415,
             "grid_size": 5,
             "category": "Vida Doméstica",
-            "subcategory": "Hábitos y Mascotas",
+            "subcategory": "Hábitos/Mascotas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -724,7 +724,7 @@
             "level_id": 419,
             "grid_size": 5,
             "category": "Sociedad",
-            "subcategory": "Gobierno y Conflicto",
+            "subcategory": "Gobierno/Conflicto",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -803,8 +803,8 @@
         {
             "level_id": 421,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -843,7 +843,7 @@
         {
             "level_id": 422,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Artes Visuales",
             "complexity": 1.0,
             "puzzles": [
@@ -883,8 +883,8 @@
         {
             "level_id": 423,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Escenario",
+            "category": "Cultura",
+            "subcategory": "Cine/Teatro",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -923,8 +923,8 @@
         {
             "level_id": 424,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Relato y Mito",
+            "category": "Cultura",
+            "subcategory": "Historia/Mito",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -963,7 +963,7 @@
         {
             "level_id": 425,
             "grid_size": 6,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Festividades",
             "complexity": 1.0,
             "puzzles": [
@@ -1003,8 +1003,8 @@
         {
             "level_id": 426,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Matemáticas",
+            "category": "Ciência",
+            "subcategory": "Matemáticas/Formas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1043,8 +1043,8 @@
         {
             "level_id": 427,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Tecnología",
+            "category": "Ciência",
+            "subcategory": "Tecnología/Digital",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1083,7 +1083,7 @@
         {
             "level_id": 428,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Materiales",
             "complexity": 1.0,
             "puzzles": [
@@ -1123,7 +1123,7 @@
         {
             "level_id": 429,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Ingeniería",
             "complexity": 1.0,
             "puzzles": [
@@ -1163,8 +1163,8 @@
         {
             "level_id": 430,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Historia y Tiempo",
+            "category": "Ciência",
+            "subcategory": "Tiempo/Historia",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1284,7 +1284,7 @@
             "level_id": 433,
             "grid_size": 5,
             "category": "Actos Físicos",
-            "subcategory": "Conflicto y Deporte",
+            "subcategory": "Conflicto/Deporte",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1604,7 +1604,7 @@
             "level_id": 441,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Visual",
+            "subcategory": "Visual (Luz)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1644,7 +1644,7 @@
             "level_id": 442,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Física",
+            "subcategory": "Física (Calor)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1764,7 +1764,7 @@
             "level_id": 445,
             "grid_size": 5,
             "category": "Cualidades",
-            "subcategory": "Valor y Estatus",
+            "subcategory": "Valor/Estatus",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1844,7 +1844,7 @@
             "level_id": 447,
             "grid_size": 5,
             "category": "El Puente",
-            "subcategory": "Vínculos Ocultos",
+            "subcategory": "Enlaces Ocultos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -1884,7 +1884,7 @@
             "level_id": 448,
             "grid_size": 6,
             "category": "El Puente",
-            "subcategory": "Palabras Compuestas",
+            "subcategory": "Compuestos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2003,7 +2003,7 @@
         {
             "level_id": 451,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Fauna",
             "complexity": 1.0,
             "puzzles": [
@@ -2043,7 +2043,7 @@
         {
             "level_id": 452,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Flora",
             "complexity": 1.0,
             "puzzles": [
@@ -2083,7 +2083,7 @@
         {
             "level_id": 453,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Geografía",
             "complexity": 1.0,
             "puzzles": [
@@ -2123,7 +2123,7 @@
         {
             "level_id": 454,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Cosmos",
             "complexity": 1.0,
             "puzzles": [
@@ -2163,7 +2163,7 @@
         {
             "level_id": 455,
             "grid_size": 5,
-            "category": "Mundo Natural",
+            "category": "Naturaleza",
             "subcategory": "Clima",
             "complexity": 1.0,
             "puzzles": [
@@ -2564,7 +2564,7 @@
             "level_id": 465,
             "grid_size": 5,
             "category": "Vida Doméstica",
-            "subcategory": "Hábitos y Mascotas",
+            "subcategory": "Hábitos/Mascotas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2724,7 +2724,7 @@
             "level_id": 469,
             "grid_size": 5,
             "category": "Sociedad",
-            "subcategory": "Gobierno y Conflicto",
+            "subcategory": "Gobierno/Conflicto",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2803,8 +2803,8 @@
         {
             "level_id": 471,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Sonido y Audio",
+            "category": "Cultura",
+            "subcategory": "Sonido/Audio",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2843,7 +2843,7 @@
         {
             "level_id": 472,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Artes Visuales",
             "complexity": 1.0,
             "puzzles": [
@@ -2883,8 +2883,8 @@
         {
             "level_id": 473,
             "grid_size": 6,
-            "category": "Artes y Cultura",
-            "subcategory": "Escenario",
+            "category": "Cultura",
+            "subcategory": "Cine/Teatro",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2923,8 +2923,8 @@
         {
             "level_id": 474,
             "grid_size": 5,
-            "category": "Artes y Cultura",
-            "subcategory": "Relato y Mito",
+            "category": "Cultura",
+            "subcategory": "Historia/Mito",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -2963,7 +2963,7 @@
         {
             "level_id": 475,
             "grid_size": 5,
-            "category": "Artes y Cultura",
+            "category": "Cultura",
             "subcategory": "Festividades",
             "complexity": 1.0,
             "puzzles": [
@@ -3003,8 +3003,8 @@
         {
             "level_id": 476,
             "grid_size": 5,
-            "category": "Ciencia e Industria",
-            "subcategory": "Matemáticas",
+            "category": "Ciência",
+            "subcategory": "Matemáticas/Formas",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3043,8 +3043,8 @@
         {
             "level_id": 477,
             "grid_size": 6,
-            "category": "Ciencia e Industria",
-            "subcategory": "Tecnología",
+            "category": "Ciência",
+            "subcategory": "Tecnología/Digital",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3083,7 +3083,7 @@
         {
             "level_id": 478,
             "grid_size": 6,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Materiales",
             "complexity": 1.0,
             "puzzles": [
@@ -3123,7 +3123,7 @@
         {
             "level_id": 479,
             "grid_size": 6,
-            "category": "Ciencia e Industria",
+            "category": "Ciência",
             "subcategory": "Ingeniería",
             "complexity": 1.0,
             "puzzles": [
@@ -3163,8 +3163,8 @@
         {
             "level_id": 480,
             "grid_size": 8,
-            "category": "Ciencia e Industria",
-            "subcategory": "Historia y Tiempo",
+            "category": "Ciência",
+            "subcategory": "Tiempo/Historia",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3284,7 +3284,7 @@
             "level_id": 483,
             "grid_size": 6,
             "category": "Actos Físicos",
-            "subcategory": "Conflicto y Deporte",
+            "subcategory": "Conflicto/Deporte",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3604,7 +3604,7 @@
             "level_id": 491,
             "grid_size": 6,
             "category": "Cualidades",
-            "subcategory": "Visual",
+            "subcategory": "Visual (Luz)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3644,7 +3644,7 @@
             "level_id": 492,
             "grid_size": 6,
             "category": "Cualidades",
-            "subcategory": "Física",
+            "subcategory": "Física (Calor)",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3764,7 +3764,7 @@
             "level_id": 495,
             "grid_size": 6,
             "category": "Cualidades",
-            "subcategory": "Valor y Estatus",
+            "subcategory": "Valor/Estatus",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3844,7 +3844,7 @@
             "level_id": 497,
             "grid_size": 5,
             "category": "El Puente",
-            "subcategory": "Vínculos Ocultos",
+            "subcategory": "Enlaces Ocultos",
             "complexity": 1.0,
             "puzzles": [
                 {
@@ -3884,7 +3884,7 @@
             "level_id": 498,
             "grid_size": 6,
             "category": "El Puente",
-            "subcategory": "Palabras Compuestas",
+            "subcategory": "Compuestos",
             "complexity": 1.0,
             "puzzles": [
                 {
